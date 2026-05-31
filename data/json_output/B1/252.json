@@ -1,0 +1,1795 @@
+[
+  {
+    "word": "Empfänger",
+    "lemma": "Empfänger",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Empfänger",
+    "meaning": [
+      {
+        "zh": "接收者；收件人",
+        "en": "recipient; receiver"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Empfänger des Pakets muss unterschreiben.",
+        "zh": "包裹的收件人必须签字。"
+      },
+      {
+        "de": "Er ist der Empfänger einer wichtigen Auszeichnung.",
+        "zh": "他是一项重要奖项的获得者。"
+      }
+    ],
+    "collocations": [
+      "der Empfänger einer Nachricht",
+      "der Empfänger einer Sendung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "通信",
+      "B1"
+    ],
+    "synonyms": [
+      "Adressat",
+      "Bezieher"
+    ],
+    "antonyms": [
+      "Absender",
+      "Sender"
+    ]
+  },
+  {
+    "word": "empfehlenswert",
+    "lemma": "empfehlenswert",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "值得推荐的",
+        "en": "recommendable; worth recommending"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieses Restaurant ist sehr empfehlenswert.",
+        "zh": "这家餐厅非常值得推荐。"
+      },
+      {
+        "de": "Das Buch ist für Anfänger empfehlenswert.",
+        "zh": "这本书对初学者来说值得推荐。"
+      }
+    ],
+    "collocations": [
+      "empfehlenswert sein",
+      "sehr empfehlenswert"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "评价",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "lobenswert",
+      "ratsam"
+    ],
+    "antonyms": [
+      "abzuraten",
+      "unempfehlenswert"
+    ]
+  },
+  {
+    "word": "Empfindlichkeit",
+    "lemma": "Empfindlichkeit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Empfindlichkeiten",
+    "meaning": [
+      {
+        "zh": "敏感性；灵敏度",
+        "en": "sensitivity; susceptibility"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Empfindlichkeit der Haut gegenüber Sonne ist unterschiedlich.",
+        "zh": "皮肤对阳光的敏感性因人而异。"
+      },
+      {
+        "de": "Die Empfindlichkeit des Messgeräts ist sehr hoch.",
+        "zh": "测量仪的灵敏度非常高。"
+      }
+    ],
+    "collocations": [
+      "die Empfindlichkeit gegenüber etwas",
+      "die Empfindlichkeit eines Geräts"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "科技",
+      "医学",
+      "B2"
+    ],
+    "synonyms": [
+      "Sensibilität",
+      "Anfälligkeit"
+    ],
+    "antonyms": [
+      "Unempfindlichkeit",
+      "Resistenz"
+    ]
+  },
+  {
+    "word": "Energieträger",
+    "lemma": "Energieträger",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Energieträger",
+    "meaning": [
+      {
+        "zh": "能源载体；能源",
+        "en": "energy carrier; energy source"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Erdöl ist ein wichtiger Energieträger.",
+        "zh": "石油是一种重要的能源载体。"
+      },
+      {
+        "de": "Wasserstoff gilt als zukunftsträchtiger Energieträger.",
+        "zh": "氢被视为有前景的能源载体。"
+      }
+    ],
+    "collocations": [
+      "fossiler Energieträger",
+      "erneuerbarer Energieträger"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "科技",
+      "环境",
+      "B2"
+    ],
+    "synonyms": [
+      "Energiequelle",
+      "Rohstoff"
+    ],
+    "antonyms": [
+      "Energieverbraucher"
+    ]
+  },
+  {
+    "word": "entdecken",
+    "lemma": "entdecken",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "发现；发觉",
+        "en": "to discover; to detect"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kolumbus entdeckte Amerika im Jahr 1492.",
+        "zh": "哥伦布于1492年发现了美洲。"
+      },
+      {
+        "de": "Ich habe einen Fehler in der Rechnung entdeckt.",
+        "zh": "我在账单中发现了一个错误。"
+      }
+    ],
+    "collocations": [
+      "etwas entdecken",
+      "neu entdecken"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "entdeckt"
+    },
+    "level": "B1",
+    "tags": [
+      "科学",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "finden",
+      "aufdecken"
+    ],
+    "antonyms": [
+      "verstecken",
+      "übersehen"
+    ]
+  },
+  {
+    "word": "Entfernung",
+    "lemma": "Entfernung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Entfernungen",
+    "meaning": [
+      {
+        "zh": "距离；远处",
+        "en": "distance; removal"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Entfernung zwischen den beiden Städten beträgt 100 Kilometer.",
+        "zh": "两座城市之间的距离是100公里。"
+      },
+      {
+        "de": "In der Entfernung sah man einen Turm.",
+        "zh": "在远处可以看到一座塔。"
+      }
+    ],
+    "collocations": [
+      "die Entfernung zu etwas",
+      "in großer Entfernung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "地理",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "Distanz",
+      "Abstand"
+    ],
+    "antonyms": [
+      "Nähe",
+      "Annäherung"
+    ]
+  },
+  {
+    "word": "enthalten",
+    "lemma": "enthalten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "包含；含有",
+        "en": "to contain; to include"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Flasche enthält einen Liter Wasser.",
+        "zh": "这个瓶子装有一升水。"
+      },
+      {
+        "de": "Der Vertrag enthält wichtige Klauseln.",
+        "zh": "合同包含重要条款。"
+      }
+    ],
+    "collocations": [
+      "etwas enthält etwas",
+      "enthalten sein in"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "enthalten"
+    },
+    "level": "B1",
+    "tags": [
+      "日常",
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "beinhalten",
+      "umfassen"
+    ],
+    "antonyms": [
+      "ausschließen",
+      "fehlen"
+    ]
+  },
+  {
+    "word": "Ind",
+    "lemma": "Ind",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Inds",
+    "meaning": [
+      {
+        "zh": "印度（国家）",
+        "en": "India"
+      },
+      {
+        "zh": "印度人（口语）",
+        "en": "Indian (colloquial)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ind ist ein Land mit einer reichen Kultur.",
+        "zh": "印度是一个文化丰富的国家。"
+      },
+      {
+        "de": "Viele Inds leben in dieser Stadt.",
+        "zh": "许多印度人住在这个城市。"
+      }
+    ],
+    "collocations": [
+      "nach Ind reisen",
+      "aus Ind kommen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "地理",
+      "国家",
+      "B1"
+    ],
+    "synonyms": [
+      "Indien"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Entwurf",
+    "lemma": "Entwurf",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Entwürfe",
+    "meaning": [
+      {
+        "zh": "草案，设计图",
+        "en": "draft, design"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Entwurf des Vertrags liegt zur Diskussion vor.",
+        "zh": "合同草案已提交讨论。"
+      },
+      {
+        "de": "Sie hat einen Entwurf für das neue Gebäude gezeichnet.",
+        "zh": "她为新建筑画了设计图。"
+      }
+    ],
+    "collocations": [
+      "einen Entwurf erstellen",
+      "einen Entwurf überarbeiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "Skizze",
+      "Konzept"
+    ],
+    "antonyms": [
+      "Endfassung"
+    ]
+  },
+  {
+    "word": "Erdgas",
+    "lemma": "Erdgas",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "天然气",
+        "en": "natural gas"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Erdgas wird zum Heizen und Kochen verwendet.",
+        "zh": "天然气用于取暖和烹饪。"
+      },
+      {
+        "de": "Die Förderung von Erdgas ist umstritten.",
+        "zh": "天然气的开采存在争议。"
+      }
+    ],
+    "collocations": [
+      "Erdgas fördern",
+      "Erdgas verbrauchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "能源",
+      "B1"
+    ],
+    "synonyms": [
+      "Gas"
+    ],
+    "antonyms": [
+      "Öl"
+    ]
+  },
+  {
+    "word": "Erdöl",
+    "lemma": "Erdöl",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "石油",
+        "en": "crude oil, petroleum"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Erdöl ist ein wichtiger Rohstoff für die Industrie.",
+        "zh": "石油是工业的重要原材料。"
+      },
+      {
+        "de": "Die Preise für Erdöl schwanken stark.",
+        "zh": "石油价格波动很大。"
+      }
+    ],
+    "collocations": [
+      "Erdöl fördern",
+      "Erdöl verarbeiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "能源",
+      "B1"
+    ],
+    "synonyms": [
+      "Rohöl",
+      "Petroleum"
+    ],
+    "antonyms": [
+      "Erdgas"
+    ]
+  },
+  {
+    "word": "Ereignis",
+    "lemma": "Ereignis",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Ereignisse",
+    "meaning": [
+      {
+        "zh": "事件，事情",
+        "en": "event, occurrence"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Ereignis wurde in den Nachrichten ausführlich berichtet.",
+        "zh": "这一事件在新闻中得到了详细报道。"
+      },
+      {
+        "de": "Ein unerwartetes Ereignis hat den Ablauf gestört.",
+        "zh": "一个意外事件打乱了流程。"
+      }
+    ],
+    "collocations": [
+      "ein Ereignis erleben",
+      "ein wichtiges Ereignis"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Vorfall",
+      "Geschehen"
+    ],
+    "antonyms": [
+      "Nichts"
+    ]
+  },
+  {
+    "word": "erhöhen",
+    "lemma": "erhöhen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "提高，增加",
+        "en": "to increase, to raise"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Firma hat die Preise erhöht.",
+        "zh": "公司提高了价格。"
+      },
+      {
+        "de": "Durch Training kann man die Leistung erhöhen.",
+        "zh": "通过训练可以提高成绩。"
+      }
+    ],
+    "collocations": [
+      "den Preis erhöhen",
+      "die Geschwindigkeit erhöhen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "erhöht"
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "steigern",
+      "vergrößern"
+    ],
+    "antonyms": [
+      "senken",
+      "verringern"
+    ]
+  },
+  {
+    "word": "erkundigen",
+    "lemma": "erkundigen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "询问，打听",
+        "en": "to inquire, to ask about"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich möchte mich nach den Öffnungszeiten erkundigen.",
+        "zh": "我想询问一下营业时间。"
+      },
+      {
+        "de": "Er hat sich bei der Behörde erkundigt.",
+        "zh": "他在政府部门打听了一下。"
+      }
+    ],
+    "collocations": [
+      "sich nach etwas erkundigen",
+      "sich bei jemandem erkundigen"
+    ],
+    "grammar": {
+      "case": "nach + Dativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "erkundigt"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "社交",
+      "B1"
+    ],
+    "synonyms": [
+      "fragen",
+      "nachfragen"
+    ],
+    "antonyms": [
+      "ignorieren"
+    ]
+  },
+  {
+    "word": "erlauben",
+    "lemma": "erlauben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "允许，准许",
+        "en": "to allow, to permit"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Eltern erlauben ihrem Kind, fernzusehen.",
+        "zh": "父母允许孩子看电视。"
+      },
+      {
+        "de": "Hier ist das Rauchen nicht erlaubt.",
+        "zh": "这里不允许吸烟。"
+      }
+    ],
+    "collocations": [
+      "sich etwas erlauben",
+      "jemandem etwas erlauben"
+    ],
+    "grammar": {
+      "case": "Dativ + Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "erlaubt"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "社交",
+      "A2"
+    ],
+    "synonyms": [
+      "gestatten",
+      "zulassen"
+    ],
+    "antonyms": [
+      "verbieten",
+      "untersagen"
+    ]
+  },
+  {
+    "word": "Erlebnis",
+    "lemma": "Erlebnis",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Erlebnisse",
+    "meaning": [
+      {
+        "zh": "经历，体验",
+        "en": "experience, adventure"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Reise war ein unvergessliches Erlebnis.",
+        "zh": "这次旅行是一次难忘的经历。"
+      },
+      {
+        "de": "Er hat viele spannende Erlebnisse im Ausland gehabt.",
+        "zh": "他在国外有很多激动人心的经历。"
+      }
+    ],
+    "collocations": [
+      "ein Erlebnis haben",
+      "ein besonderes Erlebnis"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "Abenteuer",
+      "Erfahrung"
+    ],
+    "antonyms": [
+      "Alltag"
+    ]
+  },
+  {
+    "word": "ermöglichen",
+    "lemma": "ermöglichen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "使成为可能，促成",
+        "en": "to make possible, enable"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die neue Technologie ermöglicht schnellere Kommunikation.",
+        "zh": "这项新技术使更快的沟通成为可能。"
+      },
+      {
+        "de": "Das Stipendium ermöglichte ihr das Studium im Ausland.",
+        "zh": "奖学金使她能够在国外学习。"
+      }
+    ],
+    "collocations": [
+      "etwas ermöglicht etwas",
+      "jemandem etwas ermöglichen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "ermöglicht"
+    },
+    "level": "B1",
+    "tags": [
+      "动词",
+      "科技",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "erlauben",
+      "gestatten"
+    ],
+    "antonyms": [
+      "verhindern",
+      "unmöglich machen"
+    ]
+  },
+  {
+    "word": "Ernährer",
+    "lemma": "Ernährer",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Ernährer",
+    "meaning": [
+      {
+        "zh": "养家糊口的人，供养者",
+        "en": "breadwinner, provider"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist der alleinige Ernährer der Familie.",
+        "zh": "他是家里唯一养家糊口的人。"
+      },
+      {
+        "de": "Viele Mütter sind heute auch Ernährer.",
+        "zh": "如今许多母亲也是养家糊口的人。"
+      }
+    ],
+    "collocations": [
+      "alleiniger Ernährer",
+      "Ernährer der Familie"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "名词",
+      "社会",
+      "家庭",
+      "B1"
+    ],
+    "synonyms": [
+      "Versorger",
+      "Familienoberhaupt"
+    ],
+    "antonyms": [
+      "Abhängiger"
+    ]
+  },
+  {
+    "word": "Ernährung",
+    "lemma": "Ernährung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "营养，饮食",
+        "en": "nutrition, diet"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Eine ausgewogene Ernährung ist wichtig für die Gesundheit.",
+        "zh": "均衡的饮食对健康很重要。"
+      },
+      {
+        "de": "Sie beschäftigt sich mit gesunder Ernährung.",
+        "zh": "她研究健康饮食。"
+      }
+    ],
+    "collocations": [
+      "gesunde Ernährung",
+      "ausgewogene Ernährung",
+      "Ernährung umstellen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "名词",
+      "生活",
+      "健康",
+      "A2"
+    ],
+    "synonyms": [
+      "Nahrung",
+      "Kost"
+    ],
+    "antonyms": [
+      "Mangelernährung"
+    ]
+  },
+  {
+    "word": "erneuerbar",
+    "lemma": "erneuerbar",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "可再生的，可更新的",
+        "en": "renewable"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Erneuerbare Energien sind umweltfreundlich.",
+        "zh": "可再生能源对环境友好。"
+      },
+      {
+        "de": "Die Ressourcen sind nicht unbegrenzt erneuerbar.",
+        "zh": "资源不是无限可再生的。"
+      }
+    ],
+    "collocations": [
+      "erneuerbare Energien",
+      "erneuerbare Ressourcen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "形容词",
+      "科技",
+      "环境",
+      "B1"
+    ],
+    "synonyms": [
+      "nachhaltig",
+      "regenerativ"
+    ],
+    "antonyms": [
+      "nicht erneuerbar",
+      "fossil"
+    ]
+  },
+  {
+    "word": "erregen",
+    "lemma": "erregen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "引起，激起；使兴奋",
+        "en": "to arouse, excite, cause"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Rede erregte großes Aufsehen.",
+        "zh": "这场演讲引起了巨大轰动。"
+      },
+      {
+        "de": "Das Geräusch erregte seine Aufmerksamkeit.",
+        "zh": "那个声音引起了他的注意。"
+      }
+    ],
+    "collocations": [
+      "Aufsehen erregen",
+      "Aufmerksamkeit erregen",
+      "Ärger erregen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "erregt"
+    },
+    "level": "B2",
+    "tags": [
+      "动词",
+      "情感",
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "hervorrufen",
+      "auslösen"
+    ],
+    "antonyms": [
+      "beruhigen",
+      "dämpfen"
+    ]
+  },
+  {
+    "word": "erscheinen",
+    "lemma": "erscheinen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "出现，出版；显得",
+        "en": "to appear, seem, be published"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Buch erscheint im nächsten Monat.",
+        "zh": "这本书下个月出版。"
+      },
+      {
+        "de": "Er erscheint mir sehr freundlich.",
+        "zh": "他显得很友好。"
+      }
+    ],
+    "collocations": [
+      "im Druck erscheinen",
+      "jemandem erscheinen",
+      "pünktlich erscheinen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "partizip2": "erschienen"
+    },
+    "level": "B1",
+    "tags": [
+      "动词",
+      "社会",
+      "媒体",
+      "B1"
+    ],
+    "synonyms": [
+      "auftauchen",
+      "vorkommen"
+    ],
+    "antonyms": [
+      "verschwinden",
+      "untergehen"
+    ]
+  },
+  {
+    "word": "Erscheinung",
+    "lemma": "Erscheinung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Erscheinungen",
+    "meaning": [
+      {
+        "zh": "现象，外表，出现",
+        "en": "appearance, phenomenon"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Erscheinung des Kometen war spektakulär.",
+        "zh": "彗星的出现非常壮观。"
+      },
+      {
+        "de": "Seine äußere Erscheinung ist sehr gepflegt.",
+        "zh": "他的外表非常整洁。"
+      }
+    ],
+    "collocations": [
+      "äußere Erscheinung",
+      "natürliche Erscheinung",
+      "in Erscheinung treten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "名词",
+      "社会",
+      "自然",
+      "B1"
+    ],
+    "synonyms": [
+      "Anblick",
+      "Phänomen"
+    ],
+    "antonyms": [
+      "Verschwinden"
+    ]
+  },
+  {
+    "word": "Erschließung",
+    "lemma": "Erschließung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Erschließungen",
+    "meaning": [
+      {
+        "zh": "开发，开拓，利用",
+        "en": "development, exploitation, opening up"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Erschließung neuer Märkte ist entscheidend.",
+        "zh": "开拓新市场至关重要。"
+      },
+      {
+        "de": "Die Erschließung von Rohstoffen erfordert viel Kapital.",
+        "zh": "开发原材料需要大量资金。"
+      }
+    ],
+    "collocations": [
+      "Erschließung neuer Gebiete",
+      "wirtschaftliche Erschließung",
+      "Erschließung von Ressourcen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "名词",
+      "经济",
+      "科技",
+      "B2"
+    ],
+    "synonyms": [
+      "Nutzbarmachung",
+      "Entwicklung"
+    ],
+    "antonyms": [
+      "Stilllegung",
+      "Aufgabe"
+    ]
+  },
+  {
+    "word": "erschöpft",
+    "lemma": "erschöpfen",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "筋疲力尽的",
+        "en": "exhausted"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Nach dem Marathon war ich völlig erschöpft.",
+        "zh": "马拉松之后我完全筋疲力尽了。"
+      },
+      {
+        "de": "Die Ressourcen sind erschöpft.",
+        "zh": "资源已经耗尽了。"
+      }
+    ],
+    "collocations": [
+      "völlig erschöpft",
+      "erschöpft sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "状态",
+      "B1"
+    ],
+    "synonyms": [
+      "müde",
+      "ausgelaugt"
+    ],
+    "antonyms": [
+      "energiegeladen",
+      "frisch"
+    ]
+  },
+  {
+    "word": "ersetzen",
+    "lemma": "ersetzen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "替代，取代",
+        "en": "to replace"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du mich morgen im Büro ersetzen?",
+        "zh": "你明天能在办公室替我一下吗？"
+      },
+      {
+        "de": "Der alte Computer wurde durch einen neuen ersetzt.",
+        "zh": "旧电脑被一台新的取代了。"
+      }
+    ],
+    "collocations": [
+      "jemanden/etwas ersetzen",
+      "durch etwas ersetzen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "ersetzt"
+    },
+    "level": "B1",
+    "tags": [
+      "工作",
+      "技术",
+      "B1"
+    ],
+    "synonyms": [
+      "austauschen",
+      "ablösen"
+    ],
+    "antonyms": [
+      "behalten"
+    ]
+  },
+  {
+    "word": "erwerben",
+    "lemma": "erwerben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "获得，购买",
+        "en": "to acquire, to purchase"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat sich ein neues Haus erworben.",
+        "zh": "他购置了一栋新房子。"
+      },
+      {
+        "de": "Man kann durch Fleiß viel Wissen erwerben.",
+        "zh": "通过勤奋可以学到很多知识。"
+      }
+    ],
+    "collocations": [
+      "Kenntnisse erwerben",
+      "ein Grundstück erwerben"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "erworben"
+    },
+    "level": "B2",
+    "tags": [
+      "经济",
+      "教育",
+      "B2"
+    ],
+    "synonyms": [
+      "kaufen",
+      "bekommen"
+    ],
+    "antonyms": [
+      "verlieren",
+      "verkaufen"
+    ]
+  },
+  {
+    "word": "erzeugen",
+    "lemma": "erzeugen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "生产，产生",
+        "en": "to produce, to generate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Fabrik erzeugt täglich tausend Autos.",
+        "zh": "这家工厂每天生产一千辆汽车。"
+      },
+      {
+        "de": "Windkraftanlagen erzeugen Strom.",
+        "zh": "风力发电设备产生电力。"
+      }
+    ],
+    "collocations": [
+      "Strom erzeugen",
+      "Produkte erzeugen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "erzeugt"
+    },
+    "level": "B1",
+    "tags": [
+      "工业",
+      "能源",
+      "B1"
+    ],
+    "synonyms": [
+      "herstellen",
+      "produzieren"
+    ],
+    "antonyms": [
+      "verbrauchen",
+      "zerstören"
+    ]
+  },
+  {
+    "word": "Erziehung",
+    "lemma": "Erziehung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "教育，教养",
+        "en": "education, upbringing"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Eine gute Erziehung ist wichtig für die Entwicklung der Kinder.",
+        "zh": "良好的教育对孩子的成长很重要。"
+      },
+      {
+        "de": "Die Eltern legen großen Wert auf die Erziehung ihrer Kinder.",
+        "zh": "父母非常重视对孩子的教育。"
+      }
+    ],
+    "collocations": [
+      "die Erziehung der Kinder",
+      "Wert auf Erziehung legen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "家庭",
+      "B1"
+    ],
+    "synonyms": [
+      "Bildung",
+      "Förderung"
+    ],
+    "antonyms": [
+      "Vernachlässigung"
+    ]
+  },
+  {
+    "word": "Exil",
+    "lemma": "Exil",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "流亡，流放",
+        "en": "exile"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Viele Künstler lebten im Exil während der Diktatur.",
+        "zh": "许多艺术家在独裁时期流亡国外。"
+      },
+      {
+        "de": "Er musste sein Land verlassen und ins Exil gehen.",
+        "zh": "他不得不离开自己的国家，流亡他乡。"
+      }
+    ],
+    "collocations": [
+      "im Exil leben",
+      "ins Exil gehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "政治",
+      "历史",
+      "B2"
+    ],
+    "synonyms": [
+      "Verbannung",
+      "Emigration"
+    ],
+    "antonyms": [
+      "Heimat",
+      "Rückkehr"
+    ]
+  },
+  {
+    "word": "existieren",
+    "lemma": "existieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "存在，生存",
+        "en": "to exist"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Glaubst du, dass Außerirdische existieren?",
+        "zh": "你相信外星人存在吗？"
+      },
+      {
+        "de": "Ohne Wasser kann der Mensch nicht existieren.",
+        "zh": "没有水人类无法生存。"
+      }
+    ],
+    "collocations": [
+      "existieren können",
+      "es existiert"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "existiert"
+    },
+    "level": "B1",
+    "tags": [
+      "哲学",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "bestehen",
+      "leben"
+    ],
+    "antonyms": [
+      "verschwinden",
+      "sterben"
+    ]
+  },
+  {
+    "word": "Fachrichtung",
+    "lemma": "Fachrichtung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Fachrichtungen",
+    "meaning": [
+      {
+        "zh": "专业方向",
+        "en": "field of study, specialization"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Welche Fachrichtung hast du an der Universität gewählt?",
+        "zh": "你在大学选了哪个专业方向？"
+      },
+      {
+        "de": "Die Fachrichtung Maschinenbau ist sehr beliebt.",
+        "zh": "机械工程这个专业方向很受欢迎。"
+      }
+    ],
+    "collocations": [
+      "eine Fachrichtung wählen",
+      "in einer Fachrichtung studieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "职业",
+      "B1"
+    ],
+    "synonyms": [
+      "Studienrichtung",
+      "Spezialisierung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Fähigkeit",
+    "lemma": "Fähigkeit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Fähigkeiten",
+    "meaning": [
+      {
+        "zh": "能力，才能",
+        "en": "ability, capability"
+      },
+      {
+        "zh": "技能",
+        "en": "skill"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat die Fähigkeit, komplexe Probleme schnell zu lösen.",
+        "zh": "她有能力快速解决复杂问题。"
+      },
+      {
+        "de": "Diese Arbeit erfordert besondere sprachliche Fähigkeiten.",
+        "zh": "这项工作需要特殊的语言能力。"
+      }
+    ],
+    "collocations": [
+      "die Fähigkeit haben",
+      "die Fähigkeit entwickeln",
+      "die Fähigkeit verbessern",
+      "besondere Fähigkeiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "能力",
+      "个人发展",
+      "B1"
+    ],
+    "synonyms": [
+      "Kompetenz",
+      "Talent",
+      "Begabung"
+    ],
+    "antonyms": [
+      "Unfähigkeit",
+      "Inkompetenz"
+    ]
+  },
+  {
+    "word": "Fahrbahn",
+    "lemma": "Fahrbahn",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Fahrbahnen",
+    "meaning": [
+      {
+        "zh": "车道，行车道",
+        "en": "roadway, lane"
+      },
+      {
+        "zh": "路面",
+        "en": "road surface"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Fahrbahn ist nach dem Regen sehr glatt.",
+        "zh": "雨后路面很滑。"
+      },
+      {
+        "de": "Auf der Autobahn gibt es drei Fahrbahnen pro Richtung.",
+        "zh": "高速公路上每个方向有三条车道。"
+      }
+    ],
+    "collocations": [
+      "die Fahrbahn wechseln",
+      "die Fahrbahn verlassen",
+      "auf der Fahrbahn",
+      "die Fahrbahn ist nass"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "交通",
+      "道路",
+      "B1"
+    ],
+    "synonyms": [
+      "Straße",
+      "Spur",
+      "Fahrspur"
+    ],
+    "antonyms": [
+      "Gehweg",
+      "Fußgängerzone"
+    ]
+  },
+  {
+    "word": "Fall",
+    "lemma": "Fall",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Fälle",
+    "meaning": [
+      {
+        "zh": "情况，案例",
+        "en": "case, situation"
+      },
+      {
+        "zh": "坠落",
+        "en": "fall"
+      },
+      {
+        "zh": "案件",
+        "en": "case (legal)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In diesem Fall müssen wir anders handeln.",
+        "zh": "在这种情况下，我们必须采取不同的行动。"
+      },
+      {
+        "de": "Der Fall des Apfels vom Baum war schnell vorbei.",
+        "zh": "苹果从树上掉下来很快就结束了。"
+      }
+    ],
+    "collocations": [
+      "in diesem Fall",
+      "auf jeden Fall",
+      "im Fall von",
+      "einen Fall lösen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情况",
+      "法律",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "Situation",
+      "Ereignis",
+      "Angelegenheit"
+    ],
+    "antonyms": [
+      "Normalfall",
+      "Regelfall"
+    ]
+  },
+  {
+    "word": "Familienplanung",
+    "lemma": "Familienplanung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "家庭计划",
+        "en": "family planning"
+      },
+      {
+        "zh": "生育规划",
+        "en": "birth planning"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Familienplanung ist ein wichtiges Thema für junge Paare.",
+        "zh": "家庭计划对年轻夫妇来说是一个重要话题。"
+      },
+      {
+        "de": "Die Regierung fördert Aufklärung über Familienplanung.",
+        "zh": "政府推广关于家庭计划的教育。"
+      }
+    ],
+    "collocations": [
+      "Familienplanung betreiben",
+      "Beratung zur Familienplanung",
+      "Methoden der Familienplanung",
+      "Familienplanung diskutieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "家庭",
+      "健康",
+      "B2"
+    ],
+    "synonyms": [
+      "Geburtenplanung",
+      "Empfängnisregelung"
+    ],
+    "antonyms": [
+      "ungeplante Schwangerschaft"
+    ]
+  }
+]

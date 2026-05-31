@@ -1,0 +1,1020 @@
+[
+  {
+    "word": "finanziell",
+    "lemma": "finanziell",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "财务的，经济的",
+        "en": "financial"
+      },
+      {
+        "zh": "经济上",
+        "en": "financially"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die finanzielle Situation des Unternehmens hat sich verbessert.",
+        "zh": "公司的财务状况有所改善。"
+      },
+      {
+        "de": "Er ist finanziell unabhängig.",
+        "zh": "他在经济上独立。"
+      }
+    ],
+    "collocations": [
+      "finanzielle Unterstützung",
+      "finanzielle Probleme"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "ökonomisch",
+      "monetär"
+    ],
+    "antonyms": [
+      "ideell",
+      "materiell"
+    ]
+  },
+  {
+    "word": "Fleiß",
+    "lemma": "Fleiß",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "勤奋，努力",
+        "en": "diligence, hard work"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mit Fleiß und Ausdauer hat er sein Ziel erreicht.",
+        "zh": "凭借勤奋和毅力，他实现了目标。"
+      },
+      {
+        "de": "Ihr Fleiß wurde von den Lehrern gelobt.",
+        "zh": "她的勤奋受到了老师的表扬。"
+      }
+    ],
+    "collocations": [
+      "mit Fleiß arbeiten",
+      "großer Fleiß"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "性格",
+      "B1"
+    ],
+    "synonyms": [
+      "Eifer",
+      "Arbeitsamkeit"
+    ],
+    "antonyms": [
+      "Faulheit",
+      "Trägheit"
+    ]
+  },
+  {
+    "word": "Flexibilität",
+    "lemma": "Flexibilität",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "灵活性，弹性",
+        "en": "flexibility"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Flexibilität der Arbeitszeiten ist ein großer Vorteil.",
+        "zh": "工作时间的灵活性是一个很大的优势。"
+      },
+      {
+        "de": "In der heutigen Arbeitswelt ist Flexibilität gefragt.",
+        "zh": "在当今的工作世界中，灵活性是必需的。"
+      }
+    ],
+    "collocations": [
+      "Flexibilität zeigen",
+      "Flexibilität fordern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "工作",
+      "能力",
+      "B2"
+    ],
+    "synonyms": [
+      "Anpassungsfähigkeit",
+      "Beweglichkeit"
+    ],
+    "antonyms": [
+      "Starrheit",
+      "Unflexibilität"
+    ]
+  },
+  {
+    "word": "Flug",
+    "lemma": "Flug",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Flüge",
+    "meaning": [
+      {
+        "zh": "飞行，航班",
+        "en": "flight"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Flug nach Berlin dauert etwa eine Stunde.",
+        "zh": "飞往柏林的航班大约需要一小时。"
+      },
+      {
+        "de": "Wir haben einen Flug nach Mallorca gebucht.",
+        "zh": "我们预订了去马略卡岛的航班。"
+      }
+    ],
+    "collocations": [
+      "einen Flug buchen",
+      "Flug verspäten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "交通",
+      "旅行",
+      "A2"
+    ],
+    "synonyms": [
+      "Flugreise",
+      "Luftfahrt"
+    ],
+    "antonyms": [
+      "Landung",
+      "Bodenfahrt"
+    ]
+  },
+  {
+    "word": "Fokus",
+    "lemma": "Fokus",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Fokusse",
+    "meaning": [
+      {
+        "zh": "焦点，重点",
+        "en": "focus"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Fokus der Diskussion lag auf der Umweltpolitik.",
+        "zh": "讨论的重点是环境政策。"
+      },
+      {
+        "de": "Er verlor den Fokus und machte einen Fehler.",
+        "zh": "他失去了焦点，犯了一个错误。"
+      }
+    ],
+    "collocations": [
+      "den Fokus legen auf",
+      "Fokus verlieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "抽象",
+      "工作",
+      "B2"
+    ],
+    "synonyms": [
+      "Schwerpunkt",
+      "Zentrum"
+    ],
+    "antonyms": [
+      "Rand",
+      "Nebensache"
+    ]
+  },
+  {
+    "word": "Folge",
+    "lemma": "Folge",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Folgen",
+    "meaning": [
+      {
+        "zh": "后果，结果",
+        "en": "consequence, result"
+      },
+      {
+        "zh": "系列（如电视剧集）",
+        "en": "episode, installment"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Folgen des Unfalls waren schwerwiegend.",
+        "zh": "事故的后果很严重。"
+      },
+      {
+        "de": "Die nächste Folge der Serie läuft morgen.",
+        "zh": "该系列的下一集明天播出。"
+      }
+    ],
+    "collocations": [
+      "die Folgen tragen",
+      "eine Folge von Ereignissen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "抽象",
+      "媒体",
+      "B1"
+    ],
+    "synonyms": [
+      "Konsequenz",
+      "Ergebnis",
+      "Episode"
+    ],
+    "antonyms": [
+      "Ursache",
+      "Anfang"
+    ]
+  },
+  {
+    "word": "Folie",
+    "lemma": "Folie",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Folien",
+    "meaning": [
+      {
+        "zh": "薄膜，塑料膜",
+        "en": "foil, film, sheet"
+      },
+      {
+        "zh": "幻灯片",
+        "en": "slide (presentation)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Lebensmittel wurden mit Folie abgedeckt.",
+        "zh": "食物被用薄膜盖住了。"
+      },
+      {
+        "de": "Er zeigte die wichtigsten Punkte auf einer Folie.",
+        "zh": "他在一张幻灯片上展示了最重要的要点。"
+      }
+    ],
+    "collocations": [
+      "Folie abziehen",
+      "eine Folie präsentieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "材料",
+      "办公",
+      "B1"
+    ],
+    "synonyms": [
+      "Plastikfolie",
+      "Präsentationsfolie"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "formbar",
+    "lemma": "formbar",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "可塑的，可成形的",
+        "en": "malleable, formable"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ton ist ein formbares Material.",
+        "zh": "黏土是一种可塑的材料。"
+      },
+      {
+        "de": "Kinder sind in jungen Jahren besonders formbar.",
+        "zh": "孩子在幼年时期特别具有可塑性。"
+      }
+    ],
+    "collocations": [
+      "formbares Material",
+      "formbarer Charakter"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "材料",
+      "性格",
+      "B2"
+    ],
+    "synonyms": [
+      "verformbar",
+      "bildsam"
+    ],
+    "antonyms": [
+      "starr",
+      "unveränderlich"
+    ]
+  },
+  {
+    "word": "Fortschritt",
+    "lemma": "Fortschritt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Fortschritte",
+    "meaning": [
+      {
+        "zh": "进步，进展",
+        "en": "progress, advancement"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Medizin hat in den letzten Jahrzehnten große Fortschritte gemacht.",
+        "zh": "医学在过去几十年取得了巨大进步。"
+      },
+      {
+        "de": "Der technische Fortschritt verändert unser Leben rasant.",
+        "zh": "技术进步正在迅速改变我们的生活。"
+      }
+    ],
+    "collocations": [
+      "Fortschritte machen",
+      "technischer Fortschritt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "Entwicklung",
+      "Verbesserung"
+    ],
+    "antonyms": [
+      "Rückschritt",
+      "Stillstand"
+    ]
+  },
+  {
+    "word": "Forum",
+    "lemma": "Forum",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Foren",
+    "meaning": [
+      {
+        "zh": "论坛，讨论会",
+        "en": "forum, discussion platform"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Internetforum diskutieren die Nutzer über aktuelle Themen.",
+        "zh": "在互联网论坛上，用户讨论当前话题。"
+      },
+      {
+        "de": "Das Forum bot eine Plattform für den Austausch von Ideen.",
+        "zh": "该论坛为思想交流提供了平台。"
+      }
+    ],
+    "collocations": [
+      "ein Forum eröffnen",
+      "im Forum diskutieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "Diskussionsrunde",
+      "Plattform"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Foul",
+    "lemma": "Foul",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Fouls",
+    "meaning": [
+      {
+        "zh": "犯规（体育）",
+        "en": "foul (in sports)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Schiedsrichter pfiff ein Foul gegen den Stürmer.",
+        "zh": "裁判吹罚了前锋犯规。"
+      },
+      {
+        "de": "Ein klares Foul führte zu einem Elfmeter.",
+        "zh": "一次明显的犯规导致了一个点球。"
+      }
+    ],
+    "collocations": [
+      "ein Foul begehen",
+      "Foul spielen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "体育",
+      "B1"
+    ],
+    "synonyms": [
+      "Regelverstoß",
+      "Vergehen"
+    ],
+    "antonyms": [
+      "Fairplay"
+    ]
+  },
+  {
+    "word": "frustrieren",
+    "lemma": "frustrieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "使沮丧，使受挫",
+        "en": "to frustrate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die ständigen Rückschläge frustrieren ihn sehr.",
+        "zh": "不断的挫折让他非常沮丧。"
+      },
+      {
+        "de": "Es frustriert mich, dass ich keine Lösung finde.",
+        "zh": "找不到解决方案让我很受挫。"
+      }
+    ],
+    "collocations": [
+      "jemanden frustrieren",
+      "frustriert sein"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "frustriert"
+    },
+    "level": "B2",
+    "tags": [
+      "情感",
+      "B2"
+    ],
+    "synonyms": [
+      "entmutigen",
+      "verärgern"
+    ],
+    "antonyms": [
+      "ermutigen",
+      "motivieren"
+    ]
+  },
+  {
+    "word": "führen",
+    "lemma": "führen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "带领，引导；导致",
+        "en": "to lead, to guide; to result in"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Weg führt durch den Wald.",
+        "zh": "这条路穿过森林。"
+      },
+      {
+        "de": "Stress kann zu gesundheitlichen Problemen führen.",
+        "zh": "压力可能导致健康问题。"
+      }
+    ],
+    "collocations": [
+      "zu etwas führen",
+      "ein Team führen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geführt"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "社会",
+      "A2"
+    ],
+    "synonyms": [
+      "leiten",
+      "lenken"
+    ],
+    "antonyms": [
+      "folgen"
+    ]
+  },
+  {
+    "word": "Galgenhumor",
+    "lemma": "Galgenhumor",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "黑色幽默，苦中作乐",
+        "en": "gallows humor"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Trotz der schwierigen Lage bewahrte er seinen Galgenhumor.",
+        "zh": "尽管处境艰难，他仍保持着黑色幽默。"
+      },
+      {
+        "de": "Galgenhumor hilft manchmal, schwere Situationen zu ertragen.",
+        "zh": "黑色幽默有时能帮助忍受艰难处境。"
+      }
+    ],
+    "collocations": [
+      "Galgenhumor haben",
+      "mit Galgenhumor reagieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "C1",
+    "tags": [
+      "情感",
+      "文化",
+      "C1"
+    ],
+    "synonyms": [
+      "schwarzer Humor"
+    ],
+    "antonyms": [
+      "Optimismus"
+    ]
+  },
+  {
+    "word": "Gang",
+    "lemma": "Gang",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Gänge",
+    "meaning": [
+      {
+        "zh": "走廊；行走；档位；一道菜",
+        "en": "corridor; walk; gear; course (of a meal)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Gang zum Arzt dauerte nur zehn Minuten.",
+        "zh": "去医生那里的路程只花了十分钟。"
+      },
+      {
+        "de": "Das Auto hat einen Gang eingelegt und fuhr los.",
+        "zh": "汽车挂上档，开走了。"
+      }
+    ],
+    "collocations": [
+      "einen Gang einlegen",
+      "der erste Gang"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "Korridor",
+      "Schritt"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "gebildet",
+    "lemma": "gebildet",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "有教养的，受过良好教育的",
+        "en": "educated, well-educated"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie ist eine sehr gebildete Frau und spricht mehrere Sprachen.",
+        "zh": "她是一位非常有教养的女性，会说多种语言。"
+      },
+      {
+        "de": "In gebildeten Kreisen wird viel Wert auf Kultur gelegt.",
+        "zh": "在有教养的圈子里，人们很重视文化。"
+      }
+    ],
+    "collocations": [
+      "gebildete Menschen",
+      "ein gebildeter Mensch"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "kultiviert",
+      "intelligent"
+    ],
+    "antonyms": [
+      "ungebildet",
+      "ignorant"
+    ]
+  },
+  {
+    "word": "Gefälligkeit",
+    "lemma": "Gefälligkeit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Gefälligkeiten",
+    "meaning": [
+      {
+        "zh": "好意，帮忙，恩惠",
+        "en": "favor, kindness"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du mir eine kleine Gefälligkeit erweisen?",
+        "zh": "你能帮我一个小忙吗？"
+      },
+      {
+        "de": "Aus reiner Gefälligkeit hat er mir geholfen.",
+        "zh": "他纯粹出于好意帮助了我。"
+      }
+    ],
+    "collocations": [
+      "eine Gefälligkeit erweisen",
+      "um eine Gefälligkeit bitten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "Gunst",
+      "Freundlichkeit"
+    ],
+    "antonyms": [
+      "Unfreundlichkeit",
+      "Ablehnung"
+    ]
+  },
+  {
+    "word": "Gegensatz",
+    "lemma": "Gegensatz",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Gegensätze",
+    "meaning": [
+      {
+        "zh": "对立，相反，差异",
+        "en": "contrast, opposite"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Gegensatz zu gestern ist es heute sehr warm.",
+        "zh": "与昨天相反，今天很暖和。"
+      },
+      {
+        "de": "Die beiden Brüder sind ein großer Gegensatz.",
+        "zh": "这两兄弟形成了鲜明的对比。"
+      }
+    ],
+    "collocations": [
+      "im Gegensatz zu",
+      "einen Gegensatz bilden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "语言",
+      "B1"
+    ],
+    "synonyms": [
+      "Unterschied",
+      "Kontrast"
+    ],
+    "antonyms": [
+      "Gleichheit",
+      "Übereinstimmung"
+    ]
+  },
+  {
+    "word": "Gegenstand",
+    "lemma": "Gegenstand",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Gegenstände",
+    "meaning": [
+      {
+        "zh": "物体，物品；主题，对象",
+        "en": "object, item; subject, topic"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieser Gegenstand ist sehr wertvoll.",
+        "zh": "这个物品非常贵重。"
+      },
+      {
+        "de": "Der Gegenstand der Diskussion war die neue Regelung.",
+        "zh": "讨论的主题是新规定。"
+      }
+    ],
+    "collocations": [
+      "ein Gegenstand aus Holz",
+      "Gegenstand der Untersuchung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Objekt",
+      "Sache",
+      "Thema"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Gehalt",
+    "lemma": "Gehalt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Gehälter",
+    "meaning": [
+      {
+        "zh": "工资，薪水",
+        "en": "salary"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sein Gehalt wurde um 10 Prozent erhöht.",
+        "zh": "他的工资涨了10%。"
+      },
+      {
+        "de": "Sie bekommt ein monatliches Gehalt von 3000 Euro.",
+        "zh": "她每月工资3000欧元。"
+      }
+    ],
+    "collocations": [
+      "ein hohes Gehalt",
+      "das Gehalt aushandeln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "Lohn",
+      "Verdienst"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Gepäck",
+    "lemma": "Gepäck",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "行李",
+        "en": "luggage, baggage"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bitte geben Sie Ihr Gepäck am Schalter auf.",
+        "zh": "请到柜台托运行李。"
+      },
+      {
+        "de": "Ich habe mein Gepäck im Hotel gelassen.",
+        "zh": "我把行李留在了酒店。"
+      }
+    ],
+    "collocations": [
+      "das Gepäck aufgeben",
+      "leichtes Gepäck"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "旅行",
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Reisegepäck",
+      "Koffer"
+    ],
+    "antonyms": []
+  }
+]

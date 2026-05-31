@@ -1,0 +1,1620 @@
+[
+  {
+    "word": "die",
+    "lemma": "die",
+    "pos": [
+      "article"
+    ],
+    "gender": "feminine",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "这，那（阴性定冠词）",
+        "en": "the (feminine definite article)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Frau geht nach Hause.",
+        "zh": "那个女人回家。"
+      },
+      {
+        "de": "Die Sonne scheint heute.",
+        "zh": "今天阳光明媚。"
+      }
+    ],
+    "collocations": [
+      "die Idee",
+      "die Arbeit"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语法",
+      "冠词"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "das",
+    "lemma": "das",
+    "pos": [
+      "article"
+    ],
+    "gender": "neuter",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "这，那（中性定冠词）",
+        "en": "the (neuter definite article)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Kind spielt im Garten.",
+        "zh": "那个孩子在花园里玩。"
+      },
+      {
+        "de": "Das Buch ist interessant.",
+        "zh": "这本书很有趣。"
+      }
+    ],
+    "collocations": [
+      "das Haus",
+      "das Auto"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语法",
+      "冠词"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "der",
+    "lemma": "der",
+    "pos": [
+      "article"
+    ],
+    "gender": "masculine",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "这，那（阳性定冠词）",
+        "en": "the (masculine definite article)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Mann arbeitet im Büro.",
+        "zh": "那个男人在办公室工作。"
+      },
+      {
+        "de": "Der Hund bellt laut.",
+        "zh": "那只狗大声叫。"
+      }
+    ],
+    "collocations": [
+      "der Tisch",
+      "der Baum"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语法",
+      "冠词"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Innovation",
+    "lemma": "Innovation",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Innovationen",
+    "meaning": [
+      {
+        "zh": "创新，革新",
+        "en": "innovation"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Firma investiert viel in Innovation.",
+        "zh": "这家公司在创新上投入很多。"
+      },
+      {
+        "de": "Technologische Innovationen verändern unser Leben.",
+        "zh": "技术创新改变了我们的生活。"
+      }
+    ],
+    "collocations": [
+      "technologische Innovation",
+      "Innovation fördern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "经济",
+      "科技"
+    ],
+    "synonyms": [
+      "Neuerung",
+      "Erneuerung"
+    ],
+    "antonyms": [
+      "Stagnation",
+      "Rückschritt"
+    ]
+  },
+  {
+    "word": "Institution",
+    "lemma": "Institution",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Institutionen",
+    "meaning": [
+      {
+        "zh": "机构，制度",
+        "en": "institution"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Universität ist eine wichtige Institution.",
+        "zh": "大学是一个重要的机构。"
+      },
+      {
+        "de": "Politische Institutionen sichern die Demokratie.",
+        "zh": "政治机构保障民主。"
+      }
+    ],
+    "collocations": [
+      "öffentliche Institution",
+      "Institution gründen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "政治"
+    ],
+    "synonyms": [
+      "Einrichtung",
+      "Organisation"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Instrument",
+    "lemma": "Instrument",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Instrumente",
+    "meaning": [
+      {
+        "zh": "乐器；工具，手段",
+        "en": "instrument; tool"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie spielt mehrere Musikinstrumente.",
+        "zh": "她会演奏多种乐器。"
+      },
+      {
+        "de": "Die Regierung nutzt dieses Gesetz als Instrument.",
+        "zh": "政府利用这项法律作为工具。"
+      }
+    ],
+    "collocations": [
+      "musikalisches Instrument",
+      "Instrument spielen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "音乐",
+      "工具"
+    ],
+    "synonyms": [
+      "Gerät",
+      "Werkzeug"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "integrieren",
+    "lemma": "integrieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "整合，融入",
+        "en": "to integrate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat sich gut in die Gruppe integriert.",
+        "zh": "他很好地融入了这个团体。"
+      },
+      {
+        "de": "Wir müssen die neuen Daten in das System integrieren.",
+        "zh": "我们必须将新数据整合到系统中。"
+      }
+    ],
+    "collocations": [
+      "sich integrieren",
+      "integrieren in"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "integriert"
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "科技"
+    ],
+    "synonyms": [
+      "eingliedern",
+      "vereinigen"
+    ],
+    "antonyms": [
+      "ausgrenzen",
+      "trennen"
+    ]
+  },
+  {
+    "word": "Intensität",
+    "lemma": "Intensität",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Intensitäten",
+    "meaning": [
+      {
+        "zh": "强度，强烈",
+        "en": "intensity"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Intensität des Trainings war sehr hoch.",
+        "zh": "训练的强度非常高。"
+      },
+      {
+        "de": "Die Intensität der Farben beeindruckt mich.",
+        "zh": "色彩的强度令我印象深刻。"
+      }
+    ],
+    "collocations": [
+      "hohe Intensität",
+      "Intensität steigern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "物理",
+      "情感"
+    ],
+    "synonyms": [
+      "Stärke",
+      "Heftigkeit"
+    ],
+    "antonyms": [
+      "Schwäche",
+      "Milde"
+    ]
+  },
+  {
+    "word": "intensiv",
+    "lemma": "intensiv",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "密集的，强烈的，深入的",
+        "en": "intensive, intense"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat einen intensiven Deutschkurs besucht.",
+        "zh": "她参加了一个强化德语课程。"
+      },
+      {
+        "de": "Die Diskussion war sehr intensiv.",
+        "zh": "讨论非常激烈。"
+      }
+    ],
+    "collocations": [
+      "intensive Pflege",
+      "intensive Zusammenarbeit"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "形容词",
+      "强度",
+      "B1"
+    ],
+    "synonyms": [
+      "stark",
+      "heftig",
+      "gründlich"
+    ],
+    "antonyms": [
+      "schwach",
+      "oberflächlich"
+    ]
+  },
+  {
+    "word": "interkulturell",
+    "lemma": "interkulturell",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "跨文化的",
+        "en": "intercultural"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Unternehmen bietet interkulturelle Trainings an.",
+        "zh": "这家公司提供跨文化培训。"
+      },
+      {
+        "de": "Interkulturelle Kompetenz ist heute sehr wichtig.",
+        "zh": "跨文化能力如今非常重要。"
+      }
+    ],
+    "collocations": [
+      "interkulturelle Kommunikation",
+      "interkultureller Austausch"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "形容词",
+      "文化",
+      "B2"
+    ],
+    "synonyms": [
+      "multikulturell",
+      "transkulturell"
+    ],
+    "antonyms": [
+      "monokulturell"
+    ]
+  },
+  {
+    "word": "Internet",
+    "lemma": "Internet",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "互联网",
+        "en": "Internet"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Internet findet man viele Informationen.",
+        "zh": "在互联网上可以找到很多信息。"
+      },
+      {
+        "de": "Er hat das Ticket im Internet gebucht.",
+        "zh": "他在网上订了票。"
+      }
+    ],
+    "collocations": [
+      "im Internet surfen",
+      "Zugang zum Internet"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "名词",
+      "科技",
+      "A2"
+    ],
+    "synonyms": [
+      "Netz",
+      "World Wide Web"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "interviewen",
+    "lemma": "interviewen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "采访，面试",
+        "en": "to interview"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Journalist hat den Minister interviewt.",
+        "zh": "记者采访了部长。"
+      },
+      {
+        "de": "Sie wurde für die Stelle interviewt.",
+        "zh": "她为了这个职位接受了面试。"
+      }
+    ],
+    "collocations": [
+      "jemanden interviewen",
+      "ein Interview führen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "interviewt"
+    },
+    "level": "B1",
+    "tags": [
+      "动词",
+      "媒体",
+      "B1"
+    ],
+    "synonyms": [
+      "befragen",
+      "ausfragen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Investor",
+    "lemma": "Investor",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Investoren",
+    "meaning": [
+      {
+        "zh": "投资者",
+        "en": "investor"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Investor hat viel Geld in das Projekt gesteckt.",
+        "zh": "投资者在这个项目上投入了很多钱。"
+      },
+      {
+        "de": "Internationale Investoren interessieren sich für den Markt.",
+        "zh": "国际投资者对这个市场感兴趣。"
+      }
+    ],
+    "collocations": [
+      "privater Investor",
+      "Investor finden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "名词",
+      "经济",
+      "B2"
+    ],
+    "synonyms": [
+      "Kapitalgeber",
+      "Anleger"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "ironisch",
+    "lemma": "ironisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "讽刺的，反语的",
+        "en": "ironic"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Seine Bemerkung war ironisch gemeint.",
+        "zh": "他的评论是讽刺性的。"
+      },
+      {
+        "de": "Sie lächelte ironisch.",
+        "zh": "她讽刺地笑了笑。"
+      }
+    ],
+    "collocations": [
+      "ironische Bemerkung",
+      "ironischer Ton"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "形容词",
+      "情感",
+      "B2"
+    ],
+    "synonyms": [
+      "sarkastisch",
+      "spöttisch"
+    ],
+    "antonyms": [
+      "ernst",
+      "aufrichtig"
+    ]
+  },
+  {
+    "word": "Jahrhundert",
+    "lemma": "Jahrhundert",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Jahrhunderte",
+    "meaning": [
+      {
+        "zh": "世纪",
+        "en": "century"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das 20. Jahrhundert war eine Zeit großer Veränderungen.",
+        "zh": "20世纪是一个巨大变化的时代。"
+      },
+      {
+        "de": "Dieses Gebäude stammt aus dem 18. Jahrhundert.",
+        "zh": "这座建筑建于18世纪。"
+      }
+    ],
+    "collocations": [
+      "im 21. Jahrhundert",
+      "Jahrhundertwende"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "名词",
+      "时间",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Jahrzehnt",
+    "lemma": "Jahrzehnt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Jahrzehnte",
+    "meaning": [
+      {
+        "zh": "十年",
+        "en": "decade"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In den letzten Jahrzehnten hat sich viel verändert.",
+        "zh": "在过去的几十年里，很多事情发生了变化。"
+      },
+      {
+        "de": "Das Projekt dauerte ein Jahrzehnt.",
+        "zh": "这个项目持续了十年。"
+      }
+    ],
+    "collocations": [
+      "ein Jahrzehnt lang",
+      "vergangene Jahrzehnte"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "名词",
+      "时间",
+      "B1"
+    ],
+    "synonyms": [
+      "Dekade"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "juristisch",
+    "lemma": "juristisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "法律的，法学的",
+        "en": "legal, juridical"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat eine juristische Ausbildung absolviert.",
+        "zh": "他完成了法学教育。"
+      },
+      {
+        "de": "Die juristische Fachsprache ist oft schwer zu verstehen.",
+        "zh": "法律专业语言通常很难理解。"
+      }
+    ],
+    "collocations": [
+      "juristische Fakultät",
+      "juristische Grundlage"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "法律",
+      "B2"
+    ],
+    "synonyms": [
+      "rechtlich",
+      "gesetzlich"
+    ],
+    "antonyms": [
+      "unrechtmäßig",
+      "illegal"
+    ]
+  },
+  {
+    "word": "Kalender",
+    "lemma": "Kalender",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Kalender",
+    "meaning": [
+      {
+        "zh": "日历，日程表",
+        "en": "calendar"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe den Termin in meinen Kalender eingetragen.",
+        "zh": "我把这个日期记在了日历上。"
+      },
+      {
+        "de": "Der neue Kalender hängt an der Wand.",
+        "zh": "新日历挂在墙上。"
+      }
+    ],
+    "collocations": [
+      "einen Kalender führen",
+      "im Kalender nachsehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Terminkalender",
+      "Jahreskalender"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "kämpfen",
+    "lemma": "kämpfen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "战斗，斗争，争取",
+        "en": "to fight, to struggle"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Soldaten kämpften tapfer für ihr Land.",
+        "zh": "士兵们勇敢地为他们的国家而战。"
+      },
+      {
+        "de": "Sie kämpft gegen ihre Krankheit.",
+        "zh": "她在与疾病作斗争。"
+      }
+    ],
+    "collocations": [
+      "für etwas kämpfen",
+      "gegen etwas kämpfen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gekämpft"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "streiten",
+      "sich wehren"
+    ],
+    "antonyms": [
+      "aufgeben",
+      "kapitulieren"
+    ]
+  },
+  {
+    "word": "Kandidat",
+    "lemma": "Kandidat",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Kandidaten",
+    "meaning": [
+      {
+        "zh": "候选人，应试者",
+        "en": "candidate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Kandidat stellte sich den Fragen der Journalisten.",
+        "zh": "候选人回答了记者的问题。"
+      },
+      {
+        "de": "Sie ist die beste Kandidatin für die Stelle.",
+        "zh": "她是这个职位的最佳候选人。"
+      }
+    ],
+    "collocations": [
+      "ein Kandidat für etwas sein",
+      "Kandidaten aufstellen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "政治",
+      "B1"
+    ],
+    "synonyms": [
+      "Bewerber",
+      "Anwärter"
+    ],
+    "antonyms": [
+      "Amtsinhaber",
+      "Gegner"
+    ]
+  },
+  {
+    "word": "Kandidatur",
+    "lemma": "Kandidatur",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Kandidaturen",
+    "meaning": [
+      {
+        "zh": "候选资格，参选",
+        "en": "candidacy, candidature"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Seine Kandidatur für das Amt wurde offiziell bekannt gegeben.",
+        "zh": "他参选该职位的候选资格已正式公布。"
+      },
+      {
+        "de": "Sie zog ihre Kandidatur zurück.",
+        "zh": "她撤回了她的候选资格。"
+      }
+    ],
+    "collocations": [
+      "eine Kandidatur einreichen",
+      "Kandidatur zurückziehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "政治",
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "Bewerbung",
+      "Anwartschaft"
+    ],
+    "antonyms": [
+      "Amtsverzicht",
+      "Rücktritt"
+    ]
+  },
+  {
+    "word": "Kapazität",
+    "lemma": "Kapazität",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Kapazitäten",
+    "meaning": [
+      {
+        "zh": "容量，能力，专家",
+        "en": "capacity, capability, expert"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kapazität des Saals reicht für 500 Personen.",
+        "zh": "大厅的容量可容纳500人。"
+      },
+      {
+        "de": "Er ist eine Kapazität auf dem Gebiet der Physik.",
+        "zh": "他是物理学领域的专家。"
+      }
+    ],
+    "collocations": [
+      "Kapazität auslasten",
+      "begrenzte Kapazität"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "科技",
+      "经济",
+      "B2"
+    ],
+    "synonyms": [
+      "Fassungsvermögen",
+      "Leistungsfähigkeit"
+    ],
+    "antonyms": [
+      "Mangel",
+      "Knappheit"
+    ]
+  },
+  {
+    "word": "Karriere",
+    "lemma": "Karriere",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Karrieren",
+    "meaning": [
+      {
+        "zh": "职业生涯，事业",
+        "en": "career"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat eine erfolgreiche Karriere als Ärztin gemacht.",
+        "zh": "她作为医生取得了成功的职业生涯。"
+      },
+      {
+        "de": "Er opferte viel für seine Karriere.",
+        "zh": "他为自己的事业牺牲了很多。"
+      }
+    ],
+    "collocations": [
+      "Karriere machen",
+      "Karriereplanung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "职业",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Berufsweg",
+      "Laufbahn"
+    ],
+    "antonyms": [
+      "Stillstand",
+      "Rückschritt"
+    ]
+  },
+  {
+    "word": "Katalog",
+    "lemma": "Katalog",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Kataloge",
+    "meaning": [
+      {
+        "zh": "目录，商品目录",
+        "en": "catalog, catalogue"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Katalog enthält alle verfügbaren Produkte.",
+        "zh": "目录包含了所有可用的产品。"
+      },
+      {
+        "de": "Sie bestellte ein Kleid aus dem Katalog.",
+        "zh": "她从目录中订购了一条裙子。"
+      }
+    ],
+    "collocations": [
+      "einen Katalog durchblättern",
+      "im Katalog bestellen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "商业",
+      "B1"
+    ],
+    "synonyms": [
+      "Verzeichnis",
+      "Liste"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "Keim",
+    "lemma": "Keim",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Keime",
+    "meaning": [
+      {
+        "zh": "胚芽；病菌",
+        "en": "germ; seed; bacterium"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Keim der Pflanze beginnt zu wachsen.",
+        "zh": "植物的胚芽开始生长。"
+      },
+      {
+        "de": "Bakterien und Viren sind schädliche Keime.",
+        "zh": "细菌和病毒是有害的病菌。"
+      }
+    ],
+    "collocations": [
+      "Keime abtöten",
+      "im Keim ersticken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生物",
+      "医学",
+      "B1"
+    ],
+    "synonyms": [
+      "Bakterium",
+      "Embryo"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Kern",
+    "lemma": "Kern",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Kerne",
+    "meaning": [
+      {
+        "zh": "核心；果核",
+        "en": "core; kernel; pit"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Kern des Apfels ist nicht essbar.",
+        "zh": "苹果核不能吃。"
+      },
+      {
+        "de": "Das ist der Kern des Problems.",
+        "zh": "这是问题的核心。"
+      }
+    ],
+    "collocations": [
+      "Kern der Sache",
+      "Atomkern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Mittelpunkt",
+      "Zentrum"
+    ],
+    "antonyms": [
+      "Rand",
+      "Peripherie"
+    ]
+  },
+  {
+    "word": "Kiosk",
+    "lemma": "Kiosk",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Kioske",
+    "meaning": [
+      {
+        "zh": "售货亭；报摊",
+        "en": "kiosk; newsstand"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Am Kiosk kann man Zeitungen kaufen.",
+        "zh": "在售货亭可以买报纸。"
+      },
+      {
+        "de": "Der Kiosk hat bis 22 Uhr geöffnet.",
+        "zh": "这个售货亭营业到晚上10点。"
+      }
+    ],
+    "collocations": [
+      "am Kiosk",
+      "Kioskbetreiber"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "购物",
+      "A2"
+    ],
+    "synonyms": [
+      "Verkaufsstand",
+      "Zeitungsladen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Kissen",
+    "lemma": "Kissen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Kissen",
+    "meaning": [
+      {
+        "zh": "枕头；靠垫",
+        "en": "pillow; cushion"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich lege meinen Kopf auf das Kissen.",
+        "zh": "我把头放在枕头上。"
+      },
+      {
+        "de": "Das Kissen auf dem Sofa ist sehr bequem.",
+        "zh": "沙发上的靠垫非常舒适。"
+      }
+    ],
+    "collocations": [
+      "Kissen aufschütteln",
+      "Kopfkissen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "家居",
+      "A2"
+    ],
+    "synonyms": [
+      "Polster",
+      "Kopfkissen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "klagen",
+    "lemma": "klagen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "抱怨；控诉",
+        "en": "to complain; to lament"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er klagt über ständige Kopfschmerzen.",
+        "zh": "他抱怨经常头痛。"
+      },
+      {
+        "de": "Sie klagt gegen die Firma wegen Vertragsbruch.",
+        "zh": "她因违约起诉这家公司。"
+      }
+    ],
+    "collocations": [
+      "über etwas klagen",
+      "gegen jemanden klagen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geklagt"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "法律",
+      "B1"
+    ],
+    "synonyms": [
+      "beschweren",
+      "jammern"
+    ],
+    "antonyms": [
+      "loben",
+      "freuen"
+    ]
+  },
+  {
+    "word": "Klang",
+    "lemma": "Klang",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Klänge",
+    "meaning": [
+      {
+        "zh": "声音；音色",
+        "en": "sound; tone"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Klang der Glocke ist sehr klar.",
+        "zh": "钟声非常清晰。"
+      },
+      {
+        "de": "Die Musik hat einen angenehmen Klang.",
+        "zh": "这首音乐有悦耳的音色。"
+      }
+    ],
+    "collocations": [
+      "Klang der Stimme",
+      "Klangfarbe"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "音乐",
+      "感官",
+      "B1"
+    ],
+    "synonyms": [
+      "Ton",
+      "Geräusch"
+    ],
+    "antonyms": [
+      "Stille",
+      "Lärm"
+    ]
+  },
+  {
+    "word": "klassisch",
+    "lemma": "klassisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "经典的；古典的",
+        "en": "classic; classical"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hört gern klassische Musik.",
+        "zh": "她喜欢听古典音乐。"
+      },
+      {
+        "de": "Das ist ein klassisches Beispiel für dieses Problem.",
+        "zh": "这是这个问题的一个经典例子。"
+      }
+    ],
+    "collocations": [
+      "klassische Musik",
+      "klassisches Beispiel"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "文化",
+      "艺术",
+      "A2"
+    ],
+    "synonyms": [
+      "traditionell",
+      "zeitlos"
+    ],
+    "antonyms": [
+      "modern",
+      "unkonventionell"
+    ]
+  },
+  {
+    "word": "klug",
+    "lemma": "klug",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "聪明的；明智的",
+        "en": "clever; wise"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist ein kluger Schüler.",
+        "zh": "他是一个聪明的学生。"
+      },
+      {
+        "de": "Das war eine kluge Entscheidung.",
+        "zh": "那是一个明智的决定。"
+      }
+    ],
+    "collocations": [
+      "kluger Kopf",
+      "kluge Wahl"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "性格",
+      "评价",
+      "A2"
+    ],
+    "synonyms": [
+      "intelligent",
+      "weise"
+    ],
+    "antonyms": [
+      "dumm",
+      "unvernünftig"
+    ]
+  },
+  {
+    "word": "knapp",
+    "lemma": "knapp",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "短缺的，不足的",
+        "en": "scarce, short"
+      },
+      {
+        "zh": "紧的，窄的",
+        "en": "tight, narrow"
+      },
+      {
+        "zh": "将近的，勉强",
+        "en": "barely, almost"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Zeit wird knapp.",
+        "zh": "时间变得紧迫了。"
+      },
+      {
+        "de": "Er hat knapp gewonnen.",
+        "zh": "他勉强赢了。"
+      },
+      {
+        "de": "Die Kleidung ist mir zu knapp.",
+        "zh": "这件衣服对我来说太紧了。"
+      }
+    ],
+    "collocations": [
+      "knapp an etwas sein",
+      "knapp bemessen",
+      "knapp vorbei"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "形容词",
+      "副词",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "gering",
+      "eng",
+      "spärlich"
+    ],
+    "antonyms": [
+      "reichlich",
+      "großzügig",
+      "weit"
+    ]
+  },
+  {
+    "word": "kollektiv",
+    "lemma": "kollektiv",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "集体的，共同的",
+        "en": "collective, joint"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist eine kollektive Entscheidung.",
+        "zh": "这是一个集体决定。"
+      },
+      {
+        "de": "Sie arbeiten kollektiv an dem Projekt.",
+        "zh": "他们集体合作这个项目。"
+      }
+    ],
+    "collocations": [
+      "kollektive Verantwortung",
+      "kollektives Gedächtnis",
+      "kollektive Arbeit"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "形容词",
+      "副词",
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "gemeinsam",
+      "gemeinschaftlich"
+    ],
+    "antonyms": [
+      "individuell",
+      "einzeln"
+    ]
+  }
+]

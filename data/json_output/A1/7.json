@@ -1,0 +1,1786 @@
+[
+  {
+    "word": "fast",
+    "lemma": "fast",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "几乎，差不多",
+        "en": "almost, nearly"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich bin fast fertig mit der Arbeit.",
+        "zh": "我差不多完成工作了。"
+      },
+      {
+        "de": "Das kostet fast 100 Euro.",
+        "zh": "这几乎要100欧元。"
+      }
+    ],
+    "collocations": [
+      "fast immer",
+      "fast nie"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "副词",
+      "程度",
+      "A2"
+    ],
+    "synonyms": [
+      "beinahe",
+      "nahezu"
+    ],
+    "antonyms": [
+      "gar nicht",
+      "keineswegs"
+    ]
+  },
+  {
+    "word": "Faust",
+    "lemma": "Faust",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Fäuste",
+    "meaning": [
+      {
+        "zh": "拳头",
+        "en": "fist"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ballte die Faust vor Wut.",
+        "zh": "他愤怒地握紧了拳头。"
+      },
+      {
+        "de": "Sie schlug mit der Faust auf den Tisch.",
+        "zh": "她用拳头敲桌子。"
+      }
+    ],
+    "collocations": [
+      "die Faust ballen",
+      "mit der Faust schlagen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "身体部位",
+      "动作",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "offene Hand"
+    ]
+  },
+  {
+    "word": "Feier",
+    "lemma": "Feier",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Feiern",
+    "meaning": [
+      {
+        "zh": "庆祝活动，聚会",
+        "en": "celebration, party"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Feier findet am Samstag statt.",
+        "zh": "庆祝活动在周六举行。"
+      },
+      {
+        "de": "Zur Feier des Tages gab es Kuchen.",
+        "zh": "为了庆祝这一天，有蛋糕。"
+      }
+    ],
+    "collocations": [
+      "eine Feier veranstalten",
+      "zur Feier des Tages"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "活动",
+      "B1"
+    ],
+    "synonyms": [
+      "Party",
+      "Fest"
+    ],
+    "antonyms": [
+      "Trauer",
+      "Stille"
+    ]
+  },
+  {
+    "word": "Feldberg",
+    "lemma": "Feldberg",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "费尔德山（德国黑森林最高峰）",
+        "en": "Feldberg (highest mountain in the Black Forest, Germany)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Feldberg ist ein beliebtes Wanderziel.",
+        "zh": "费尔德山是一个受欢迎的徒步目的地。"
+      },
+      {
+        "de": "Im Winter kann man am Feldberg Skifahren.",
+        "zh": "冬天可以在费尔德山滑雪。"
+      }
+    ],
+    "collocations": [
+      "auf den Feldberg wandern",
+      "am Feldberg Skifahren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "地理",
+      "地名",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Fenster",
+    "lemma": "Fenster",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Fenster",
+    "meaning": [
+      {
+        "zh": "窗户",
+        "en": "window"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mach bitte das Fenster auf, es ist zu warm.",
+        "zh": "请打开窗户，太热了。"
+      },
+      {
+        "de": "Er schaut aus dem Fenster.",
+        "zh": "他朝窗外看。"
+      }
+    ],
+    "collocations": [
+      "das Fenster öffnen",
+      "aus dem Fenster schauen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "房屋",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "Tür",
+      "Wand"
+    ]
+  },
+  {
+    "word": "Ferien",
+    "lemma": "Ferien",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Ferien",
+    "meaning": [
+      {
+        "zh": "假期，休假",
+        "en": "holidays, vacation"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir fahren in den Ferien nach Spanien.",
+        "zh": "假期我们去西班牙。"
+      },
+      {
+        "de": "Die Sommerferien dauern sechs Wochen.",
+        "zh": "暑假持续六周。"
+      }
+    ],
+    "collocations": [
+      "Ferien machen",
+      "in den Ferien verreisen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "时间",
+      "A2"
+    ],
+    "synonyms": [
+      "Urlaub",
+      "Schulferien"
+    ],
+    "antonyms": [
+      "Arbeitszeit",
+      "Schulzeit"
+    ]
+  },
+  {
+    "word": "Fernmeldeamt",
+    "lemma": "Fernmeldeamt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Fernmeldeämter",
+    "meaning": [
+      {
+        "zh": "电信局",
+        "en": "telecommunications office"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Fernmeldeamt ist für Telefonanschlüsse zuständig.",
+        "zh": "电信局负责电话连接。"
+      },
+      {
+        "de": "Früher musste man zum Fernmeldeamt, um ein Telefon zu beantragen.",
+        "zh": "以前必须去电信局申请电话。"
+      }
+    ],
+    "collocations": [
+      "beim Fernmeldeamt anrufen",
+      "zum Fernmeldeamt gehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "科技",
+      "机构",
+      "B2"
+    ],
+    "synonyms": [
+      "Telekommunikationsamt"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Fernseher",
+    "lemma": "Fernseher",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Fernseher",
+    "meaning": [
+      {
+        "zh": "电视机",
+        "en": "television set"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Fernseher ist kaputt, wir müssen einen neuen kaufen.",
+        "zh": "电视机坏了，我们必须买新的。"
+      },
+      {
+        "de": "Sie sitzt den ganzen Tag vor dem Fernseher.",
+        "zh": "她整天坐在电视机前。"
+      }
+    ],
+    "collocations": [
+      "den Fernseher einschalten",
+      "vor dem Fernseher sitzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "科技",
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "TV",
+      "Fernsehgerät"
+    ],
+    "antonyms": [
+      "Radio"
+    ]
+  },
+  {
+    "word": "fertig",
+    "lemma": "fertig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "完成的，准备好的",
+        "en": "finished, ready"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bist du mit der Arbeit fertig?",
+        "zh": "你工作完成了吗？"
+      },
+      {
+        "de": "Das Essen ist fertig.",
+        "zh": "饭准备好了。"
+      }
+    ],
+    "collocations": [
+      "fertig sein",
+      "fertig werden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "bereit",
+      "vollendet"
+    ],
+    "antonyms": [
+      "unfertig",
+      "unvollendet"
+    ]
+  },
+  {
+    "word": "feststellen",
+    "lemma": "feststellen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "确定，查明",
+        "en": "to determine, to ascertain"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Arzt stellte eine Infektion fest.",
+        "zh": "医生确定了一种感染。"
+      },
+      {
+        "de": "Ich konnte keinen Fehler feststellen.",
+        "zh": "我没能发现任何错误。"
+      }
+    ],
+    "collocations": [
+      "etwas feststellen",
+      "feststellen, dass"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "festgestellt"
+    },
+    "level": "B1",
+    "tags": [
+      "动词",
+      "B1"
+    ],
+    "synonyms": [
+      "ermitteln",
+      "erkennen"
+    ],
+    "antonyms": [
+      "übersehen",
+      "ignorieren"
+    ]
+  },
+  {
+    "word": "Fieber",
+    "lemma": "Fieber",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "发烧，发热",
+        "en": "fever"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Kind hat hohes Fieber.",
+        "zh": "孩子发高烧。"
+      },
+      {
+        "de": "Sie misst jeden Morgen ihr Fieber.",
+        "zh": "她每天早上量体温。"
+      }
+    ],
+    "collocations": [
+      "Fieber haben",
+      "Fieber messen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "健康",
+      "A2"
+    ],
+    "synonyms": [
+      "Temperaturerhöhung"
+    ],
+    "antonyms": [
+      "Normaltemperatur"
+    ]
+  },
+  {
+    "word": "finanzieren",
+    "lemma": "finanzieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "资助，融资",
+        "en": "to finance"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Bank finanziert den Hauskauf.",
+        "zh": "银行资助购房。"
+      },
+      {
+        "de": "Das Projekt wird vom Staat finanziert.",
+        "zh": "这个项目由国家资助。"
+      }
+    ],
+    "collocations": [
+      "etwas finanzieren",
+      "sich finanzieren lassen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "finanziert"
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "bezahlen",
+      "unterstützen"
+    ],
+    "antonyms": [
+      "sparen",
+      "verweigern"
+    ]
+  },
+  {
+    "word": "finden",
+    "lemma": "finden",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "找到，认为",
+        "en": "to find, to think"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich finde meinen Schlüssel nicht.",
+        "zh": "我找不到我的钥匙。"
+      },
+      {
+        "de": "Findest du das Buch interessant?",
+        "zh": "你觉得这本书有趣吗？"
+      }
+    ],
+    "collocations": [
+      "etwas finden",
+      "jemanden finden"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gefunden"
+    },
+    "level": "A1",
+    "tags": [
+      "日常",
+      "A1"
+    ],
+    "synonyms": [
+      "entdecken",
+      "auffinden"
+    ],
+    "antonyms": [
+      "verlieren",
+      "suchen"
+    ]
+  },
+  {
+    "word": "Firma",
+    "lemma": "Firma",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Firmen",
+    "meaning": [
+      {
+        "zh": "公司，企业",
+        "en": "company, firm"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er arbeitet bei einer großen Firma.",
+        "zh": "他在一家大公司工作。"
+      },
+      {
+        "de": "Die Firma stellt neue Mitarbeiter ein.",
+        "zh": "公司正在招聘新员工。"
+      }
+    ],
+    "collocations": [
+      "bei einer Firma arbeiten",
+      "eine Firma gründen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "经济",
+      "A2"
+    ],
+    "synonyms": [
+      "Unternehmen",
+      "Betrieb"
+    ],
+    "antonyms": [
+      "Privatperson"
+    ]
+  },
+  {
+    "word": "Fisch",
+    "lemma": "Fisch",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Fische",
+    "meaning": [
+      {
+        "zh": "鱼",
+        "en": "fish"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich esse gern Fisch.",
+        "zh": "我喜欢吃鱼。"
+      },
+      {
+        "de": "Der Fisch schwimmt im Wasser.",
+        "zh": "鱼在水里游。"
+      }
+    ],
+    "collocations": [
+      "Fisch essen",
+      "Fisch fangen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "食物",
+      "A1"
+    ],
+    "synonyms": [
+      "Meeresfrucht"
+    ],
+    "antonyms": [
+      "Fleisch"
+    ]
+  },
+  {
+    "word": "Flasche",
+    "lemma": "Flasche",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Flaschen",
+    "meaning": [
+      {
+        "zh": "瓶子",
+        "en": "bottle"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du die Flasche öffnen?",
+        "zh": "你能打开瓶子吗？"
+      },
+      {
+        "de": "Ich kaufe eine Flasche Wasser.",
+        "zh": "我买了一瓶水。"
+      }
+    ],
+    "collocations": [
+      "eine Flasche Wasser",
+      "die Flasche öffnen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "日常",
+      "A1"
+    ],
+    "synonyms": [
+      "Behälter",
+      "Gefäß"
+    ],
+    "antonyms": [
+      "Tasse"
+    ]
+  },
+  {
+    "word": "Fleisch",
+    "lemma": "Fleisch",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "肉",
+        "en": "meat"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich esse gerne Fleisch.",
+        "zh": "我喜欢吃肉。"
+      },
+      {
+        "de": "Das Fleisch ist noch roh.",
+        "zh": "肉还是生的。"
+      }
+    ],
+    "collocations": [
+      "Fleisch essen",
+      "rohes Fleisch"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "食物",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "Gemüse"
+    ]
+  },
+  {
+    "word": "fliegen",
+    "lemma": "fliegen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "飞；飞行",
+        "en": "to fly"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Vogel fliegt hoch am Himmel.",
+        "zh": "鸟在高空飞翔。"
+      },
+      {
+        "de": "Wir fliegen morgen nach Berlin.",
+        "zh": "我们明天飞往柏林。"
+      }
+    ],
+    "collocations": [
+      "fliegen nach",
+      "fliegen lassen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "partizip2": "geflogen"
+    },
+    "level": "A2",
+    "tags": [
+      "交通",
+      "A2"
+    ],
+    "synonyms": [
+      "schweben"
+    ],
+    "antonyms": [
+      "landen"
+    ]
+  },
+  {
+    "word": "Flur",
+    "lemma": "Flur",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Flure",
+    "meaning": [
+      {
+        "zh": "走廊；门厅",
+        "en": "hallway; corridor"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Flur ist lang und schmal.",
+        "zh": "走廊又长又窄。"
+      },
+      {
+        "de": "Im Flur hängen viele Bilder.",
+        "zh": "走廊里挂着许多画。"
+      }
+    ],
+    "collocations": [
+      "im Flur",
+      "durch den Flur gehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "建筑",
+      "B1"
+    ],
+    "synonyms": [
+      "Gang"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Fluss",
+    "lemma": "Fluss",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Flüsse",
+    "meaning": [
+      {
+        "zh": "河流",
+        "en": "river"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Fluss fließt durch die Stadt.",
+        "zh": "河流穿过城市。"
+      },
+      {
+        "de": "Im Sommer baden wir im Fluss.",
+        "zh": "夏天我们在河里游泳。"
+      }
+    ],
+    "collocations": [
+      "über den Fluss",
+      "am Fluss entlang"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "地理",
+      "A2"
+    ],
+    "synonyms": [
+      "Strom"
+    ],
+    "antonyms": [
+      "See"
+    ]
+  },
+  {
+    "word": "fotografieren",
+    "lemma": "fotografieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "拍照；摄影",
+        "en": "to photograph"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich fotografiere gern die Natur.",
+        "zh": "我喜欢拍摄大自然。"
+      },
+      {
+        "de": "Er hat mich vor dem Denkmal fotografiert.",
+        "zh": "他在纪念碑前给我拍了照。"
+      }
+    ],
+    "collocations": [
+      "jemanden fotografieren",
+      "ein Foto fotografieren"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "fotografiert"
+    },
+    "level": "A2",
+    "tags": [
+      "爱好",
+      "A2"
+    ],
+    "synonyms": [
+      "knipsen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Frage",
+    "lemma": "Frage",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Fragen",
+    "meaning": [
+      {
+        "zh": "问题",
+        "en": "question"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Hast du eine Frage?",
+        "zh": "你有问题吗？"
+      },
+      {
+        "de": "Die Frage ist schwer zu beantworten.",
+        "zh": "这个问题很难回答。"
+      }
+    ],
+    "collocations": [
+      "eine Frage stellen",
+      "auf eine Frage antworten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "交流",
+      "A1"
+    ],
+    "synonyms": [
+      "Anfrage"
+    ],
+    "antonyms": [
+      "Antwort"
+    ]
+  },
+  {
+    "word": "Frau",
+    "lemma": "Frau",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Frauen",
+    "meaning": [
+      {
+        "zh": "女人；妻子",
+        "en": "woman; wife"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Frau liest ein Buch.",
+        "zh": "那个女人在读书。"
+      },
+      {
+        "de": "Meine Frau arbeitet als Ärztin.",
+        "zh": "我的妻子是医生。"
+      }
+    ],
+    "collocations": [
+      "junge Frau",
+      "verheiratete Frau"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "人物",
+      "A1"
+    ],
+    "synonyms": [
+      "Dame"
+    ],
+    "antonyms": [
+      "Mann"
+    ]
+  },
+  {
+    "word": "Fräulein",
+    "lemma": "Fräulein",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Fräuleins",
+    "meaning": [
+      {
+        "zh": "小姐（旧称，现较少用）",
+        "en": "Miss (old-fashioned, now less common)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Fräulein an der Kasse ist sehr freundlich.",
+        "zh": "收银台的小姐很友好。"
+      },
+      {
+        "de": "Früher sagte man oft 'Fräulein' zu unverheirateten Frauen.",
+        "zh": "以前人们常称未婚女性为'小姐'。"
+      }
+    ],
+    "collocations": [
+      "junges Fräulein",
+      "Fräulein Müller"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rei",
+    "lemma": "rei",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Reis",
+    "meaning": [
+      {
+        "zh": "（日本）礼，鞠躬",
+        "en": "bow (Japanese greeting)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er machte einen tiefen Rei.",
+        "zh": "他深深地鞠了一躬。"
+      },
+      {
+        "de": "Der Rei ist eine traditionelle japanische Geste.",
+        "zh": "鞠躬是一种传统的日本礼节。"
+      }
+    ],
+    "collocations": [
+      "einen Rei machen",
+      "tiefer Rei"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "文化",
+      "B2"
+    ],
+    "synonyms": [
+      "Verbeugung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Freiburg",
+    "lemma": "Freiburg",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "弗莱堡（德国城市）",
+        "en": "Freiburg (city in Germany)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Freiburg liegt im Süden Deutschlands.",
+        "zh": "弗莱堡位于德国南部。"
+      },
+      {
+        "de": "Ich studiere an der Universität Freiburg.",
+        "zh": "我在弗莱堡大学学习。"
+      }
+    ],
+    "collocations": [
+      "in Freiburg wohnen",
+      "die Universität Freiburg"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "地理",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Freitag",
+    "lemma": "Freitag",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Freitage",
+    "meaning": [
+      {
+        "zh": "星期五",
+        "en": "Friday"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Am Freitag habe ich frei.",
+        "zh": "星期五我休息。"
+      },
+      {
+        "de": "Der Freitag ist mein Lieblingstag.",
+        "zh": "星期五是我最喜欢的一天。"
+      }
+    ],
+    "collocations": [
+      "am Freitag",
+      "jeden Freitag"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "时间",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "freitags",
+    "lemma": "freitags",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "每星期五",
+        "en": "on Fridays"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Freitags gehe ich immer ins Kino.",
+        "zh": "每星期五我都去看电影。"
+      },
+      {
+        "de": "Der Kurs findet freitags statt.",
+        "zh": "这门课每星期五上。"
+      }
+    ],
+    "collocations": [
+      "freitags arbeiten",
+      "freitags einkaufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "时间",
+      "A2"
+    ],
+    "synonyms": [
+      "jeden Freitag"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Freizeit",
+    "lemma": "Freizeit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Freizeiten",
+    "meaning": [
+      {
+        "zh": "空闲时间，业余时间",
+        "en": "free time, leisure time"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In meiner Freizeit lese ich gern.",
+        "zh": "在空闲时间我喜欢读书。"
+      },
+      {
+        "de": "Er hat wenig Freizeit wegen der Arbeit.",
+        "zh": "因为工作他很少有空闲时间。"
+      }
+    ],
+    "collocations": [
+      "Freizeit haben",
+      "in der Freizeit"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "A1"
+    ],
+    "synonyms": [
+      "Muße"
+    ],
+    "antonyms": [
+      "Arbeitszeit"
+    ]
+  },
+  {
+    "word": "remd",
+    "lemma": "remd",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "（罕见词，可能拼写错误）",
+        "en": "rare word, possibly misspelling"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieses Wort ist remd und ungebräuchlich.",
+        "zh": "这个词很罕见且不常用。"
+      },
+      {
+        "de": "Ich kenne die Bedeutung von 'remd' nicht.",
+        "zh": "我不知道'remd'的意思。"
+      }
+    ],
+    "collocations": [],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "C1",
+    "tags": [
+      "语言",
+      "C1"
+    ],
+    "synonyms": [
+      "selten"
+    ],
+    "antonyms": [
+      "gebräuchlich"
+    ]
+  },
+  {
+    "word": "Freude",
+    "lemma": "Freude",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Freuden",
+    "meaning": [
+      {
+        "zh": "喜悦，快乐",
+        "en": "joy, pleasure"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Kind machte große Freude.",
+        "zh": "这孩子带来了很大的快乐。"
+      },
+      {
+        "de": "Es ist eine Freude, dich zu sehen.",
+        "zh": "见到你很高兴。"
+      }
+    ],
+    "collocations": [
+      "Freude haben",
+      "vor Freude weinen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "Glück",
+      "Vergnügen"
+    ],
+    "antonyms": [
+      "Trauer",
+      "Leid"
+    ]
+  },
+  {
+    "word": "Freund",
+    "lemma": "Freund",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Freunde",
+    "meaning": [
+      {
+        "zh": "朋友",
+        "en": "friend"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mein bester Freund wohnt in Berlin.",
+        "zh": "我最好的朋友住在柏林。"
+      },
+      {
+        "de": "Sie ist eine gute Freundin von mir.",
+        "zh": "她是我的一个好朋友。"
+      }
+    ],
+    "collocations": [
+      "einen Freund haben",
+      "mit Freunden treffen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "社会",
+      "A1"
+    ],
+    "synonyms": [
+      "Kumpel",
+      "Bekannter"
+    ],
+    "antonyms": [
+      "Feind"
+    ]
+  },
+  {
+    "word": "freuen",
+    "lemma": "freuen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "感到高兴，使高兴",
+        "en": "to be glad, to rejoice"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich freue mich auf den Urlaub.",
+        "zh": "我对假期感到期待。"
+      },
+      {
+        "de": "Sie freut sich über das Geschenk.",
+        "zh": "她对礼物感到高兴。"
+      }
+    ],
+    "collocations": [
+      "sich auf etwas freuen",
+      "sich über etwas freuen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gefreut"
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "sich erfreuen",
+      "sich beglückwünschen"
+    ],
+    "antonyms": [
+      "trauern",
+      "sich ärgern"
+    ]
+  },
+  {
+    "word": "rüh",
+    "lemma": "rüh",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "（古语或方言）粗鲁的，未加工的",
+        "en": "rough, raw (archaic or dialectal)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist ein rühes Verhalten.",
+        "zh": "这是一种粗鲁的行为。"
+      },
+      {
+        "de": "Er sprach mit rüher Stimme.",
+        "zh": "他用粗哑的声音说话。"
+      }
+    ],
+    "collocations": [
+      "rühes Benehmen",
+      "rühe Worte"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "C1",
+    "tags": [
+      "语言",
+      "C1"
+    ],
+    "synonyms": [
+      "grob",
+      "rau"
+    ],
+    "antonyms": [
+      "fein",
+      "sanft"
+    ]
+  },
+  {
+    "word": "Frühstück",
+    "lemma": "Frühstück",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Frühstücke",
+    "meaning": [
+      {
+        "zh": "早餐",
+        "en": "breakfast"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich esse jeden Morgen ein gesundes Frühstück.",
+        "zh": "我每天早上吃健康的早餐。"
+      },
+      {
+        "de": "Das Frühstück im Hotel war sehr reichhaltig.",
+        "zh": "酒店的早餐非常丰盛。"
+      }
+    ],
+    "collocations": [
+      "Frühstück essen",
+      "zum Frühstück"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "A1"
+    ],
+    "synonyms": [
+      "Morgenmahlzeit"
+    ],
+    "antonyms": [
+      "Abendessen"
+    ]
+  },
+  {
+    "word": "frühstücken",
+    "lemma": "frühstücken",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "吃早餐",
+        "en": "to have breakfast"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir frühstücken immer um sieben Uhr.",
+        "zh": "我们总是在七点吃早餐。"
+      },
+      {
+        "de": "Hast du schon gefrühstückt?",
+        "zh": "你吃过早餐了吗？"
+      }
+    ],
+    "collocations": [
+      "gemütlich frühstücken",
+      "frühstücken gehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gefrühstückt"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "das Frühstück einnehmen"
+    ],
+    "antonyms": [
+      "fasten"
+    ]
+  },
+  {
+    "word": "Führerschein",
+    "lemma": "Führerschein",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Führerscheine",
+    "meaning": [
+      {
+        "zh": "驾照",
+        "en": "driver's license"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat seinen Führerschein mit 18 gemacht.",
+        "zh": "他18岁时考取了驾照。"
+      },
+      {
+        "de": "Ohne Führerschein darf man nicht Auto fahren.",
+        "zh": "没有驾照不能开车。"
+      }
+    ],
+    "collocations": [
+      "den Führerschein machen",
+      "Führerschein besitzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "交通",
+      "A2"
+    ],
+    "synonyms": [
+      "Fahrerlaubnis"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "fünf",
+    "lemma": "fünf",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "五",
+        "en": "five"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir haben fünf Minuten Zeit.",
+        "zh": "我们有五分钟时间。"
+      },
+      {
+        "de": "Fünf Personen warten draußen.",
+        "zh": "五个人在外面等。"
+      }
+    ],
+    "collocations": [
+      "fünf Euro",
+      "fünf Mal"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "数字",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Klick",
+    "lemma": "Klick",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Klicks",
+    "meaning": [
+      {
+        "zh": "点击（鼠标）",
+        "en": "click (mouse)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ein Klick auf den Link öffnet die Seite.",
+        "zh": "点击链接打开页面。"
+      },
+      {
+        "de": "Die Webseite hat viele Klicks bekommen.",
+        "zh": "这个网站获得了许多点击。"
+      }
+    ],
+    "collocations": [
+      "mit einem Klick",
+      "Klick für Klick"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "Mausklick"
+    ],
+    "antonyms": []
+  }
+]

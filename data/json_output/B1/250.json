@@ -1,0 +1,1521 @@
+[
+  {
+    "word": "Bühnenbild",
+    "lemma": "Bühnenbild",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Bühnenbilder",
+    "meaning": [
+      {
+        "zh": "舞台布景",
+        "en": "stage design"
+      },
+      {
+        "zh": "舞台美术",
+        "en": "scenography"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Bühnenbild für das Theaterstück war sehr aufwendig.",
+        "zh": "这部戏剧的舞台布景非常精致。"
+      },
+      {
+        "de": "Der Künstler entwarf ein futuristisches Bühnenbild.",
+        "zh": "这位艺术家设计了一个未来主义的舞台布景。"
+      }
+    ],
+    "collocations": [
+      "ein Bühnenbild entwerfen",
+      "das Bühnenbild gestalten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "艺术",
+      "戏剧",
+      "B2"
+    ],
+    "synonyms": [
+      "Szenenbild",
+      "Bühnenausstattung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Bundesregierung",
+    "lemma": "Bundesregierung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Bundesregierungen",
+    "meaning": [
+      {
+        "zh": "联邦政府",
+        "en": "federal government"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Bundesregierung hat ein neues Gesetz verabschiedet.",
+        "zh": "联邦政府通过了一项新法律。"
+      },
+      {
+        "de": "Die Bundesregierung tagt heute im Kanzleramt.",
+        "zh": "联邦政府今天在总理府开会。"
+      }
+    ],
+    "collocations": [
+      "die Bundesregierung bilden",
+      "die Bundesregierung beschließt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "政治",
+      "政府",
+      "B1"
+    ],
+    "synonyms": [
+      "Regierung",
+      "Kabinett"
+    ],
+    "antonyms": [
+      "Opposition"
+    ]
+  },
+  {
+    "word": "Bundestag",
+    "lemma": "Bundestag",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "联邦议院",
+        "en": "Bundestag (German federal parliament)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Bundestag hat über den Haushalt abgestimmt.",
+        "zh": "联邦议院对预算进行了投票。"
+      },
+      {
+        "de": "Die Abgeordneten des Bundestags debattieren über die Reform.",
+        "zh": "联邦议院的议员们就改革进行辩论。"
+      }
+    ],
+    "collocations": [
+      "im Bundestag sitzen",
+      "der Bundestag wählt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "政治",
+      "议会",
+      "B1"
+    ],
+    "synonyms": [
+      "Parlament"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Büro",
+    "lemma": "Büro",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Büros",
+    "meaning": [
+      {
+        "zh": "办公室",
+        "en": "office"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich arbeite heute im Büro.",
+        "zh": "我今天在办公室工作。"
+      },
+      {
+        "de": "Das Büro ist ab 9 Uhr geöffnet.",
+        "zh": "办公室从9点开始开放。"
+      }
+    ],
+    "collocations": [
+      "ins Büro gehen",
+      "im Büro arbeiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "工作",
+      "场所",
+      "A1"
+    ],
+    "synonyms": [
+      "Arbeitszimmer",
+      "Arbeitsplatz"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Calcium",
+    "lemma": "Calcium",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "钙",
+        "en": "calcium"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Calcium ist wichtig für starke Knochen.",
+        "zh": "钙对强健的骨骼很重要。"
+      },
+      {
+        "de": "Milchprodukte enthalten viel Calcium.",
+        "zh": "奶制品含有大量的钙。"
+      }
+    ],
+    "collocations": [
+      "Calcium aufnehmen",
+      "Calciummangel"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科学",
+      "营养",
+      "B1"
+    ],
+    "synonyms": [
+      "Kalzium"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Container",
+    "lemma": "Container",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Container",
+    "meaning": [
+      {
+        "zh": "集装箱",
+        "en": "container"
+      },
+      {
+        "zh": "容器",
+        "en": "container"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Waren werden in Containern transportiert.",
+        "zh": "货物用集装箱运输。"
+      },
+      {
+        "de": "Auf der Baustelle stehen mehrere Container.",
+        "zh": "工地上有几个集装箱。"
+      }
+    ],
+    "collocations": [
+      "einen Container beladen",
+      "Container transportieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "物流",
+      "运输",
+      "B1"
+    ],
+    "synonyms": [
+      "Behälter",
+      "Kiste"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "dank",
+    "lemma": "dank",
+    "pos": [
+      "preposition"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "由于，多亏",
+        "en": "thanks to"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dank seiner Hilfe habe ich die Prüfung bestanden.",
+        "zh": "多亏他的帮助，我通过了考试。"
+      },
+      {
+        "de": "Dank des guten Wetters konnten wir draußen essen.",
+        "zh": "由于天气好，我们可以在外面吃饭。"
+      }
+    ],
+    "collocations": [
+      "dank + Genitiv/Dativ",
+      "dank der Unterstützung"
+    ],
+    "grammar": {
+      "case": "Genitiv",
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语法",
+      "介词",
+      "B1"
+    ],
+    "synonyms": [
+      "wegen",
+      "aufgrund"
+    ],
+    "antonyms": [
+      "trotz"
+    ]
+  },
+  {
+    "word": "dasselbe",
+    "lemma": "derselbe",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "同一个，相同的",
+        "en": "the same"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir haben dasselbe Buch gelesen.",
+        "zh": "我们读了同一本书。"
+      },
+      {
+        "de": "Er trägt heute dasselbe Hemd wie gestern.",
+        "zh": "他今天穿着和昨天一样的衬衫。"
+      }
+    ],
+    "collocations": [
+      "dasselbe wie",
+      "immer dasselbe"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "代词",
+      "形容词",
+      "A2"
+    ],
+    "synonyms": [
+      "das Gleiche"
+    ],
+    "antonyms": [
+      "ein anderes"
+    ]
+  },
+  {
+    "word": "Datum",
+    "lemma": "Datum",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Daten",
+    "meaning": [
+      {
+        "zh": "日期",
+        "en": "date"
+      },
+      {
+        "zh": "数据",
+        "en": "data"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Datum der Veranstaltung wurde geändert.",
+        "zh": "活动的日期被更改了。"
+      },
+      {
+        "de": "Bitte geben Sie Ihr Geburtsdatum ein.",
+        "zh": "请输入您的出生日期。"
+      },
+      {
+        "de": "Die Daten werden auf dem Server gespeichert.",
+        "zh": "数据被存储在服务器上。"
+      }
+    ],
+    "collocations": [
+      "aktuelles Datum",
+      "Datum festlegen",
+      "persönliche Daten",
+      "Daten auswerten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "时间",
+      "科技",
+      "A2"
+    ],
+    "synonyms": [
+      "Zeitpunkt",
+      "Kalendertag"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "dauerhaft",
+    "lemma": "dauerhaft",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "持久的，长期的",
+        "en": "permanent, durable"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir suchen eine dauerhafte Lösung für das Problem.",
+        "zh": "我们正在寻找这个问题的持久解决方案。"
+      },
+      {
+        "de": "Die Beziehung ist nicht dauerhaft.",
+        "zh": "这段关系不是长期的。"
+      }
+    ],
+    "collocations": [
+      "dauerhafte Lösung",
+      "dauerhaft beschäftigt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "形容词",
+      "副词",
+      "B1"
+    ],
+    "synonyms": [
+      "beständig",
+      "permanent"
+    ],
+    "antonyms": [
+      "vorübergehend",
+      "kurzzeitig"
+    ]
+  },
+  {
+    "word": "defekt",
+    "lemma": "defekt",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "有缺陷的，损坏的",
+        "en": "defective, broken"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Drucker ist defekt und muss repariert werden.",
+        "zh": "打印机坏了，需要修理。"
+      },
+      {
+        "de": "Das defekte Teil wurde ausgetauscht.",
+        "zh": "损坏的零件被更换了。"
+      }
+    ],
+    "collocations": [
+      "defektes Gerät",
+      "defekte Ware"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "技术",
+      "状态",
+      "B1"
+    ],
+    "synonyms": [
+      "kaputt",
+      "beschädigt"
+    ],
+    "antonyms": [
+      "intakt",
+      "funktionsfähig"
+    ]
+  },
+  {
+    "word": "definieren",
+    "lemma": "definieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "定义，界定",
+        "en": "define"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du den Begriff genauer definieren?",
+        "zh": "你能更精确地定义这个术语吗？"
+      },
+      {
+        "de": "Die Regeln definieren die Rahmenbedingungen.",
+        "zh": "规则定义了框架条件。"
+      }
+    ],
+    "collocations": [
+      "Begriff definieren",
+      "Ziele definieren"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "definiert"
+    },
+    "level": "B1",
+    "tags": [
+      "动词",
+      "学术",
+      "B1"
+    ],
+    "synonyms": [
+      "festlegen",
+      "bestimmen"
+    ],
+    "antonyms": [
+      "verwischen",
+      "ignorieren"
+    ]
+  },
+  {
+    "word": "Delta",
+    "lemma": "Delta",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Deltas",
+    "meaning": [
+      {
+        "zh": "三角洲",
+        "en": "delta"
+      },
+      {
+        "zh": "（希腊字母）德尔塔",
+        "en": "delta (Greek letter)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Nil-Delta ist eine fruchtbare Region.",
+        "zh": "尼罗河三角洲是一个肥沃的地区。"
+      },
+      {
+        "de": "In der Mathematik steht Delta für eine Differenz.",
+        "zh": "在数学中，Delta 表示差值。"
+      }
+    ],
+    "collocations": [
+      "Flussdelta",
+      "Delta-Region"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "地理",
+      "数学",
+      "B1"
+    ],
+    "synonyms": [
+      "Mündungsgebiet"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Denkmalschutz",
+    "lemma": "Denkmalschutz",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "文物保护",
+        "en": "monument protection, heritage conservation"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Gebäude steht unter Denkmalschutz.",
+        "zh": "这座建筑受文物保护。"
+      },
+      {
+        "de": "Der Denkmalschutz verhindert den Abriss alter Häuser.",
+        "zh": "文物保护阻止了旧房子的拆除。"
+      }
+    ],
+    "collocations": [
+      "unter Denkmalschutz stehen",
+      "Denkmalschutzbehörde"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "文化",
+      "B2"
+    ],
+    "synonyms": [
+      "Kulturgutschutz"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Deponie",
+    "lemma": "Deponie",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Deponien",
+    "meaning": [
+      {
+        "zh": "垃圾填埋场，堆放场",
+        "en": "landfill, dump"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Müll wird auf der Deponie entsorgt.",
+        "zh": "垃圾被运到填埋场处理。"
+      },
+      {
+        "de": "Die Deponie ist fast voll.",
+        "zh": "填埋场几乎满了。"
+      }
+    ],
+    "collocations": [
+      "Mülldeponie",
+      "Deponiegebühren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "环境",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Müllhalde",
+      "Abfalllager"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "detailliert",
+    "lemma": "detailliert",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "详细的，细致的",
+        "en": "detailed"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bitte geben Sie eine detaillierte Beschreibung.",
+        "zh": "请给出一个详细的描述。"
+      },
+      {
+        "de": "Der Plan ist sehr detailliert ausgearbeitet.",
+        "zh": "这个计划制定得非常详细。"
+      }
+    ],
+    "collocations": [
+      "detaillierte Informationen",
+      "detaillierte Analyse"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "形容词",
+      "副词",
+      "B1"
+    ],
+    "synonyms": [
+      "ausführlich",
+      "präzise"
+    ],
+    "antonyms": [
+      "oberflächlich",
+      "grob"
+    ]
+  },
+  {
+    "word": "Dichte",
+    "lemma": "Dichte",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Dichten",
+    "meaning": [
+      {
+        "zh": "密度",
+        "en": "density"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Dichte der Bevölkerung ist in der Stadt höher als auf dem Land.",
+        "zh": "城市的人口密度比农村高。"
+      },
+      {
+        "de": "Die Dichte des Materials beeinflusst seine Festigkeit.",
+        "zh": "材料的密度影响其强度。"
+      }
+    ],
+    "collocations": [
+      "Bevölkerungsdichte",
+      "hohe Dichte"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "物理",
+      "地理",
+      "B1"
+    ],
+    "synonyms": [
+      "Konzentration"
+    ],
+    "antonyms": [
+      "Dünne"
+    ]
+  },
+  {
+    "word": "Dienstleistung",
+    "lemma": "Dienstleistung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Dienstleistungen",
+    "meaning": [
+      {
+        "zh": "服务",
+        "en": "service"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Firma bietet verschiedene Dienstleistungen an.",
+        "zh": "这家公司提供各种服务。"
+      },
+      {
+        "de": "Der Dienstleistungssektor wächst stetig.",
+        "zh": "服务业在持续增长。"
+      }
+    ],
+    "collocations": [
+      "Dienstleistungssektor",
+      "Dienstleistung anbieten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Service"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Dioxin",
+    "lemma": "Dioxin",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Dioxine",
+    "meaning": [
+      {
+        "zh": "二噁英",
+        "en": "dioxin"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dioxin ist ein gefährliches Umweltgift.",
+        "zh": "二噁英是一种危险的环境毒素。"
+      },
+      {
+        "de": "Die Freisetzung von Dioxin muss streng kontrolliert werden.",
+        "zh": "必须严格控制二噁英的释放。"
+      }
+    ],
+    "collocations": [
+      "Dioxinbelastung",
+      "Dioxin freisetzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "化学",
+      "环境",
+      "B2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Diplomat",
+    "lemma": "Diplomat",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Diplomaten",
+    "meaning": [
+      {
+        "zh": "外交官",
+        "en": "diplomat"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Diplomat verhandelt über einen Friedensvertrag.",
+        "zh": "外交官正在谈判和平条约。"
+      },
+      {
+        "de": "Sie arbeitet als Diplomatin in der deutschen Botschaft.",
+        "zh": "她在德国大使馆担任外交官。"
+      }
+    ],
+    "collocations": [
+      "Diplomat werden",
+      "als Diplomat arbeiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "政治",
+      "职业",
+      "B1"
+    ],
+    "synonyms": [
+      "Gesandter"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "direkt",
+    "lemma": "direkt",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "直接的",
+        "en": "direct"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir haben einen direkten Flug nach Berlin genommen.",
+        "zh": "我们乘坐了直飞柏林的航班。"
+      },
+      {
+        "de": "Kannst du mir direkt sagen, was los ist?",
+        "zh": "你能直接告诉我发生了什么吗？"
+      }
+    ],
+    "collocations": [
+      "direkte Verbindung",
+      "direkt fragen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "unmittelbar"
+    ],
+    "antonyms": [
+      "indirekt"
+    ]
+  },
+  {
+    "word": "distanzieren",
+    "lemma": "distanzieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "保持距离；划清界限",
+        "en": "distance oneself"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er distanzierte sich von den Aussagen seines Kollegen.",
+        "zh": "他与同事的言论划清了界限。"
+      },
+      {
+        "de": "Sie distanziert sich zunehmend von ihrer Familie.",
+        "zh": "她逐渐与家人保持距离。"
+      }
+    ],
+    "collocations": [
+      "sich von etwas distanzieren",
+      "sich distanzieren"
+    ],
+    "grammar": {
+      "case": "von + Dativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "distanziert"
+    },
+    "level": "B2",
+    "tags": [
+      "情感",
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "abgrenzen"
+    ],
+    "antonyms": [
+      "annähern"
+    ]
+  },
+  {
+    "word": "Dom",
+    "lemma": "Dom",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Dome",
+    "meaning": [
+      {
+        "zh": "大教堂",
+        "en": "cathedral"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Kölner Dom ist eine berühmte Sehenswürdigkeit.",
+        "zh": "科隆大教堂是一个著名的景点。"
+      },
+      {
+        "de": "Im Dom fand ein feierlicher Gottesdienst statt.",
+        "zh": "大教堂里举行了一场庄严的礼拜。"
+      }
+    ],
+    "collocations": [
+      "Kölner Dom",
+      "Dom besichtigen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "建筑",
+      "宗教",
+      "A2"
+    ],
+    "synonyms": [
+      "Kathedrale"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "doppelt",
+    "lemma": "doppelt",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "双倍的；双重的",
+        "en": "double"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe doppelt so viel gearbeitet wie gestern.",
+        "zh": "我昨天做了双倍的工作。"
+      },
+      {
+        "de": "Das Wort wurde doppelt geschrieben.",
+        "zh": "这个词被写了两次。"
+      }
+    ],
+    "collocations": [
+      "doppelt so viel",
+      "doppelt sehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "日常",
+      "数量",
+      "A2"
+    ],
+    "synonyms": [
+      "zweifach"
+    ],
+    "antonyms": [
+      "einfach"
+    ]
+  },
+  {
+    "word": "Dose",
+    "lemma": "Dose",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Dosen",
+    "meaning": [
+      {
+        "zh": "罐子，听；盒子",
+        "en": "can, tin; box"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich öffne eine Dose Bier.",
+        "zh": "我打开一罐啤酒。"
+      },
+      {
+        "de": "Die Dose ist aus Metall.",
+        "zh": "这个罐子是金属做的。"
+      }
+    ],
+    "collocations": [
+      "eine Dose öffnen",
+      "in der Dose"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "容器"
+    ],
+    "synonyms": [
+      "Büchse",
+      "Behälter"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "draufgängerisch",
+    "lemma": "draufgängerisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "大胆的，冒险的",
+        "en": "daring, reckless"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sein draufgängerisches Verhalten beeindruckt alle.",
+        "zh": "他大胆的行为给所有人留下了深刻印象。"
+      },
+      {
+        "de": "Sie ist eine draufgängerische Fahrerin.",
+        "zh": "她是个冒险的司机。"
+      }
+    ],
+    "collocations": [
+      "draufgängerisches Verhalten",
+      "draufgängerisch sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "性格",
+      "情感"
+    ],
+    "synonyms": [
+      "mutig",
+      "riskant"
+    ],
+    "antonyms": [
+      "vorsichtig",
+      "ängstlich"
+    ]
+  },
+  {
+    "word": "draußen",
+    "lemma": "draußen",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "在外面",
+        "en": "outside"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kinder spielen draußen.",
+        "zh": "孩子们在外面玩。"
+      },
+      {
+        "de": "Es ist kalt draußen.",
+        "zh": "外面很冷。"
+      }
+    ],
+    "collocations": [
+      "draußen sein",
+      "nach draußen gehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "方位",
+      "生活"
+    ],
+    "synonyms": [
+      "im Freien",
+      "außen"
+    ],
+    "antonyms": [
+      "drinnen",
+      "innen"
+    ]
+  },
+  {
+    "word": "dreidimensional",
+    "lemma": "dreidimensional",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "三维的",
+        "en": "three-dimensional"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Film ist dreidimensional.",
+        "zh": "这部电影是三维的。"
+      },
+      {
+        "de": "Wir lernen dreidimensionale Geometrie.",
+        "zh": "我们学习三维几何。"
+      }
+    ],
+    "collocations": [
+      "dreidimensionaler Raum",
+      "dreidimensionales Modell"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "数学"
+    ],
+    "synonyms": [
+      "3D",
+      "räumlich"
+    ],
+    "antonyms": [
+      "zweidimensional",
+      "flach"
+    ]
+  },
+  {
+    "word": "drinnen",
+    "lemma": "drinnen",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "在里面",
+        "en": "inside"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir bleiben drinnen, weil es regnet.",
+        "zh": "因为下雨，我们呆在里面。"
+      },
+      {
+        "de": "Drinnen ist es warm.",
+        "zh": "里面很暖和。"
+      }
+    ],
+    "collocations": [
+      "drinnen sein",
+      "drinnen bleiben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "方位",
+      "生活"
+    ],
+    "synonyms": [
+      "innen",
+      "im Haus"
+    ],
+    "antonyms": [
+      "draußen",
+      "außen"
+    ]
+  },
+  {
+    "word": "Droge",
+    "lemma": "Droge",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Drogen",
+    "meaning": [
+      {
+        "zh": "毒品；药物",
+        "en": "drug"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er nimmt harte Drogen.",
+        "zh": "他吸食硬性毒品。"
+      },
+      {
+        "de": "Diese Droge wird gegen Schmerzen eingesetzt.",
+        "zh": "这种药用于止痛。"
+      }
+    ],
+    "collocations": [
+      "Drogen nehmen",
+      "gegen Drogen kämpfen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "健康"
+    ],
+    "synonyms": [
+      "Rauschmittel",
+      "Medikament"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "drohen",
+    "lemma": "drohen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "威胁；面临危险",
+        "en": "to threaten"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er droht mir mit Gewalt.",
+        "zh": "他用暴力威胁我。"
+      },
+      {
+        "de": "Ein Unwetter droht.",
+        "zh": "一场暴风雨即将来临。"
+      }
+    ],
+    "collocations": [
+      "mit etwas drohen",
+      "jemandem drohen"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gedroht"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "社会"
+    ],
+    "synonyms": [
+      "bedrohen",
+      "gefährden"
+    ],
+    "antonyms": [
+      "schützen",
+      "beruhigen"
+    ]
+  },
+  {
+    "word": "Druck",
+    "lemma": "Druck",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Drücke",
+    "meaning": [
+      {
+        "zh": "压力；印刷",
+        "en": "pressure; print"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Druck im Reifen ist zu niedrig.",
+        "zh": "轮胎压力太低。"
+      },
+      {
+        "de": "Er steht unter großem Druck.",
+        "zh": "他承受着巨大压力。"
+      }
+    ],
+    "collocations": [
+      "unter Druck stehen",
+      "Druck ausüben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "物理",
+      "社会",
+      "情感"
+    ],
+    "synonyms": [
+      "Belastung",
+      "Stress"
+    ],
+    "antonyms": [
+      "Entspannung",
+      "Freiheit"
+    ]
+  }
+]

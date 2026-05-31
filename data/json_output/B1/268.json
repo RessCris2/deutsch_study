@@ -1,0 +1,1627 @@
+[
+  {
+    "word": "vorschreiben",
+    "lemma": "vorschreiben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "规定，指定",
+        "en": "to prescribe, to dictate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Arzt schreibt dem Patienten eine Diät vor.",
+        "zh": "医生给病人规定了饮食。"
+      },
+      {
+        "de": "Die Firma schreibt ihren Mitarbeitern strenge Regeln vor.",
+        "zh": "公司给员工规定了严格的规则。"
+      }
+    ],
+    "collocations": [
+      "jdm. etwas vorschreiben",
+      "gesetzlich vorschreiben"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "vorgeschrieben"
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "法律",
+      "B1"
+    ],
+    "synonyms": [
+      "festlegen",
+      "bestimmen"
+    ],
+    "antonyms": [
+      "erlauben",
+      "freistellen"
+    ]
+  },
+  {
+    "word": "vorsichtig",
+    "lemma": "vorsichtig",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "小心的，谨慎的",
+        "en": "careful, cautious"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sei vorsichtig auf der Straße!",
+        "zh": "在路上要小心！"
+      },
+      {
+        "de": "Er öffnete vorsichtig die Tür.",
+        "zh": "他小心地打开了门。"
+      }
+    ],
+    "collocations": [
+      "vorsichtig sein",
+      "vorsichtig umgehen mit"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "behutsam",
+      "umsichtig"
+    ],
+    "antonyms": [
+      "unvorsichtig",
+      "leichtsinnig"
+    ]
+  },
+  {
+    "word": "Vorsitzende",
+    "lemma": "Vorsitzende",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der/die",
+    "plural": "Vorsitzenden",
+    "meaning": [
+      {
+        "zh": "主席，主持人",
+        "en": "chairperson, chairman/chairwoman"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Vorsitzende eröffnete die Sitzung.",
+        "zh": "主席宣布会议开始。"
+      },
+      {
+        "de": "Der Vorsitzende des Vereins tritt zurück.",
+        "zh": "协会主席辞职了。"
+      }
+    ],
+    "collocations": [
+      "Vorsitzende des Ausschusses",
+      "zur Vorsitzenden wählen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "政治",
+      "B1"
+    ],
+    "synonyms": [
+      "Leiter",
+      "Präsident"
+    ],
+    "antonyms": [
+      "Mitglied",
+      "Teilnehmer"
+    ]
+  },
+  {
+    "word": "wahnsinnig",
+    "lemma": "wahnsinnig",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "疯狂的，极度的",
+        "en": "insane, crazy, extremely"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist ja wahnsinnig teuer!",
+        "zh": "这真是太贵了！"
+      },
+      {
+        "de": "Er wurde vor Wut wahnsinnig.",
+        "zh": "他气得发疯。"
+      }
+    ],
+    "collocations": [
+      "wahnsinnig viel",
+      "wahnsinnig werden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "verrückt",
+      "irrsinnig"
+    ],
+    "antonyms": [
+      "vernünftig",
+      "normal"
+    ]
+  },
+  {
+    "word": "wahrscheinlich",
+    "lemma": "wahrscheinlich",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "可能的，大概",
+        "en": "probable, likely"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Es wird wahrscheinlich regnen.",
+        "zh": "很可能会下雨。"
+      },
+      {
+        "de": "Das ist die wahrscheinlichste Lösung.",
+        "zh": "这是最可能的解决方案。"
+      }
+    ],
+    "collocations": [
+      "höchst wahrscheinlich",
+      "wahrscheinlich sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "日常",
+      "逻辑",
+      "A2"
+    ],
+    "synonyms": [
+      "vermutlich",
+      "möglicherweise"
+    ],
+    "antonyms": [
+      "unwahrscheinlich",
+      "sicher"
+    ]
+  },
+  {
+    "word": "Walnuss",
+    "lemma": "Walnuss",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Walnüsse",
+    "meaning": [
+      {
+        "zh": "核桃",
+        "en": "walnut"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich esse gern Walnüsse im Salat.",
+        "zh": "我喜欢在沙拉里吃核桃。"
+      },
+      {
+        "de": "Die Walnuss hat eine harte Schale.",
+        "zh": "核桃有硬壳。"
+      }
+    ],
+    "collocations": [
+      "Walnüsse knacken",
+      "Walnussöl"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "食物",
+      "自然",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Wandel",
+    "lemma": "Wandel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "变化，变迁",
+        "en": "change, transformation"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Wandel der Gesellschaft ist unvermeidlich.",
+        "zh": "社会的变化是不可避免的。"
+      },
+      {
+        "de": "Im Wandel der Zeit ändern sich die Werte.",
+        "zh": "随着时代变迁，价值观也在改变。"
+      }
+    ],
+    "collocations": [
+      "im Wandel begriffen",
+      "sozialer Wandel"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "抽象",
+      "B2"
+    ],
+    "synonyms": [
+      "Veränderung",
+      "Umbruch"
+    ],
+    "antonyms": [
+      "Stagnation",
+      "Beständigkeit"
+    ]
+  },
+  {
+    "word": "Waschmittel",
+    "lemma": "Waschmittel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Waschmittel",
+    "meaning": [
+      {
+        "zh": "洗涤剂，洗衣粉",
+        "en": "detergent, washing powder"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe kein Waschmittel mehr, ich muss neues kaufen.",
+        "zh": "我没有洗衣粉了，得买新的。"
+      },
+      {
+        "de": "Dieses Waschmittel entfernt Flecken sehr gut.",
+        "zh": "这种洗涤剂去污效果很好。"
+      }
+    ],
+    "collocations": [
+      "Waschmittel kaufen",
+      "flüssiges Waschmittel"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "Reinigungsmittel",
+      "Spülmittel"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Wasserhahn",
+    "lemma": "Wasserhahn",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Wasserhähne",
+    "meaning": [
+      {
+        "zh": "水龙头",
+        "en": "faucet, tap"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich drehe den Wasserhahn auf.",
+        "zh": "我打开水龙头。"
+      },
+      {
+        "de": "Der Wasserhahn tropft.",
+        "zh": "水龙头在滴水。"
+      }
+    ],
+    "collocations": [
+      "den Wasserhahn aufdrehen",
+      "den Wasserhahn zudrehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "wecken",
+    "lemma": "wecken",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "唤醒，叫醒",
+        "en": "to wake up, to awaken"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du mich morgen um sieben wecken?",
+        "zh": "你明天七点能叫醒我吗？"
+      },
+      {
+        "de": "Der Lärm weckte mich aus dem Schlaf.",
+        "zh": "噪音把我从睡梦中吵醒了。"
+      }
+    ],
+    "collocations": [
+      "jemanden wecken",
+      "aus dem Schlaf wecken"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geweckt"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "aufwecken",
+      "wachrufen"
+    ],
+    "antonyms": [
+      "einschläfern"
+    ]
+  },
+  {
+    "word": "wegen",
+    "lemma": "wegen",
+    "pos": [
+      "preposition"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "因为，由于",
+        "en": "because of, due to"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wegen des Regens bleibe ich zu Hause.",
+        "zh": "因为下雨，我待在家里。"
+      },
+      {
+        "de": "Er kam wegen der Arbeit zu spät.",
+        "zh": "他因为工作来晚了。"
+      }
+    ],
+    "collocations": [
+      "wegen + Genitiv",
+      "wegen dir"
+    ],
+    "grammar": {
+      "case": "Genitiv",
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "语法",
+      "A2"
+    ],
+    "synonyms": [
+      "aufgrund",
+      "dank"
+    ],
+    "antonyms": [
+      "trotz"
+    ]
+  },
+  {
+    "word": "wegwerfen",
+    "lemma": "wegwerfen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "扔掉，丢弃",
+        "en": "to throw away, to discard"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wirf das alte Brot nicht weg!",
+        "zh": "别把旧面包扔掉！"
+      },
+      {
+        "de": "Er hat den kaputten Stuhl weggeworfen.",
+        "zh": "他把坏椅子扔掉了。"
+      }
+    ],
+    "collocations": [
+      "etwas wegwerfen",
+      "Müll wegwerfen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "weggeworfen"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "entsorgen",
+      "loswerden"
+    ],
+    "antonyms": [
+      "aufbewahren",
+      "behalten"
+    ]
+  },
+  {
+    "word": "weiblich",
+    "lemma": "weiblich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "女性的，雌性的",
+        "en": "female, feminine"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat eine weibliche Stimme.",
+        "zh": "她有一副女性的嗓音。"
+      },
+      {
+        "de": "Das ist ein weiblicher Name.",
+        "zh": "这是一个女性名字。"
+      }
+    ],
+    "collocations": [
+      "weibliches Geschlecht",
+      "weibliche Form"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "描述",
+      "A2"
+    ],
+    "synonyms": [
+      "feminin",
+      "fraulich"
+    ],
+    "antonyms": [
+      "männlich"
+    ]
+  },
+  {
+    "word": "weinen",
+    "lemma": "weinen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "哭泣，流泪",
+        "en": "to cry, to weep"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Kind weint, weil es hingefallen ist.",
+        "zh": "孩子哭了，因为他摔倒了。"
+      },
+      {
+        "de": "Sie weinte vor Freude.",
+        "zh": "她高兴得哭了。"
+      }
+    ],
+    "collocations": [
+      "vor Freude weinen",
+      "um jemanden weinen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geweint"
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "schluchzen",
+      "tränen"
+    ],
+    "antonyms": [
+      "lachen"
+    ]
+  },
+  {
+    "word": "weiter",
+    "lemma": "weiter",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "继续，更远",
+        "en": "further, on, continued"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Geh weiter, bis zur Ampel.",
+        "zh": "继续走，直到红绿灯。"
+      },
+      {
+        "de": "Er arbeitet weiter an dem Projekt.",
+        "zh": "他继续在这个项目上工作。"
+      }
+    ],
+    "collocations": [
+      "weiter gehen",
+      "weiter machen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "方向",
+      "A2"
+    ],
+    "synonyms": [
+      "fort",
+      "voran"
+    ],
+    "antonyms": [
+      "zurück",
+      "aufhören"
+    ]
+  },
+  {
+    "word": "werfen",
+    "lemma": "werfen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "扔，投掷",
+        "en": "to throw"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er wirft den Ball zu mir.",
+        "zh": "他把球扔给我。"
+      },
+      {
+        "de": "Sie hat den Brief in den Briefkasten geworfen.",
+        "zh": "她把信扔进了信箱。"
+      }
+    ],
+    "collocations": [
+      "einen Ball werfen",
+      "etwas in den Müll werfen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geworfen"
+    },
+    "level": "A2",
+    "tags": [
+      "动作",
+      "A2"
+    ],
+    "synonyms": [
+      "schleudern",
+      "schmeißen"
+    ],
+    "antonyms": [
+      "fangen",
+      "halten"
+    ]
+  },
+  {
+    "word": "werktags",
+    "lemma": "werktags",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "在工作日",
+        "en": "on weekdays"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich arbeite werktags von 9 bis 17 Uhr.",
+        "zh": "我在工作日从9点工作到17点。"
+      },
+      {
+        "de": "Werktags fahren die Busse häufiger.",
+        "zh": "在工作日，公交车班次更频繁。"
+      }
+    ],
+    "collocations": [
+      "werktags arbeiten",
+      "werktags geöffnet"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "时间",
+      "B1"
+    ],
+    "synonyms": [
+      "an Werktagen"
+    ],
+    "antonyms": [
+      "sonntags",
+      "am Wochenende"
+    ]
+  },
+  {
+    "word": "Wert",
+    "lemma": "Wert",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Werte",
+    "meaning": [
+      {
+        "zh": "价值；数值",
+        "en": "value"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Wert dieses Hauses ist gestiegen.",
+        "zh": "这栋房子的价值上升了。"
+      },
+      {
+        "de": "Der gemessene Wert liegt bei 5,2.",
+        "zh": "测量值为5.2。"
+      }
+    ],
+    "collocations": [
+      "einen Wert haben",
+      "an Wert gewinnen",
+      "den Wert messen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "科学",
+      "B1"
+    ],
+    "synonyms": [
+      "Nutzen",
+      "Bedeutung"
+    ],
+    "antonyms": [
+      "Wertlosigkeit"
+    ]
+  },
+  {
+    "word": "wertvoll",
+    "lemma": "wertvoll",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "有价值的；珍贵的",
+        "en": "valuable"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieses Gemälde ist sehr wertvoll.",
+        "zh": "这幅画非常珍贵。"
+      },
+      {
+        "de": "Ihre Erfahrung ist für uns wertvoll.",
+        "zh": "您的经验对我们很有价值。"
+      }
+    ],
+    "collocations": [
+      "wertvolles Geschenk",
+      "wertvolle Erfahrung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "品质",
+      "B1"
+    ],
+    "synonyms": [
+      "kostbar",
+      "bedeutend"
+    ],
+    "antonyms": [
+      "wertlos",
+      "unbedeutend"
+    ]
+  },
+  {
+    "word": "Weste",
+    "lemma": "Weste",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Westen",
+    "meaning": [
+      {
+        "zh": "背心；马甲",
+        "en": "vest"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er trägt eine graue Weste über dem Hemd.",
+        "zh": "他在衬衫外面穿了一件灰色马甲。"
+      },
+      {
+        "de": "Die Weste hat zwei Taschen.",
+        "zh": "这件背心有两个口袋。"
+      }
+    ],
+    "collocations": [
+      "eine Weste anziehen",
+      "eine Weste tragen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "服装",
+      "B1"
+    ],
+    "synonyms": [
+      "Wickelweste",
+      "Pullunder"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "wiederaufladbar",
+    "lemma": "wiederaufladbar",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "可充电的",
+        "en": "rechargeable"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Batterie ist wiederaufladbar.",
+        "zh": "这块电池是可充电的。"
+      },
+      {
+        "de": "Ich benutze wiederaufladbare Akkus für meine Kamera.",
+        "zh": "我为我的相机使用可充电电池。"
+      }
+    ],
+    "collocations": [
+      "wiederaufladbare Batterie",
+      "wiederaufladbarer Akku"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "技术",
+      "环境",
+      "B2"
+    ],
+    "synonyms": [
+      "aufladbar"
+    ],
+    "antonyms": [
+      "nicht wiederaufladbar",
+      "Einweg-"
+    ]
+  },
+  {
+    "word": "wiederverwerten",
+    "lemma": "wiederverwerten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "回收利用；再利用",
+        "en": "recycle"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir sollten Plastikflaschen wiederverwerten.",
+        "zh": "我们应该回收塑料瓶。"
+      },
+      {
+        "de": "Altpapier kann man leicht wiederverwerten.",
+        "zh": "废纸很容易回收利用。"
+      }
+    ],
+    "collocations": [
+      "Abfall wiederverwerten",
+      "Materialien wiederverwerten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "wiederverwertet"
+    },
+    "level": "B2",
+    "tags": [
+      "环境",
+      "B2"
+    ],
+    "synonyms": [
+      "recyceln",
+      "wiederaufbereiten"
+    ],
+    "antonyms": [
+      "wegwerfen",
+      "entsorgen"
+    ]
+  },
+  {
+    "word": "wieso",
+    "lemma": "wieso",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "为什么；怎么",
+        "en": "why; how come"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wieso bist du so spät gekommen?",
+        "zh": "你为什么来得这么晚？"
+      },
+      {
+        "de": "Wieso hast du das nicht gesagt?",
+        "zh": "你怎么没说过这个？"
+      }
+    ],
+    "collocations": [
+      "wieso denn",
+      "wieso eigentlich"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "疑问",
+      "A2"
+    ],
+    "synonyms": [
+      "warum",
+      "weshalb"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Winter",
+    "lemma": "Winter",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Winter",
+    "meaning": [
+      {
+        "zh": "冬天；冬季",
+        "en": "winter"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Winter schneit es oft.",
+        "zh": "冬天经常下雪。"
+      },
+      {
+        "de": "Der Winter ist dieses Jahr sehr kalt.",
+        "zh": "今年冬天非常冷。"
+      }
+    ],
+    "collocations": [
+      "im Winter",
+      "Winterurlaub machen",
+      "Winterkleidung tragen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "季节",
+      "天气",
+      "A1"
+    ],
+    "synonyms": [
+      "Winterzeit"
+    ],
+    "antonyms": [
+      "Sommer"
+    ]
+  },
+  {
+    "word": "wirken",
+    "lemma": "wirken",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "起作用，有效果",
+        "en": "to have an effect, to work"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Medizin wirkt schnell gegen Kopfschmerzen.",
+        "zh": "这种药对头痛很快见效。"
+      },
+      {
+        "de": "Seine Rede wirkte überzeugend auf das Publikum.",
+        "zh": "他的演讲对听众很有说服力。"
+      }
+    ],
+    "collocations": [
+      "auf jemanden wirken",
+      "positiv wirken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gewirkt"
+    },
+    "level": "B1",
+    "tags": [
+      "动词",
+      "效果",
+      "B1"
+    ],
+    "synonyms": [
+      "effektiv sein",
+      "funktionieren"
+    ],
+    "antonyms": [
+      "versagen",
+      "wirkungslos sein"
+    ]
+  },
+  {
+    "word": "Wirklichkeit",
+    "lemma": "Wirklichkeit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Wirklichkeiten",
+    "meaning": [
+      {
+        "zh": "现实，实际",
+        "en": "reality"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Wirklichkeit sieht oft anders aus als die Theorie.",
+        "zh": "现实往往与理论不同。"
+      },
+      {
+        "de": "Er kann die harte Wirklichkeit nicht akzeptieren.",
+        "zh": "他无法接受残酷的现实。"
+      }
+    ],
+    "collocations": [
+      "in der Wirklichkeit",
+      "die Wirklichkeit erkennen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "名词",
+      "现实",
+      "B1"
+    ],
+    "synonyms": [
+      "Realität",
+      "Tatsache"
+    ],
+    "antonyms": [
+      "Traum",
+      "Illusion"
+    ]
+  },
+  {
+    "word": "Wirkung",
+    "lemma": "Wirkung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Wirkungen",
+    "meaning": [
+      {
+        "zh": "效果，作用",
+        "en": "effect, impact"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Medikament zeigt eine starke Wirkung.",
+        "zh": "这种药物显示出强烈的效果。"
+      },
+      {
+        "de": "Die Werbung hatte eine positive Wirkung auf die Verkaufszahlen.",
+        "zh": "广告对销售数字产生了积极影响。"
+      }
+    ],
+    "collocations": [
+      "Wirkung zeigen",
+      "eine Wirkung haben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "名词",
+      "效果",
+      "B1"
+    ],
+    "synonyms": [
+      "Effekt",
+      "Auswirkung"
+    ],
+    "antonyms": [
+      "Wirkungslosigkeit"
+    ]
+  },
+  {
+    "word": "Wirtschaft",
+    "lemma": "Wirtschaft",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Wirtschaften",
+    "meaning": [
+      {
+        "zh": "经济",
+        "en": "economy"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die deutsche Wirtschaft wächst langsam.",
+        "zh": "德国经济增长缓慢。"
+      },
+      {
+        "de": "Die Regierung versucht, die Wirtschaft zu stabilisieren.",
+        "zh": "政府试图稳定经济。"
+      }
+    ],
+    "collocations": [
+      "die Wirtschaft fördern",
+      "in der Wirtschaft arbeiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "名词",
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "Ökonomie",
+      "Volkswirtschaft"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "wohl",
+    "lemma": "wohl",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "可能，大概；舒适地",
+        "en": "probably, well"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er wird wohl morgen kommen.",
+        "zh": "他可能明天来。"
+      },
+      {
+        "de": "Mir ist heute nicht wohl.",
+        "zh": "我今天不舒服。"
+      }
+    ],
+    "collocations": [
+      "wohl fühlen",
+      "wohl oder übel"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "副词",
+      "可能性",
+      "B1"
+    ],
+    "synonyms": [
+      "vermutlich",
+      "wahrscheinlich"
+    ],
+    "antonyms": [
+      "unwohl",
+      "sicher nicht"
+    ]
+  },
+  {
+    "word": "Wohlbefinden",
+    "lemma": "Wohlbefinden",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "健康，舒适感",
+        "en": "well-being"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Regelmäßige Bewegung verbessert das Wohlbefinden.",
+        "zh": "定期运动改善健康。"
+      },
+      {
+        "de": "Das Wohlbefinden der Mitarbeiter ist dem Unternehmen wichtig.",
+        "zh": "员工的健康对公司很重要。"
+      }
+    ],
+    "collocations": [
+      "das Wohlbefinden steigern",
+      "für das Wohlbefinden sorgen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "名词",
+      "健康",
+      "B2"
+    ],
+    "synonyms": [
+      "Gesundheit",
+      "Wohlgefühl"
+    ],
+    "antonyms": [
+      "Unwohlsein",
+      "Krankheit"
+    ]
+  },
+  {
+    "word": "Wohlfahrtsanstalt",
+    "lemma": "Wohlfahrtsanstalt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Wohlfahrtsanstalten",
+    "meaning": [
+      {
+        "zh": "福利机构",
+        "en": "welfare institution"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Wohlfahrtsanstalt hilft bedürftigen Familien.",
+        "zh": "福利机构帮助贫困家庭。"
+      },
+      {
+        "de": "Er arbeitet in einer Wohlfahrtsanstalt für Obdachlose.",
+        "zh": "他在一家为无家可归者服务的福利机构工作。"
+      }
+    ],
+    "collocations": [
+      "eine Wohlfahrtsanstalt leiten",
+      "in einer Wohlfahrtsanstalt arbeiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "C1",
+    "tags": [
+      "名词",
+      "社会",
+      "C1"
+    ],
+    "synonyms": [
+      "Sozialamt",
+      "Wohlfahrtsorganisation"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Wolkenkratzer",
+    "lemma": "Wolkenkratzer",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Wolkenkratzer",
+    "meaning": [
+      {
+        "zh": "摩天大楼",
+        "en": "skyscraper"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In New York gibt es viele Wolkenkratzer.",
+        "zh": "纽约有很多摩天大楼。"
+      },
+      {
+        "de": "Der höchste Wolkenkratzer der Welt steht in Dubai.",
+        "zh": "世界上最高的摩天大楼在迪拜。"
+      }
+    ],
+    "collocations": [
+      "einen Wolkenkratzer bauen",
+      "in einem Wolkenkratzer wohnen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "名词",
+      "建筑",
+      "B1"
+    ],
+    "synonyms": [
+      "Hochhaus",
+      "Turm"
+    ],
+    "antonyms": [
+      "Flachbau",
+      "Hütte"
+    ]
+  },
+  {
+    "word": "wundern",
+    "lemma": "wundern",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "使惊奇，使惊讶",
+        "en": "to surprise, to astonish"
+      },
+      {
+        "zh": "感到惊奇，感到奇怪",
+        "en": "to wonder, to be surprised"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Es wundert mich, dass er nicht gekommen ist.",
+        "zh": "他没来，这让我感到奇怪。"
+      },
+      {
+        "de": "Ich wundere mich über sein Verhalten.",
+        "zh": "我对他的行为感到惊讶。"
+      }
+    ],
+    "collocations": [
+      "sich über etwas wundern",
+      "es wundert jemanden, dass..."
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gewundert"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "überraschen",
+      "erstaunen"
+    ],
+    "antonyms": [
+      "langweilen",
+      "gleichgültig lassen"
+    ]
+  },
+  {
+    "word": "wunderschön",
+    "lemma": "wunderschön",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "非常美丽的，极美的",
+        "en": "wonderfully beautiful, gorgeous"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Sonnenuntergang war wunderschön.",
+        "zh": "日落非常美丽。"
+      },
+      {
+        "de": "Sie hat ein wunderschönes Kleid getragen.",
+        "zh": "她穿了一件非常漂亮的裙子。"
+      }
+    ],
+    "collocations": [
+      "wunderschöne Aussicht",
+      "wunderschöne Blumen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "描述",
+      "A2"
+    ],
+    "synonyms": [
+      "herrlich",
+      "prachtvoll",
+      "atemberaubend"
+    ],
+    "antonyms": [
+      "hässlich",
+      "schrecklich"
+    ]
+  }
+]

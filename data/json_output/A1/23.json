@@ -1,0 +1,1562 @@
+[
+  {
+    "word": "verstehen",
+    "lemma": "verstehen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "理解，明白",
+        "en": "to understand"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich verstehe die Frage nicht.",
+        "zh": "我不理解这个问题。"
+      },
+      {
+        "de": "Kannst du mich verstehen?",
+        "zh": "你能听懂我吗？"
+      }
+    ],
+    "collocations": [
+      "etwas verstehen",
+      "sich mit jemandem verstehen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verstanden"
+    },
+    "level": "A2",
+    "tags": [
+      "语言",
+      "认知",
+      "A2"
+    ],
+    "synonyms": [
+      "begreifen",
+      "kapieren"
+    ],
+    "antonyms": [
+      "missverstehen"
+    ]
+  },
+  {
+    "word": "Verwandte",
+    "lemma": "Verwandte",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der/die",
+    "plural": "Verwandten",
+    "meaning": [
+      {
+        "zh": "亲戚",
+        "en": "relative"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Meine Verwandten wohnen in Berlin.",
+        "zh": "我的亲戚住在柏林。"
+      },
+      {
+        "de": "Sie hat viele Verwandte.",
+        "zh": "她有很多亲戚。"
+      }
+    ],
+    "collocations": [
+      "nahe Verwandte",
+      "entfernte Verwandte"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "家庭",
+      "社会",
+      "A2"
+    ],
+    "synonyms": [
+      "Familienmitglied",
+      "Angehöriger"
+    ],
+    "antonyms": [
+      "Fremder"
+    ]
+  },
+  {
+    "word": "Verzeihung",
+    "lemma": "Verzeihung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "原谅，道歉",
+        "en": "forgiveness, apology"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Verzeihung, das war ein Missverständnis.",
+        "zh": "对不起，这是一个误会。"
+      },
+      {
+        "de": "Ich bitte um Verzeihung.",
+        "zh": "我请求原谅。"
+      }
+    ],
+    "collocations": [
+      "um Verzeihung bitten",
+      "Verzeihung gewähren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "社交",
+      "B1"
+    ],
+    "synonyms": [
+      "Entschuldigung",
+      "Vergebung"
+    ],
+    "antonyms": [
+      "Beleidigung"
+    ]
+  },
+  {
+    "word": "viel",
+    "lemma": "viel",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "许多，大量",
+        "en": "much, many, a lot"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe viel Arbeit.",
+        "zh": "我有很多工作。"
+      },
+      {
+        "de": "Er isst viel.",
+        "zh": "他吃得很多。"
+      }
+    ],
+    "collocations": [
+      "viel Zeit",
+      "viel Geld"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "数量",
+      "日常",
+      "A1"
+    ],
+    "synonyms": [
+      "zahlreich",
+      "reichlich"
+    ],
+    "antonyms": [
+      "wenig"
+    ]
+  },
+  {
+    "word": "Num",
+    "lemma": "Num",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "努姆（姓氏或地名，非标准德语词）",
+        "en": "Num (surname or place name, non-standard German word)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Herr Num ist heute nicht da.",
+        "zh": "努姆先生今天不在。"
+      },
+      {
+        "de": "Das Dorf Num liegt in Bayern.",
+        "zh": "努姆村位于巴伐利亚。"
+      }
+    ],
+    "collocations": [],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "C1",
+    "tags": [
+      "专有名词",
+      "C1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "vielfältig",
+    "lemma": "vielfältig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "多样的，丰富的",
+        "en": "diverse, varied"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Stadt bietet ein vielfältiges Kulturangebot.",
+        "zh": "这座城市提供多样化的文化项目。"
+      },
+      {
+        "de": "Die Natur ist hier sehr vielfältig.",
+        "zh": "这里的自然非常多样。"
+      }
+    ],
+    "collocations": [
+      "vielfältige Möglichkeiten",
+      "vielfältige Interessen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "描述",
+      "文化",
+      "B2"
+    ],
+    "synonyms": [
+      "mannigfaltig",
+      "abwechslungsreich"
+    ],
+    "antonyms": [
+      "eintönig",
+      "einförmig"
+    ]
+  },
+  {
+    "word": "vielleicht",
+    "lemma": "vielleicht",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "也许，可能",
+        "en": "maybe, perhaps"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Vielleicht kommt er morgen.",
+        "zh": "也许他明天来。"
+      },
+      {
+        "de": "Das ist vielleicht eine gute Idee.",
+        "zh": "这可能是个好主意。"
+      }
+    ],
+    "collocations": [
+      "vielleicht ja",
+      "vielleicht nicht"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语气",
+      "日常",
+      "A1"
+    ],
+    "synonyms": [
+      "eventuell",
+      "möglicherweise"
+    ],
+    "antonyms": [
+      "sicher",
+      "bestimmt"
+    ]
+  },
+  {
+    "word": "Viertel",
+    "lemma": "Viertel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Viertel",
+    "meaning": [
+      {
+        "zh": "四分之一；街区",
+        "en": "quarter; neighborhood"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ein Viertel der Bevölkerung ist unter 18.",
+        "zh": "四分之一的人口在18岁以下。"
+      },
+      {
+        "de": "Wir wohnen in einem ruhigen Viertel.",
+        "zh": "我们住在一个安静的街区。"
+      }
+    ],
+    "collocations": [
+      "ein Viertel von etwas",
+      "im Viertel wohnen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "数量",
+      "地理",
+      "A2"
+    ],
+    "synonyms": [
+      "Stadtteil",
+      "Gegend"
+    ],
+    "antonyms": [
+      "Ganzes"
+    ]
+  },
+  {
+    "word": "vor",
+    "lemma": "vor",
+    "pos": [
+      "preposition",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "在...之前（时间/空间）",
+        "en": "before, in front of, ago"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Vor dem Haus steht ein Baum.",
+        "zh": "房子前面有一棵树。"
+      },
+      {
+        "de": "Vor einer Stunde war er noch hier.",
+        "zh": "一小时前他还在这里。"
+      }
+    ],
+    "collocations": [
+      "vor allem",
+      "vor kurzem"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "时间",
+      "空间",
+      "A1"
+    ],
+    "synonyms": [
+      "bevor",
+      "zuvor"
+    ],
+    "antonyms": [
+      "nach",
+      "hinter"
+    ]
+  },
+  {
+    "word": "vorbei",
+    "lemma": "vorbei",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "过去，结束，经过",
+        "en": "over, past, finished"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Regen ist vorbei.",
+        "zh": "雨停了。"
+      },
+      {
+        "de": "Er geht an mir vorbei, ohne zu grüßen.",
+        "zh": "他从我身边走过，没有打招呼。"
+      }
+    ],
+    "collocations": [
+      "vorbei sein",
+      "vorbeigehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "状态",
+      "方向",
+      "A2"
+    ],
+    "synonyms": [
+      "vorüber",
+      "beendet"
+    ],
+    "antonyms": [
+      "beginnend",
+      "kommend"
+    ]
+  },
+  {
+    "word": "vorbeikommen",
+    "lemma": "vorbeikommen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "顺便来访，经过",
+        "en": "to come by, to drop by, to pass by"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du heute Abend bei mir vorbeikommen?",
+        "zh": "你今晚能顺便来我这里吗？"
+      },
+      {
+        "de": "Wir sind an einem schönen See vorbeigekommen.",
+        "zh": "我们经过了一个美丽的湖。"
+      }
+    ],
+    "collocations": [
+      "bei jemandem vorbeikommen",
+      "an etwas vorbeikommen"
+    ],
+    "grammar": {
+      "case": "Dativ (bei jdm.)",
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "vorbeigekommen"
+    },
+    "level": "B1",
+    "tags": [
+      "社交",
+      "移动",
+      "B1"
+    ],
+    "synonyms": [
+      "besuchen",
+      "vorbeigehen"
+    ],
+    "antonyms": [
+      "wegbleiben",
+      "verpassen"
+    ]
+  },
+  {
+    "word": "vorhaben",
+    "lemma": "vorhaben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "计划，打算",
+        "en": "to plan, to intend"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Was hast du für morgen vor?",
+        "zh": "你明天有什么计划？"
+      },
+      {
+        "de": "Ich habe vor, nächstes Jahr nach Deutschland zu reisen.",
+        "zh": "我打算明年去德国旅行。"
+      }
+    ],
+    "collocations": [
+      "etwas vorhaben",
+      "vorhaben zu + Infinitiv"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "vorgehabt"
+    },
+    "level": "B1",
+    "tags": [
+      "计划",
+      "意图",
+      "B1"
+    ],
+    "synonyms": [
+      "planen",
+      "beabsichtigen"
+    ],
+    "antonyms": [
+      "ablehnen",
+      "verwerfen"
+    ]
+  },
+  {
+    "word": "Vorlesung",
+    "lemma": "Vorlesung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Vorlesungen",
+    "meaning": [
+      {
+        "zh": "（大学）讲座，讲课",
+        "en": "lecture"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Vorlesung beginnt um zehn Uhr.",
+        "zh": "讲座十点开始。"
+      },
+      {
+        "de": "Er besucht jede Woche drei Vorlesungen.",
+        "zh": "他每周上三节讲座课。"
+      }
+    ],
+    "collocations": [
+      "eine Vorlesung halten",
+      "zur Vorlesung gehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "教育",
+      "学术",
+      "A2"
+    ],
+    "synonyms": [
+      "Vortrag",
+      "Seminar"
+    ],
+    "antonyms": [
+      "Übung",
+      "Praktikum"
+    ]
+  },
+  {
+    "word": "Vormittag",
+    "lemma": "Vormittag",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Vormittage",
+    "meaning": [
+      {
+        "zh": "上午",
+        "en": "morning (before noon)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Am Vormittag habe ich einen Termin.",
+        "zh": "上午我有一个约会。"
+      },
+      {
+        "de": "Er arbeitet jeden Vormittag im Büro.",
+        "zh": "他每天上午在办公室工作。"
+      }
+    ],
+    "collocations": [
+      "am Vormittag",
+      "den ganzen Vormittag"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "时间",
+      "日常",
+      "A1"
+    ],
+    "synonyms": [
+      "Morgen"
+    ],
+    "antonyms": [
+      "Nachmittag",
+      "Abend"
+    ]
+  },
+  {
+    "word": "Vorname",
+    "lemma": "Vorname",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Vornamen",
+    "meaning": [
+      {
+        "zh": "名字，名",
+        "en": "first name, given name"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mein Vorname ist Anna.",
+        "zh": "我的名字是安娜。"
+      },
+      {
+        "de": "Bitte geben Sie Ihren Vor- und Nachnamen an.",
+        "zh": "请填写您的名和姓。"
+      }
+    ],
+    "collocations": [
+      "Vorname und Nachname",
+      "mit Vornamen heißen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "身份",
+      "个人信息",
+      "A1"
+    ],
+    "synonyms": [
+      "Rufname"
+    ],
+    "antonyms": [
+      "Nachname",
+      "Familienname"
+    ]
+  },
+  {
+    "word": "Vorschlag",
+    "lemma": "Vorschlag",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Vorschläge",
+    "meaning": [
+      {
+        "zh": "建议，提议",
+        "en": "suggestion, proposal"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Hast du einen Vorschlag für das Wochenende?",
+        "zh": "你对周末有什么建议吗？"
+      },
+      {
+        "de": "Sein Vorschlag wurde von allen akzeptiert.",
+        "zh": "他的建议被所有人接受了。"
+      }
+    ],
+    "collocations": [
+      "einen Vorschlag machen",
+      "einen Vorschlag annehmen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "沟通",
+      "决策",
+      "A2"
+    ],
+    "synonyms": [
+      "Idee",
+      "Anregung"
+    ],
+    "antonyms": [
+      "Ablehnung",
+      "Verweigerung"
+    ]
+  },
+  {
+    "word": "Vorspeise",
+    "lemma": "Vorspeise",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Vorspeisen",
+    "meaning": [
+      {
+        "zh": "开胃菜，前菜",
+        "en": "starter, appetizer"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Als Vorspeise bestellte ich eine Tomatensuppe.",
+        "zh": "作为开胃菜，我点了一份番茄汤。"
+      },
+      {
+        "de": "Die Vorspeise war sehr leicht und frisch.",
+        "zh": "这道前菜非常清淡新鲜。"
+      }
+    ],
+    "collocations": [
+      "eine Vorspeise bestellen",
+      "als Vorspeise servieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "饮食",
+      "B1"
+    ],
+    "synonyms": [
+      "Appetithappen",
+      "Entrée"
+    ],
+    "antonyms": [
+      "Nachspeise",
+      "Dessert"
+    ]
+  },
+  {
+    "word": "vorstellen",
+    "lemma": "vorstellen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "介绍；设想",
+        "en": "to introduce; to imagine"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Darf ich mich vorstellen? Ich heiße Anna.",
+        "zh": "我可以介绍一下自己吗？我叫安娜。"
+      },
+      {
+        "de": "Kannst du dir vorstellen, in Berlin zu leben?",
+        "zh": "你能想象住在柏林吗？"
+      }
+    ],
+    "collocations": [
+      "sich vorstellen",
+      "jemanden vorstellen",
+      "sich etwas vorstellen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "vorgestellt"
+    },
+    "level": "A2",
+    "tags": [
+      "社交",
+      "认知",
+      "A2"
+    ],
+    "synonyms": [
+      "präsentieren",
+      "einführen"
+    ],
+    "antonyms": [
+      "verstecken",
+      "vergessen"
+    ]
+  },
+  {
+    "word": "Waage",
+    "lemma": "Waage",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Waagen",
+    "meaning": [
+      {
+        "zh": "秤，天平；天秤座",
+        "en": "scale, balance; Libra"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Waage zeigt genau 70 Kilogramm an.",
+        "zh": "秤显示正好70公斤。"
+      },
+      {
+        "de": "Er ist im Sternzeichen Waage geboren.",
+        "zh": "他出生在天秤座。"
+      }
+    ],
+    "collocations": [
+      "auf die Waage steigen",
+      "die Waage benutzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "日常",
+      "天文",
+      "B1"
+    ],
+    "synonyms": [
+      "Balkenwaage",
+      "Federwaage"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "während",
+    "lemma": "während",
+    "pos": [
+      "preposition",
+      "conjunction"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "在……期间；而（表示对比）",
+        "en": "during; while (contrast)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Während des Unterrichts darf man nicht essen.",
+        "zh": "上课期间不允许吃东西。"
+      },
+      {
+        "de": "Er arbeitet, während sie schläft.",
+        "zh": "他在工作，而她却在睡觉。"
+      }
+    ],
+    "collocations": [
+      "während der Arbeit",
+      "während des Tages"
+    ],
+    "grammar": {
+      "case": "Genitiv",
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "时间",
+      "对比",
+      "B1"
+    ],
+    "synonyms": [
+      "im Laufe",
+      "indes"
+    ],
+    "antonyms": [
+      "außerhalb"
+    ]
+  },
+  {
+    "word": "Wand",
+    "lemma": "Wand",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Wände",
+    "meaning": [
+      {
+        "zh": "墙，墙壁",
+        "en": "wall"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Wand ist weiß gestrichen.",
+        "zh": "墙被刷成了白色。"
+      },
+      {
+        "de": "Er hängt ein Bild an die Wand.",
+        "zh": "他把一幅画挂在墙上。"
+      }
+    ],
+    "collocations": [
+      "an die Wand hängen",
+      "die Wand streichen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "建筑",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "Mauer",
+      "Wandfläche"
+    ],
+    "antonyms": [
+      "Boden",
+      "Decke"
+    ]
+  },
+  {
+    "word": "wandern",
+    "lemma": "wandern",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "徒步旅行，远足",
+        "en": "to hike, to wander"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir wandern jeden Sonntag im Wald.",
+        "zh": "我们每个星期天在森林里徒步。"
+      },
+      {
+        "de": "Sie ist gern in den Bergen gewandert.",
+        "zh": "她喜欢在山里远足。"
+      }
+    ],
+    "collocations": [
+      "wandern gehen",
+      "durch den Wald wandern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "partizip2": "gewandert"
+    },
+    "level": "A2",
+    "tags": [
+      "运动",
+      "自然",
+      "A2"
+    ],
+    "synonyms": [
+      "spazieren",
+      "trekkingen"
+    ],
+    "antonyms": [
+      "bleiben",
+      "sitzen"
+    ]
+  },
+  {
+    "word": "warm",
+    "lemma": "warm",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "温暖的，暖和的",
+        "en": "warm"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Wasser ist angenehm warm.",
+        "zh": "水很温暖舒适。"
+      },
+      {
+        "de": "Zieh dich warm an, es ist kalt draußen.",
+        "zh": "穿暖和点，外面很冷。"
+      }
+    ],
+    "collocations": [
+      "warmes Essen",
+      "warme Kleidung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "温度",
+      "感觉",
+      "A1"
+    ],
+    "synonyms": [
+      "heiß",
+      "mild"
+    ],
+    "antonyms": [
+      "kalt",
+      "kühl"
+    ]
+  },
+  {
+    "word": "warten",
+    "lemma": "warten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "等待，等候",
+        "en": "to wait"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich warte auf den Bus.",
+        "zh": "我在等公交车。"
+      },
+      {
+        "de": "Warte bitte einen Moment!",
+        "zh": "请等一会儿！"
+      }
+    ],
+    "collocations": [
+      "auf jemanden warten",
+      "warten auf etwas"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gewartet"
+    },
+    "level": "A1",
+    "tags": [
+      "日常",
+      "时间",
+      "A1"
+    ],
+    "synonyms": [
+      "abwarten",
+      "ausharren"
+    ],
+    "antonyms": [
+      "gehen",
+      "starten"
+    ]
+  },
+  {
+    "word": "Wartezimmer",
+    "lemma": "Wartezimmer",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Wartezimmer",
+    "meaning": [
+      {
+        "zh": "候诊室，等候室",
+        "en": "waiting room"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Wartezimmer sitzen viele Patienten.",
+        "zh": "候诊室里坐着很多病人。"
+      },
+      {
+        "de": "Bitte nehmen Sie im Wartezimmer Platz.",
+        "zh": "请在候诊室就座。"
+      }
+    ],
+    "collocations": [
+      "im Wartezimmer warten",
+      "das Wartezimmer betreten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "医疗",
+      "B1"
+    ],
+    "synonyms": [
+      "Empfangsraum"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "warum",
+    "lemma": "warum",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "为什么",
+        "en": "why"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Warum bist du zu spät gekommen?",
+        "zh": "你为什么迟到了？"
+      },
+      {
+        "de": "Ich weiß nicht, warum er traurig ist.",
+        "zh": "我不知道他为什么难过。"
+      }
+    ],
+    "collocations": [
+      "warum nicht",
+      "warum denn"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "疑问词",
+      "A1"
+    ],
+    "synonyms": [
+      "weshalb",
+      "wieso"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "was",
+    "lemma": "was",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "什么",
+        "en": "what"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Was machst du heute Abend?",
+        "zh": "你今晚做什么？"
+      },
+      {
+        "de": "Was ist das?",
+        "zh": "那是什么？"
+      }
+    ],
+    "collocations": [
+      "was für",
+      "was ist los"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "疑问词",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Waschen",
+    "lemma": "Waschen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "洗涤，洗",
+        "en": "washing"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Waschen der Kleidung dauert eine Stunde.",
+        "zh": "洗衣服需要一个小时。"
+      },
+      {
+        "de": "Nach dem Waschen hängt sie die Wäsche auf.",
+        "zh": "洗完后她把衣服挂起来。"
+      }
+    ],
+    "collocations": [
+      "das Waschen von Hand",
+      "beim Waschen helfen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "家务",
+      "B1"
+    ],
+    "synonyms": [
+      "Reinigung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Wasser",
+    "lemma": "Wasser",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Wasser",
+    "meaning": [
+      {
+        "zh": "水",
+        "en": "water"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich trinke gerne kaltes Wasser.",
+        "zh": "我喜欢喝冷水。"
+      },
+      {
+        "de": "Das Wasser im See ist sehr klar.",
+        "zh": "湖里的水很清澈。"
+      }
+    ],
+    "collocations": [
+      "Wasser trinken",
+      "Wasser kochen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "饮食",
+      "自然",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Wecker",
+    "lemma": "Wecker",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Wecker",
+    "meaning": [
+      {
+        "zh": "闹钟",
+        "en": "alarm clock"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Wecker klingelt um sieben Uhr.",
+        "zh": "闹钟七点响。"
+      },
+      {
+        "de": "Ich habe den Wecker gestellt, aber er hat nicht geklingelt.",
+        "zh": "我设了闹钟，但它没响。"
+      }
+    ],
+    "collocations": [
+      "den Wecker stellen",
+      "der Wecker klingelt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "Alarm"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "weg",
+    "lemma": "weg",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "离开，走开",
+        "en": "away, gone"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Geh weg von hier!",
+        "zh": "离开这里！"
+      },
+      {
+        "de": "Das Buch ist weg.",
+        "zh": "书不见了。"
+      }
+    ],
+    "collocations": [
+      "weg sein",
+      "weg gehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "方向",
+      "A2"
+    ],
+    "synonyms": [
+      "fort",
+      "verschwunden"
+    ],
+    "antonyms": [
+      "da",
+      "hier"
+    ]
+  },
+  {
+    "word": "wehtun",
+    "lemma": "wehtun",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "疼痛，伤害",
+        "en": "to hurt"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mein Kopf tut weh.",
+        "zh": "我头疼。"
+      },
+      {
+        "de": "Die Wunde tut sehr weh.",
+        "zh": "伤口很疼。"
+      }
+    ],
+    "collocations": [
+      "jemandem wehtun",
+      "sich wehtun"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "wegetan"
+    },
+    "level": "A2",
+    "tags": [
+      "身体",
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "schmerzen",
+      "verletzen"
+    ],
+    "antonyms": [
+      "heilen"
+    ]
+  },
+  {
+    "word": "Klick",
+    "lemma": "Klick",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Klicks",
+    "meaning": [
+      {
+        "zh": "点击（鼠标或键盘的咔哒声）",
+        "en": "click (sound of mouse or keyboard)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mit einem Klick öffnet sich das Fenster.",
+        "zh": "点击一下，窗口就打开了。"
+      },
+      {
+        "de": "Der Klick der Maus war laut zu hören.",
+        "zh": "鼠标的咔哒声听得很清楚。"
+      }
+    ],
+    "collocations": [
+      "ein Klick mit der Maus",
+      "per Klick bestellen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "Mausklick"
+    ],
+    "antonyms": []
+  }
+]

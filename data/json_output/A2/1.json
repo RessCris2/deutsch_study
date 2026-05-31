@@ -1,0 +1,1585 @@
+[
+  {
+    "word": "abbrennen",
+    "lemma": "abbrennen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "烧掉，烧毁",
+        "en": "to burn down"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Haus ist bei dem Brand komplett abgebrannt.",
+        "zh": "房子在火灾中完全烧毁了。"
+      },
+      {
+        "de": "Er hat das alte Holz im Kamin abgebrannt.",
+        "zh": "他把旧木头在壁炉里烧掉了。"
+      }
+    ],
+    "collocations": [
+      "ein Haus abbrennen",
+      "eine Kerze abbrennen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "abgebrannt"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "火灾",
+      "B1"
+    ],
+    "synonyms": [
+      "niederbrennen",
+      "verbrennen"
+    ],
+    "antonyms": [
+      "löschen"
+    ]
+  },
+  {
+    "word": "abhauen",
+    "lemma": "abhauen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "逃跑，溜走",
+        "en": "to run away, to clear off"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Dieb ist mit dem Geld abgehauen.",
+        "zh": "小偷带着钱逃跑了。"
+      },
+      {
+        "de": "Hau ab, sonst rufe ich die Polizei!",
+        "zh": "滚开，否则我叫警察了！"
+      }
+    ],
+    "collocations": [
+      "aus der Stadt abhauen",
+      "von zu Hause abhauen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "abgehauen"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "行为",
+      "B1"
+    ],
+    "synonyms": [
+      "fliehen",
+      "entkommen"
+    ],
+    "antonyms": [
+      "bleiben"
+    ]
+  },
+  {
+    "word": "Abitur",
+    "lemma": "Abitur",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Abiture",
+    "meaning": [
+      {
+        "zh": "高中毕业考试，高考",
+        "en": "A-levels, high school diploma"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat ihr Abitur mit sehr guten Noten bestanden.",
+        "zh": "她以非常好的成绩通过了高中毕业考试。"
+      },
+      {
+        "de": "Nach dem Abitur möchte er an der Universität studieren.",
+        "zh": "高中毕业后他想在大学学习。"
+      }
+    ],
+    "collocations": [
+      "Abitur machen",
+      "das Abitur bestehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "考试",
+      "B1"
+    ],
+    "synonyms": [
+      "Reifeprüfung",
+      "Matura"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Abrufo",
+    "lemma": "Abrufo",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Abrufos",
+    "meaning": [
+      {
+        "zh": "（特定语境中的）调用或请求",
+        "en": "call, request (in specific context)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Abrufo des Programms erfolgt automatisch.",
+        "zh": "程序的调用是自动进行的。"
+      },
+      {
+        "de": "Bitte bestätigen Sie den Abrufo der Daten.",
+        "zh": "请确认数据的请求。"
+      }
+    ],
+    "collocations": [
+      "einen Abrufo tätigen",
+      "Abrufo von Informationen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "C1",
+    "tags": [
+      "技术",
+      "专业术语",
+      "C1"
+    ],
+    "synonyms": [
+      "Abruf",
+      "Anforderung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "abrufen",
+    "lemma": "abrufen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "调用，提取",
+        "en": "to call up, to retrieve"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie kann die Daten von der Festplatte abrufen.",
+        "zh": "她可以从硬盘上提取数据。"
+      },
+      {
+        "de": "Rufe bitte die neuesten Informationen ab.",
+        "zh": "请调用最新的信息。"
+      }
+    ],
+    "collocations": [
+      "Daten abrufen",
+      "eine Funktion abrufen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "abgerufen"
+    },
+    "level": "B2",
+    "tags": [
+      "技术",
+      "计算机",
+      "B2"
+    ],
+    "synonyms": [
+      "aufrufen",
+      "herunterladen"
+    ],
+    "antonyms": [
+      "speichern"
+    ]
+  },
+  {
+    "word": "abschicken",
+    "lemma": "abschicken",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "发送，寄出",
+        "en": "to send off, to dispatch"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe den Brief gestern abgeschickt.",
+        "zh": "我昨天把信寄出去了。"
+      },
+      {
+        "de": "Bitte schicken Sie die E-Mail noch heute ab.",
+        "zh": "请今天就把邮件发出去。"
+      }
+    ],
+    "collocations": [
+      "einen Brief abschicken",
+      "eine Nachricht abschicken"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "abgeschickt"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "通信",
+      "A2"
+    ],
+    "synonyms": [
+      "versenden",
+      "absenden"
+    ],
+    "antonyms": [
+      "empfangen"
+    ]
+  },
+  {
+    "word": "Abschied",
+    "lemma": "Abschied",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Abschiede",
+    "meaning": [
+      {
+        "zh": "告别，离别",
+        "en": "farewell, departure"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Abschied von seiner Familie fiel ihm schwer.",
+        "zh": "与家人告别对他来说很困难。"
+      },
+      {
+        "de": "Wir haben eine kleine Abschiedsfeier organisiert.",
+        "zh": "我们组织了一个小型的告别派对。"
+      }
+    ],
+    "collocations": [
+      "Abschied nehmen",
+      "ein Abschiedsgeschenk"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Verabschiedung",
+      "Trennung"
+    ],
+    "antonyms": [
+      "Begrüßung",
+      "Wiedersehen"
+    ]
+  },
+  {
+    "word": "abschlieBen",
+    "lemma": "abschließen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "锁上，完成，结束",
+        "en": "to lock, to complete, to conclude"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Vergiss nicht, die Tür abzuschließen.",
+        "zh": "别忘了锁门。"
+      },
+      {
+        "de": "Er hat sein Studium erfolgreich abgeschlossen.",
+        "zh": "他成功完成了学业。"
+      }
+    ],
+    "collocations": [
+      "die Tür abschließen",
+      "ein Projekt abschließen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "abgeschlossen"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "beenden",
+      "verschließen"
+    ],
+    "antonyms": [
+      "öffnen",
+      "beginnen"
+    ]
+  },
+  {
+    "word": "Abschluss",
+    "lemma": "Abschluss",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Abschlüsse",
+    "meaning": [
+      {
+        "zh": "结束；毕业；合同签订",
+        "en": "completion; graduation; conclusion"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Nach dem Abschluss des Studiums suchte sie einen Job.",
+        "zh": "大学毕业后，她找了一份工作。"
+      },
+      {
+        "de": "Der Abschluss des Vertrags war für beide Seiten vorteilhaft.",
+        "zh": "合同的签订对双方都有利。"
+      }
+    ],
+    "collocations": [
+      "einen Abschluss machen",
+      "zum Abschluss bringen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Ende",
+      "Beendigung"
+    ],
+    "antonyms": [
+      "Anfang",
+      "Beginn"
+    ]
+  },
+  {
+    "word": "Abschlussprüfung",
+    "lemma": "Abschlussprüfung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Abschlussprüfungen",
+    "meaning": [
+      {
+        "zh": "毕业考试；期末考试",
+        "en": "final examination; graduation exam"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Abschlussprüfung in Mathematik war sehr schwer.",
+        "zh": "数学毕业考试非常难。"
+      },
+      {
+        "de": "Er bereitet sich intensiv auf die Abschlussprüfung vor.",
+        "zh": "他正在紧张地准备毕业考试。"
+      }
+    ],
+    "collocations": [
+      "eine Abschlussprüfung ablegen",
+      "die Abschlussprüfung bestehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "考试",
+      "B1"
+    ],
+    "synonyms": [
+      "Abschlussexamen",
+      "Endprüfung"
+    ],
+    "antonyms": [
+      "Zwischenprüfung"
+    ]
+  },
+  {
+    "word": "Abschnitt",
+    "lemma": "Abschnitt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Abschnitte",
+    "meaning": [
+      {
+        "zh": "段落；部分；阶段",
+        "en": "section; segment; period"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Lies den ersten Abschnitt des Textes.",
+        "zh": "阅读课文的第一段。"
+      },
+      {
+        "de": "Der schwierigste Abschnitt der Reise war die Bergstrecke.",
+        "zh": "旅程中最困难的部分是山路。"
+      }
+    ],
+    "collocations": [
+      "in Abschnitte einteilen",
+      "ein neuer Abschnitt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语言",
+      "旅行",
+      "B1"
+    ],
+    "synonyms": [
+      "Teil",
+      "Segment"
+    ],
+    "antonyms": [
+      "Ganzes"
+    ]
+  },
+  {
+    "word": "Absicht",
+    "lemma": "Absicht",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Absichten",
+    "meaning": [
+      {
+        "zh": "意图；目的",
+        "en": "intention; purpose"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Es war nicht meine Absicht, dich zu verletzen.",
+        "zh": "我不是有意要伤害你。"
+      },
+      {
+        "de": "Er hat die Absicht, nächstes Jahr nach Deutschland zu reisen.",
+        "zh": "他打算明年去德国旅行。"
+      }
+    ],
+    "collocations": [
+      "die Absicht haben",
+      "mit Absicht"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Vorhaben",
+      "Plan"
+    ],
+    "antonyms": [
+      "Zufall"
+    ]
+  },
+  {
+    "word": "absolut",
+    "lemma": "absolut",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "绝对的；完全地",
+        "en": "absolute; absolutely"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist absolut unmöglich.",
+        "zh": "这绝对不可能。"
+      },
+      {
+        "de": "Er hat absolut recht.",
+        "zh": "他完全正确。"
+      }
+    ],
+    "collocations": [
+      "absolut sicher",
+      "absolut notwendig"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语言",
+      "程度",
+      "B1"
+    ],
+    "synonyms": [
+      "völlig",
+      "total"
+    ],
+    "antonyms": [
+      "relativ",
+      "teilweise"
+    ]
+  },
+  {
+    "word": "abstellent",
+    "lemma": "abstellen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "放置；关闭；消除",
+        "en": "to put down; to turn off; to eliminate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Stell das Fahrrad bitte im Keller ab.",
+        "zh": "请把自行车放在地下室。"
+      },
+      {
+        "de": "Er hat den Motor abgestellt.",
+        "zh": "他关掉了发动机。"
+      }
+    ],
+    "collocations": [
+      "das Auto abstellen",
+      "ein Problem abstellen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "abgestellt"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "技术",
+      "B1"
+    ],
+    "synonyms": [
+      "hinstellen",
+      "ausschalten"
+    ],
+    "antonyms": [
+      "aufstellen",
+      "einschalten"
+    ]
+  },
+  {
+    "word": "achten",
+    "lemma": "achten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "注意；尊重",
+        "en": "to pay attention; to respect"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Du solltest auf deine Gesundheit achten.",
+        "zh": "你应该注意你的健康。"
+      },
+      {
+        "de": "Wir achten die Meinung anderer.",
+        "zh": "我们尊重他人的意见。"
+      }
+    ],
+    "collocations": [
+      "auf etwas achten",
+      "jemanden achten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geachtet"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "beachten",
+      "respektieren"
+    ],
+    "antonyms": [
+      "missachten",
+      "ignorieren"
+    ]
+  },
+  {
+    "word": "Advent",
+    "lemma": "Advent",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Advente",
+    "meaning": [
+      {
+        "zh": "降临节（圣诞节前四周）",
+        "en": "Advent (the period before Christmas)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Advent zünden wir jeden Sonntag eine Kerze an.",
+        "zh": "在降临节期间，我们每个星期日点燃一支蜡烛。"
+      },
+      {
+        "de": "Der Advent beginnt Ende November.",
+        "zh": "降临节从十一月底开始。"
+      }
+    ],
+    "collocations": [
+      "erster Advent",
+      "Adventszeit"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "节日",
+      "宗教",
+      "A2"
+    ],
+    "synonyms": [
+      "Vorweihnachtszeit"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Adventskalender",
+    "lemma": "Adventskalender",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Adventskalender",
+    "meaning": [
+      {
+        "zh": "圣诞日历",
+        "en": "Advent calendar"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Jeden Tag öffnet das Kind ein Türchen vom Adventskalender.",
+        "zh": "孩子每天打开圣诞日历的一扇小门。"
+      },
+      {
+        "de": "Sie hat einen selbstgemachten Adventskalender für ihren Freund gebastelt.",
+        "zh": "她为男朋友手工制作了一个圣诞日历。"
+      }
+    ],
+    "collocations": [
+      "einen Adventskalender basteln",
+      "ein Türchen öffnen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "文化",
+      "节日",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Adventskranz",
+    "lemma": "Adventskranz",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Adventskränze",
+    "meaning": [
+      {
+        "zh": "降临节花环",
+        "en": "Advent wreath"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Adventskranz steht auf dem Tisch und hat vier Kerzen.",
+        "zh": "降临节花环放在桌子上，有四根蜡烛。"
+      },
+      {
+        "de": "Am ersten Advent wird die erste Kerze am Adventskranz angezündet.",
+        "zh": "在降临节第一个星期日，点燃花环上的第一根蜡烛。"
+      }
+    ],
+    "collocations": [
+      "einen Adventskranz binden",
+      "Kerzen am Adventskranz anzünden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "文化",
+      "节日",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "akademisch",
+    "lemma": "akademisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "学术的",
+        "en": "academic"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat eine akademische Karriere an der Universität gemacht.",
+        "zh": "他在大学里从事学术生涯。"
+      },
+      {
+        "de": "Die Diskussion war sehr akademisch und wenig praxisnah.",
+        "zh": "讨论非常学术化，缺乏实践性。"
+      }
+    ],
+    "collocations": [
+      "akademische Ausbildung",
+      "akademischer Grad"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "教育",
+      "学术",
+      "B2"
+    ],
+    "synonyms": [
+      "wissenschaftlich",
+      "theoretisch"
+    ],
+    "antonyms": [
+      "praktisch",
+      "beruflich"
+    ]
+  },
+  {
+    "word": "allerdings",
+    "lemma": "allerdings",
+    "pos": [
+      "adverb",
+      "conjunction"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "不过，然而",
+        "en": "however, though"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Wetter ist schön, allerdings ist es sehr kalt.",
+        "zh": "天气很好，不过很冷。"
+      },
+      {
+        "de": "Er hat viel Geld, allerdings ist er nicht glücklich.",
+        "zh": "他有很多钱，然而并不快乐。"
+      }
+    ],
+    "collocations": [
+      "allerdings nicht",
+      "allerdings schon"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语法",
+      "连接词",
+      "B1"
+    ],
+    "synonyms": [
+      "jedoch",
+      "aber"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Alpen",
+    "lemma": "Alpen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Alpen",
+    "meaning": [
+      {
+        "zh": "阿尔卑斯山",
+        "en": "Alps"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Sommer wandern viele Touristen in den Alpen.",
+        "zh": "夏天许多游客在阿尔卑斯山徒步。"
+      },
+      {
+        "de": "Die Alpen erstrecken sich über mehrere Länder Europas.",
+        "zh": "阿尔卑斯山横跨欧洲多个国家。"
+      }
+    ],
+    "collocations": [
+      "in den Alpen wandern",
+      "die Alpen überqueren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "地理",
+      "自然",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Alter",
+    "lemma": "Alter",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Alter",
+    "meaning": [
+      {
+        "zh": "年龄",
+        "en": "age"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In diesem Alter gehen die Kinder in die Schule.",
+        "zh": "在这个年龄，孩子们上学。"
+      },
+      {
+        "de": "Sie sieht trotz ihres Alters sehr jung aus.",
+        "zh": "尽管年龄大了，她看起来还很年轻。"
+      }
+    ],
+    "collocations": [
+      "im Alter von",
+      "ein hohes Alter erreichen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "人口",
+      "A2"
+    ],
+    "synonyms": [
+      "Lebensalter",
+      "Jahre"
+    ],
+    "antonyms": [
+      "Jugend"
+    ]
+  },
+  {
+    "word": "Altersgruppe",
+    "lemma": "Altersgruppe",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Altersgruppen",
+    "meaning": [
+      {
+        "zh": "年龄组",
+        "en": "age group"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Altersgruppe hat die höchste Arbeitslosenquote.",
+        "zh": "这个年龄组的失业率最高。"
+      },
+      {
+        "de": "Die Studie befragt verschiedene Altersgruppen zu ihren Gewohnheiten.",
+        "zh": "这项研究调查了不同年龄组的习惯。"
+      }
+    ],
+    "collocations": [
+      "in einer Altersgruppe",
+      "verschiedene Altersgruppen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "统计",
+      "B1"
+    ],
+    "synonyms": [
+      "Altersklasse",
+      "Generation"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "anbieten",
+    "lemma": "anbieten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "提供",
+        "en": "to offer"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Restaurant bietet eine große Auswahl an Gerichten an.",
+        "zh": "这家餐厅提供多种菜肴。"
+      },
+      {
+        "de": "Kann ich dir einen Kaffee anbieten?",
+        "zh": "我能给你一杯咖啡吗？"
+      }
+    ],
+    "collocations": [
+      "etwas anbieten",
+      "sich anbieten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "angeboten"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "商务",
+      "A2"
+    ],
+    "synonyms": [
+      "offerieren",
+      "bereitstellen"
+    ],
+    "antonyms": [
+      "ablehnen",
+      "verweigern"
+    ]
+  },
+  {
+    "word": "andererseits",
+    "lemma": "andererseits",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "另一方面",
+        "en": "on the other hand"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Einerseits möchte ich reisen, andererseits habe ich Angst vor dem Fliegen.",
+        "zh": "一方面我想旅行，另一方面我害怕坐飞机。"
+      },
+      {
+        "de": "Der Job ist gut bezahlt, andererseits ist er sehr stressig.",
+        "zh": "这份工作薪水不错，但另一方面压力很大。"
+      }
+    ],
+    "collocations": [
+      "einerseits ... andererseits",
+      "andererseits aber"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "连接词",
+      "逻辑关系",
+      "B1"
+    ],
+    "synonyms": [
+      "hingegen",
+      "dagegen"
+    ],
+    "antonyms": [
+      "einerseits"
+    ]
+  },
+  {
+    "word": "anders",
+    "lemma": "anders",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "不同地，别的",
+        "en": "differently, else"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das hätte ich anders gemacht.",
+        "zh": "我会做得不一样。"
+      },
+      {
+        "de": "Kannst du mir das anders erklären?",
+        "zh": "你能用别的方式给我解释一下吗？"
+      }
+    ],
+    "collocations": [
+      "anders denken",
+      "anders aussehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "副词",
+      "比较",
+      "A2"
+    ],
+    "synonyms": [
+      "unterschiedlich",
+      "verschieden"
+    ],
+    "antonyms": [
+      "gleich",
+      "genauso"
+    ]
+  },
+  {
+    "word": "Anekdote",
+    "lemma": "Anekdote",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Anekdoten",
+    "meaning": [
+      {
+        "zh": "轶事，趣闻",
+        "en": "anecdote"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er erzählte eine lustige Anekdote aus seiner Kindheit.",
+        "zh": "他讲了一个童年趣事。"
+      },
+      {
+        "de": "Die Anekdote über den berühmten Schriftsteller machte alle lachen.",
+        "zh": "关于那位著名作家的轶事让大家都笑了。"
+      }
+    ],
+    "collocations": [
+      "eine Anekdote erzählen",
+      "lustige Anekdote"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "文学",
+      "故事",
+      "B1"
+    ],
+    "synonyms": [
+      "Geschichte",
+      "Erzählung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Anerkennung",
+    "lemma": "Anerkennung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Anerkennungen",
+    "meaning": [
+      {
+        "zh": "认可，承认",
+        "en": "recognition, acknowledgment"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Für seine Arbeit erhielt er viel Anerkennung.",
+        "zh": "他的工作得到了很多认可。"
+      },
+      {
+        "de": "Die Anerkennung ausländischer Abschlüsse ist oft kompliziert.",
+        "zh": "外国学历的认可通常很复杂。"
+      }
+    ],
+    "collocations": [
+      "Anerkennung erhalten",
+      "Anerkennung aussprechen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "职场",
+      "B1"
+    ],
+    "synonyms": [
+      "Würdigung",
+      "Respekt"
+    ],
+    "antonyms": [
+      "Ablehnung",
+      "Missachtung"
+    ]
+  },
+  {
+    "word": "Anfang",
+    "lemma": "Anfang",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Anfänge",
+    "meaning": [
+      {
+        "zh": "开始，开头",
+        "en": "beginning, start"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Am Anfang des Films war es noch langweilig.",
+        "zh": "电影开头还很无聊。"
+      },
+      {
+        "de": "Der Anfang ist immer schwer.",
+        "zh": "万事开头难。"
+      }
+    ],
+    "collocations": [
+      "am Anfang",
+      "von Anfang an"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "时间",
+      "A2"
+    ],
+    "synonyms": [
+      "Beginn",
+      "Start"
+    ],
+    "antonyms": [
+      "Ende",
+      "Schluss"
+    ]
+  },
+  {
+    "word": "anfangs",
+    "lemma": "anfangs",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "起初，开始时",
+        "en": "initially, at first"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Anfangs hatte ich Schwierigkeiten mit der neuen Software.",
+        "zh": "起初我用新软件有困难。"
+      },
+      {
+        "de": "Anfangs war das Wetter schlecht, später wurde es besser.",
+        "zh": "一开始天气不好，后来变好了。"
+      }
+    ],
+    "collocations": [
+      "anfangs noch",
+      "anfangs nicht"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "时间副词",
+      "B1"
+    ],
+    "synonyms": [
+      "zunächst",
+      "anfänglich"
+    ],
+    "antonyms": [
+      "schließlich",
+      "später"
+    ]
+  },
+  {
+    "word": "Angabe",
+    "lemma": "Angabe",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Angaben",
+    "meaning": [
+      {
+        "zh": "说明，信息，陈述",
+        "en": "information, statement, specification"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bitte machen Sie Ihre persönlichen Angaben im Formular.",
+        "zh": "请在表格中填写您的个人信息。"
+      },
+      {
+        "de": "Die Angaben in der Bedienungsanleitung sind nicht korrekt.",
+        "zh": "使用说明书中的信息不正确。"
+      }
+    ],
+    "collocations": [
+      "Angaben machen",
+      "persönliche Angaben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "信息",
+      "行政",
+      "B1"
+    ],
+    "synonyms": [
+      "Information",
+      "Auskunft"
+    ],
+    "antonyms": [
+      "Verschweigen",
+      "Geheimnis"
+    ]
+  },
+  {
+    "word": "angespannt",
+    "lemma": "angespannt",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "紧张的，绷紧的",
+        "en": "tense, strained"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Atmosphäre im Raum war sehr angespannt.",
+        "zh": "房间里的气氛非常紧张。"
+      },
+      {
+        "de": "Er wirkte müde und angespannt nach der langen Arbeit.",
+        "zh": "长时间工作后，他显得疲惫而紧张。"
+      }
+    ],
+    "collocations": [
+      "angespannte Situation",
+      "angespannte Beziehung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "状态",
+      "B1"
+    ],
+    "synonyms": [
+      "nervös",
+      "gestresst"
+    ],
+    "antonyms": [
+      "entspannt",
+      "ruhig"
+    ]
+  },
+  {
+    "word": "anhaben",
+    "lemma": "anhaben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "穿着，戴着",
+        "en": "to wear (clothing, accessories)"
+      },
+      {
+        "zh": "对...有（某种影响或责任）",
+        "en": "to have (an effect or responsibility) on someone"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Was hast du heute an?",
+        "zh": "你今天穿了什么？"
+      },
+      {
+        "de": "Sie hat ein rotes Kleid an.",
+        "zh": "她穿着一件红裙子。"
+      },
+      {
+        "de": "Er hat nichts an.",
+        "zh": "他什么都没穿。"
+      },
+      {
+        "de": "Das habe ich dir an.",
+        "zh": "这是我对你做的（或：这是你的错）。"
+      }
+    ],
+    "collocations": [
+      "etwas anhaben (Kleidung)",
+      "jemandem etwas anhaben (können)"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "angehabt"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "tragen",
+      "anziehen (im Sinne von tragen)"
+    ],
+    "antonyms": [
+      "ausziehen",
+      "ablegen"
+    ]
+  }
+]

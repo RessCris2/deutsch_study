@@ -1,0 +1,1157 @@
+[
+  {
+    "word": "Abenteuer",
+    "lemma": "Abenteuer",
+    "pos": ["noun"],
+    "gender": "das",
+    "plural": "-e",
+    "meaning": [
+      {
+        "zh": "冒险",
+        "en": "adventure"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist auf ein großes Abenteuer gegangen.",
+        "zh": "他去进行一次大冒险。"
+      },
+      {
+        "de": "Das Abenteuer im Wald war unvergesslich.",
+        "zh": "森林里的冒险令人难忘。"
+      }
+    ],
+    "collocations": [
+      "auf ein Abenteuer gehen",
+      "großes Abenteuer"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": ["生活", "B1"],
+    "synonyms": ["Risiko", "Expedition"],
+    "antonyms": []
+  },
+  {
+    "word": "Abfall",
+    "lemma": "Abfall",
+    "pos": ["noun"],
+    "gender": "der",
+    "plural": "-e",
+    "meaning": [
+      {
+        "zh": "垃圾，废物，废料",
+        "en": "waste, garbage, refuse"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Abfall muss richtig getrennt werden.",
+        "zh": "垃圾必须正确分类。"
+      },
+      {
+        "de": "Industrieabfall schädigt die Umwelt.",
+        "zh": "工业废料损害环境。"
+      }
+    ],
+    "collocations": [
+      "Müllabfall",
+      "Abfall trennen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": ["环保", "生活", "B1"],
+    "synonyms": ["Müll", "Schutt"],
+    "antonyms": []
+  },
+  {
+    "word": "abhalten",
+    "lemma": "abhalten",
+    "pos": ["verb"],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "妨碍，挡住",
+        "en": "to prevent, to hinder"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die starken Winde haben den Wettkampf abgehalten.",
+        "zh": "强风阻碍了比赛的进行。"
+      },
+      {
+        "de": "Du kannst mich nicht davon abhalten, zu gehen.",
+        "zh": "你不能阻止我去。"
+      }
+    ],
+    "collocations": [
+      "jemanden von etwas abhalten",
+      "etwas abhalten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "abgehalten"
+    },
+    "level": "B1",
+    "tags": ["生活", "B1"],
+    "synonyms": ["verhindern", "behindern"],
+    "antonyms": ["ermöglichen"]
+  },
+  {
+    "word": "abkapseln",
+    "lemma": "abkapseln",
+    "pos": ["verb"],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "隔离，隔绝",
+        "en": "to isolate oneself"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er kapselt sich nach der Trennung von der Welt ab.",
+        "zh": "分手后他把自己与外界隔绝开来。"
+      },
+      {
+        "de": "Manche Menschen kapseln sich im Stress ab.",
+        "zh": "有些人在压力下会把自己孤立起来。"
+      }
+    ],
+    "collocations": [
+      "sich abkapseln",
+      "von anderen abkapseln"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "abgekapselt"
+    },
+    "level": "B2",
+    "tags": ["心理", "生活", "B2"],
+    "synonyms": ["isolieren", "sich zurückziehen"],
+    "antonyms": ["sich öffnen"]
+  },
+  {
+    "word": "ablaufen",
+    "lemma": "ablaufen",
+    "pos": ["verb"],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "进行",
+        "en": "to proceed, to run its course"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Vertrag läuft in drei Monaten ab.",
+        "zh": "合同三个月后到期。"
+      },
+      {
+        "de": "Wie läuft das Projekt ab?",
+        "zh": "这个项目进展如何？"
+      }
+    ],
+    "collocations": [
+      "ablaufen lassen",
+      "Termin ablaufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "abgelaufen"
+    },
+    "level": "B1",
+    "tags": ["商务", "生活", "B1"],
+    "synonyms": ["verlaufen", "durchlaufen"],
+    "antonyms": []
+  },
+  {
+    "word": "Absender",
+    "lemma": "Absender",
+    "pos": ["noun"],
+    "gender": "der",
+    "plural": "-",
+    "meaning": [
+      {
+        "zh": "寄信人，寄件人",
+        "en": "sender, mailer"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Absender des Pakets ist unbekannt.",
+        "zh": "包裹的寄件人未知。"
+      },
+      {
+        "de": "Bitte gib den Absender auf dem Formular an.",
+        "zh": "请在表格上填写寄件人信息。"
+      }
+    ],
+    "collocations": [
+      "Absenderadresse",
+      "Name des Absenders"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": ["邮件", "生活", "B1"],
+    "synonyms": ["Verfasser", "Sender"],
+    "antonyms": []
+  },
+  {
+    "word": "abstimmen",
+    "lemma": "abstimmen",
+    "pos": ["verb"],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "使协调一致；投票表决",
+        "en": "to coordinate; to vote"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir müssen uns im Team abstimmen.",
+        "zh": "我们团队内部需要协调一致。"
+      },
+      {
+        "de": "Die Mitglieder haben für den Antrag abgestimmt.",
+        "zh": "成员们对提案进行了投票。"
+      }
+    ],
+    "collocations": [
+      "mit jemandem abstimmen",
+      "über etwas abstimmen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "abgestimmt"
+    },
+    "level": "B1",
+    "tags": ["社交", "商务", "B1"],
+    "synonyms": ["koordinieren", "wählen"],
+    "antonyms": []
+  },
+  {
+    "word": "ahnen",
+    "lemma": "ahnen",
+    "pos": ["verb"],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "预感，预料",
+        "en": "to suspect, to anticipate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich ahnte, dass etwas nicht stimmte.",
+        "zh": "我预感有什么不对劲。"
+      },
+      {
+        "de": "Sie ahnen nichts von unserem Plan.",
+        "zh": "他们对我们的计划一无所知。"
+      }
+    ],
+    "collocations": [
+      "etwas ahnen",
+      "schon ahnen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geahnt"
+    },
+    "level": "B1",
+    "tags": ["心理", "生活", "B1"],
+    "synonyms": ["vermuten", "erahnen"],
+    "antonyms": []
+  },
+  {
+    "word": "aktiv",
+    "lemma": "aktiv",
+    "pos": ["adjective"],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "(某个社团的)正式的(成员)",
+        "en": "active (member)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie ist ein aktives Mitglied im Verein.",
+        "zh": "她是协会的正式成员。"
+      },
+      {
+        "de": "Nur aktive Mitglieder dürfen abstimmen.",
+        "zh": "只有正式成员才能投票。"
+      }
+    ],
+    "collocations": [
+      "aktives Mitglied",
+      "aktiv teilnehmen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": ["社团", "生活", "B1"],
+    "synonyms": ["engagiert", "beteiligt"],
+    "antonyms": ["passiv"]
+  },
+  {
+    "word": "Aktivität",
+    "lemma": "Aktivität",
+    "pos": ["noun"],
+    "gender": "die",
+    "plural": "-en",
+    "meaning": [
+      {
+        "zh": "活动；积极性",
+        "en": "activity; enthusiasm"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Nach der Arbeit treibe ich gerne Sport als Aktivität.",
+        "zh": "下班后我喜欢做运动作为活动。"
+      },
+      {
+        "de": "Ihre Aktivität im Unterricht ist sehr hoch.",
+        "zh": "她在课堂上的积极性很高。"
+      }
+    ],
+    "collocations": [
+      "soziale Aktivität",
+      "hohe Aktivität zeigen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": ["生活", "教育", "B1"],
+    "synonyms": ["Tätigkeit", "Engagement"],
+    "antonyms": []
+  },
+  {
+    "word": "aktuell",
+    "lemma": "aktuell",
+    "pos": ["adjective"],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "当前的，有现实意义的",
+        "en": "current, topical"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieses Thema ist sehr aktuell.",
+        "zh": "这个话题非常当前。"
+      },
+      {
+        "de": "Wir berichten über aktuelle Ereignisse.",
+        "zh": "我们报道当前事件。"
+      }
+    ],
+    "collocations": [
+      "aktuell sein",
+      "aktuelles Problem"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": ["新闻", "生活", "B1"],
+    "synonyms": ["zeitgemäß", "aktuell"],
+    "antonyms": ["veraltet"]
+  },
+  {
+    "word": "allein",
+    "lemma": "allein",
+    "pos": ["adjective", "adverb"],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "单独，独自；仅仅，只",
+        "en": "alone, only"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie lebt allein in Berlin.",
+        "zh": "她独自住在柏林。"
+      },
+      {
+        "de": "Es ist allein meine Schuld.",
+        "zh": "这只是我的错。"
+      }
+    ],
+    "collocations": [
+      "allein sein",
+      "allein auf jemanden zählen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": ["生活", "情感", "B1"],
+    "synonyms": ["einsam", "nur"],
+    "antonyms": ["gemeinsam", "zusammen"]
+  },
+  {
+    "word": "allgemein",
+    "lemma": "allgemein",
+    "pos": ["adjective"],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "一般的，普通的",
+        "en": "general, common"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist allgemein bekannt.",
+        "zh": "这是众所周知的。"
+      },
+      {
+        "de": "Es gibt allgemeine Regeln für alle.",
+        "zh": "有适用于所有人的普通规则。"
+      }
+    ],
+    "collocations": [
+      "allgemein gültig",
+      "allgemeine Meinung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": ["语言", "社会", "B1"],
+    "synonyms": ["generell", "üblich"],
+    "antonyms": ["besonders", "speziell"]
+  },
+  {
+    "word": "allmählich",
+    "lemma": "allmählich",
+    "pos": ["adjective"],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "渐渐地",
+        "en": "gradually"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Es wird allmählich dunkel.",
+        "zh": "天渐渐黑了。"
+      },
+      {
+        "de": "Sie hat allmählich ihre Angst verloren.",
+        "zh": "她渐渐克服了恐惧。"
+      }
+    ],
+    "collocations": [
+      "allmählich werden",
+      "allmählich verbessern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": ["时间", "生活", "B1"],
+    "synonyms": ["nach und nach", "schrittweise"],
+    "antonyms": ["plötzlich"]
+  },
+  {
+    "word": "also",
+    "lemma": "also",
+    "pos": ["conjunction"],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "因此；那么",
+        "en": "therefore; so"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Es regnet, also bleiben wir zu Hause.",
+        "zh": "下雨了，因此我们待在家里。"
+      },
+      {
+        "de": "Also, was machen wir jetzt?",
+        "zh": "那么，我们现在做什么？"
+      }
+    ],
+    "collocations": [
+      "also dann",
+      "also doch"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": ["逻辑", "连接", "B1"],
+    "synonyms": ["deshalb", "folglich"],
+    "antonyms": []
+  },
+  {
+    "word": "Alternative",
+    "lemma": "Alternative",
+    "pos": ["noun"],
+    "gender": "die",
+    "plural": "-n",
+    "meaning": [
+      {
+        "zh": "其他可能性，不同方案；二者择一",
+        "en": "alternative, option"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir haben zwei Alternativen: fahren oder bleiben.",
+        "zh": "我们有两个选择：走或留。"
+      },
+      {
+        "de": "Ist es eine gute Alternative?",
+        "zh": "这是个好选择吗？"
+      }
+    ],
+    "collocations": [
+      "Alternative finden",
+      "andere Alternative"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": ["决策", "生活", "B1"],
+    "synonyms": ["Option", "Wahl"],
+    "antonyms": []
+  },
+  {
+    "word": "Altersversorgung",
+    "lemma": "Altersversorgung",
+    "pos": ["noun"],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "养老保险金",
+        "en": "pension, retirement provision"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Altersversorgung ist für Rentner wichtig.",
+        "zh": "养老保险金对退休人员很重要。"
+      },
+      {
+        "de": "Er hat eine private Altersversorgung abgeschlossen.",
+        "zh": "他购买了私人养老保险。"
+      }
+    ],
+    "collocations": [
+      "öffentliche Altersversorgung",
+      "private Altersversorgung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": ["金融", "社会", "B2"],
+    "synonyms": ["Rente", "Pension"],
+    "antonyms": []
+  },
+  {
+    "word": "altmodisch",
+    "lemma": "altmodisch",
+    "pos": ["adjective"],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "不合时宜的，守旧的",
+        "en": "old-fashioned"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Seine Kleidung ist sehr altmodisch.",
+        "zh": "他的穿着很守旧。"
+      },
+      {
+        "de": "Das ist ein altmodischer Gedanke.",
+        "zh": "这是个不合时宜的想法。"
+      }
+    ],
+    "collocations": [
+      "altmodisch aussehen",
+      "altmodische Einstellung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": ["文化", "生活", "B1"],
+    "synonyms": ["veraltet", "aus der Mode"],
+    "antonyms": ["modern", "zeitgemäß"]
+  },
+  {
+    "word": "Aluminium",
+    "lemma": "Aluminium",
+    "pos": ["noun"],
+    "gender": "das",
+    "plural": "o.Pl.",
+    "meaning": [
+      {
+        "zh": "铝",
+        "en": "aluminium"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Fenster ist aus Aluminium.",
+        "zh": "窗户是铝制的。"
+      },
+      {
+        "de": "Aluminium ist leicht und rostfrei.",
+        "zh": "铝轻便且防锈。"
+      }
+    ],
+    "collocations": [
+      "Aluminiumblech",
+      "Aluminiumlegierung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": ["科技", "材料", "B1"],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "analysieren",
+    "lemma": "analysieren",
+    "pos": ["verb"],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "分析",
+        "en": "to analyze"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir analysieren die Daten sorgfältig.",
+        "zh": "我们仔细分析数据。"
+      },
+      {
+        "de": "Der Professor analysiert das Gedicht.",
+        "zh": "教授分析这首诗。"
+      }
+    ],
+    "collocations": [
+      "Daten analysieren",
+      "eine Situation analysieren"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "analysiert"
+    },
+    "level": "B1",
+    "tags": ["学术", "工作", "B1"],
+    "synonyms": ["untersuchen", "prüfen"],
+    "antonyms": []
+  },
+  {
+    "word": "anerkennen",
+    "lemma": "anerkennen",
+    "pos": ["verb"],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "认可，承认；肯定，赞赏",
+        "en": "to recognize, to acknowledge"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich erkenne deine Leistung an.",
+        "zh": "我认可你的成绩。"
+      },
+      {
+        "de": "Er hat seine Fehler anerkannt.",
+        "zh": "他承认了自己的错误。"
+      }
+    ],
+    "collocations": [
+      "etwas anerkennen",
+      "jemanden für etwas anerkennen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "anerkannt"
+    },
+    "level": "B1",
+    "tags": ["社交", "情感", "B1"],
+    "synonyms": ["bestätigen", "loben"],
+    "antonyms": ["ignorieren", "verleugnen"]
+  },
+  {
+    "word": "Anforderung",
+    "lemma": "Anforderung",
+    "pos": ["noun"],
+    "gender": "die",
+    "plural": "-en",
+    "meaning": [
+      {
+        "zh": "(对效率、能力等的)要求",
+        "en": "requirement, demand"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Stelle hat hohe Anforderungen an Deutschkenntnisse.",
+        "zh": "这个职位对德语能力要求很高。"
+      },
+      {
+        "de": "Wir müssen die Anforderungen erfüllen.",
+        "zh": "我们必须满足这些要求。"
+      }
+    ],
+    "collocations": [
+      "hohe Anforderungen stellen",
+      "Anforderungen an jemanden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": ["职场", "教育", "B1"],
+    "synonyms": ["Bedingung", "Notwendigkeit"],
+    "antonyms": []
+  },
+  {
+    "word": "Angabe",
+    "lemma": "Angabe",
+    "pos": ["noun"],
+    "gender": "die",
+    "plural": "-en",
+    "meaning": [
+      {
+        "zh": "说明，陈述",
+        "en": "specification, statement"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bitte geben Sie Ihre Adresse in den Angaben an.",
+        "zh": "请在说明中填写您的地址。"
+      },
+      {
+        "de": "Die Angabe war nicht vollständig.",
+        "zh": "说明不完整。"
+      }
+    ],
+    "collocations": [
+      "genaue Angabe",
+      "Angaben machen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": ["文档", "生活", "B1"],
+    "synonyms": ["Hinweis", "Beschreibung"],
+    "antonyms": []
+  },
+  {
+    "word": "Angebot",
+    "lemma": "Angebot",
+    "pos": ["noun"],
+    "gender": "das",
+    "plural": "-e",
+    "meaning": [
+      {
+        "zh": "提供，供应；报价",
+        "en": "offer, supply"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Angebot ist nur bis morgen gültig.",
+        "zh": "这个报价只到明天有效。"
+      },
+      {
+        "de": "Wir haben ein gutes Angebot für Sie.",
+        "zh": "我们为您提供了一个好的报价。"
+      }
+    ],
+    "collocations": [
+      "Angebot machen",
+      "günstiges Angebot"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": ["商务", "生活", "B1"],
+    "synonyms": ["Offer", "Lieferung"],
+    "antonyms": []
+  },
+  {
+    "word": "angehen",
+    "lemma": "angehen",
+    "pos": ["verb"],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "与……有关",
+        "en": "to concern, to relate to"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Thema geht mich nichts an.",
+        "zh": "这个话题与我无关。"
+      },
+      {
+        "de": "Dieser Fall geht das Gesetz an.",
+        "zh": "这个案件与法律有关。"
+      }
+    ],
+    "collocations": [
+      "sich um etwas kümmern",
+      "an etwas gehen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "angegangen"
+    },
+    "level": "B1",
+    "tags": ["关系", "法律", "B1"],
+    "synonyms": ["betreffen", "sich beziehen auf"],
+    "antonyms": []
+  },
+  {
+    "word": "Angelegenheit",
+    "lemma": "Angelegenheit",
+    "pos": ["noun"],
+    "gender": "die",
+    "plural": "-en",
+    "meaning": [
+      {
+        "zh": "事情，事务",
+        "en": "matter, affair"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist eine private Angelegenheit.",
+        "zh": "这是私事。"
+      },
+      {
+        "de": "Wir müssen diese Angelegenheit klären.",
+        "zh": "我们必须澄清这件事。"
+      }
+    ],
+    "collocations": [
+      "persönliche Angelegenheit",
+      "Angelegenheit regeln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": ["生活", "法律", "B1"],
+    "synonyms": ["Sache", "Thema"],
+    "antonyms": []
+  },
+  {
+    "word": "angesichts",
+    "lemma": "angesichts",
+    "pos": ["preposition"],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "由于，鉴于",
+        "en": "in view of, considering"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Angesichts der Lage müssen wir handeln.",
+        "zh": "鉴于形势，我们必须行动。"
+      },
+      {
+        "de": "Angesichts des Wetters fahren wir nicht.",
+        "zh": "由于天气原因，我们不去。"
+      }
+    ],
+    "collocations": [
+      "angesichts der Tatsachen",
+      "angesichts der Schwierigkeiten"
+    ],
+    "grammar": {
+      "case": "Genitiv",
+      "separable": false,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": ["逻辑", "正式", "B1"],
+    "synonyms": ["vor dem Hintergrund von", "beim Blick auf"],
+    "antonyms": []
+  },
+  {
+    "word": "Anlage",
+    "lemma": "Anlage",
+    "pos": ["noun"],
+    "gender": "die",
+    "plural": "-en",
+    "meaning": [
+      {
+        "zh": "附件；设备",
+        "en": "attachment; facility, equipment"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Fügen Sie bitte die Anlagen bei.",
+        "zh": "请附上附件。"
+      },
+      {
+        "de": "Die Anlage ist modern und effizient.",
+        "zh": "这套设备现代化且高效。"
+      }
+    ],
+    "collocations": [
+      "elektronische Anlage",
+      "Anlage einbauen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": ["技术", "办公", "B1"],
+    "synonyms": ["Gerät", "Einrichtung"],
+    "antonyms": []
+  },
+  {
+    "word": "Anlass",
+    "lemma": "Anlass",
+    "pos": ["noun"],
+    "gender": "der",
+    "plural": "-e",
+    "meaning": [
+      {
+        "zh": "机会，时刻；动机",
+        "en": "occasion, reason, motive"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Anlass für das Fest ist das Jubiläum.",
+        "zh": "庆祝的理由是周年纪念。"
+      },
+      {
+        "de": "Es gab keinen besonderen Anlass zur Sorge.",
+        "zh": "没有特别的理由担忧。"
+      }
+    ],
+    "collocations": [
+      "einen Anlass geben",
+      "besonderer Anlass"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": ["生活", "情感", "B1"],
+    "synonyms": ["Grund", "Motiv"],
+    "antonyms": []
+  },
+  {
+    "word": "Anleitung",
+    "lemma": "Anleitung",
+    "pos": ["noun"],
+    "gender": "die",
+    "plural": "-en",
+    "meaning": [
+      {
+        "zh": "指导，引导；说明，指南",
+        "en": "instruction, guide"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Lesen Sie die Anleitung vor Gebrauch.",
+        "zh": "使用前请阅读说明。"
+      },
+      {
+        "de": "Die Anleitung war sehr hilfreich.",
+        "zh": "这份指南非常有用。"
+      }
+    ],
+    "collocations": [
+      "Gebrauchsanleitung",
+      "Anleitung geben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": ["生活", "技术", "B1"],
+    "synonyms": ["Leitfaden", "Handbuch"],
+    "antonyms": []
+  },
+  {
+    "word": "anmelden",
+    "lemma": "anmelden",
+    "pos": ["verb"],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "(为……)报名，挂号",
+        "en": "to register, to sign up"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich melde mich für den Kurs an.",
+        "zh": "我为这门课报名。"
+      },
+      {
+        "de": "Du musst dich beim Arzt anmelden.",
+        "zh": "你得去医生那里挂号。"
+      }
+    ],
+    "collocations": [
+      "sich für etwas anmelden",
+      "sich anmelden"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "angemeldet"
+    },
+    "level": "B1",
+    "tags": ["生活", "教育", "B1"],
+    "synonyms": ["registrieren", "einschreiben"],
+    "antonyms": []
+  },
+  {
+    "word": "anordnen",
+    "lemma": "anordnen",
+    "pos": ["verb"],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "布置，整理",

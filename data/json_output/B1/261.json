@@ -1,0 +1,1530 @@
+[
+  {
+    "word": "pragmatisch",
+    "lemma": "pragmatisch",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "务实的，注重实际的",
+        "en": "pragmatic, practical"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir müssen eine pragmatische Lösung für dieses Problem finden.",
+        "zh": "我们必须为这个问题找到一个务实的解决方案。"
+      },
+      {
+        "de": "Er denkt sehr pragmatisch und konzentriert sich auf das Machbare.",
+        "zh": "他思考非常务实，专注于可行的事情。"
+      }
+    ],
+    "collocations": [
+      "pragmatische Lösung",
+      "pragmatisch denken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "形容词",
+      "副词",
+      "态度",
+      "B2"
+    ],
+    "synonyms": [
+      "sachlich",
+      "realistisch",
+      "praktisch"
+    ],
+    "antonyms": [
+      "idealistisch",
+      "theoretisch",
+      "dogmatisch"
+    ]
+  },
+  {
+    "word": "Prägung",
+    "lemma": "Prägung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Prägungen",
+    "meaning": [
+      {
+        "zh": "印记，烙印；塑造，影响",
+        "en": "imprint, stamp; formation, influence"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die kulturelle Prägung eines Menschen beginnt in der Kindheit.",
+        "zh": "一个人的文化烙印始于童年。"
+      },
+      {
+        "de": "Diese Münze hat eine besondere Prägung aus dem 18. Jahrhundert.",
+        "zh": "这枚硬币有18世纪的独特印记。"
+      }
+    ],
+    "collocations": [
+      "kulturelle Prägung",
+      "soziale Prägung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "名词",
+      "社会",
+      "文化",
+      "B2"
+    ],
+    "synonyms": [
+      "Einfluss",
+      "Formung",
+      "Gepräge"
+    ],
+    "antonyms": [
+      "Unabhängigkeit",
+      "Freiheit"
+    ]
+  },
+  {
+    "word": "präsentieren",
+    "lemma": "präsentieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "展示，呈现；介绍",
+        "en": "to present, to show"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Student präsentierte seine Forschungsergebnisse vor der Klasse.",
+        "zh": "这位学生在全班面前展示了他的研究成果。"
+      },
+      {
+        "de": "Das Unternehmen präsentiert nächste Woche sein neues Produkt.",
+        "zh": "这家公司下周将展示其新产品。"
+      }
+    ],
+    "collocations": [
+      "ein Projekt präsentieren",
+      "sich präsentieren"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "präsentiert"
+    },
+    "level": "B1",
+    "tags": [
+      "动词",
+      "工作",
+      "沟通",
+      "B1"
+    ],
+    "synonyms": [
+      "vorstellen",
+      "zeigen",
+      "darlegen"
+    ],
+    "antonyms": [
+      "verstecken",
+      "verheimlichen"
+    ]
+  },
+  {
+    "word": "praxisorientiert",
+    "lemma": "praxisorientiert",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "以实践为导向的，注重实际应用的",
+        "en": "practice-oriented, application-focused"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Universität bietet praxisorientierte Studiengänge an.",
+        "zh": "这所大学提供以实践为导向的课程。"
+      },
+      {
+        "de": "Die Ausbildung ist sehr praxisorientiert und bereitet gut auf den Beruf vor.",
+        "zh": "培训非常注重实践，为职业做好了充分准备。"
+      }
+    ],
+    "collocations": [
+      "praxisorientierte Ausbildung",
+      "praxisorientiertes Studium"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "形容词",
+      "教育",
+      "工作",
+      "B2"
+    ],
+    "synonyms": [
+      "anwendungsorientiert",
+      "praktisch"
+    ],
+    "antonyms": [
+      "theorieorientiert",
+      "abstrakt"
+    ]
+  },
+  {
+    "word": "pressen",
+    "lemma": "pressen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "压，挤压；榨取",
+        "en": "to press, to squeeze"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie presst die Zitrone aus, um Saft zu gewinnen.",
+        "zh": "她挤压柠檬以获取果汁。"
+      },
+      {
+        "de": "Die Maschine presst die Metallteile in die richtige Form.",
+        "zh": "机器将金属部件压成正确的形状。"
+      }
+    ],
+    "collocations": [
+      "Saft pressen",
+      "etwas in Form pressen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gepresst"
+    },
+    "level": "B1",
+    "tags": [
+      "动词",
+      "技术",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "drücken",
+      "quetschen",
+      "ausdrücken"
+    ],
+    "antonyms": [
+      "ziehen",
+      "lockern"
+    ]
+  },
+  {
+    "word": "prinzipiell",
+    "lemma": "prinzipiell",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "原则上，基本上；根本的",
+        "en": "in principle, fundamentally"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Prinzipiell bin ich mit Ihrem Vorschlag einverstanden.",
+        "zh": "原则上我同意您的建议。"
+      },
+      {
+        "de": "Es gibt prinzipielle Unterschiede zwischen den beiden Theorien.",
+        "zh": "这两种理论之间存在根本性的差异。"
+      }
+    ],
+    "collocations": [
+      "prinzipiell zustimmen",
+      "prinzipielle Frage"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "形容词",
+      "副词",
+      "态度",
+      "B2"
+    ],
+    "synonyms": [
+      "grundsätzlich",
+      "im Grunde"
+    ],
+    "antonyms": [
+      "ausnahmsweise",
+      "konkret"
+    ]
+  },
+  {
+    "word": "pro",
+    "lemma": "pro",
+    "pos": [
+      "preposition"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "每，每一",
+        "en": "per, for each"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Preis beträgt 10 Euro pro Stück.",
+        "zh": "价格是每件10欧元。"
+      },
+      {
+        "de": "Wir treffen uns einmal pro Woche.",
+        "zh": "我们每周见面一次。"
+      }
+    ],
+    "collocations": [
+      "pro Person",
+      "pro Tag"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "介词",
+      "数量",
+      "A2"
+    ],
+    "synonyms": [
+      "je",
+      "für jedes"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "die",
+    "lemma": "der",
+    "pos": [
+      "article"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "定冠词（阴性单数/复数）",
+        "en": "definite article (feminine singular/plural)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Frau geht in die Stadt.",
+        "zh": "这位女士去城里。"
+      },
+      {
+        "de": "Die Kinder spielen im Garten.",
+        "zh": "孩子们在花园里玩耍。"
+      }
+    ],
+    "collocations": [
+      "die Frau",
+      "die Kinder"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "冠词",
+      "语法",
+      "A1"
+    ],
+    "synonyms": null,
+    "antonyms": null
+  },
+  {
+    "word": "Produktion",
+    "lemma": "Produktion",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Produktionen",
+    "meaning": [
+      {
+        "zh": "生产，制造",
+        "en": "production"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Produktion von Autos wurde gesteigert.",
+        "zh": "汽车生产得到了提高。"
+      },
+      {
+        "de": "In der Fabrik läuft die Produktion rund um die Uhr.",
+        "zh": "工厂的生产昼夜不停。"
+      }
+    ],
+    "collocations": [
+      "die Produktion steigern",
+      "in Produktion gehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "工业",
+      "B1"
+    ],
+    "synonyms": [
+      "Herstellung",
+      "Fertigung"
+    ],
+    "antonyms": [
+      "Konsum"
+    ]
+  },
+  {
+    "word": "professionell",
+    "lemma": "professionell",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "专业的，职业的",
+        "en": "professional"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er arbeitet sehr professionell.",
+        "zh": "他工作非常专业。"
+      },
+      {
+        "de": "Das Team hat eine professionelle Einstellung.",
+        "zh": "这个团队有专业的态度。"
+      }
+    ],
+    "collocations": [
+      "professionell arbeiten",
+      "professionelle Hilfe"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "工作",
+      "技能",
+      "B1"
+    ],
+    "synonyms": [
+      "fachmännisch",
+      "kompetent"
+    ],
+    "antonyms": [
+      "unprofessionell",
+      "laienhaft"
+    ]
+  },
+  {
+    "word": "Projekt",
+    "lemma": "Projekt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Projekte",
+    "meaning": [
+      {
+        "zh": "项目，计划",
+        "en": "project"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir arbeiten an einem neuen Projekt.",
+        "zh": "我们正在做一个新项目。"
+      },
+      {
+        "de": "Das Projekt wurde erfolgreich abgeschlossen.",
+        "zh": "该项目已成功完成。"
+      }
+    ],
+    "collocations": [
+      "ein Projekt durchführen",
+      "am Projekt teilnehmen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "工作",
+      "管理",
+      "B1"
+    ],
+    "synonyms": [
+      "Vorhaben",
+      "Unternehmen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Promotion",
+    "lemma": "Promotion",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Promotionen",
+    "meaning": [
+      {
+        "zh": "博士论文答辩；促销",
+        "en": "doctorate; promotion"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat ihre Promotion in Biologie abgeschlossen.",
+        "zh": "她完成了生物学博士论文答辩。"
+      },
+      {
+        "de": "Die Firma macht eine große Promotion für das neue Produkt.",
+        "zh": "公司为新产品进行大型促销。"
+      }
+    ],
+    "collocations": [
+      "die Promotion abschließen",
+      "eine Promotion machen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "教育",
+      "商业",
+      "B2"
+    ],
+    "synonyms": [
+      "Doktorarbeit",
+      "Werbung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "psychisch",
+    "lemma": "psychisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "心理的，精神的",
+        "en": "psychological, mental"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er leidet unter psychischen Problemen.",
+        "zh": "他患有心理问题。"
+      },
+      {
+        "de": "Psychische Gesundheit ist sehr wichtig.",
+        "zh": "心理健康非常重要。"
+      }
+    ],
+    "collocations": [
+      "psychische Belastung",
+      "psychische Erkrankung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "健康",
+      "心理",
+      "B1"
+    ],
+    "synonyms": [
+      "seelisch",
+      "mental"
+    ],
+    "antonyms": [
+      "physisch",
+      "körperlich"
+    ]
+  },
+  {
+    "word": "Psychologie",
+    "lemma": "Psychologie",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "心理学",
+        "en": "psychology"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie studiert Psychologie an der Universität.",
+        "zh": "她在大学学习心理学。"
+      },
+      {
+        "de": "Die Psychologie beschäftigt sich mit dem menschlichen Verhalten.",
+        "zh": "心理学研究人类行为。"
+      }
+    ],
+    "collocations": [
+      "Psychologie studieren",
+      "klinische Psychologie"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科学",
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "Seelenkunde"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Pyramide",
+    "lemma": "Pyramide",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Pyramiden",
+    "meaning": [
+      {
+        "zh": "金字塔",
+        "en": "pyramid"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Pyramiden in Ägypten sind sehr alt.",
+        "zh": "埃及的金字塔非常古老。"
+      },
+      {
+        "de": "Die Kinder bauten eine Pyramide aus Bauklötzen.",
+        "zh": "孩子们用积木搭了一座金字塔。"
+      }
+    ],
+    "collocations": [
+      "die Pyramiden von Gizeh",
+      "eine Pyramide bauen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "历史",
+      "建筑",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "qualifizieren",
+    "lemma": "qualifizieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "使合格，使具备资格",
+        "en": "to qualify"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieser Kurs qualifiziert die Teilnehmer für den Job.",
+        "zh": "这门课程使参与者具备该工作的资格。"
+      },
+      {
+        "de": "Sie hat sich für die Meisterschaft qualifiziert.",
+        "zh": "她已获得锦标赛的参赛资格。"
+      }
+    ],
+    "collocations": [
+      "sich für etwas qualifizieren",
+      "jemanden qualifizieren"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "qualifiziert"
+    },
+    "level": "B2",
+    "tags": [
+      "教育",
+      "工作",
+      "B2"
+    ],
+    "synonyms": [
+      "befähigen",
+      "berechtigen"
+    ],
+    "antonyms": [
+      "disqualifizieren"
+    ]
+  },
+  {
+    "word": "Radio",
+    "lemma": "Radio",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Radios",
+    "meaning": [
+      {
+        "zh": "收音机；广播",
+        "en": "radio"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich höre jeden Morgen Radio.",
+        "zh": "我每天早上听广播。"
+      },
+      {
+        "de": "Das Radio ist kaputt.",
+        "zh": "收音机坏了。"
+      }
+    ],
+    "collocations": [
+      "Radio hören",
+      "Radio einschalten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "科技",
+      "生活",
+      "A1"
+    ],
+    "synonyms": [
+      "Rundfunk"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Raps",
+    "lemma": "Raps",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "油菜",
+        "en": "rapeseed"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Raps wird zur Ölherstellung angebaut.",
+        "zh": "油菜被种植用于制油。"
+      },
+      {
+        "de": "Im Frühling blüht der Raps gelb.",
+        "zh": "春天油菜开黄花。"
+      }
+    ],
+    "collocations": [
+      "Raps anbauen",
+      "Rapsöl"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "农业",
+      "自然",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rassistisch",
+    "lemma": "rassistisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "种族主义的",
+        "en": "racist"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Seine rassistischen Äußerungen wurden kritisiert.",
+        "zh": "他的种族主义言论受到了批评。"
+      },
+      {
+        "de": "Rassistische Diskriminierung ist verboten.",
+        "zh": "种族歧视是被禁止的。"
+      }
+    ],
+    "collocations": [
+      "rassistische Äußerung",
+      "rassistische Diskriminierung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "政治",
+      "B2"
+    ],
+    "synonyms": [
+      "fremdenfeindlich"
+    ],
+    "antonyms": [
+      "tolerant"
+    ]
+  },
+  {
+    "word": "Ratschlag",
+    "lemma": "Ratschlag",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Ratschläge",
+    "meaning": [
+      {
+        "zh": "建议，劝告",
+        "en": "advice"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du mir einen guten Ratschlag geben?",
+        "zh": "你能给我一个好建议吗？"
+      },
+      {
+        "de": "Er befolgte meinen Ratschlag nicht.",
+        "zh": "他没有听从我的建议。"
+      }
+    ],
+    "collocations": [
+      "einen Ratschlag geben",
+      "einen Ratschlag befolgen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "沟通",
+      "B1"
+    ],
+    "synonyms": [
+      "Tipp",
+      "Empfehlung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "rechtzeitig",
+    "lemma": "rechtzeitig",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "及时地",
+        "en": "in time"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir müssen rechtzeitig am Bahnhof sein.",
+        "zh": "我们必须及时到达火车站。"
+      },
+      {
+        "de": "Er hat die Arbeit rechtzeitig abgeschlossen.",
+        "zh": "他及时完成了工作。"
+      }
+    ],
+    "collocations": [
+      "rechtzeitig kommen",
+      "rechtzeitig abschließen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "时间",
+      "A2"
+    ],
+    "synonyms": [
+      "pünktlich"
+    ],
+    "antonyms": [
+      "verspätet"
+    ]
+  },
+  {
+    "word": "Reflexionskompetenz",
+    "lemma": "Reflexionskompetenz",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "反思能力",
+        "en": "reflective competence"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Reflexionskompetenz ist wichtig für die persönliche Entwicklung.",
+        "zh": "反思能力对个人发展很重要。"
+      },
+      {
+        "de": "In der Ausbildung wird die Reflexionskompetenz gefördert.",
+        "zh": "在培训中会促进反思能力。"
+      }
+    ],
+    "collocations": [
+      "Reflexionskompetenz entwickeln",
+      "Reflexionskompetenz fördern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "C1",
+    "tags": [
+      "教育",
+      "心理学",
+      "C1"
+    ],
+    "synonyms": [
+      "Selbstreflexion"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Regel",
+    "lemma": "Regel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Regeln",
+    "meaning": [
+      {
+        "zh": "规则，规律",
+        "en": "rule"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Regeln müssen eingehalten werden.",
+        "zh": "必须遵守规则。"
+      },
+      {
+        "de": "In der Regel komme ich pünktlich.",
+        "zh": "通常我会准时到。"
+      }
+    ],
+    "collocations": [
+      "Regeln einhalten",
+      "in der Regel"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "社会",
+      "A2"
+    ],
+    "synonyms": [
+      "Vorschrift",
+      "Norm"
+    ],
+    "antonyms": [
+      "Ausnahme"
+    ]
+  },
+  {
+    "word": "regelmäßig",
+    "lemma": "regelmäßig",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "有规律的；定期地",
+        "en": "regular; regularly"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er treibt regelmäßig Sport.",
+        "zh": "他定期做运动。"
+      },
+      {
+        "de": "Die regelmäßige Wartung ist wichtig.",
+        "zh": "定期维护很重要。"
+      }
+    ],
+    "collocations": [
+      "regelmäßig Sport treiben",
+      "regelmäßige Kontrolle"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "时间",
+      "A2"
+    ],
+    "synonyms": [
+      "gleichmäßig",
+      "ständig"
+    ],
+    "antonyms": [
+      "unregelmäßig"
+    ]
+  },
+  {
+    "word": "Regierung",
+    "lemma": "Regierung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Regierungen",
+    "meaning": [
+      {
+        "zh": "政府",
+        "en": "government"
+      },
+      {
+        "zh": "统治，治理",
+        "en": "rule, administration"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Regierung hat ein neues Gesetz verabschiedet.",
+        "zh": "政府通过了一项新法律。"
+      },
+      {
+        "de": "Die Regierung bemüht sich um die Lösung des Problems.",
+        "zh": "政府努力解决这个问题。"
+      }
+    ],
+    "collocations": [
+      "die Regierung bilden",
+      "die Regierung stürzen",
+      "Regierungspartei",
+      "Regierungschef"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "政治",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Kabinett",
+      "Obrigkeit",
+      "Staatsführung"
+    ],
+    "antonyms": [
+      "Opposition"
+    ]
+  },
+  {
+    "word": "regierungsunmittelbar",
+    "lemma": "regierungsunmittelbar",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "直接隶属于政府的",
+        "en": "directly under the government"
+      },
+      {
+        "zh": "政府直属的",
+        "en": "government-direct"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die regierungsunmittelbare Behörde ist für die Umsetzung zuständig.",
+        "zh": "这个政府直属机构负责实施。"
+      },
+      {
+        "de": "Er arbeitet in einer regierungsunmittelbaren Stiftung.",
+        "zh": "他在一家政府直属的基金会工作。"
+      }
+    ],
+    "collocations": [
+      "regierungsunmittelbare Einrichtung",
+      "regierungsunmittelbare Organisation"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "C1",
+    "tags": [
+      "政治",
+      "行政",
+      "C1"
+    ],
+    "synonyms": [
+      "staatlich",
+      "behördlich"
+    ],
+    "antonyms": [
+      "privat",
+      "unabhängig"
+    ]
+  },
+  {
+    "word": "Region",
+    "lemma": "Region",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Regionen",
+    "meaning": [
+      {
+        "zh": "地区，区域",
+        "en": "region, area"
+      },
+      {
+        "zh": "地带",
+        "en": "zone"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Region ist bekannt für ihren Wein.",
+        "zh": "这个地区以葡萄酒闻名。"
+      },
+      {
+        "de": "In der Region gibt es viele Wanderwege.",
+        "zh": "这个地区有很多徒步路线。"
+      }
+    ],
+    "collocations": [
+      "ländliche Region",
+      "wirtschaftliche Region",
+      "Region entwickeln",
+      "Region fördern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "地理",
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Gebiet",
+      "Gegend",
+      "Landstrich"
+    ],
+    "antonyms": [
+      "Zentrum",
+      "Kerngebiet"
+    ]
+  },
+  {
+    "word": "Reich",
+    "lemma": "Reich",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Reiche",
+    "meaning": [
+      {
+        "zh": "帝国，王国",
+        "en": "empire, kingdom"
+      },
+      {
+        "zh": "领域，范围",
+        "en": "realm, domain"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Römische Reich war einst sehr mächtig.",
+        "zh": "罗马帝国曾经非常强大。"
+      },
+      {
+        "de": "Im Reich der Fantasie sind keine Grenzen gesetzt.",
+        "zh": "在幻想领域没有界限。"
+      }
+    ],
+    "collocations": [
+      "das Deutsche Reich",
+      "das Reich der Tiere",
+      "ein Reich gründen",
+      "das Reich erweitern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "历史",
+      "政治",
+      "B1"
+    ],
+    "synonyms": [
+      "Imperium",
+      "Königreich",
+      "Herrschaftsbereich"
+    ],
+    "antonyms": [
+      "Republik",
+      "Demokratie"
+    ]
+  },
+  {
+    "word": "Reinheit",
+    "lemma": "Reinheit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "纯净，纯洁",
+        "en": "purity, cleanness"
+      },
+      {
+        "zh": "清白，无瑕",
+        "en": "innocence, chastity"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Reinheit des Wassers wird regelmäßig geprüft.",
+        "zh": "水的纯净度定期被检测。"
+      },
+      {
+        "de": "Sie bewahrte ihre seelische Reinheit.",
+        "zh": "她保持了她心灵的纯洁。"
+      }
+    ],
+    "collocations": [
+      "chemische Reinheit",
+      "moralische Reinheit",
+      "Reinheit bewahren",
+      "Reinheit prüfen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "科学",
+      "情感",
+      "B2"
+    ],
+    "synonyms": [
+      "Sauberkeit",
+      "Unschuld",
+      "Lauterkeit"
+    ],
+    "antonyms": [
+      "Unreinheit",
+      "Schmutz",
+      "Verderbtheit"
+    ]
+  },
+  {
+    "word": "Reinigung",
+    "lemma": "Reinigung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Reinigungen",
+    "meaning": [
+      {
+        "zh": "清洁，清洗",
+        "en": "cleaning, cleansing"
+      },
+      {
+        "zh": "干洗店",
+        "en": "dry cleaner's"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Reinigung des Teppichs dauert zwei Tage.",
+        "zh": "地毯的清洁需要两天。"
+      },
+      {
+        "de": "Ich bringe meinen Anzug zur Reinigung.",
+        "zh": "我把西装送到干洗店。"
+      }
+    ],
+    "collocations": [
+      "chemische Reinigung",
+      "die Reinigung durchführen",
+      "zur Reinigung bringen",
+      "Reinigungsmittel"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "家务",
+      "A2"
+    ],
+    "synonyms": [
+      "Säuberung",
+      "Wäscherei"
+    ],
+    "antonyms": [
+      "Verschmutzung"
+    ]
+  },
+  {
+    "word": "reizvoll",
+    "lemma": "reizvoll",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "迷人的，有吸引力的",
+        "en": "charming, attractive"
+      },
+      {
+        "zh": "有趣的，诱人的",
+        "en": "appealing, enticing"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Landschaft ist besonders reizvoll im Herbst.",
+        "zh": "秋天的风景特别迷人。"
+      },
+      {
+        "de": "Das Angebot klingt sehr reizvoll.",
+        "zh": "这个报价听起来很诱人。"
+      }
+    ],
+    "collocations": [
+      "reizvolle Aufgabe",
+      "reizvolle Aussicht",
+      "reizvoll wirken",
+      "reizvoll finden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "描述",
+      "B1"
+    ],
+    "synonyms": [
+      "attraktiv",
+      "verlockend",
+      "anziehend"
+    ],
+    "antonyms": [
+      "reizlos",
+      "langweilig",
+      "abstoßend"
+    ]
+  }
+]

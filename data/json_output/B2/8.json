@@ -1,0 +1,1183 @@
+[
+  {
+    "word": "Geschehnis",
+    "lemma": "Geschehnis",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Geschehnisse",
+    "meaning": [
+      {
+        "zh": "事件，事情",
+        "en": "event, occurrence"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Geschehnis von gestern hat alle überrascht.",
+        "zh": "昨天的事件让所有人都感到惊讶。"
+      },
+      {
+        "de": "Ein unangenehmes Geschehnis hat den Abend verdorben.",
+        "zh": "一件不愉快的事情毁了那个晚上。"
+      }
+    ],
+    "collocations": [
+      "ein seltsames Geschehnis",
+      "das Geschehnis berichten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "事件",
+      "B2"
+    ],
+    "synonyms": [
+      "Ereignis",
+      "Vorfall"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "Gewerkschaft",
+    "lemma": "Gewerkschaft",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Gewerkschaften",
+    "meaning": [
+      {
+        "zh": "工会",
+        "en": "trade union"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Gewerkschaft verhandelt über höhere Löhne.",
+        "zh": "工会正在就提高工资进行谈判。"
+      },
+      {
+        "de": "Er ist Mitglied einer starken Gewerkschaft.",
+        "zh": "他是一个强大工会的成员。"
+      }
+    ],
+    "collocations": [
+      "der Gewerkschaft beitreten",
+      "Gewerkschaftsmitglied"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Arbeitnehmervertretung"
+    ],
+    "antonyms": [
+      "Arbeitgeberverband"
+    ]
+  },
+  {
+    "word": "glatt",
+    "lemma": "glatt",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "光滑的，顺利的",
+        "en": "smooth, slippery"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Straße ist nach dem Regen glatt.",
+        "zh": "雨后路面很滑。"
+      },
+      {
+        "de": "Die Verhandlungen liefen glatt.",
+        "zh": "谈判进行得很顺利。"
+      }
+    ],
+    "collocations": [
+      "glatte Oberfläche",
+      "glatt laufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "描述",
+      "B1"
+    ],
+    "synonyms": [
+      "eben",
+      "rutschig"
+    ],
+    "antonyms": [
+      "rau",
+      "holprig"
+    ]
+  },
+  {
+    "word": "Gleis",
+    "lemma": "Gleis",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Gleise",
+    "meaning": [
+      {
+        "zh": "轨道，铁轨",
+        "en": "track, railway track"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Zug fährt auf Gleis 3 ein.",
+        "zh": "火车正在进入3号轨道。"
+      },
+      {
+        "de": "Die Gleise müssen repariert werden.",
+        "zh": "这些轨道需要修理。"
+      }
+    ],
+    "collocations": [
+      "auf dem Gleis",
+      "das Gleis wechseln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "交通",
+      "A2"
+    ],
+    "synonyms": [
+      "Schiene"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "Globus",
+    "lemma": "Globus",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Globen",
+    "meaning": [
+      {
+        "zh": "地球仪，球体",
+        "en": "globe"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Klassenzimmer steht ein großer Globus.",
+        "zh": "教室里有一个大地球仪。"
+      },
+      {
+        "de": "Er zeigte auf dem Globus die Lage von Deutschland.",
+        "zh": "他在地球仪上指出了德国的位置。"
+      }
+    ],
+    "collocations": [
+      "einen Globus drehen",
+      "auf dem Globus"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "地理",
+      "B1"
+    ],
+    "synonyms": [
+      "Erdkugel"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "griffbereit",
+    "lemma": "griffbereit",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "随手可得的，触手可及的",
+        "en": "within reach, handy"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Halte das Werkzeug griffbereit.",
+        "zh": "把工具放在随手可及的地方。"
+      },
+      {
+        "de": "Das Handy liegt griffbereit auf dem Tisch.",
+        "zh": "手机放在桌子上，触手可及。"
+      }
+    ],
+    "collocations": [
+      "griffbereit haben",
+      "griffbereit liegen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "描述",
+      "B2"
+    ],
+    "synonyms": [
+      "bereit",
+      "verfügbar"
+    ],
+    "antonyms": [
+      "unerreichbar"
+    ]
+  },
+  {
+    "word": "Grundlage",
+    "lemma": "Grundlage",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Grundlagen",
+    "meaning": [
+      {
+        "zh": "基础，根据",
+        "en": "basis, foundation"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Theorie bildet die Grundlage für unsere Forschung.",
+        "zh": "这个理论是我们研究的基础。"
+      },
+      {
+        "de": "Auf dieser Grundlage können wir weiterarbeiten.",
+        "zh": "在这个基础上我们可以继续工作。"
+      }
+    ],
+    "collocations": [
+      "als Grundlage dienen",
+      "die Grundlage schaffen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "抽象",
+      "B1"
+    ],
+    "synonyms": [
+      "Basis",
+      "Fundament"
+    ],
+    "antonyms": [
+      "Oberfläche"
+    ]
+  },
+  {
+    "word": "handeln",
+    "lemma": "handeln",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "行动，交易，涉及",
+        "en": "to act, to trade, to deal with"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir müssen schnell handeln.",
+        "zh": "我们必须迅速行动。"
+      },
+      {
+        "de": "Er handelt mit gebrauchten Autos.",
+        "zh": "他做二手车生意。"
+      },
+      {
+        "de": "Es handelt sich um ein wichtiges Problem.",
+        "zh": "这涉及一个重要问题。"
+      }
+    ],
+    "collocations": [
+      "handeln von",
+      "mit etwas handeln",
+      "handeln gegen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gehandelt"
+    },
+    "level": "A2",
+    "tags": [
+      "行动",
+      "A2"
+    ],
+    "synonyms": [
+      "agieren",
+      "verhandeln"
+    ],
+    "antonyms": [
+      "zögern"
+    ]
+  },
+  {
+    "word": "handlich",
+    "lemma": "handlich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "便于携带的，轻便的",
+        "en": "handy, easy to handle"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieses Werkzeug ist sehr handlich und passt in jede Tasche.",
+        "zh": "这个工具非常轻便，可以放进任何口袋。"
+      },
+      {
+        "de": "Das neue Tablet ist handlicher als das alte Modell.",
+        "zh": "新平板电脑比旧型号更方便携带。"
+      }
+    ],
+    "collocations": [
+      "handliches Gerät",
+      "handlich und praktisch"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "praktisch",
+      "griffig"
+    ],
+    "antonyms": [
+      "unhandlich",
+      "schwerfällig"
+    ]
+  },
+  {
+    "word": "hartnäckig",
+    "lemma": "hartnäckig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "顽固的，执着的",
+        "en": "stubborn, persistent"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist ein hartnäckiger Verhandler und gibt nicht leicht auf.",
+        "zh": "他是一个顽固的谈判者，不容易放弃。"
+      },
+      {
+        "de": "Das hartnäckige Problem konnte erst nach Wochen gelöst werden.",
+        "zh": "这个顽固的问题几周后才得以解决。"
+      }
+    ],
+    "collocations": [
+      "hartnäckiger Husten",
+      "hartnäckig verfolgen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "情感",
+      "B2"
+    ],
+    "synonyms": [
+      "beharrlich",
+      "stur"
+    ],
+    "antonyms": [
+      "nachgiebig",
+      "flexibel"
+    ]
+  },
+  {
+    "word": "hässlich",
+    "lemma": "hässlich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "丑陋的，难看的",
+        "en": "ugly"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das alte Gebäude ist wirklich hässlich.",
+        "zh": "那座旧建筑真的很丑。"
+      },
+      {
+        "de": "Sie fand das Kleid hässlich und trug es nie.",
+        "zh": "她觉得这件裙子难看，从未穿过。"
+      }
+    ],
+    "collocations": [
+      "hässliches Gesicht",
+      "hässlich ansehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "unschön",
+      "abstoßend"
+    ],
+    "antonyms": [
+      "schön",
+      "hübsch"
+    ]
+  },
+  {
+    "word": "Haushalt",
+    "lemma": "Haushalt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Haushalte",
+    "meaning": [
+      {
+        "zh": "家庭，家务",
+        "en": "household"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie führt den Haushalt und kümmert sich um die Kinder.",
+        "zh": "她管理家务并照顾孩子。"
+      },
+      {
+        "de": "Der Staatshaushalt wurde für das nächste Jahr verabschiedet.",
+        "zh": "国家预算已为下一年通过。"
+      }
+    ],
+    "collocations": [
+      "den Haushalt führen",
+      "Haushaltsgeräte"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Familie",
+      "Budget"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Heft",
+    "lemma": "Heft",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Hefte",
+    "meaning": [
+      {
+        "zh": "笔记本，册子",
+        "en": "notebook, booklet"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Schreib die Notizen in dein Heft.",
+        "zh": "把笔记写进你的笔记本里。"
+      },
+      {
+        "de": "Das Heft enthält viele Übungen für Anfänger.",
+        "zh": "这本册子包含许多初学者的练习。"
+      }
+    ],
+    "collocations": [
+      "ein Heft kaufen",
+      "Heft und Stift"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "A1"
+    ],
+    "synonyms": [
+      "Notizbuch",
+      "Broschüre"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Held",
+    "lemma": "Held",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Helden",
+    "meaning": [
+      {
+        "zh": "英雄",
+        "en": "hero"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Feuerwehrmann wurde als Held gefeiert.",
+        "zh": "消防员被当作英雄庆祝。"
+      },
+      {
+        "de": "In diesem Film spielt ein junger Held die Hauptrolle.",
+        "zh": "在这部电影中，一位年轻英雄扮演主角。"
+      }
+    ],
+    "collocations": [
+      "ein Held sein",
+      "Held der Arbeit"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "社会",
+      "A2"
+    ],
+    "synonyms": [
+      "Heldin",
+      "Vorbild"
+    ],
+    "antonyms": [
+      "Feigling",
+      "Schurke"
+    ]
+  },
+  {
+    "word": "herankommen",
+    "lemma": "herankommen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "接近，靠近",
+        "en": "to approach, to get close"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du bitte näher herankommen?",
+        "zh": "你能靠近一点吗？"
+      },
+      {
+        "de": "Er kam langsam an das Fenster heran.",
+        "zh": "他慢慢靠近窗户。"
+      }
+    ],
+    "collocations": [
+      "an etwas herankommen",
+      "näher herankommen"
+    ],
+    "grammar": {
+      "case": "an + Akkusativ",
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "herangekommen"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "nähern",
+      "herantreten"
+    ],
+    "antonyms": [
+      "weggehen",
+      "entfernen"
+    ]
+  },
+  {
+    "word": "herausfordern",
+    "lemma": "herausfordern",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "挑战，挑衅",
+        "en": "to challenge, to provoke"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er forderte seinen Gegner zum Duell heraus.",
+        "zh": "他挑战对手进行决斗。"
+      },
+      {
+        "de": "Die schwierige Aufgabe fordert uns alle heraus.",
+        "zh": "这项艰巨的任务挑战我们所有人。"
+      }
+    ],
+    "collocations": [
+      "jemanden herausfordern",
+      "zum Wettkampf herausfordern"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "herausgefordert"
+    },
+    "level": "B2",
+    "tags": [
+      "情感",
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "provozieren",
+      "reizen"
+    ],
+    "antonyms": [
+      "akzeptieren",
+      "nachgeben"
+    ]
+  },
+  {
+    "word": "hindeuten",
+    "lemma": "hindeuten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "指向，暗示",
+        "en": "to point to, to indicate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Ergebnisse deuten auf eine Verbesserung hin.",
+        "zh": "结果指向改善。"
+      },
+      {
+        "de": "Sein Verhalten deutet auf ein Problem hin.",
+        "zh": "他的行为暗示了一个问题。"
+      }
+    ],
+    "collocations": [
+      "auf etwas hindeuten",
+      "darauf hindeuten, dass"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "hingedeutet"
+    },
+    "level": "B2",
+    "tags": [
+      "语言",
+      "B2"
+    ],
+    "synonyms": [
+      "hinweisen",
+      "andeuten"
+    ],
+    "antonyms": [
+      "verbergen",
+      "verschweigen"
+    ]
+  },
+  {
+    "word": "Hinweis",
+    "lemma": "Hinweis",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Hinweise",
+    "meaning": [
+      {
+        "zh": "提示，指示",
+        "en": "hint, indication"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er gab mir einen wichtigen Hinweis.",
+        "zh": "他给了我一个重要的提示。"
+      },
+      {
+        "de": "Die Polizei sucht nach Hinweisen auf den Täter.",
+        "zh": "警方正在寻找关于罪犯的线索。"
+      }
+    ],
+    "collocations": [
+      "einen Hinweis geben",
+      "auf einen Hinweis reagieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Tipp",
+      "Andeutung"
+    ],
+    "antonyms": [
+      "Verschweigen",
+      "Geheimnis"
+    ]
+  },
+  {
+    "word": "Hitliste",
+    "lemma": "Hitliste",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Hitlisten",
+    "meaning": [
+      {
+        "zh": "排行榜",
+        "en": "hit list, chart"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieser Song steht ganz oben in der Hitliste.",
+        "zh": "这首歌在排行榜上名列前茅。"
+      },
+      {
+        "de": "Die Hitliste wird jede Woche aktualisiert.",
+        "zh": "排行榜每周更新。"
+      }
+    ],
+    "collocations": [
+      "in der Hitliste stehen",
+      "die Hitliste anführen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "娱乐",
+      "B1"
+    ],
+    "synonyms": [
+      "Charts",
+      "Rangliste"
+    ],
+    "antonyms": [
+      "Flop",
+      "Misserfolg"
+    ]
+  },
+  {
+    "word": "höchstens",
+    "lemma": "höchstens",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "最多，至多",
+        "en": "at most, at the most"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das dauert höchstens eine Stunde.",
+        "zh": "这最多需要一小时。"
+      },
+      {
+        "de": "Ich kann höchstens 100 Euro ausgeben.",
+        "zh": "我最多能花100欧元。"
+      }
+    ],
+    "collocations": [
+      "höchstens zwei",
+      "höchstens eine Woche"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "数量",
+      "B1"
+    ],
+    "synonyms": [
+      "maximal",
+      "allenfalls"
+    ],
+    "antonyms": [
+      "mindestens",
+      "wenigstens"
+    ]
+  },
+  {
+    "word": "hocken",
+    "lemma": "hocken",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "蹲，坐（口语）",
+        "en": "to squat, to sit (colloquial)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kinder hocken auf dem Boden.",
+        "zh": "孩子们蹲在地上。"
+      },
+      {
+        "de": "Er hockt den ganzen Tag vor dem Computer.",
+        "zh": "他整天坐在电脑前。"
+      }
+    ],
+    "collocations": [
+      "auf dem Boden hocken",
+      "vor dem Fernseher hocken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gehockt"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "sitzen",
+      "kauern"
+    ],
+    "antonyms": [
+      "stehen",
+      "liegen"
+    ]
+  },
+  {
+    "word": "hölzern",
+    "lemma": "hölzern",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "木制的，呆板的",
+        "en": "wooden, stiff"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Tisch ist hölzern.",
+        "zh": "这张桌子是木制的。"
+      },
+      {
+        "de": "Seine Bewegungen wirken hölzern.",
+        "zh": "他的动作显得呆板。"
+      }
+    ],
+    "collocations": [
+      "hölzernes Möbel",
+      "hölzerne Gestik"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "材料",
+      "B2"
+    ],
+    "synonyms": [
+      "aus Holz",
+      "steif"
+    ],
+    "antonyms": [
+      "weich",
+      "geschmeidig"
+    ]
+  },
+  {
+    "word": "Immunsystem",
+    "lemma": "Immunsystem",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Immunsysteme",
+    "meaning": [
+      {
+        "zh": "免疫系统",
+        "en": "immune system"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ein starkes Immunsystem schützt vor Krankheiten.",
+        "zh": "强大的免疫系统能预防疾病。"
+      },
+      {
+        "de": "Stress kann das Immunsystem schwächen.",
+        "zh": "压力会削弱免疫系统。"
+      }
+    ],
+    "collocations": [
+      "das Immunsystem stärken",
+      "das Immunsystem schwächen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "医学",
+      "B2"
+    ],
+    "synonyms": [
+      "Abwehrsystem",
+      "Immunabwehr"
+    ],
+    "antonyms": [
+      "Anfälligkeit",
+      "Schwäche"
+    ]
+  },
+  {
+    "word": "den",
+    "lemma": "der",
+    "pos": [
+      "article"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "定冠词（阳性/中性第四格，复数第三格）",
+        "en": "the (accusative masculine/neuter, dative plural)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich sehe den Mann.",
+        "zh": "我看到那个男人。"
+      },
+      {
+        "de": "Er gibt den Kindern das Buch.",
+        "zh": "他把书给孩子们。"
+      }
+    ],
+    "collocations": [
+      "den Tisch",
+      "den Menschen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语法",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Infobahn",
+    "lemma": "Infobahn",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Infobahnen",
+    "meaning": [
+      {
+        "zh": "信息高速公路",
+        "en": "information highway"
+      },
+      {
+        "zh": "互联网",
+        "en": "internet"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Infobahn verbindet Menschen auf der ganzen Welt.",
+        "zh": "信息高速公路连接了世界各地的人们。"
+      },
+      {
+        "de": "Im Zeitalter der Infobahn ist Wissen nur einen Klick entfernt.",
+        "zh": "在信息高速公路时代，知识只需点击一下即可获得。"
+      }
+    ],
+    "collocations": [
+      "auf der Infobahn surfen",
+      "die Infobahn nutzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "科技",
+      "B2"
+    ],
+    "synonyms": [
+      "Internet",
+      "Datenautobahn"
+    ],
+    "antonyms": []
+  }
+]

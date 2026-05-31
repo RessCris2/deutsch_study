@@ -1,0 +1,1420 @@
+[
+  {
+    "word": "Zahnbürste",
+    "lemma": "Zahnbürste",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Zahnbürsten",
+    "meaning": [
+      {
+        "zh": "牙刷",
+        "en": "toothbrush"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich putze mir jeden Morgen die Zähne mit einer neuen Zahnbürste.",
+        "zh": "我每天早上用新牙刷刷牙。"
+      },
+      {
+        "de": "Vergiss nicht, deine Zahnbürste regelmäßig zu wechseln.",
+        "zh": "别忘了定期更换你的牙刷。"
+      }
+    ],
+    "collocations": [
+      "elektrische Zahnbürste",
+      "Zahnbürste wechseln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "日常用品",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "zärtlich",
+    "lemma": "zärtlich",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "温柔的，温存的",
+        "en": "tender, affectionate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er küsste sie zärtlich auf die Stirn.",
+        "zh": "他温柔地吻了她的额头。"
+      },
+      {
+        "de": "Die Mutter streichelte zärtlich das Kind.",
+        "zh": "母亲温柔地抚摸孩子。"
+      }
+    ],
+    "collocations": [
+      "zärtliche Umarmung",
+      "zärtlich sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "性格",
+      "B1"
+    ],
+    "synonyms": [
+      "liebevoll",
+      "sanft"
+    ],
+    "antonyms": [
+      "grob",
+      "hart"
+    ]
+  },
+  {
+    "word": "zerbrechen",
+    "lemma": "zerbrechen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "打碎，破碎",
+        "en": "to break, to shatter"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Vase zerbrach, als sie auf den Boden fiel.",
+        "zh": "花瓶掉在地上碎了。"
+      },
+      {
+        "de": "Er zerbrach den Teller aus Versehen.",
+        "zh": "他不小心打碎了盘子。"
+      }
+    ],
+    "collocations": [
+      "Glas zerbrechen",
+      "Herz zerbrechen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "sein",
+      "partizip2": "zerbrochen"
+    },
+    "level": "B1",
+    "tags": [
+      "动作",
+      "损坏",
+      "B1"
+    ],
+    "synonyms": [
+      "kaputtgehen",
+      "zerschlagen"
+    ],
+    "antonyms": [
+      "reparieren",
+      "heilen"
+    ]
+  },
+  {
+    "word": "Zertifikat",
+    "lemma": "Zertifikat",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Zertifikate",
+    "meaning": [
+      {
+        "zh": "证书，证明",
+        "en": "certificate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Nach dem Kurs erhielt ich ein Zertifikat.",
+        "zh": "课程结束后我获得了一张证书。"
+      },
+      {
+        "de": "Für die Bewerbung braucht man ein Sprachzertifikat.",
+        "zh": "申请工作需要语言证书。"
+      }
+    ],
+    "collocations": [
+      "Sprachzertifikat",
+      "Zertifikat erhalten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "Bescheinigung",
+      "Diplom"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Zickzack",
+    "lemma": "Zickzack",
+    "pos": [
+      "noun",
+      "adverb"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "之字形，锯齿形",
+        "en": "zigzag"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Weg führte im Zickzack den Berg hinauf.",
+        "zh": "这条路呈之字形通向山上。"
+      },
+      {
+        "de": "Sie malte ein Zickzack-Muster auf das Papier.",
+        "zh": "她在纸上画了一个锯齿形图案。"
+      }
+    ],
+    "collocations": [
+      "im Zickzack laufen",
+      "Zickzacklinie"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "形状",
+      "运动",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "gerade"
+    ]
+  },
+  {
+    "word": "zielen",
+    "lemma": "zielen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "瞄准，针对",
+        "en": "to aim, to target"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Schütze zielte genau auf die Mitte der Scheibe.",
+        "zh": "射手精确瞄准靶心。"
+      },
+      {
+        "de": "Diese Kritik zielt auf die mangelnde Organisation.",
+        "zh": "这个批评针对的是组织不力。"
+      }
+    ],
+    "collocations": [
+      "auf etwas zielen",
+      "zielen auf"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gezielt"
+    },
+    "level": "B1",
+    "tags": [
+      "动作",
+      "目标",
+      "B1"
+    ],
+    "synonyms": [
+      "abzielen",
+      "anvisieren"
+    ],
+    "antonyms": [
+      "verfehlen"
+    ]
+  },
+  {
+    "word": "zittern",
+    "lemma": "zittern",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "颤抖，发抖",
+        "en": "to tremble, to shiver"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie zitterte vor Kälte im Winter.",
+        "zh": "冬天她冷得发抖。"
+      },
+      {
+        "de": "Seine Hände zitterten vor Aufregung.",
+        "zh": "他的手因激动而颤抖。"
+      }
+    ],
+    "collocations": [
+      "vor Kälte zittern",
+      "vor Angst zittern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gezittert"
+    },
+    "level": "A2",
+    "tags": [
+      "身体",
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "beben",
+      "schlottern"
+    ],
+    "antonyms": [
+      "ruhig sein"
+    ]
+  },
+  {
+    "word": "Zone",
+    "lemma": "Zone",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Zonen",
+    "meaning": [
+      {
+        "zh": "区域，地带",
+        "en": "zone, area"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In dieser Zone ist das Parken verboten.",
+        "zh": "在这个区域禁止停车。"
+      },
+      {
+        "de": "Die Stadt ist in verschiedene Zonen eingeteilt.",
+        "zh": "这座城市被划分为不同的区域。"
+      }
+    ],
+    "collocations": [
+      "Fußgängerzone",
+      "Zeitzone"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "地理",
+      "城市",
+      "A2"
+    ],
+    "synonyms": [
+      "Bereich",
+      "Gebiet"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Zubereitung",
+    "lemma": "Zubereitung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Zubereitungen",
+    "meaning": [
+      {
+        "zh": "准备，制作（尤指食物）",
+        "en": "preparation (especially of food)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Zubereitung des Gerichts dauert etwa eine Stunde.",
+        "zh": "这道菜的制作大约需要一个小时。"
+      },
+      {
+        "de": "Für die Zubereitung von Pasta braucht man nur wenige Zutaten.",
+        "zh": "制作意大利面只需要很少的配料。"
+      }
+    ],
+    "collocations": [
+      "die Zubereitung von Speisen",
+      "bei der Zubereitung helfen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "烹饪",
+      "B1"
+    ],
+    "synonyms": [
+      "Herstellung",
+      "Anfertigung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Zucker",
+    "lemma": "Zucker",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "糖",
+        "en": "sugar"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bitte geben Sie etwas Zucker in den Kaffee.",
+        "zh": "请往咖啡里加一点糖。"
+      },
+      {
+        "de": "Zucker wird aus Zuckerrüben oder Zuckerrohr gewonnen.",
+        "zh": "糖是从甜菜或甘蔗中提取的。"
+      }
+    ],
+    "collocations": [
+      "Zucker im Tee",
+      "ein Löffel Zucker"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "食物",
+      "A1"
+    ],
+    "synonyms": [
+      "Süßstoff"
+    ],
+    "antonyms": [
+      "Salz"
+    ]
+  },
+  {
+    "word": "zudrehen",
+    "lemma": "zudrehen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "拧紧，关上（水龙头等）；转向",
+        "en": "to turn off (e.g., a tap); to turn towards"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er drehte den Wasserhahn zu.",
+        "zh": "他关上了水龙头。"
+      },
+      {
+        "de": "Sie drehte sich zu ihm zu und lächelte.",
+        "zh": "她转向他，微笑了一下。"
+      }
+    ],
+    "collocations": [
+      "den Wasserhahn zudrehen",
+      "sich jemandem zudrehen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "zugedreht"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "动作",
+      "B1"
+    ],
+    "synonyms": [
+      "abdrehen",
+      "schließen"
+    ],
+    "antonyms": [
+      "aufdrehen",
+      "öffnen"
+    ]
+  },
+  {
+    "word": "zueinander",
+    "lemma": "zueinander",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "彼此，相互",
+        "en": "to each other, mutually"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die beiden Freunde haben zueinander gefunden.",
+        "zh": "这两个朋友找到了彼此。"
+      },
+      {
+        "de": "Sie verhalten sich zueinander sehr respektvoll.",
+        "zh": "他们彼此之间非常尊重。"
+      }
+    ],
+    "collocations": [
+      "zueinander passen",
+      "zueinander stehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "关系",
+      "B1"
+    ],
+    "synonyms": [
+      "miteinander",
+      "gegenseitig"
+    ],
+    "antonyms": [
+      "voneinander"
+    ]
+  },
+  {
+    "word": "Zufall",
+    "lemma": "Zufall",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Zufälle",
+    "meaning": [
+      {
+        "zh": "偶然，巧合",
+        "en": "coincidence, chance"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Es war reiner Zufall, dass wir uns trafen.",
+        "zh": "我们相遇纯属偶然。"
+      },
+      {
+        "de": "Durch einen Zufall fand er das verlorene Buch wieder.",
+        "zh": "偶然间，他重新找到了那本丢失的书。"
+      }
+    ],
+    "collocations": [
+      "reiner Zufall",
+      "durch Zufall"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "抽象概念",
+      "B1"
+    ],
+    "synonyms": [
+      "Zufälligkeit",
+      "Koinzidenz"
+    ],
+    "antonyms": [
+      "Absicht",
+      "Plan"
+    ]
+  },
+  {
+    "word": "zugänglich",
+    "lemma": "zugänglich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "可进入的，可接近的；易理解的",
+        "en": "accessible, approachable"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Park ist für alle zugänglich.",
+        "zh": "这个公园对所有人开放。"
+      },
+      {
+        "de": "Der Professor ist sehr zugänglich und hilfsbereit.",
+        "zh": "这位教授非常平易近人，乐于助人。"
+      }
+    ],
+    "collocations": [
+      "für jemanden zugänglich sein",
+      "leicht zugänglich"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "描述",
+      "B1"
+    ],
+    "synonyms": [
+      "erreichbar",
+      "offen"
+    ],
+    "antonyms": [
+      "unzugänglich",
+      "verschlossen"
+    ]
+  },
+  {
+    "word": "zugeben",
+    "lemma": "zugeben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "承认；添加",
+        "en": "to admit; to add"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er gab zu, einen Fehler gemacht zu haben.",
+        "zh": "他承认犯了一个错误。"
+      },
+      {
+        "de": "Sie gab noch etwas Salz zur Suppe zu.",
+        "zh": "她往汤里又加了一点盐。"
+      }
+    ],
+    "collocations": [
+      "einen Fehler zugeben",
+      "etwas zu etwas zugeben"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "zugegeben"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "交流",
+      "B1"
+    ],
+    "synonyms": [
+      "eingestehen",
+      "hinzufügen"
+    ],
+    "antonyms": [
+      "leugnen",
+      "abstreiten"
+    ]
+  },
+  {
+    "word": "zuhören",
+    "lemma": "zuhören",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "倾听，注意听",
+        "en": "to listen (attentively)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bitte hören Sie mir genau zu.",
+        "zh": "请仔细听我说。"
+      },
+      {
+        "de": "Er hörte der Musik aufmerksam zu.",
+        "zh": "他专注地听着音乐。"
+      }
+    ],
+    "collocations": [
+      "jemandem zuhören",
+      "aufmerksam zuhören"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "zugehört"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "交流",
+      "A2"
+    ],
+    "synonyms": [
+      "hinhören",
+      "lauschen"
+    ],
+    "antonyms": [
+      "überhören",
+      "ignorieren"
+    ]
+  },
+  {
+    "word": "Zukunft",
+    "lemma": "Zukunft",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "未来，将来",
+        "en": "future"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In der Zukunft wird alles anders sein.",
+        "zh": "在未来，一切都会不同。"
+      },
+      {
+        "de": "Sie macht sich Sorgen um ihre Zukunft.",
+        "zh": "她为自己的未来担忧。"
+      }
+    ],
+    "collocations": [
+      "in der Zukunft",
+      "Zukunft haben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "时间",
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Zukünftiges",
+      "kommende Zeit"
+    ],
+    "antonyms": [
+      "Vergangenheit"
+    ]
+  },
+  {
+    "word": "zulassen",
+    "lemma": "zulassen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "允许，准许",
+        "en": "to allow, to permit"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Behörde hat die Veranstaltung nicht zugelassen.",
+        "zh": "当局没有批准这次活动。"
+      },
+      {
+        "de": "Man sollte solche Fehler nicht zulassen.",
+        "zh": "不应该允许这样的错误发生。"
+      }
+    ],
+    "collocations": [
+      "etwas zulassen",
+      "nicht zulassen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "zugelassen"
+    },
+    "level": "B1",
+    "tags": [
+      "法律",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "erlauben",
+      "genehmigen"
+    ],
+    "antonyms": [
+      "verbieten",
+      "untersagen"
+    ]
+  },
+  {
+    "word": "Zulassung",
+    "lemma": "Zulassung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Zulassungen",
+    "meaning": [
+      {
+        "zh": "许可，准入，注册",
+        "en": "admission, approval, registration"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat die Zulassung zum Studium bekommen.",
+        "zh": "他获得了大学入学许可。"
+      },
+      {
+        "de": "Die Zulassung des Autos ist abgelaufen.",
+        "zh": "这辆车的注册已经过期了。"
+      }
+    ],
+    "collocations": [
+      "Zulassung bekommen",
+      "Zulassung verlängern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "法律",
+      "交通",
+      "B1"
+    ],
+    "synonyms": [
+      "Genehmigung",
+      "Erlaubnis"
+    ],
+    "antonyms": [
+      "Ablehnung",
+      "Verbot"
+    ]
+  },
+  {
+    "word": "zurückreichen",
+    "lemma": "zurückreichen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "追溯，回递",
+        "en": "to date back, to hand back"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Tradition reicht bis ins 18. Jahrhundert zurück.",
+        "zh": "这一传统可以追溯到18世纪。"
+      },
+      {
+        "de": "Kannst du mir das Buch zurückreichen?",
+        "zh": "你能把书递回给我吗？"
+      }
+    ],
+    "collocations": [
+      "zurückreichen bis",
+      "etwas zurückreichen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "zurückgereicht"
+    },
+    "level": "B2",
+    "tags": [
+      "历史",
+      "时间",
+      "B2"
+    ],
+    "synonyms": [
+      "zurückgehen",
+      "datieren"
+    ],
+    "antonyms": [
+      "vorausgehen"
+    ]
+  },
+  {
+    "word": "zurzeit",
+    "lemma": "zurzeit",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "目前，现在",
+        "en": "currently, at the moment"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Zurzeit bin ich sehr beschäftigt.",
+        "zh": "目前我很忙。"
+      },
+      {
+        "de": "Das Projekt läuft zurzeit gut.",
+        "zh": "这个项目目前进展顺利。"
+      }
+    ],
+    "collocations": [
+      "zurzeit arbeiten",
+      "zurzeit leben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "时间",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "momentan",
+      "derzeit"
+    ],
+    "antonyms": [
+      "früher",
+      "später"
+    ]
+  },
+  {
+    "word": "zusammenschließen",
+    "lemma": "zusammenschließen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "联合，合并",
+        "en": "to unite, to merge"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die beiden Firmen haben sich zusammengeschlossen.",
+        "zh": "这两家公司合并了。"
+      },
+      {
+        "de": "Die Nachbarn schlossen sich zusammen, um den Park zu retten.",
+        "zh": "邻居们联合起来拯救公园。"
+      }
+    ],
+    "collocations": [
+      "sich zusammenschließen",
+      "zusammenschließen mit"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "zusammengeschlossen"
+    },
+    "level": "B2",
+    "tags": [
+      "经济",
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "vereinigen",
+      "fusionieren"
+    ],
+    "antonyms": [
+      "trennen",
+      "spalten"
+    ]
+  },
+  {
+    "word": "Zusammensetzung",
+    "lemma": "Zusammensetzung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Zusammensetzungen",
+    "meaning": [
+      {
+        "zh": "组成，成分",
+        "en": "composition, makeup"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die chemische Zusammensetzung des Stoffes ist komplex.",
+        "zh": "这种物质的化学成分很复杂。"
+      },
+      {
+        "de": "Die Zusammensetzung des Teams hat sich geändert.",
+        "zh": "团队的组成发生了变化。"
+      }
+    ],
+    "collocations": [
+      "chemische Zusammensetzung",
+      "Zusammensetzung ändern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科学",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Bestandteile",
+      "Struktur"
+    ],
+    "antonyms": [
+      "Auflösung",
+      "Zerlegung"
+    ]
+  },
+  {
+    "word": "zusammenftreffen",
+    "lemma": "zusammenftreffen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "相遇，碰面",
+        "en": "to meet, to encounter"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir werden uns morgen im Café zusammenftreffen.",
+        "zh": "我们明天在咖啡馆碰面。"
+      },
+      {
+        "de": "Die beiden Kulturen treffen hier aufeinander.",
+        "zh": "两种文化在这里相遇。"
+      }
+    ],
+    "collocations": [
+      "sich zusammenftreffen",
+      "zusammenftreffen mit"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "zusammenftreffen"
+    },
+    "level": "B1",
+    "tags": [
+      "社交",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "treffen",
+      "begegnen"
+    ],
+    "antonyms": [
+      "trennen",
+      "vermeiden"
+    ]
+  },
+  {
+    "word": "zusätzlich",
+    "lemma": "zusätzlich",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "额外的，附加的",
+        "en": "additional, extra"
+      },
+      {
+        "zh": "此外，另外",
+        "en": "additionally, in addition"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir brauchen zusätzliche Zeit für das Projekt.",
+        "zh": "我们需要为这个项目额外的时间。"
+      },
+      {
+        "de": "Zusätzlich zu den Kosten kommt noch die Miete hinzu.",
+        "zh": "除了费用之外，还有租金。"
+      }
+    ],
+    "collocations": [
+      "zusätzliche Kosten",
+      "zusätzliche Informationen",
+      "zusätzlich zu etwas"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语言",
+      "B1"
+    ],
+    "synonyms": [
+      "extra",
+      "weiter",
+      "ergänzend"
+    ],
+    "antonyms": [
+      "weniger",
+      "fehlend"
+    ]
+  },
+  {
+    "word": "Zutat",
+    "lemma": "Zutat",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Zutaten",
+    "meaning": [
+      {
+        "zh": "配料，成分",
+        "en": "ingredient"
+      },
+      {
+        "zh": "材料（烹饪）",
+        "en": "component (cooking)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die wichtigste Zutat für diesen Kuchen ist Mehl.",
+        "zh": "这个蛋糕最重要的配料是面粉。"
+      },
+      {
+        "de": "Bitte alle Zutaten vor dem Kochen bereitstellen.",
+        "zh": "请在烹饪前准备好所有配料。"
+      }
+    ],
+    "collocations": [
+      "frische Zutaten",
+      "die Zutaten mischen",
+      "eine Zutat hinzufügen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "饮食",
+      "A2"
+    ],
+    "synonyms": [
+      "Bestandteil",
+      "Komponente",
+      "Ingredienz"
+    ],
+    "antonyms": [
+      "Fertigprodukt"
+    ]
+  },
+  {
+    "word": "Zwang",
+    "lemma": "Zwang",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Zwänge",
+    "meaning": [
+      {
+        "zh": "强迫，强制",
+        "en": "compulsion, coercion"
+      },
+      {
+        "zh": "压力，约束",
+        "en": "pressure, constraint"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er handelte unter Zwang.",
+        "zh": "他是在强迫下行动的。"
+      },
+      {
+        "de": "Der Zwang zur Leistung kann krank machen.",
+        "zh": "对成绩的强迫会让人生病。"
+      }
+    ],
+    "collocations": [
+      "unter Zwang stehen",
+      "Zwang ausüben",
+      "sozialer Zwang"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "心理",
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "Druck",
+      "Nötigung",
+      "Verpflichtung"
+    ],
+    "antonyms": [
+      "Freiheit",
+      "Freiwilligkeit"
+    ]
+  },
+  {
+    "word": "Zweck",
+    "lemma": "Zweck",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Zwecke",
+    "meaning": [
+      {
+        "zh": "目的，用途",
+        "en": "purpose, aim"
+      },
+      {
+        "zh": "目标",
+        "en": "objective"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Zweck dieser Übung ist die Verbesserung der Ausdauer.",
+        "zh": "这个练习的目的是提高耐力。"
+      },
+      {
+        "de": "Für welchen Zweck brauchst du das Geld?",
+        "zh": "你需要这笔钱做什么用途？"
+      }
+    ],
+    "collocations": [
+      "zu einem bestimmten Zweck",
+      "der Zweck heiligt die Mittel",
+      "für einen guten Zweck spenden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "Ziel",
+      "Absicht",
+      "Sinn"
+    ],
+    "antonyms": [
+      "Mittel",
+      "Zufall"
+    ]
+  },
+  {
+    "word": "asien",
+    "lemma": "Asien",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "亚洲",
+        "en": "Asia"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Asien ist der größte Kontinent der Erde.",
+        "zh": "亚洲是地球上最大的洲。"
+      },
+      {
+        "de": "Viele Kulturen in Asien haben eine lange Geschichte.",
+        "zh": "亚洲的许多文化有着悠久的历史。"
+      }
+    ],
+    "collocations": [
+      "in Asien",
+      "aus Asien",
+      "die Länder Asiens"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "地理",
+      "A1"
+    ],
+    "synonyms": [
+      "der asiatische Kontinent"
+    ],
+    "antonyms": [
+      "Europa",
+      "Afrika"
+    ]
+  }
+]

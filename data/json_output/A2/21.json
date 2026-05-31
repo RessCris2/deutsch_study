@@ -1,0 +1,1645 @@
+[
+  {
+    "word": "Unternehmen",
+    "lemma": "Unternehmen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Unternehmen",
+    "meaning": [
+      {
+        "zh": "企业，公司",
+        "en": "company, enterprise"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Unternehmen expandiert in neue Märkte.",
+        "zh": "这家企业正在向新市场扩张。"
+      },
+      {
+        "de": "Sie gründete ein eigenes Unternehmen.",
+        "zh": "她创办了自己的公司。"
+      }
+    ],
+    "collocations": [
+      "ein Unternehmen gründen",
+      "ein Unternehmen leiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "Firma",
+      "Betrieb"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Unterrichtsraum",
+    "lemma": "Unterrichtsraum",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Unterrichtsräume",
+    "meaning": [
+      {
+        "zh": "教室",
+        "en": "classroom"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Unterrichtsraum ist gut ausgestattet.",
+        "zh": "这间教室设备齐全。"
+      },
+      {
+        "de": "Wir treffen uns im Unterrichtsraum um neun Uhr.",
+        "zh": "我们九点在教室见面。"
+      }
+    ],
+    "collocations": [
+      "den Unterrichtsraum betreten",
+      "den Unterrichtsraum reinigen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "教育",
+      "A2"
+    ],
+    "synonyms": [
+      "Klassenzimmer",
+      "Schulraum"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Unterschied",
+    "lemma": "Unterschied",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Unterschiede",
+    "meaning": [
+      {
+        "zh": "区别，差异",
+        "en": "difference"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Es gibt einen großen Unterschied zwischen den beiden Modellen.",
+        "zh": "这两个型号之间有很大的区别。"
+      },
+      {
+        "de": "Kannst du den Unterschied erkennen?",
+        "zh": "你能看出区别吗？"
+      }
+    ],
+    "collocations": [
+      "einen Unterschied machen",
+      "im Unterschied zu"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "语言",
+      "A2"
+    ],
+    "synonyms": [
+      "Differenz",
+      "Abweichung"
+    ],
+    "antonyms": [
+      "Gleichheit",
+      "Ähnlichkeit"
+    ]
+  },
+  {
+    "word": "unterschreiben",
+    "lemma": "unterschreiben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "签署，签字",
+        "en": "to sign"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bitte unterschreiben Sie hier.",
+        "zh": "请在这里签字。"
+      },
+      {
+        "de": "Er hat den Vertrag gestern unterschrieben.",
+        "zh": "他昨天签署了合同。"
+      }
+    ],
+    "collocations": [
+      "einen Vertrag unterschreiben",
+      "ein Dokument unterschreiben"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "unterschrieben"
+    },
+    "level": "B1",
+    "tags": [
+      "法律",
+      "B1"
+    ],
+    "synonyms": [
+      "unterzeichnen",
+      "signieren"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "unvorstellbar",
+    "lemma": "unvorstellbar",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "难以想象的，不可思议的",
+        "en": "unimaginable, inconceivable"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Zerstörung war unvorstellbar.",
+        "zh": "破坏程度难以想象。"
+      },
+      {
+        "de": "Es ist unvorstellbar, wie viel Arbeit das war.",
+        "zh": "难以想象这有多少工作。"
+      }
+    ],
+    "collocations": [
+      "fast unvorstellbar",
+      "unvorstellbar groß"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "情感",
+      "B2"
+    ],
+    "synonyms": [
+      "undenkbar",
+      "unglaublich"
+    ],
+    "antonyms": [
+      "vorstellbar",
+      "denkbar"
+    ]
+  },
+  {
+    "word": "Valentinstag",
+    "lemma": "Valentinstag",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Valentinstage",
+    "meaning": [
+      {
+        "zh": "情人节",
+        "en": "Valentine's Day"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Am Valentinstag schenken sich Paare Blumen.",
+        "zh": "情人节时情侣们互送鲜花。"
+      },
+      {
+        "de": "Wir feiern den Valentinstag jedes Jahr.",
+        "zh": "我们每年都庆祝情人节。"
+      }
+    ],
+    "collocations": [
+      "den Valentinstag feiern",
+      "ein Geschenk zum Valentinstag"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "节日",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "verändern",
+    "lemma": "verändern",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "改变，变化",
+        "en": "to change, to alter"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Technologie verändert unser Leben.",
+        "zh": "技术正在改变我们的生活。"
+      },
+      {
+        "de": "Er hat seine Meinung verändert.",
+        "zh": "他改变了自己的想法。"
+      }
+    ],
+    "collocations": [
+      "sich verändern",
+      "etwas grundlegend verändern"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verändert"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "ändern",
+      "umwandeln"
+    ],
+    "antonyms": [
+      "beibehalten",
+      "stabilisieren"
+    ]
+  },
+  {
+    "word": "Veränderung",
+    "lemma": "Veränderung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Veränderungen",
+    "meaning": [
+      {
+        "zh": "变化，改变",
+        "en": "change, alteration"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Veränderung des Klimas ist besorgniserregend.",
+        "zh": "气候变化令人担忧。"
+      },
+      {
+        "de": "In der Firma gab es viele Veränderungen.",
+        "zh": "公司里发生了许多变化。"
+      }
+    ],
+    "collocations": [
+      "eine Veränderung herbeiführen",
+      "unter Veränderung leiden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Wandel",
+      "Modifikation"
+    ],
+    "antonyms": [
+      "Stabilität",
+      "Konstanz"
+    ]
+  },
+  {
+    "word": "veranstalten",
+    "lemma": "veranstalten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "举办，组织",
+        "en": "to organize, to hold (an event)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Universität veranstaltet jedes Jahr ein Sommerfest.",
+        "zh": "大学每年举办一次夏季节日。"
+      },
+      {
+        "de": "Wir veranstalten morgen eine Konferenz zum Thema Umweltschutz.",
+        "zh": "我们明天举办一场关于环境保护的会议。"
+      }
+    ],
+    "collocations": [
+      "eine Veranstaltung veranstalten",
+      "ein Konzert veranstalten",
+      "einen Wettbewerb veranstalten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "veranstaltet"
+    },
+    "level": "B1",
+    "tags": [
+      "活动",
+      "组织",
+      "B1"
+    ],
+    "synonyms": [
+      "organisieren",
+      "durchführen"
+    ],
+    "antonyms": [
+      "absagen",
+      "stornieren"
+    ]
+  },
+  {
+    "word": "verbessern",
+    "lemma": "verbessern",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "改善，提高",
+        "en": "to improve, to enhance"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er möchte seine Deutschkenntnisse verbessern.",
+        "zh": "他想提高他的德语水平。"
+      },
+      {
+        "de": "Die Firma hat die Arbeitsbedingungen verbessert.",
+        "zh": "公司改善了工作条件。"
+      }
+    ],
+    "collocations": [
+      "die Leistung verbessern",
+      "die Situation verbessern",
+      "sich verbessern"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verbessert"
+    },
+    "level": "B1",
+    "tags": [
+      "改进",
+      "学习",
+      "B1"
+    ],
+    "synonyms": [
+      "optimieren",
+      "steigern"
+    ],
+    "antonyms": [
+      "verschlechtern",
+      "verringern"
+    ]
+  },
+  {
+    "word": "verbinden",
+    "lemma": "verbinden",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "连接，结合",
+        "en": "to connect, to combine"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Brücke verbindet die beiden Städte.",
+        "zh": "这座桥连接着两个城市。"
+      },
+      {
+        "de": "Man kann Arbeit und Freizeit nicht immer verbinden.",
+        "zh": "人们不能总是把工作和休闲结合起来。"
+      }
+    ],
+    "collocations": [
+      "sich mit etwas verbinden",
+      "zwei Dinge miteinander verbinden",
+      "eine Verbindung herstellen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verbunden"
+    },
+    "level": "B1",
+    "tags": [
+      "连接",
+      "技术",
+      "B1"
+    ],
+    "synonyms": [
+      "verknüpfen",
+      "koppeln"
+    ],
+    "antonyms": [
+      "trennen",
+      "lösen"
+    ]
+  },
+  {
+    "word": "Verbreitung",
+    "lemma": "Verbreitung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "传播，扩散",
+        "en": "spread, distribution"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Verbreitung von Fake News ist ein großes Problem.",
+        "zh": "假新闻的传播是一个大问题。"
+      },
+      {
+        "de": "Das Internet ermöglicht eine schnelle Verbreitung von Informationen.",
+        "zh": "互联网使得信息快速传播。"
+      }
+    ],
+    "collocations": [
+      "die Verbreitung von etwas",
+      "zur Verbreitung beitragen",
+      "weite Verbreitung finden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "媒体",
+      "信息",
+      "B2"
+    ],
+    "synonyms": [
+      "Ausbreitung",
+      "Distribution"
+    ],
+    "antonyms": [
+      "Eindämmung",
+      "Unterdrückung"
+    ]
+  },
+  {
+    "word": "Vereinigung",
+    "lemma": "Vereinigung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Vereinigungen",
+    "meaning": [
+      {
+        "zh": "联合，联盟，协会",
+        "en": "union, association, unification"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Vereinigung der beiden Unternehmen war ein großer Erfolg.",
+        "zh": "两家公司的合并是一个巨大的成功。"
+      },
+      {
+        "de": "Er ist Mitglied einer sportlichen Vereinigung.",
+        "zh": "他是一个体育协会的成员。"
+      }
+    ],
+    "collocations": [
+      "eine Vereinigung gründen",
+      "der Vereinigung beitreten",
+      "politische Vereinigung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "组织",
+      "政治",
+      "B2"
+    ],
+    "synonyms": [
+      "Verband",
+      "Bündnis"
+    ],
+    "antonyms": [
+      "Trennung",
+      "Spaltung"
+    ]
+  },
+  {
+    "word": "verfassen",
+    "lemma": "verfassen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "撰写，创作",
+        "en": "to write, to compose (a text)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat einen Artikel über Klimawandel verfasst.",
+        "zh": "她撰写了一篇关于气候变化的文章。"
+      },
+      {
+        "de": "Der Autor verfasste mehrere Romane.",
+        "zh": "这位作者创作了多部小说。"
+      }
+    ],
+    "collocations": [
+      "einen Text verfassen",
+      "einen Brief verfassen",
+      "ein Gedicht verfassen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verfasst"
+    },
+    "level": "B2",
+    "tags": [
+      "写作",
+      "文学",
+      "B2"
+    ],
+    "synonyms": [
+      "schreiben",
+      "formulieren"
+    ],
+    "antonyms": [
+      "löschen",
+      "streichen"
+    ]
+  },
+  {
+    "word": "verfeinern",
+    "lemma": "verfeinern",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "精炼，细化，改善",
+        "en": "to refine, to improve"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Koch verfeinerte das Rezept mit Gewürzen.",
+        "zh": "厨师用香料精炼了食谱。"
+      },
+      {
+        "de": "Wir müssen unsere Strategie noch verfeinern.",
+        "zh": "我们必须进一步细化我们的策略。"
+      }
+    ],
+    "collocations": [
+      "ein Verfahren verfeinern",
+      "die Technik verfeinern",
+      "den Geschmack verfeinern"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verfeinert"
+    },
+    "level": "B2",
+    "tags": [
+      "技术",
+      "烹饪",
+      "B2"
+    ],
+    "synonyms": [
+      "verbessern",
+      "optimieren"
+    ],
+    "antonyms": [
+      "vergroben",
+      "verschlechtern"
+    ]
+  },
+  {
+    "word": "vergessen",
+    "lemma": "vergessen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "忘记",
+        "en": "to forget"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe meinen Schlüssel zu Hause vergessen.",
+        "zh": "我把钥匙忘在家里了。"
+      },
+      {
+        "de": "Vergiss nicht, die Tür abzuschließen!",
+        "zh": "别忘了锁门！"
+      }
+    ],
+    "collocations": [
+      "etwas vergessen",
+      "jemanden vergessen",
+      "nicht vergessen zu tun"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "vergessen"
+    },
+    "level": "A2",
+    "tags": [
+      "日常",
+      "记忆",
+      "A2"
+    ],
+    "synonyms": [
+      "verpassen",
+      "auslassen"
+    ],
+    "antonyms": [
+      "erinnern",
+      "behalten"
+    ]
+  },
+  {
+    "word": "Vergleich",
+    "lemma": "Vergleich",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Vergleiche",
+    "meaning": [
+      {
+        "zh": "比较，对比",
+        "en": "comparison"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Vergleich zu letztem Jahr ist die Wirtschaft gewachsen.",
+        "zh": "与去年相比，经济增长了。"
+      },
+      {
+        "de": "Er zog einen Vergleich zwischen den beiden Produkten.",
+        "zh": "他对这两种产品进行了比较。"
+      }
+    ],
+    "collocations": [
+      "im Vergleich zu",
+      "einen Vergleich ziehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语言",
+      "分析",
+      "B1"
+    ],
+    "synonyms": [
+      "Gegenüberstellung",
+      "Abgleich"
+    ],
+    "antonyms": [
+      "Unterschied"
+    ]
+  },
+  {
+    "word": "Vergleichbarkeit",
+    "lemma": "Vergleichbarkeit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "可比性",
+        "en": "comparability"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Vergleichbarkeit der Daten ist entscheidend für die Studie.",
+        "zh": "数据的可比性对研究至关重要。"
+      },
+      {
+        "de": "Aufgrund unterschiedlicher Methoden fehlt die Vergleichbarkeit.",
+        "zh": "由于方法不同，缺乏可比性。"
+      }
+    ],
+    "collocations": [
+      "die Vergleichbarkeit sicherstellen",
+      "mangelnde Vergleichbarkeit"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "科学",
+      "分析",
+      "B2"
+    ],
+    "synonyms": [
+      "Ähnlichkeit",
+      "Entsprechung"
+    ],
+    "antonyms": [
+      "Unvergleichbarkeit"
+    ]
+  },
+  {
+    "word": "vergleichen",
+    "lemma": "vergleichen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "比较，对比",
+        "en": "to compare"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Man kann Äpfel nicht mit Birnen vergleichen.",
+        "zh": "不能把苹果和梨相比。"
+      },
+      {
+        "de": "Er verglich die Preise in verschiedenen Geschäften.",
+        "zh": "他比较了不同商店的价格。"
+      }
+    ],
+    "collocations": [
+      "mit jemandem/etwas vergleichen",
+      "sich vergleichen lassen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verglichen"
+    },
+    "level": "B1",
+    "tags": [
+      "语言",
+      "分析",
+      "B1"
+    ],
+    "synonyms": [
+      "gegenüberstellen",
+      "abgleichen"
+    ],
+    "antonyms": [
+      "unterscheiden"
+    ]
+  },
+  {
+    "word": "Verkehrsregel",
+    "lemma": "Verkehrsregel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Verkehrsregeln",
+    "meaning": [
+      {
+        "zh": "交通规则",
+        "en": "traffic rule"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Jeder Fahrer muss die Verkehrsregeln kennen.",
+        "zh": "每个司机都必须了解交通规则。"
+      },
+      {
+        "de": "Verkehrsregeln dienen der Sicherheit auf der Straße.",
+        "zh": "交通规则旨在保障道路安全。"
+      }
+    ],
+    "collocations": [
+      "die Verkehrsregeln einhalten",
+      "gegen die Verkehrsregeln verstoßen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "交通",
+      "法律",
+      "A2"
+    ],
+    "synonyms": [
+      "Straßenverkehrsordnung",
+      "Fahrordnung"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "verkleidet",
+    "lemma": "verkleiden",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "乔装打扮，伪装",
+        "en": "to disguise, to dress up"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kinder verkleideten sich als Geister zu Halloween.",
+        "zh": "孩子们在万圣节装扮成鬼怪。"
+      },
+      {
+        "de": "Er verkleidete sich, um unerkannt zu bleiben.",
+        "zh": "他乔装打扮以不被认出。"
+      }
+    ],
+    "collocations": [
+      "sich als jemand/etwas verkleiden",
+      "verkleidet sein"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verkleidet"
+    },
+    "level": "B1",
+    "tags": [
+      "娱乐",
+      "行为",
+      "B1"
+    ],
+    "synonyms": [
+      "maskieren",
+      "tarnen"
+    ],
+    "antonyms": [
+      "enthüllen"
+    ]
+  },
+  {
+    "word": "verkürzen",
+    "lemma": "verkürzen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "缩短，减少",
+        "en": "to shorten, to reduce"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Firma verkürzte die Arbeitszeit auf 35 Stunden pro Woche.",
+        "zh": "公司把工作时间缩短到每周35小时。"
+      },
+      {
+        "de": "Man kann den Weg durch den Park verkürzen.",
+        "zh": "穿过公园可以缩短路程。"
+      }
+    ],
+    "collocations": [
+      "die Wartezeit verkürzen",
+      "einen Text verkürzen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verkürzt"
+    },
+    "level": "B1",
+    "tags": [
+      "时间",
+      "变化",
+      "B1"
+    ],
+    "synonyms": [
+      "kürzen",
+      "reduzieren"
+    ],
+    "antonyms": [
+      "verlängern",
+      "ausdehnen"
+    ]
+  },
+  {
+    "word": "verlangen",
+    "lemma": "verlangen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "要求，需要",
+        "en": "to demand, to require"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Chef verlangte eine sofortige Erklärung.",
+        "zh": "老板要求立即解释。"
+      },
+      {
+        "de": "Diese Arbeit verlangt viel Geduld.",
+        "zh": "这项工作需要很多耐心。"
+      }
+    ],
+    "collocations": [
+      "etwas von jemandem verlangen",
+      "nach etwas verlangen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verlangt"
+    },
+    "level": "B1",
+    "tags": [
+      "沟通",
+      "需求",
+      "B1"
+    ],
+    "synonyms": [
+      "fordern",
+      "erwarten"
+    ],
+    "antonyms": [
+      "anbieten",
+      "geben"
+    ]
+  },
+  {
+    "word": "verlassen",
+    "lemma": "verlassen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "离开，抛弃",
+        "en": "to leave, to abandon"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er verließ das Haus um acht Uhr.",
+        "zh": "他八点离开了家。"
+      },
+      {
+        "de": "Sie verließ ihren Freund nach dem Streit.",
+        "zh": "争吵后她离开了她的男朋友。"
+      }
+    ],
+    "collocations": [
+      "das Haus verlassen",
+      "sich auf jemanden verlassen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verlassen"
+    },
+    "level": "A2",
+    "tags": [
+      "行为",
+      "移动",
+      "A2"
+    ],
+    "synonyms": [
+      "weggehen",
+      "aufgeben"
+    ],
+    "antonyms": [
+      "bleiben",
+      "ankommen"
+    ]
+  },
+  {
+    "word": "Vermittlung",
+    "lemma": "Vermittlung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Vermittlungen",
+    "meaning": [
+      {
+        "zh": "调解，中介，传授",
+        "en": "mediation, brokerage, transmission"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Vermittlung zwischen den beiden Parteien war erfolgreich.",
+        "zh": "双方之间的调解是成功的。"
+      },
+      {
+        "de": "Er arbeitet in einer Agentur für Arbeitsvermittlung.",
+        "zh": "他在一家职业介绍所工作。"
+      }
+    ],
+    "collocations": [
+      "Vermittlung von Wissen",
+      "Vermittlung eines Arbeitsplatzes"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "Mediation",
+      "Übermittlung"
+    ],
+    "antonyms": [
+      "Konflikt",
+      "Trennung"
+    ]
+  },
+  {
+    "word": "Vernunft",
+    "lemma": "Vernunft",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "理智，理性",
+        "en": "reason, rationality"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat die Vernunft verloren.",
+        "zh": "他失去了理智。"
+      },
+      {
+        "de": "Mit Vernunft kann man viele Probleme lösen.",
+        "zh": "凭借理智可以解决许多问题。"
+      }
+    ],
+    "collocations": [
+      "zur Vernunft kommen",
+      "die Vernunft gebieten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "哲学",
+      "B1"
+    ],
+    "synonyms": [
+      "Logik",
+      "Verstand"
+    ],
+    "antonyms": [
+      "Unvernunft",
+      "Irrationalität"
+    ]
+  },
+  {
+    "word": "veröffentlichen",
+    "lemma": "veröffentlichen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "发表，出版，公布",
+        "en": "to publish, to release"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Autor hat einen neuen Roman veröffentlicht.",
+        "zh": "作者出版了一部新小说。"
+      },
+      {
+        "de": "Die Regierung wird die Ergebnisse morgen veröffentlichen.",
+        "zh": "政府将于明天公布结果。"
+      }
+    ],
+    "collocations": [
+      "ein Buch veröffentlichen",
+      "eine Studie veröffentlichen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "veröffentlicht"
+    },
+    "level": "B1",
+    "tags": [
+      "媒体",
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "publizieren",
+      "herausgeben"
+    ],
+    "antonyms": [
+      "verheimlichen",
+      "unterdrücken"
+    ]
+  },
+  {
+    "word": "verrückt",
+    "lemma": "verrückt",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "疯狂的，发疯的",
+        "en": "crazy, mad"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist total verrückt nach Fußball.",
+        "zh": "他对足球非常狂热。"
+      },
+      {
+        "de": "Das ist eine verrückte Idee.",
+        "zh": "这是一个疯狂的想法。"
+      }
+    ],
+    "collocations": [
+      "verrückt sein nach",
+      "verrückt werden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "wahnsinnig",
+      "irre"
+    ],
+    "antonyms": [
+      "vernünftig",
+      "normal"
+    ]
+  },
+  {
+    "word": "versammeln",
+    "lemma": "versammeln",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "集合，聚集",
+        "en": "to gather, to assemble"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Schüler versammeln sich auf dem Schulhof.",
+        "zh": "学生们在操场上集合。"
+      },
+      {
+        "de": "Wir haben uns im Park versammelt, um zu feiern.",
+        "zh": "我们在公园里聚集庆祝。"
+      }
+    ],
+    "collocations": [
+      "sich versammeln",
+      "eine Versammlung einberufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "versammelt"
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "sammeln",
+      "zusammenkommen"
+    ],
+    "antonyms": [
+      "zerstreuen",
+      "trennen"
+    ]
+  },
+  {
+    "word": "verschmutzen",
+    "lemma": "verschmutzen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "污染，弄脏",
+        "en": "to pollute, to dirty"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Fabrik verschmutzt den Fluss.",
+        "zh": "这家工厂污染了河流。"
+      },
+      {
+        "de": "Bitte verschmutzen Sie die Umwelt nicht.",
+        "zh": "请不要污染环境。"
+      }
+    ],
+    "collocations": [
+      "die Umwelt verschmutzen",
+      "das Wasser verschmutzen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verschmutzt"
+    },
+    "level": "B1",
+    "tags": [
+      "环境",
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "verunreinigen",
+      "beschmutzen"
+    ],
+    "antonyms": [
+      "reinigen",
+      "säubern"
+    ]
+  },
+  {
+    "word": "verspäten",
+    "lemma": "verspäten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "迟到，延误",
+        "en": "to be late, to delay"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Zug hat sich um 20 Minuten verspätet.",
+        "zh": "火车晚点了20分钟。"
+      },
+      {
+        "de": "Entschuldigung, ich habe mich verspätet.",
+        "zh": "对不起，我迟到了。"
+      }
+    ],
+    "collocations": [
+      "sich verspäten",
+      "Verspätung haben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verspätet"
+    },
+    "level": "A2",
+    "tags": [
+      "交通",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "zu spät kommen",
+      "verzögern"
+    ],
+    "antonyms": [
+      "pünktlich sein",
+      "rechtzeitig kommen"
+    ]
+  },
+  {
+    "word": "Versuch",
+    "lemma": "Versuch",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Versuche",
+    "meaning": [
+      {
+        "zh": "尝试，实验",
+        "en": "attempt, experiment"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Versuch ist gescheitert.",
+        "zh": "尝试失败了。"
+      },
+      {
+        "de": "Wir führen einen wissenschaftlichen Versuch durch.",
+        "zh": "我们进行了一项科学实验。"
+      }
+    ],
+    "collocations": [
+      "einen Versuch machen",
+      "im Versuch"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科学",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "Experiment",
+      "Test"
+    ],
+    "antonyms": [
+      "Erfolg",
+      "Ergebnis"
+    ]
+  },
+  {
+    "word": "versuchen",
+    "lemma": "versuchen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "尝试，试图",
+        "en": "to try, to attempt"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich werde es noch einmal versuchen.",
+        "zh": "我会再试一次。"
+      },
+      {
+        "de": "Sie versucht, das Problem zu lösen.",
+        "zh": "她试图解决这个问题。"
+      }
+    ],
+    "collocations": [
+      "es versuchen",
+      "versuchen zu + Infinitiv"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "versucht"
+    },
+    "level": "A2",
+    "tags": [
+      "行为",
+      "A2"
+    ],
+    "synonyms": [
+      "probieren",
+      "anstreben"
+    ],
+    "antonyms": [
+      "aufgeben",
+      "verzichten"
+    ]
+  },
+  {
+    "word": "verteilen",
+    "lemma": "verteilen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "分配，分发",
+        "en": "to distribute, to hand out"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Lehrer verteilt die Arbeitsblätter an die Schüler.",
+        "zh": "老师把练习册分发给学生。"
+      },
+      {
+        "de": "Die Hilfsorganisation verteilt Lebensmittel an die Bedürftigen.",
+        "zh": "救援组织向有需要的人分发食物。"
+      }
+    ],
+    "collocations": [
+      "etwas an jemanden verteilen",
+      "sich verteilen auf"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verteilt"
+    },
+    "level": "B1",
+    "tags": [
+      "行为",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "ausgeben",
+      "zuteilen"
+    ],
+    "antonyms": [
+      "sammeln",
+      "einsammeln"
+    ]
+  }
+]

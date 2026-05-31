@@ -1,0 +1,1285 @@
+[
+  {
+    "word": "Informatiker",
+    "lemma": "Informatiker",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Informatiker",
+    "meaning": [
+      {
+        "zh": "计算机科学家",
+        "en": "computer scientist"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Informatiker entwickelt neue Software.",
+        "zh": "计算机科学家开发新软件。"
+      },
+      {
+        "de": "Viele Informatiker arbeiten in der Forschung.",
+        "zh": "许多计算机科学家在研究领域工作。"
+      }
+    ],
+    "collocations": [
+      "als Informatiker arbeiten",
+      "Informatiker werden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "职业",
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "Computerwissenschaftler"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Ingenieur",
+    "lemma": "Ingenieur",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Ingenieure",
+    "meaning": [
+      {
+        "zh": "工程师",
+        "en": "engineer"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Ingenieur plant die neue Brücke.",
+        "zh": "工程师规划新桥梁。"
+      },
+      {
+        "de": "Sie arbeitet als Ingenieurin in einem Automobilunternehmen.",
+        "zh": "她在一家汽车公司担任工程师。"
+      }
+    ],
+    "collocations": [
+      "als Ingenieur tätig sein",
+      "Ingenieur studieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "职业",
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "Techniker"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Insel",
+    "lemma": "Insel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Inseln",
+    "meaning": [
+      {
+        "zh": "岛屿",
+        "en": "island"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Sommer fahren wir auf eine Insel.",
+        "zh": "夏天我们去一个岛屿。"
+      },
+      {
+        "de": "Diese Insel ist sehr klein und unbewohnt.",
+        "zh": "这个岛屿很小且无人居住。"
+      }
+    ],
+    "collocations": [
+      "auf einer Insel leben",
+      "eine Insel besuchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "地理",
+      "自然",
+      "A2"
+    ],
+    "synonyms": [
+      "Eiland"
+    ],
+    "antonyms": [
+      "Festland"
+    ]
+  },
+  {
+    "word": "insgesamt",
+    "lemma": "insgesamt",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "总共",
+        "en": "in total"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Insgesamt waren zwanzig Gäste auf der Party.",
+        "zh": "总共有二十位客人参加派对。"
+      },
+      {
+        "de": "Das Projekt kostet insgesamt 5000 Euro.",
+        "zh": "这个项目总共花费5000欧元。"
+      }
+    ],
+    "collocations": [
+      "insgesamt gesehen",
+      "insgesamt betragen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "数量",
+      "总结",
+      "B1"
+    ],
+    "synonyms": [
+      "gesamt",
+      "zusammen"
+    ],
+    "antonyms": [
+      "einzeln"
+    ]
+  },
+  {
+    "word": "interessant",
+    "lemma": "interessant",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "有趣的",
+        "en": "interesting"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Film war sehr interessant.",
+        "zh": "这部电影非常有趣。"
+      },
+      {
+        "de": "Ich finde das Thema interessant.",
+        "zh": "我觉得这个话题很有趣。"
+      }
+    ],
+    "collocations": [
+      "interessant finden",
+      "interessant sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "评价",
+      "A2"
+    ],
+    "synonyms": [
+      "spannend",
+      "faszinierend"
+    ],
+    "antonyms": [
+      "langweilig",
+      "uninteressant"
+    ]
+  },
+  {
+    "word": "international",
+    "lemma": "international",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "国际的",
+        "en": "international"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Firma hat internationale Kunden.",
+        "zh": "这家公司有国际客户。"
+      },
+      {
+        "de": "Er nimmt an einer internationalen Konferenz teil.",
+        "zh": "他参加一个国际会议。"
+      }
+    ],
+    "collocations": [
+      "internationale Zusammenarbeit",
+      "international bekannt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "全球化",
+      "B1"
+    ],
+    "synonyms": [
+      "global",
+      "weltweit"
+    ],
+    "antonyms": [
+      "national",
+      "lokal"
+    ]
+  },
+  {
+    "word": "Internetanschluss",
+    "lemma": "Internetanschluss",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Internetanschlüsse",
+    "meaning": [
+      {
+        "zh": "互联网连接",
+        "en": "internet connection"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir haben einen schnellen Internetanschluss zu Hause.",
+        "zh": "我们家里有快速的互联网连接。"
+      },
+      {
+        "de": "Der Internetanschluss ist ausgefallen.",
+        "zh": "互联网连接中断了。"
+      }
+    ],
+    "collocations": [
+      "einen Internetanschluss haben",
+      "Internetanschluss einrichten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "通信",
+      "B1"
+    ],
+    "synonyms": [
+      "Internetverbindung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Jacke",
+    "lemma": "Jacke",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Jacken",
+    "meaning": [
+      {
+        "zh": "夹克",
+        "en": "jacket"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Zieh deine Jacke an, es ist kalt draußen.",
+        "zh": "穿上你的夹克，外面很冷。"
+      },
+      {
+        "de": "Ich habe meine Jacke im Büro vergessen.",
+        "zh": "我把夹克忘在办公室了。"
+      }
+    ],
+    "collocations": [
+      "eine Jacke tragen",
+      "Jacke ausziehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "服装",
+      "生活",
+      "A1"
+    ],
+    "synonyms": [
+      "Mantel"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Jahr",
+    "lemma": "Jahr",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Jahre",
+    "meaning": [
+      {
+        "zh": "年",
+        "en": "year"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Jahr hat zwölf Monate.",
+        "zh": "一年有十二个月。"
+      },
+      {
+        "de": "Nächstes Jahr fahre ich nach Deutschland.",
+        "zh": "明年我去德国。"
+      }
+    ],
+    "collocations": [
+      "im Jahr",
+      "vor einem Jahr",
+      "letztes Jahr"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "时间",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "jährlich",
+    "lemma": "jährlich",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "每年的",
+        "en": "annual; yearly"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die jährliche Konferenz findet im März statt.",
+        "zh": "年度会议在三月举行。"
+      },
+      {
+        "de": "Er bezahlt die Versicherung jährlich.",
+        "zh": "他每年支付保险费。"
+      }
+    ],
+    "collocations": [
+      "jährliche Kosten",
+      "jährlich stattfinden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "时间",
+      "频率",
+      "B1"
+    ],
+    "synonyms": [
+      "alljährlich"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "jetzt",
+    "lemma": "jetzt",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "现在",
+        "en": "now"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Jetzt muss ich gehen.",
+        "zh": "我现在必须走了。"
+      },
+      {
+        "de": "Was machst du jetzt?",
+        "zh": "你现在在做什么？"
+      }
+    ],
+    "collocations": [
+      "jetzt sofort",
+      "bis jetzt",
+      "von jetzt an"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "时间",
+      "A1"
+    ],
+    "synonyms": [
+      "nun",
+      "momentan"
+    ],
+    "antonyms": [
+      "damals",
+      "später"
+    ]
+  },
+  {
+    "word": "jobben",
+    "lemma": "jobben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "打工",
+        "en": "to work a temporary or part-time job"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Viele Studenten jobben in den Ferien.",
+        "zh": "许多学生在假期打工。"
+      },
+      {
+        "de": "Er jobbt als Kellner in einem Café.",
+        "zh": "他在一家咖啡馆当服务员打工。"
+      }
+    ],
+    "collocations": [
+      "als Kellner jobben",
+      "neben dem Studium jobben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gejobbt"
+    },
+    "level": "B1",
+    "tags": [
+      "工作",
+      "学生",
+      "B1"
+    ],
+    "synonyms": [
+      "arbeiten",
+      "arbeiten gehen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Jugend",
+    "lemma": "Jugend",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "青年时期；青年",
+        "en": "youth; adolescence"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In meiner Jugend habe ich viel Sport gemacht.",
+        "zh": "我年轻时做了很多运动。"
+      },
+      {
+        "de": "Die Jugend von heute ist sehr technikaffin.",
+        "zh": "今天的年轻人非常喜欢技术。"
+      }
+    ],
+    "collocations": [
+      "in der Jugend",
+      "die Jugend von heute",
+      "Jugend und Alter"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "社会",
+      "年龄",
+      "A2"
+    ],
+    "synonyms": [
+      "Jugendzeit"
+    ],
+    "antonyms": [
+      "Alter"
+    ]
+  },
+  {
+    "word": "Jugendherberge",
+    "lemma": "Jugendherberge",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Jugendherbergen",
+    "meaning": [
+      {
+        "zh": "青年旅舍",
+        "en": "youth hostel"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir haben in einer Jugendherberge übernachtet.",
+        "zh": "我们在一家青年旅舍过夜。"
+      },
+      {
+        "de": "Die Jugendherberge bietet günstige Übernachtungen für Gruppen.",
+        "zh": "这家青年旅舍为团体提供便宜的住宿。"
+      }
+    ],
+    "collocations": [
+      "in einer Jugendherberge wohnen",
+      "Jugendherberge buchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "旅行",
+      "住宿",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Jugendzentrum",
+    "lemma": "Jugendzentrum",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Jugendzentren",
+    "meaning": [
+      {
+        "zh": "青年中心",
+        "en": "youth center"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Jugendzentrum bietet Kurse und Freizeitaktivitäten an.",
+        "zh": "青年中心提供课程和休闲活动。"
+      },
+      {
+        "de": "Viele Jugendliche treffen sich im Jugendzentrum.",
+        "zh": "许多年轻人在青年中心见面。"
+      }
+    ],
+    "collocations": [
+      "im Jugendzentrum",
+      "Jugendzentrum besuchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "休闲",
+      "B1"
+    ],
+    "synonyms": [
+      "Jugendhaus"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Kaffee",
+    "lemma": "Kaffee",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "咖啡",
+        "en": "coffee"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Möchtest du eine Tasse Kaffee?",
+        "zh": "你想要一杯咖啡吗？"
+      },
+      {
+        "de": "Ich trinke meinen Kaffee immer schwarz.",
+        "zh": "我总是喝黑咖啡。"
+      }
+    ],
+    "collocations": [
+      "Kaffee trinken",
+      "eine Tasse Kaffee",
+      "Kaffee kochen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "饮食",
+      "饮料",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Kamera",
+    "lemma": "Kamera",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Kameras",
+    "meaning": [
+      {
+        "zh": "相机，摄像机",
+        "en": "camera"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe eine neue Kamera gekauft.",
+        "zh": "我买了一台新相机。"
+      },
+      {
+        "de": "Die Kamera filmt den ganzen Tag.",
+        "zh": "摄像机整天都在拍摄。"
+      }
+    ],
+    "collocations": [
+      "eine Kamera bedienen",
+      "mit der Kamera filmen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "科技",
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Fotoapparat",
+      "Videokamera"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Kanne",
+    "lemma": "Kanne",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Kannen",
+    "meaning": [
+      {
+        "zh": "壶，罐",
+        "en": "jug, can, pot"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kanne ist aus Keramik.",
+        "zh": "这个壶是陶瓷做的。"
+      },
+      {
+        "de": "Kannst du mir die Kanne mit Wasser füllen?",
+        "zh": "你能帮我把壶装满水吗？"
+      }
+    ],
+    "collocations": [
+      "eine Kanne Kaffee",
+      "die Kanne gießen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "家居",
+      "A2"
+    ],
+    "synonyms": [
+      "Krug",
+      "Gießkanne"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Kantine",
+    "lemma": "Kantine",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Kantinen",
+    "meaning": [
+      {
+        "zh": "食堂，餐厅（公司或学校）",
+        "en": "canteen, cafeteria"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir essen jeden Mittag in der Kantine.",
+        "zh": "我们每天中午在食堂吃饭。"
+      },
+      {
+        "de": "Die Kantine hat heute ein gutes Angebot.",
+        "zh": "食堂今天有很好的选择。"
+      }
+    ],
+    "collocations": [
+      "in der Kantine essen",
+      "die Kantine schließen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "Mensa",
+      "Cafeteria"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "aputt",
+    "lemma": "aputt",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "（非正式）坏了的，破损的",
+        "en": "broken, out of order"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mein Handy ist aputt.",
+        "zh": "我的手机坏了。"
+      },
+      {
+        "de": "Die Maschine ist schon wieder aputt.",
+        "zh": "机器又坏了。"
+      }
+    ],
+    "collocations": [
+      "etwas ist aputt",
+      "aputt gehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "口语",
+      "B1"
+    ],
+    "synonyms": [
+      "kaputt",
+      "defekt"
+    ],
+    "antonyms": [
+      "heile",
+      "funktionstüchtig"
+    ]
+  },
+  {
+    "word": "Kartoffel",
+    "lemma": "Kartoffel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Kartoffeln",
+    "meaning": [
+      {
+        "zh": "土豆，马铃薯",
+        "en": "potato"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich koche heute Kartoffeln zum Abendessen.",
+        "zh": "我今天晚餐煮土豆。"
+      },
+      {
+        "de": "Die Kartoffeln sind noch nicht gar.",
+        "zh": "土豆还没熟。"
+      }
+    ],
+    "collocations": [
+      "Kartoffeln schälen",
+      "Kartoffeln kochen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "食物",
+      "生活",
+      "A1"
+    ],
+    "synonyms": [
+      "Erdapfel"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Käse",
+    "lemma": "Käse",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Käse",
+    "meaning": [
+      {
+        "zh": "奶酪",
+        "en": "cheese"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich mag gerne Käse auf dem Brot.",
+        "zh": "我喜欢在面包上放奶酪。"
+      },
+      {
+        "de": "Dieser Käse riecht sehr stark.",
+        "zh": "这块奶酪闻起来很浓。"
+      }
+    ],
+    "collocations": [
+      "Käse essen",
+      "Käse kaufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "食物",
+      "生活",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Käsespätzle",
+    "lemma": "Käsespätzle",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Käsespätzle",
+    "meaning": [
+      {
+        "zh": "奶酪面疙瘩（德国南部菜肴）",
+        "en": "cheese spaetzle"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Käsespätzle sind ein traditionelles Gericht aus Schwaben.",
+        "zh": "奶酪面疙瘩是施瓦本地区的传统菜肴。"
+      },
+      {
+        "de": "Wir bestellen heute Käsespätzle im Restaurant.",
+        "zh": "我们今天在餐厅点了奶酪面疙瘩。"
+      }
+    ],
+    "collocations": [
+      "Käsespätzle essen",
+      "Käsespätzle zubereiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "食物",
+      "文化",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Kasse",
+    "lemma": "Kasse",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Kassen",
+    "meaning": [
+      {
+        "zh": "收银台，收款处；钱箱",
+        "en": "cash register, checkout, till"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bitte zahlen Sie an der Kasse.",
+        "zh": "请到收银台付款。"
+      },
+      {
+        "de": "Die Kasse ist heute geschlossen.",
+        "zh": "收银台今天关闭了。"
+      }
+    ],
+    "collocations": [
+      "an der Kasse bezahlen",
+      "die Kasse öffnen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "购物",
+      "A2"
+    ],
+    "synonyms": [
+      "Kassenbereich",
+      "Zahlstelle"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Katze",
+    "lemma": "Katze",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Katzen",
+    "meaning": [
+      {
+        "zh": "猫",
+        "en": "cat"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Katze schläft auf dem Sofa.",
+        "zh": "猫在沙发上睡觉。"
+      },
+      {
+        "de": "Meine Katze jagt gerne Mäuse.",
+        "zh": "我的猫喜欢抓老鼠。"
+      }
+    ],
+    "collocations": [
+      "eine Katze streicheln",
+      "die Katze füttern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "动物",
+      "生活",
+      "A1"
+    ],
+    "synonyms": [
+      "Stubentiger",
+      "Mieze"
+    ],
+    "antonyms": [
+      "Hund"
+    ]
+  },
+  {
+    "word": "aufen",
+    "lemma": "aufen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "（动物）产仔，下崽",
+        "en": "to give birth (of animals)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kuh hat gestern geauft.",
+        "zh": "这头母牛昨天产仔了。"
+      },
+      {
+        "de": "Im Frühling außen viele Tiere.",
+        "zh": "春天很多动物产仔。"
+      }
+    ],
+    "collocations": [
+      "ein Kalb außen",
+      "bei der Geburt außen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geauft"
+    },
+    "level": "B2",
+    "tags": [
+      "动物",
+      "农业",
+      "B2"
+    ],
+    "synonyms": [
+      "gebären",
+      "werfen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "auffrau",
+    "lemma": "auffrau",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "auffrauen",
+    "meaning": [
+      {
+        "zh": "（虚构词，无标准含义）",
+        "en": "fictional word, no standard meaning"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Auffrau ist ein seltsames Wesen.",
+        "zh": "这个Auffrau是一个奇怪的生物。"
+      },
+      {
+        "de": "In dem Märchen gab es eine Auffrau.",
+        "zh": "在那个童话里有一个Auffrau。"
+      }
+    ],
+    "collocations": [
+      "eine Auffrau sehen",
+      "von der Auffrau erzählen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "C1",
+    "tags": [
+      "虚构",
+      "文学",
+      "C1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Klick",
+    "lemma": "Klick",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Klicks",
+    "meaning": [
+      {
+        "zh": "点击（鼠标）",
+        "en": "click (mouse)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ein Klick auf den Link öffnet die Seite.",
+        "zh": "点击链接打开页面。"
+      },
+      {
+        "de": "Mit einem Klick bestätigst du die Aktion.",
+        "zh": "点击一下确认操作。"
+      }
+    ],
+    "collocations": [
+      "ein Klick mit der Maus",
+      "per Klick bestellen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "互联网",
+      "B1"
+    ],
+    "synonyms": [
+      "Mausklick"
+    ],
+    "antonyms": []
+  }
+]

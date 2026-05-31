@@ -1,0 +1,1510 @@
+[
+  {
+    "word": "Labor",
+    "lemma": "Labor",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Labore",
+    "meaning": [
+      {
+        "zh": "实验室",
+        "en": "laboratory"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Labor ist mit modernen Geräten ausgestattet.",
+        "zh": "实验室配备了现代化设备。"
+      },
+      {
+        "de": "Die Forscher arbeiten im Labor an neuen Medikamenten.",
+        "zh": "研究人员在实验室里研发新药。"
+      }
+    ],
+    "collocations": [
+      "im Labor arbeiten",
+      "ein Labor einrichten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "Forschungslabor",
+      "Laboratorium"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "lächeln",
+    "lemma": "lächeln",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "微笑",
+        "en": "to smile"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie lächelte freundlich, als sie ihn sah.",
+        "zh": "她看到他时友好地微笑。"
+      },
+      {
+        "de": "Er lächelte über den Witz.",
+        "zh": "他对这个笑话微微一笑。"
+      }
+    ],
+    "collocations": [
+      "freundlich lächeln",
+      "über etwas lächeln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gelächelt"
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "grinsen",
+      "schmunzeln"
+    ],
+    "antonyms": [
+      "weinen",
+      "finstern"
+    ]
+  },
+  {
+    "word": "Laden",
+    "lemma": "Laden",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Läden",
+    "meaning": [
+      {
+        "zh": "商店",
+        "en": "shop"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Laden hat um 9 Uhr geöffnet.",
+        "zh": "这家商店9点开门。"
+      },
+      {
+        "de": "Sie kauft im Laden ein.",
+        "zh": "她在商店购物。"
+      }
+    ],
+    "collocations": [
+      "einen Laden eröffnen",
+      "im Laden einkaufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "A1"
+    ],
+    "synonyms": [
+      "Geschäft",
+      "Shop"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Lamatempel",
+    "lemma": "Lamatempel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Lamatempel",
+    "meaning": [
+      {
+        "zh": "喇嘛庙",
+        "en": "lama temple"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Lamatempel in Peking ist eine bekannte Sehenswürdigkeit.",
+        "zh": "北京的喇嘛庙是一个著名的景点。"
+      },
+      {
+        "de": "Viele Touristen besuchen den Lamatempel.",
+        "zh": "许多游客参观喇嘛庙。"
+      }
+    ],
+    "collocations": [
+      "einen Lamatempel besuchen",
+      "im Lamatempel beten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "文化",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "landen",
+    "lemma": "landen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "着陆",
+        "en": "to land"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Flugzeug landet in einer Stunde.",
+        "zh": "飞机一小时后着陆。"
+      },
+      {
+        "de": "Er landete mit dem Fallschirm sicher auf der Wiese.",
+        "zh": "他带着降落伞安全降落在草地上。"
+      }
+    ],
+    "collocations": [
+      "auf dem Flughafen landen",
+      "sicher landen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "partizip2": "gelandet"
+    },
+    "level": "A2",
+    "tags": [
+      "交通",
+      "A2"
+    ],
+    "synonyms": [
+      "aufsetzen",
+      "niedergehen"
+    ],
+    "antonyms": [
+      "starten",
+      "abheben"
+    ]
+  },
+  {
+    "word": "Landkarte",
+    "lemma": "Landkarte",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Landkarten",
+    "meaning": [
+      {
+        "zh": "地图",
+        "en": "map"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Auf der Landkarte kann man die Hauptstadt finden.",
+        "zh": "在地图上可以找到首都。"
+      },
+      {
+        "de": "Er zeichnete eine Landkarte von der Umgebung.",
+        "zh": "他画了一张周围的地图。"
+      }
+    ],
+    "collocations": [
+      "eine Landkarte lesen",
+      "auf der Landkarte suchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "A1"
+    ],
+    "synonyms": [
+      "Karte",
+      "Atlas"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "ang",
+    "lemma": "ang",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "狭窄的",
+        "en": "narrow"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Straße ist sehr ang.",
+        "zh": "这条街很窄。"
+      },
+      {
+        "de": "Er wohnt in einem ang en Haus.",
+        "zh": "他住在一栋狭窄的房子里。"
+      }
+    ],
+    "collocations": [
+      "ang e Gasse",
+      "ang er Raum"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "描述",
+      "B1"
+    ],
+    "synonyms": [
+      "schmal",
+      "eng"
+    ],
+    "antonyms": [
+      "breit",
+      "weit"
+    ]
+  },
+  {
+    "word": "langweilig",
+    "lemma": "langweilig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "无聊的",
+        "en": "boring"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Film war sehr langweilig.",
+        "zh": "这部电影很无聊。"
+      },
+      {
+        "de": "Es ist langweilig, den ganzen Tag zu Hause zu sitzen.",
+        "zh": "整天待在家里很无聊。"
+      }
+    ],
+    "collocations": [
+      "langweilig finden",
+      "sich langweilig fühlen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "öde",
+      "eintönig"
+    ],
+    "antonyms": [
+      "interessant",
+      "spannend"
+    ]
+  },
+  {
+    "word": "lassen",
+    "lemma": "lassen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "让，允许",
+        "en": "to let, allow"
+      },
+      {
+        "zh": "留下，放置",
+        "en": "to leave, put"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Lass mich in Ruhe!",
+        "zh": "让我安静点！"
+      },
+      {
+        "de": "Ich lasse das Buch auf dem Tisch.",
+        "zh": "我把书放在桌子上。"
+      }
+    ],
+    "collocations": [
+      "etwas bleiben lassen",
+      "sich etwas gefallen lassen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gelassen"
+    },
+    "level": "A2",
+    "tags": [
+      "日常用语",
+      "A2"
+    ],
+    "synonyms": [
+      "erlauben",
+      "zulassen"
+    ],
+    "antonyms": [
+      "verbieten",
+      "verhindern"
+    ]
+  },
+  {
+    "word": "Laternenfest",
+    "lemma": "Laternenfest",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Laternenfeste",
+    "meaning": [
+      {
+        "zh": "灯笼节",
+        "en": "lantern festival"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Laternenfest findet im September statt.",
+        "zh": "灯笼节在九月举行。"
+      },
+      {
+        "de": "Kinder basteln Laternen für das Laternenfest.",
+        "zh": "孩子们为灯笼节制作灯笼。"
+      }
+    ],
+    "collocations": [
+      "ein Laternenfest feiern",
+      "zum Laternenfest gehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "节日",
+      "文化",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Laune",
+    "lemma": "Laune",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Launen",
+    "meaning": [
+      {
+        "zh": "心情，情绪",
+        "en": "mood, temper"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat heute gute Laune.",
+        "zh": "他今天心情很好。"
+      },
+      {
+        "de": "Sie ist wegen des Wetters schlechter Laune.",
+        "zh": "她因为天气心情不好。"
+      }
+    ],
+    "collocations": [
+      "gute/schlechte Laune haben",
+      "jemandem die Laune verderben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "日常用语",
+      "B1"
+    ],
+    "synonyms": [
+      "Stimmung",
+      "Gemüt"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Lehre",
+    "lemma": "Lehre",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Lehren",
+    "meaning": [
+      {
+        "zh": "学徒期，培训",
+        "en": "apprenticeship, training"
+      },
+      {
+        "zh": "教训，教义",
+        "en": "lesson, doctrine"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er macht eine Lehre als Elektriker.",
+        "zh": "他正在做电工学徒。"
+      },
+      {
+        "de": "Aus diesem Fehler habe ich eine Lehre gezogen.",
+        "zh": "我从这个错误中吸取了教训。"
+      }
+    ],
+    "collocations": [
+      "eine Lehre machen",
+      "eine Lehre aus etwas ziehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "职业",
+      "B1"
+    ],
+    "synonyms": [
+      "Ausbildung",
+      "Lehrzeit"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Lehrling",
+    "lemma": "Lehrling",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Lehrlinge",
+    "meaning": [
+      {
+        "zh": "学徒",
+        "en": "apprentice"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Lehrling lernt den Beruf von Grund auf.",
+        "zh": "学徒从头学习这个职业。"
+      },
+      {
+        "de": "Viele Lehrlinge werden nach der Ausbildung übernommen.",
+        "zh": "许多学徒在培训后被录用。"
+      }
+    ],
+    "collocations": [
+      "einen Lehrling ausbilden",
+      "als Lehrling arbeiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "职业",
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "Auszubildender",
+      "Azubi"
+    ],
+    "antonyms": [
+      "Meister"
+    ]
+  },
+  {
+    "word": "Lehrstelle",
+    "lemma": "Lehrstelle",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Lehrstellen",
+    "meaning": [
+      {
+        "zh": "学徒岗位",
+        "en": "apprenticeship position"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er sucht eine Lehrstelle als Kfz-Mechatroniker.",
+        "zh": "他在找汽车机电技师的学徒岗位。"
+      },
+      {
+        "de": "Die Firma bietet jedes Jahr mehrere Lehrstellen an.",
+        "zh": "这家公司每年提供多个学徒岗位。"
+      }
+    ],
+    "collocations": [
+      "eine Lehrstelle suchen",
+      "eine Lehrstelle besetzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "职业",
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "Ausbildungsplatz"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "leiden",
+    "lemma": "leiden",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "受苦，患病",
+        "en": "to suffer"
+      },
+      {
+        "zh": "忍受",
+        "en": "to endure"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er leidet unter starken Kopfschmerzen.",
+        "zh": "他患有严重的头痛。"
+      },
+      {
+        "de": "Ich kann diese Hitze nicht leiden.",
+        "zh": "我受不了这种炎热。"
+      }
+    ],
+    "collocations": [
+      "an etwas leiden",
+      "unter etwas leiden"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gelitten"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "健康",
+      "B1"
+    ],
+    "synonyms": [
+      "ertragen",
+      "dulden"
+    ],
+    "antonyms": [
+      "genießen",
+      "freuen"
+    ]
+  },
+  {
+    "word": "leihen",
+    "lemma": "leihen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "借出",
+        "en": "to lend"
+      },
+      {
+        "zh": "借入",
+        "en": "to borrow"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du mir dein Buch leihen?",
+        "zh": "你能把你的书借给我吗？"
+      },
+      {
+        "de": "Ich leihe mir ein Buch aus der Bibliothek.",
+        "zh": "我从图书馆借了一本书。"
+      }
+    ],
+    "collocations": [
+      "jemandem etwas leihen",
+      "sich etwas von jemandem leihen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geliehen"
+    },
+    "level": "A2",
+    "tags": [
+      "日常用语",
+      "A2"
+    ],
+    "synonyms": [
+      "ausleihen",
+      "verleihen"
+    ],
+    "antonyms": [
+      "zurückgeben",
+      "schenken"
+    ]
+  },
+  {
+    "word": "Leipzig",
+    "lemma": "Leipzig",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "莱比锡",
+        "en": "Leipzig"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Leipzig ist eine Stadt in Sachsen.",
+        "zh": "莱比锡是萨克森州的一个城市。"
+      },
+      {
+        "de": "Ich fahre morgen nach Leipzig.",
+        "zh": "我明天去莱比锡。"
+      }
+    ],
+    "collocations": [
+      "nach Leipzig fahren",
+      "in Leipzig wohnen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "地理",
+      "城市",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "leuchten",
+    "lemma": "leuchten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "发光，照亮",
+        "en": "to shine, to glow"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Sterne leuchten am Himmel.",
+        "zh": "星星在天空中闪烁。"
+      },
+      {
+        "de": "Kannst du mir mit der Taschenlampe leuchten?",
+        "zh": "你能用手电筒给我照一下吗？"
+      }
+    ],
+    "collocations": [
+      "hell leuchten",
+      "jemandem leuchten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geleuchtet"
+    },
+    "level": "B1",
+    "tags": [
+      "自然",
+      "动作",
+      "B1"
+    ],
+    "synonyms": [
+      "scheinen",
+      "glänzen"
+    ],
+    "antonyms": [
+      "dunkel sein",
+      "erlöschen"
+    ]
+  },
+  {
+    "word": "leuchtend",
+    "lemma": "leuchtend",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "发光的，明亮的",
+        "en": "shining, bright"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie trug ein leuchtend rotes Kleid.",
+        "zh": "她穿了一件亮红色的裙子。"
+      },
+      {
+        "de": "Die leuchtenden Farben des Sonnenuntergangs waren wunderschön.",
+        "zh": "日落时明亮的色彩非常美丽。"
+      }
+    ],
+    "collocations": [
+      "leuchtende Farbe",
+      "leuchtend hell"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "描述",
+      "颜色",
+      "B1"
+    ],
+    "synonyms": [
+      "hell",
+      "glänzend"
+    ],
+    "antonyms": [
+      "dunkel",
+      "matt"
+    ]
+  },
+  {
+    "word": "Lichtlein",
+    "lemma": "Lichtlein",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Lichtlein",
+    "meaning": [
+      {
+        "zh": "小光，小灯",
+        "en": "little light"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Auf dem Adventskranz brennen vier Lichtlein.",
+        "zh": "降临节花环上点着四支小蜡烛。"
+      },
+      {
+        "de": "Im Dunkeln sah man nur ein kleines Lichtlein.",
+        "zh": "在黑暗中只能看到一点小光。"
+      }
+    ],
+    "collocations": [
+      "ein Lichtlein anzünden",
+      "Lichtlein brennen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "物品",
+      "节日",
+      "B1"
+    ],
+    "synonyms": [
+      "Kerze",
+      "Lämpchen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Liebe",
+    "lemma": "Liebe",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "爱，爱情",
+        "en": "love"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Liebe zwischen Eltern und Kindern ist stark.",
+        "zh": "父母与孩子之间的爱很强烈。"
+      },
+      {
+        "de": "Er hat aus Liebe zu ihr geheiratet.",
+        "zh": "他出于对她的爱而结婚。"
+      }
+    ],
+    "collocations": [
+      "Liebe auf den ersten Blick",
+      "aus Liebe handeln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "关系",
+      "A2"
+    ],
+    "synonyms": [
+      "Zuneigung",
+      "Zärtlichkeit"
+    ],
+    "antonyms": [
+      "Hass",
+      "Abneigung"
+    ]
+  },
+  {
+    "word": "Lieblingslehrer",
+    "lemma": "Lieblingslehrer",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Lieblingslehrer",
+    "meaning": [
+      {
+        "zh": "最喜欢的老师",
+        "en": "favorite teacher"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mein Lieblingslehrer unterrichtet Mathematik.",
+        "zh": "我最喜欢的老师教数学。"
+      },
+      {
+        "de": "Die Schüler schenkten ihrem Lieblingslehrer Blumen.",
+        "zh": "学生们送花给他们最喜欢的老师。"
+      }
+    ],
+    "collocations": [
+      "Lieblingslehrer sein",
+      "den Lieblingslehrer besuchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "教育",
+      "人物",
+      "A2"
+    ],
+    "synonyms": [
+      "Lieblingspädagoge"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "listig",
+    "lemma": "listig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "狡猾的，诡计多端的",
+        "en": "cunning, sly"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Fuchs ist ein listiges Tier.",
+        "zh": "狐狸是一种狡猾的动物。"
+      },
+      {
+        "de": "Mit einem listigen Plan gewann er das Spiel.",
+        "zh": "他凭借一个狡猾的计划赢了比赛。"
+      }
+    ],
+    "collocations": [
+      "listiger Trick",
+      "listig vorgehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "性格",
+      "行为",
+      "B1"
+    ],
+    "synonyms": [
+      "schlau",
+      "gerissen"
+    ],
+    "antonyms": [
+      "ehrlich",
+      "naiv"
+    ]
+  },
+  {
+    "word": "Literatur",
+    "lemma": "Literatur",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "文学",
+        "en": "literature"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie studiert deutsche Literatur an der Universität.",
+        "zh": "她在大学学习德国文学。"
+      },
+      {
+        "de": "Diese Literatur ist sehr anspruchsvoll.",
+        "zh": "这部文学作品要求很高。"
+      }
+    ],
+    "collocations": [
+      "Literatur lesen",
+      "moderne Literatur"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "文化",
+      "学术",
+      "B1"
+    ],
+    "synonyms": [
+      "Schrifttum",
+      "Dichtung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "oben",
+    "lemma": "oben",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "上面，在上方",
+        "en": "above, upstairs"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Buch liegt oben im Regal.",
+        "zh": "书在书架上面。"
+      },
+      {
+        "de": "Wir wohnen oben im dritten Stock.",
+        "zh": "我们住在上面三楼。"
+      }
+    ],
+    "collocations": [
+      "oben auf",
+      "von oben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "空间",
+      "A2"
+    ],
+    "synonyms": [
+      "oberhalb",
+      "darüber"
+    ],
+    "antonyms": [
+      "unten"
+    ]
+  },
+  {
+    "word": "locker",
+    "lemma": "locker",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "松的，宽松的；轻松的",
+        "en": "loose, relaxed"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Schraube ist locker.",
+        "zh": "螺丝松了。"
+      },
+      {
+        "de": "Er hat eine lockere Einstellung zur Arbeit.",
+        "zh": "他对工作态度很轻松。"
+      }
+    ],
+    "collocations": [
+      "locker sitzen",
+      "locker lassen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "状态",
+      "B1"
+    ],
+    "synonyms": [
+      "lose",
+      "entspannt"
+    ],
+    "antonyms": [
+      "fest",
+      "angespannt"
+    ]
+  },
+  {
+    "word": "lohnen",
+    "lemma": "lohnen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "值得",
+        "en": "to be worth"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Es lohnt sich, den Film anzuschauen.",
+        "zh": "值得看这部电影。"
+      },
+      {
+        "de": "Die Mühe hat sich gelohnt.",
+        "zh": "努力是值得的。"
+      }
+    ],
+    "collocations": [
+      "sich lohnen",
+      "es lohnt sich"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gelohnt"
+    },
+    "level": "B1",
+    "tags": [
+      "评价",
+      "B1"
+    ],
+    "synonyms": [
+      "sich auszahlen"
+    ],
+    "antonyms": [
+      "sich nicht lohnen"
+    ]
+  },
+  {
+    "word": "schen",
+    "lemma": "schen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "（非标准）可能为拼写错误，标准词为 'sehen'（看）",
+        "en": "likely misspelling of 'sehen' (to see)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich schen dich nicht.",
+        "zh": "（非标准用法）我没看见你。"
+      },
+      {
+        "de": "Kannst du das schen?",
+        "zh": "（非标准用法）你能看到吗？"
+      }
+    ],
+    "collocations": [
+      "schen gehen",
+      "nicht schen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geschen"
+    },
+    "level": "B1",
+    "tags": [
+      "感知",
+      "B1"
+    ],
+    "synonyms": [
+      "sehen",
+      "erblicken"
+    ],
+    "antonyms": [
+      "übersehen"
+    ]
+  },
+  {
+    "word": "sen",
+    "lemma": "sen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "（非标准）可能为拼写错误，标准词为 'sein'（是）",
+        "en": "likely misspelling of 'sein' (to be)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das sen gut.",
+        "zh": "（非标准用法）这很好。"
+      },
+      {
+        "de": "Wo sen du?",
+        "zh": "（非标准用法）你在哪里？"
+      }
+    ],
+    "collocations": [
+      "sen da",
+      "sen nicht"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "partizip2": "gesen"
+    },
+    "level": "B1",
+    "tags": [
+      "存在",
+      "B1"
+    ],
+    "synonyms": [
+      "sein",
+      "existieren"
+    ],
+    "antonyms": [
+      "nicht sein"
+    ]
+  },
+  {
+    "word": "losgehen",
+    "lemma": "losgehen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "出发，开始；爆炸",
+        "en": "to start, to set off; to explode"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir gehen um acht Uhr los.",
+        "zh": "我们八点出发。"
+      },
+      {
+        "de": "Die Party geht um neun los.",
+        "zh": "派对九点开始。"
+      }
+    ],
+    "collocations": [
+      "losgehen mit",
+      "losgehen auf"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "losgegangen"
+    },
+    "level": "B1",
+    "tags": [
+      "行动",
+      "B1"
+    ],
+    "synonyms": [
+      "starten",
+      "beginnen"
+    ],
+    "antonyms": [
+      "aufhören",
+      "enden"
+    ]
+  },
+  {
+    "word": "Löwentanz",
+    "lemma": "Löwentanz",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Löwentänze",
+    "meaning": [
+      {
+        "zh": "狮子舞",
+        "en": "lion dance"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Löwentanz wird oft zu Neujahr aufgeführt.",
+        "zh": "狮子舞常在春节表演。"
+      },
+      {
+        "de": "Die Kinder haben den Löwentanz im Park gesehen.",
+        "zh": "孩子们在公园看了狮子舞。"
+      }
+    ],
+    "collocations": [
+      "Löwentanz aufführen",
+      "Löwentanz sehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "文化",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ustig",
+    "lemma": "ustig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "（非标准）可能为拼写错误，标准词为 'lustig'（有趣的）",
+        "en": "likely misspelling of 'lustig' (funny)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist sehr ustig.",
+        "zh": "（非标准用法）这很有趣。"
+      },
+      {
+        "de": "Er erzählt eine ustige Geschichte.",
+        "zh": "（非标准用法）他讲了一个有趣的故事。"
+      }
+    ],
+    "collocations": [
+      "ustig sein",
+      "ustig finden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "lustig",
+      "komisch"
+    ],
+    "antonyms": [
+      "ernst",
+      "langweilig"
+    ]
+  }
+]

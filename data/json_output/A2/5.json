@@ -1,0 +1,1373 @@
+[
+  {
+    "word": "Bratwürstchen",
+    "lemma": "Bratwürstchen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Bratwürstchen",
+    "meaning": [
+      {
+        "zh": "小烤肠",
+        "en": "small grilled sausage"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Zum Abendessen gab es Bratwürstchen mit Kartoffelsalat.",
+        "zh": "晚餐有烤肠配土豆沙拉。"
+      },
+      {
+        "de": "Auf dem Weihnachtsmarkt duftet es nach Bratwürstchen.",
+        "zh": "圣诞市场上飘着烤肠的香味。"
+      }
+    ],
+    "collocations": [
+      "Bratwürstchen grillen",
+      "Bratwürstchen mit Senf essen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "食物",
+      "B1"
+    ],
+    "synonyms": [
+      "Würstchen",
+      "Bratwurst"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "braun",
+    "lemma": "braun",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "棕色的",
+        "en": "brown"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat braune Augen.",
+        "zh": "她有一双棕色的眼睛。"
+      },
+      {
+        "de": "Im Herbst werden die Blätter braun.",
+        "zh": "秋天叶子变黄了。"
+      }
+    ],
+    "collocations": [
+      "braune Haare",
+      "braune Schuhe"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "颜色",
+      "A2"
+    ],
+    "synonyms": [
+      "kastanienbraun",
+      "schokoladenbraun"
+    ],
+    "antonyms": [
+      "weiß",
+      "blond"
+    ]
+  },
+  {
+    "word": "braunhaarig",
+    "lemma": "braunhaarig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "棕色头发的",
+        "en": "brown-haired"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ein braunhaariger Mann stand an der Bushaltestelle.",
+        "zh": "一个棕色头发的男人站在公交车站。"
+      },
+      {
+        "de": "Sie ist braunhaarig und hat grüne Augen.",
+        "zh": "她是棕色头发，绿眼睛。"
+      }
+    ],
+    "collocations": [
+      "braunhaarige Frau",
+      "braunhaariger Junge"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "外貌",
+      "B1"
+    ],
+    "synonyms": [
+      "dunkelhaarig",
+      "brünett"
+    ],
+    "antonyms": [
+      "blond",
+      "grauhaarig"
+    ]
+  },
+  {
+    "word": "brennen",
+    "lemma": "brennen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "燃烧；烧灼",
+        "en": "to burn"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Holz brennt im Kamin.",
+        "zh": "木头在壁炉里燃烧。"
+      },
+      {
+        "de": "Die Sonne brennt heute sehr stark.",
+        "zh": "今天太阳很毒辣。"
+      }
+    ],
+    "collocations": [
+      "Feuer brennt",
+      "brennende Kerze"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gebrannt"
+    },
+    "level": "B1",
+    "tags": [
+      "自然",
+      "B1"
+    ],
+    "synonyms": [
+      "lodern",
+      "glühen"
+    ],
+    "antonyms": [
+      "löschen",
+      "erlöschen"
+    ]
+  },
+  {
+    "word": "Brunnen",
+    "lemma": "Brunnen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Brunnen",
+    "meaning": [
+      {
+        "zh": "井；喷泉",
+        "en": "well; fountain"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Brunnen auf dem Marktplatz ist sehr alt.",
+        "zh": "集市广场上的喷泉很古老。"
+      },
+      {
+        "de": "Früher holten die Leute Wasser aus dem Brunnen.",
+        "zh": "以前人们从井里打水。"
+      }
+    ],
+    "collocations": [
+      "Wasser aus dem Brunnen holen",
+      "am Brunnen sitzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "建筑",
+      "A2"
+    ],
+    "synonyms": [
+      "Quelle",
+      "Ziehbrunnen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Buchhandlung",
+    "lemma": "Buchhandlung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Buchhandlungen",
+    "meaning": [
+      {
+        "zh": "书店",
+        "en": "bookstore"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In der Buchhandlung gibt es eine große Auswahl an Romanen.",
+        "zh": "书店里有大量小说可供选择。"
+      },
+      {
+        "de": "Ich kaufe meine Bücher immer in der kleinen Buchhandlung um die Ecke.",
+        "zh": "我总是在拐角的小书店买书。"
+      }
+    ],
+    "collocations": [
+      "in die Buchhandlung gehen",
+      "eine Buchhandlung besuchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "商业",
+      "A2"
+    ],
+    "synonyms": [
+      "Buchladen",
+      "Buchgeschäft"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Bundesbank",
+    "lemma": "Bundesbank",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "德国联邦银行",
+        "en": "German Federal Bank"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Bundesbank hat ihren Sitz in Frankfurt am Main.",
+        "zh": "德国联邦银行总部位于法兰克福。"
+      },
+      {
+        "de": "Die Bundesbank ist für die Geldpolitik in Deutschland zuständig.",
+        "zh": "德国联邦银行负责德国的货币政策。"
+      }
+    ],
+    "collocations": [
+      "Präsident der Bundesbank",
+      "die Bundesbank leiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "经济",
+      "B2"
+    ],
+    "synonyms": [
+      "Deutsche Bundesbank"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Bundesland",
+    "lemma": "Bundesland",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Bundesländer",
+    "meaning": [
+      {
+        "zh": "联邦州",
+        "en": "federal state"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bayern ist das größte Bundesland Deutschlands.",
+        "zh": "巴伐利亚是德国最大的联邦州。"
+      },
+      {
+        "de": "Jedes Bundesland hat seine eigene Regierung.",
+        "zh": "每个联邦州都有自己的政府。"
+      }
+    ],
+    "collocations": [
+      "in einem Bundesland leben",
+      "die Hauptstadt eines Bundeslandes"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "政治",
+      "B1"
+    ],
+    "synonyms": [
+      "Land",
+      "Gliedstaat"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Bundesrepublik",
+    "lemma": "Bundesrepublik",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Bundesrepubliken",
+    "meaning": [
+      {
+        "zh": "联邦共和国",
+        "en": "federal republic"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Bundesrepublik Deutschland wurde 1949 gegründet.",
+        "zh": "德意志联邦共和国成立于1949年。"
+      },
+      {
+        "de": "Die Bundesrepublik ist ein demokratischer Staat.",
+        "zh": "联邦共和国是一个民主国家。"
+      }
+    ],
+    "collocations": [
+      "Bundesrepublik Deutschland",
+      "in der Bundesrepublik"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "政治",
+      "国家",
+      "B1"
+    ],
+    "synonyms": [
+      "Republik",
+      "Staat"
+    ],
+    "antonyms": [
+      "Monarchie",
+      "Diktatur"
+    ]
+  },
+  {
+    "word": "Bundesstaat",
+    "lemma": "Bundesstaat",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Bundesstaaten",
+    "meaning": [
+      {
+        "zh": "联邦州；联邦制国家",
+        "en": "federal state"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bayern ist ein Bundesstaat in Deutschland.",
+        "zh": "巴伐利亚是德国的一个联邦州。"
+      },
+      {
+        "de": "Die USA bestehen aus 50 Bundesstaaten.",
+        "zh": "美国由50个联邦州组成。"
+      }
+    ],
+    "collocations": [
+      "ein Bundesstaat sein",
+      "die Bundesstaaten der USA"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "政治",
+      "地理",
+      "B1"
+    ],
+    "synonyms": [
+      "Gliedstaat",
+      "Land"
+    ],
+    "antonyms": [
+      "Zentralstaat",
+      "Einheitsstaat"
+    ]
+  },
+  {
+    "word": "bunt",
+    "lemma": "bunt",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "彩色的；丰富多彩的",
+        "en": "colorful; varied"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Herbst sind die Blätter bunt.",
+        "zh": "秋天树叶是彩色的。"
+      },
+      {
+        "de": "Das Fest war sehr bunt und fröhlich.",
+        "zh": "这个节日非常丰富多彩和欢乐。"
+      }
+    ],
+    "collocations": [
+      "bunte Farben",
+      "bunt gemischt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "颜色",
+      "描述",
+      "A2"
+    ],
+    "synonyms": [
+      "farbig",
+      "vielfältig"
+    ],
+    "antonyms": [
+      "einfarbig",
+      "eintönig"
+    ]
+  },
+  {
+    "word": "Biirger",
+    "lemma": "Bürger",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Bürger",
+    "meaning": [
+      {
+        "zh": "公民；市民",
+        "en": "citizen"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Jeder Bürger hat das Recht zu wählen.",
+        "zh": "每个公民都有选举权。"
+      },
+      {
+        "de": "Die Bürger der Stadt feiern ein Fest.",
+        "zh": "这座城市的市民在庆祝一个节日。"
+      }
+    ],
+    "collocations": [
+      "Bürger der Stadt",
+      "Bürger und Bürgerinnen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "社会",
+      "政治",
+      "A2"
+    ],
+    "synonyms": [
+      "Einwohner",
+      "Staatsbürger"
+    ],
+    "antonyms": [
+      "Ausländer",
+      "Nichtbürger"
+    ]
+  },
+  {
+    "word": "Bürokaufmann",
+    "lemma": "Bürokaufmann",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Bürokaufleute",
+    "meaning": [
+      {
+        "zh": "办公室商务员",
+        "en": "office clerk"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mein Bruder arbeitet als Bürokaufmann in einer Firma.",
+        "zh": "我哥哥在一家公司做办公室商务员。"
+      },
+      {
+        "de": "Der Bürokaufmann erledigt die Buchhaltung.",
+        "zh": "办公室商务员处理会计工作。"
+      }
+    ],
+    "collocations": [
+      "als Bürokaufmann arbeiten",
+      "Bürokaufmann werden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "职业",
+      "商业",
+      "B1"
+    ],
+    "synonyms": [
+      "Büroangestellter",
+      "Kaufmann"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Celsius",
+    "lemma": "Celsius",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "摄氏度",
+        "en": "Celsius"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Temperatur beträgt 25 Grad Celsius.",
+        "zh": "温度是25摄氏度。"
+      },
+      {
+        "de": "Wasser gefriert bei null Grad Celsius.",
+        "zh": "水在零摄氏度结冰。"
+      }
+    ],
+    "collocations": [
+      "Grad Celsius",
+      "in Celsius"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "科学",
+      "温度",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "Fahrenheit"
+    ]
+  },
+  {
+    "word": "Chance",
+    "lemma": "Chance",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Chancen",
+    "meaning": [
+      {
+        "zh": "机会；可能性",
+        "en": "chance; opportunity"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat eine gute Chance, den Job zu bekommen.",
+        "zh": "他很有机会得到这份工作。"
+      },
+      {
+        "de": "Nutze deine Chance!",
+        "zh": "抓住你的机会！"
+      }
+    ],
+    "collocations": [
+      "eine Chance haben",
+      "Chance nutzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "抽象",
+      "A2"
+    ],
+    "synonyms": [
+      "Möglichkeit",
+      "Gelegenheit"
+    ],
+    "antonyms": [
+      "Risiko",
+      "Gefahr"
+    ]
+  },
+  {
+    "word": "Chinesin",
+    "lemma": "Chinesin",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Chinesinnen",
+    "meaning": [
+      {
+        "zh": "中国女人",
+        "en": "Chinese woman"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Meine Freundin ist eine Chinesin aus Peking.",
+        "zh": "我的女朋友是一个来自北京的中国女人。"
+      },
+      {
+        "de": "Die Chinesin spricht fließend Deutsch.",
+        "zh": "这位中国女人德语说得很流利。"
+      }
+    ],
+    "collocations": [
+      "eine Chinesin sein",
+      "die Chinesin aus ..."
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "国籍",
+      "人物",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "Chinese"
+    ]
+  },
+  {
+    "word": "Computerfachmann",
+    "lemma": "Computerfachmann",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Computerfachmänner",
+    "meaning": [
+      {
+        "zh": "计算机专家",
+        "en": "computer specialist"
+      },
+      {
+        "zh": "电脑专业人员",
+        "en": "IT professional"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Computerfachmann reparierte den Server.",
+        "zh": "计算机专家修理了服务器。"
+      },
+      {
+        "de": "Als Computerfachmann arbeitet er in einem großen Unternehmen.",
+        "zh": "作为一名计算机专家，他在一家大公司工作。"
+      }
+    ],
+    "collocations": [
+      "als Computerfachmann arbeiten",
+      "einen Computerfachmann konsultieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "职业",
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "IT-Spezialist",
+      "Computerexperte"
+    ],
+    "antonyms": [
+      "Computerlaie"
+    ]
+  },
+  {
+    "word": "Dach",
+    "lemma": "Dach",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Dächer",
+    "meaning": [
+      {
+        "zh": "屋顶",
+        "en": "roof"
+      },
+      {
+        "zh": "顶部",
+        "en": "top"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Dach des Hauses ist rot.",
+        "zh": "房子的屋顶是红色的。"
+      },
+      {
+        "de": "Nach dem Sturm musste das Dach repariert werden.",
+        "zh": "暴风雨后，屋顶需要修理。"
+      }
+    ],
+    "collocations": [
+      "auf dem Dach",
+      "das Dach decken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "建筑",
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Überdachung"
+    ],
+    "antonyms": [
+      "Boden"
+    ]
+  },
+  {
+    "word": "dagegen",
+    "lemma": "dagegen",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "反对",
+        "en": "against it"
+      },
+      {
+        "zh": "相比之下",
+        "en": "in comparison"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich bin dagegen, dass wir so viel Geld ausgeben.",
+        "zh": "我反对我们花这么多钱。"
+      },
+      {
+        "de": "Er ist sehr groß, dagegen bin ich klein.",
+        "zh": "他很高，相比之下我很矮。"
+      }
+    ],
+    "collocations": [
+      "dagegen sein",
+      "dagegen stimmen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "比较",
+      "B1"
+    ],
+    "synonyms": [
+      "entgegen",
+      "im Gegensatz dazu"
+    ],
+    "antonyms": [
+      "dafür"
+    ]
+  },
+  {
+    "word": "Datei",
+    "lemma": "Datei",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Dateien",
+    "meaning": [
+      {
+        "zh": "文件",
+        "en": "file"
+      },
+      {
+        "zh": "数据文件",
+        "en": "data file"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe die Datei auf dem Desktop gespeichert.",
+        "zh": "我把文件保存在桌面上。"
+      },
+      {
+        "de": "Kannst du mir die Datei per E-Mail schicken?",
+        "zh": "你能通过电子邮件把文件发给我吗？"
+      }
+    ],
+    "collocations": [
+      "eine Datei öffnen",
+      "eine Datei speichern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "科技",
+      "电脑",
+      "A2"
+    ],
+    "synonyms": [
+      "Dokument",
+      "Datensatz"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "davonfliegen",
+    "lemma": "davonfliegen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "飞走",
+        "en": "fly away"
+      },
+      {
+        "zh": "飞离",
+        "en": "fly off"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Vogel flog davon, als ich näher kam.",
+        "zh": "当我走近时，鸟飞走了。"
+      },
+      {
+        "de": "Die Bienen fliegen von den Blumen davon.",
+        "zh": "蜜蜂从花上飞走了。"
+      }
+    ],
+    "collocations": [
+      "davonfliegen lassen",
+      "vom Baum davonfliegen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "davongeflogen"
+    },
+    "level": "B1",
+    "tags": [
+      "自然",
+      "动作",
+      "B1"
+    ],
+    "synonyms": [
+      "wegfliegen",
+      "fortfliegen"
+    ],
+    "antonyms": [
+      "anfliegen",
+      "herfliegen"
+    ]
+  },
+  {
+    "word": "deutschsprachig",
+    "lemma": "deutschsprachig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "德语语言的",
+        "en": "German-speaking"
+      },
+      {
+        "zh": "德语地区的",
+        "en": "German-language"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Schweiz ist ein deutschsprachiges Land.",
+        "zh": "瑞士是一个德语国家。"
+      },
+      {
+        "de": "Er liest gerne deutschsprachige Literatur.",
+        "zh": "他喜欢读德语文学。"
+      }
+    ],
+    "collocations": [
+      "deutschsprachige Länder",
+      "deutschsprachige Medien"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语言",
+      "文化",
+      "B1"
+    ],
+    "synonyms": [
+      "deutsch",
+      "deutschsprachlich"
+    ],
+    "antonyms": [
+      "fremdsprachig"
+    ]
+  },
+  {
+    "word": "dicht",
+    "lemma": "dicht",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "密的，稠密的",
+        "en": "dense"
+      },
+      {
+        "zh": "密封的",
+        "en": "tight, leak-proof"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Wald ist sehr dicht.",
+        "zh": "森林非常茂密。"
+      },
+      {
+        "de": "Das Fenster ist nicht dicht, es zieht.",
+        "zh": "窗户不密封，有风进来。"
+      }
+    ],
+    "collocations": [
+      "dichter Nebel",
+      "dicht machen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "自然",
+      "描述",
+      "B1"
+    ],
+    "synonyms": [
+      "undurchlässig",
+      "kompakt"
+    ],
+    "antonyms": [
+      "undicht",
+      "dünn"
+    ]
+  },
+  {
+    "word": "dienen",
+    "lemma": "dienen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "服务，为……服务",
+        "en": "serve"
+      },
+      {
+        "zh": "有用，用于",
+        "en": "serve as, be useful for"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er dient seinem Land als Soldat.",
+        "zh": "他作为一名士兵为国家服务。"
+      },
+      {
+        "de": "Dieses Werkzeug dient zum Schneiden.",
+        "zh": "这个工具用于切割。"
+      }
+    ],
+    "collocations": [
+      "jemandem dienen",
+      "als etwas dienen"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gedient"
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "动作",
+      "B1"
+    ],
+    "synonyms": [
+      "helfen",
+      "nützen"
+    ],
+    "antonyms": [
+      "schaden",
+      "hindern"
+    ]
+  },
+  {
+    "word": "Dienstleistungszentrum",
+    "lemma": "Dienstleistungszentrum",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Dienstleistungszentren",
+    "meaning": [
+      {
+        "zh": "服务中心",
+        "en": "service center"
+      },
+      {
+        "zh": "服务型中心",
+        "en": "service-oriented center"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Dienstleistungszentrum bietet Beratung für Unternehmen an.",
+        "zh": "该服务中心为企业提供咨询。"
+      },
+      {
+        "de": "Wir haben im Dienstleistungszentrum einen Termin vereinbart.",
+        "zh": "我们在服务中心预约了一个时间。"
+      }
+    ],
+    "collocations": [
+      "im Dienstleistungszentrum arbeiten",
+      "ein Dienstleistungszentrum eröffnen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "服务",
+      "B1"
+    ],
+    "synonyms": [
+      "Servicezentrum",
+      "Kundendienstzentrum"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Dienstreise",
+    "lemma": "Dienstreise",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Dienstreisen",
+    "meaning": [
+      {
+        "zh": "出差",
+        "en": "business trip"
+      },
+      {
+        "zh": "公务旅行",
+        "en": "official travel"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist auf einer Dienstreise nach Berlin.",
+        "zh": "他正在去柏林出差。"
+      },
+      {
+        "de": "Die Firma bezahlt alle Kosten für die Dienstreise.",
+        "zh": "公司支付所有出差费用。"
+      }
+    ],
+    "collocations": [
+      "eine Dienstreise antreten",
+      "auf Dienstreise sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "工作",
+      "旅行",
+      "B1"
+    ],
+    "synonyms": [
+      "Geschäftsreise",
+      "Arbeitsreise"
+    ],
+    "antonyms": [
+      "Privatreise",
+      "Urlaubsreise"
+    ]
+  },
+  {
+    "word": "Ding",
+    "lemma": "Ding",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Dinge",
+    "meaning": [
+      {
+        "zh": "东西",
+        "en": "thing"
+      },
+      {
+        "zh": "事物",
+        "en": "object, matter"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist ein sehr teures Ding.",
+        "zh": "这是一个非常贵的东西。"
+      },
+      {
+        "de": "Es gibt noch viele Dinge zu erledigen.",
+        "zh": "还有很多事情要处理。"
+      }
+    ],
+    "collocations": [
+      "ein Ding der Unmöglichkeit",
+      "Dinge erledigen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "日常",
+      "抽象",
+      "A2"
+    ],
+    "synonyms": [
+      "Gegenstand",
+      "Sache"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Diskussionsfreudigkeit",
+    "lemma": "Diskussionsfreudigkeit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "乐于讨论",
+        "en": "willingness to discuss"
+      },
+      {
+        "zh": "讨论热情",
+        "en": "enthusiasm for discussion"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ihre Diskussionsfreudigkeit macht sie zu einer guten Teamleiterin.",
+        "zh": "她的乐于讨论使她成为一位好的团队领导。"
+      },
+      {
+        "de": "In diesem Seminar herrscht eine hohe Diskussionsfreudigkeit.",
+        "zh": "在这个研讨会上，讨论热情很高。"
+      }
+    ],
+    "collocations": [
+      "Diskussionsfreudigkeit zeigen",
+      "die Diskussionsfreudigkeit fördern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "性格",
+      "交流",
+      "B2"
+    ],
+    "synonyms": [
+      "Gesprächsbereitschaft",
+      "Diskussionslust"
+    ],
+    "antonyms": [
+      "Schweigsamkeit",
+      "Gesprächsunlust"
+    ]
+  }
+]

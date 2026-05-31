@@ -1,0 +1,1254 @@
+[
+  {
+    "word": "ideal",
+    "lemma": "ideal",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "理想的，完美的",
+        "en": "ideal, perfect"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist eine ideale Lösung für das Problem.",
+        "zh": "这是问题的理想解决方案。"
+      },
+      {
+        "de": "Sie hat ideale Bedingungen für das Training.",
+        "zh": "她有理想的训练条件。"
+      }
+    ],
+    "collocations": [
+      "ideale Lösung",
+      "ideale Bedingungen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "形容词",
+      "品质",
+      "B1"
+    ],
+    "synonyms": [
+      "perfekt",
+      "vollkommen"
+    ],
+    "antonyms": [
+      "schlecht",
+      "unvollkommen"
+    ]
+  },
+  {
+    "word": "Identitäten",
+    "lemma": "Identität",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Identitäten",
+    "meaning": [
+      {
+        "zh": "身份，认同",
+        "en": "identities"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In der globalisierten Welt vermischen sich kulturelle Identitäten.",
+        "zh": "在全球化的世界中，文化身份相互融合。"
+      },
+      {
+        "de": "Die Identitäten der Migranten sind oft vielfältig.",
+        "zh": "移民的身份往往是多元的。"
+      }
+    ],
+    "collocations": [
+      "kulturelle Identitäten",
+      "nationale Identität"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "名词",
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "Selbstverständnis",
+      "Persönlichkeit"
+    ],
+    "antonyms": [
+      "Anonymität"
+    ]
+  },
+  {
+    "word": "Immatrikulation",
+    "lemma": "Immatrikulation",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Immatrikulationen",
+    "meaning": [
+      {
+        "zh": "大学注册，入学",
+        "en": "enrollment, matriculation"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Immatrikulation für das Wintersemester beginnt im September.",
+        "zh": "冬季学期的注册从九月开始。"
+      },
+      {
+        "de": "Nach der Immatrikulation erhält man den Studentenausweis.",
+        "zh": "注册后你会收到学生证。"
+      }
+    ],
+    "collocations": [
+      "Immatrikulation beantragen",
+      "Immatrikulationsbescheinigung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "名词",
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "Einschreibung",
+      "Anmeldung"
+    ],
+    "antonyms": [
+      "Exmatrikulation"
+    ]
+  },
+  {
+    "word": "indem",
+    "lemma": "indem",
+    "pos": [
+      "conjunction"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "通过……的方式，当……时",
+        "en": "by, while"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er verbesserte seine Note, indem er mehr lernte.",
+        "zh": "他通过多学习提高了成绩。"
+      },
+      {
+        "de": "Sie half ihm, indem sie ihm das Buch erklärte.",
+        "zh": "她通过给他解释这本书来帮助他。"
+      }
+    ],
+    "collocations": [
+      "indem man",
+      "indem er/sie"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "连词",
+      "语法",
+      "B1"
+    ],
+    "synonyms": [
+      "dadurch dass",
+      "während"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "individuell",
+    "lemma": "individuell",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "个人的，个性化的",
+        "en": "individual, personalized"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Jeder Mensch hat individuelle Bedürfnisse.",
+        "zh": "每个人都有个人需求。"
+      },
+      {
+        "de": "Das Unternehmen bietet individuelle Beratung an.",
+        "zh": "这家公司提供个性化咨询。"
+      }
+    ],
+    "collocations": [
+      "individuelle Lösung",
+      "individuelle Betreuung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "形容词",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "persönlich",
+      "eigen"
+    ],
+    "antonyms": [
+      "kollektiv",
+      "allgemein"
+    ]
+  },
+  {
+    "word": "Initiative",
+    "lemma": "Initiative",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Initiativen",
+    "meaning": [
+      {
+        "zh": "倡议，主动性",
+        "en": "initiative"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Bürgerinitiative setzt sich für den Umweltschutz ein.",
+        "zh": "公民倡议致力于环境保护。"
+      },
+      {
+        "de": "Er ergriff die Initiative und organisierte das Treffen.",
+        "zh": "他主动发起并组织了这次会议。"
+      }
+    ],
+    "collocations": [
+      "Initiative ergreifen",
+      "Bürgerinitiative"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "名词",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Anstoß",
+      "Aktion"
+    ],
+    "antonyms": [
+      "Passivität"
+    ]
+  },
+  {
+    "word": "Innenstadt",
+    "lemma": "Innenstadt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Innenstädte",
+    "meaning": [
+      {
+        "zh": "市中心，内城",
+        "en": "city center, downtown"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Innenstadt ist am Wochenende sehr belebt.",
+        "zh": "市中心在周末非常热闹。"
+      },
+      {
+        "de": "In der Innenstadt gibt es viele Geschäfte und Restaurants.",
+        "zh": "市中心有很多商店和餐馆。"
+      }
+    ],
+    "collocations": [
+      "Innenstadt besuchen",
+      "Innenstadtlage"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "名词",
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Stadtzentrum",
+      "City"
+    ],
+    "antonyms": [
+      "Vorort",
+      "Außenbezirk"
+    ]
+  },
+  {
+    "word": "Inspiration",
+    "lemma": "Inspiration",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Inspirationen",
+    "meaning": [
+      {
+        "zh": "灵感，启发",
+        "en": "inspiration"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Künstler sucht nach Inspiration in der Natur.",
+        "zh": "艺术家在大自然中寻找灵感。"
+      },
+      {
+        "de": "Ihre Rede war eine Inspiration für viele junge Leute.",
+        "zh": "她的演讲对许多年轻人是一种启发。"
+      }
+    ],
+    "collocations": [
+      "Inspiration finden",
+      "Inspiration suchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "名词",
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "Anregung",
+      "Eingebung"
+    ],
+    "antonyms": [
+      "Langeweile"
+    ]
+  },
+  {
+    "word": "Institut",
+    "lemma": "Institut",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Institute",
+    "meaning": [
+      {
+        "zh": "研究所，学院，机构",
+        "en": "institute"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Institut für Sprachwissenschaft forscht an neuen Methoden.",
+        "zh": "语言研究所研究新方法。"
+      },
+      {
+        "de": "Sie arbeitet an einem renommierten Institut in Berlin.",
+        "zh": "她在柏林一家著名研究所工作。"
+      }
+    ],
+    "collocations": [
+      "ein Institut gründen",
+      "am Institut arbeiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "机构"
+    ],
+    "synonyms": [
+      "Einrichtung",
+      "Anstalt"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Integration",
+    "lemma": "Integration",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Integrationen",
+    "meaning": [
+      {
+        "zh": "融合，整合，一体化",
+        "en": "integration"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Integration von Migranten ist eine wichtige gesellschaftliche Aufgabe.",
+        "zh": "移民融合是一项重要的社会任务。"
+      },
+      {
+        "de": "Die Integration neuer Technologien erfordert viel Zeit.",
+        "zh": "新技术的整合需要很多时间。"
+      }
+    ],
+    "collocations": [
+      "Integration fördern",
+      "soziale Integration"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "政治"
+    ],
+    "synonyms": [
+      "Eingliederung",
+      "Vereinigung"
+    ],
+    "antonyms": [
+      "Ausgrenzung",
+      "Trennung"
+    ]
+  },
+  {
+    "word": "Intensivkurs",
+    "lemma": "Intensivkurs",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Intensivkurse",
+    "meaning": [
+      {
+        "zh": "强化课程",
+        "en": "intensive course"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe einen Intensivkurs in Deutsch gemacht.",
+        "zh": "我参加了一个德语强化课程。"
+      },
+      {
+        "de": "Der Intensivkurs dauert vier Wochen und findet täglich statt.",
+        "zh": "强化课程持续四周，每天进行。"
+      }
+    ],
+    "collocations": [
+      "einen Intensivkurs besuchen",
+      "Intensivkurs belegen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "学习"
+    ],
+    "synonyms": [
+      "Schnellkurs",
+      "Komprimierter Kurs"
+    ],
+    "antonyms": [
+      "Langzeitkurs"
+    ]
+  },
+  {
+    "word": "jährig",
+    "lemma": "jährig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "……岁的，……年的",
+        "en": "year-old, of ... years"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das zehnjährige Mädchen spielt im Park.",
+        "zh": "这个十岁的女孩在公园里玩。"
+      },
+      {
+        "de": "Die jährige Tradition wird jedes Jahr gefeiert.",
+        "zh": "这个多年的传统每年都被庆祝。"
+      }
+    ],
+    "collocations": [
+      "einjährig",
+      "mehrjährig"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "时间",
+      "描述"
+    ],
+    "synonyms": [
+      "-jährig (in compounds)"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Jeans",
+    "lemma": "Jeans",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Jeans",
+    "meaning": [
+      {
+        "zh": "牛仔裤",
+        "en": "jeans"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er trägt heute eine blaue Jeans.",
+        "zh": "他今天穿了一条蓝色牛仔裤。"
+      },
+      {
+        "de": "Diese Jeans ist sehr bequem.",
+        "zh": "这条牛仔裤很舒服。"
+      }
+    ],
+    "collocations": [
+      "Jeans anziehen",
+      "eine Jeans kaufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "服装",
+      "日常"
+    ],
+    "synonyms": [
+      "Hose",
+      "Denim"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "jedenfalls",
+    "lemma": "jedenfalls",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "无论如何，至少",
+        "en": "anyway, at least"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich bin nicht sicher, aber jedenfalls komme ich morgen.",
+        "zh": "我不确定，但无论如何我明天会来。"
+      },
+      {
+        "de": "Das war jedenfalls nicht meine Absicht.",
+        "zh": "这至少不是我的意图。"
+      }
+    ],
+    "collocations": [
+      "jedenfalls nicht",
+      "jedenfalls aber"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语气",
+      "连接"
+    ],
+    "synonyms": [
+      "auf jeden Fall",
+      "zumindest"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "jedoch",
+    "lemma": "jedoch",
+    "pos": [
+      "adverb",
+      "conjunction"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "然而，但是",
+        "en": "however, but"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist krank, jedoch kommt er zur Arbeit.",
+        "zh": "他生病了，然而还是来上班。"
+      },
+      {
+        "de": "Das Wetter war schlecht, jedoch hatten wir viel Spaß.",
+        "zh": "天气不好，但是我们玩得很开心。"
+      }
+    ],
+    "collocations": [
+      "jedoch nicht",
+      "jedoch auch"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "连接",
+      "语气"
+    ],
+    "synonyms": [
+      "aber",
+      "allerdings"
+    ],
+    "antonyms": [
+      "und",
+      "auch"
+    ]
+  },
+  {
+    "word": "Journalistin",
+    "lemma": "Journalist",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Journalistinnen",
+    "meaning": [
+      {
+        "zh": "女记者，女新闻工作者",
+        "en": "journalist (female)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Journalistin berichtet über die politische Lage.",
+        "zh": "这位女记者报道政治局势。"
+      },
+      {
+        "de": "Als Journalistin muss sie oft reisen.",
+        "zh": "作为一名女记者，她经常出差。"
+      }
+    ],
+    "collocations": [
+      "als Journalistin arbeiten",
+      "Journalistin werden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "职业",
+      "媒体"
+    ],
+    "synonyms": [
+      "Reporterin",
+      "Berichterstatterin"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Kakaomasse",
+    "lemma": "Kakaomasse",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Kakaomassen",
+    "meaning": [
+      {
+        "zh": "可可浆",
+        "en": "cocoa mass"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kakaomasse wird aus gemahlenen Kakaobohnen hergestellt.",
+        "zh": "可可浆是由磨碎的可可豆制成的。"
+      },
+      {
+        "de": "Für die Schokoladenherstellung benötigt man hochwertige Kakaomasse.",
+        "zh": "制作巧克力需要高质量的可可浆。"
+      }
+    ],
+    "collocations": [
+      "Kakaomasse verarbeiten",
+      "Kakaomasse kaufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "食品",
+      "B2"
+    ],
+    "synonyms": [
+      "Kakaopaste"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Kalorie",
+    "lemma": "Kalorie",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Kalorien",
+    "meaning": [
+      {
+        "zh": "卡路里",
+        "en": "calorie"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ein Apfel hat etwa 50 Kalorien.",
+        "zh": "一个苹果大约有50卡路里。"
+      },
+      {
+        "de": "Sie zählt jeden Tag ihre Kalorien.",
+        "zh": "她每天计算自己的卡路里。"
+      }
+    ],
+    "collocations": [
+      "Kalorien zählen",
+      "wenig Kalorien haben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "健康",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Karton",
+    "lemma": "Karton",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Kartons",
+    "meaning": [
+      {
+        "zh": "纸箱",
+        "en": "cardboard box"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe den Karton mit Büchern gefüllt.",
+        "zh": "我把纸箱装满了书。"
+      },
+      {
+        "de": "Bitte werfen Sie den Karton in den Papiermüll.",
+        "zh": "请把纸箱扔进废纸回收箱。"
+      }
+    ],
+    "collocations": [
+      "einen Karton packen",
+      "Karton entsorgen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Schachtel",
+      "Pappkarton"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Keller",
+    "lemma": "Keller",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Keller",
+    "meaning": [
+      {
+        "zh": "地下室",
+        "en": "basement"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Keller lagern wir alte Möbel.",
+        "zh": "我们把旧家具存放在地下室里。"
+      },
+      {
+        "de": "Der Keller ist feucht und kühl.",
+        "zh": "地下室又潮湿又凉爽。"
+      }
+    ],
+    "collocations": [
+      "im Keller lagern",
+      "Keller ausbauen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Untergeschoss"
+    ],
+    "antonyms": [
+      "Dachboden"
+    ]
+  },
+  {
+    "word": "Kenntnis",
+    "lemma": "Kenntnis",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Kenntnisse",
+    "meaning": [
+      {
+        "zh": "知识",
+        "en": "knowledge"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat gute Kenntnisse in Mathematik.",
+        "zh": "他在数学方面有很好的知识。"
+      },
+      {
+        "de": "Die Kenntnis der deutschen Sprache ist wichtig.",
+        "zh": "掌握德语知识很重要。"
+      }
+    ],
+    "collocations": [
+      "Kenntnisse erwerben",
+      "über Kenntnisse verfügen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "Wissen",
+      "Fachwissen"
+    ],
+    "antonyms": [
+      "Unkenntnis"
+    ]
+  },
+  {
+    "word": "Kilogramm",
+    "lemma": "Kilogramm",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Kilogramm",
+    "meaning": [
+      {
+        "zh": "千克",
+        "en": "kilogram"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ein Kilogramm Äpfel kostet zwei Euro.",
+        "zh": "一千克苹果两欧元。"
+      },
+      {
+        "de": "Sie hat fünf Kilogramm abgenommen.",
+        "zh": "她减掉了五公斤。"
+      }
+    ],
+    "collocations": [
+      "ein Kilogramm wiegen",
+      "Kilogramm kaufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "计量",
+      "A1"
+    ],
+    "synonyms": [
+      "Kilo"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Kindertageseinrichtung",
+    "lemma": "Kindertageseinrichtung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Kindertageseinrichtungen",
+    "meaning": [
+      {
+        "zh": "儿童日托机构",
+        "en": "childcare facility"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kindertageseinrichtung bietet Betreuung für Kinder ab einem Jahr.",
+        "zh": "这家儿童日托机构提供一岁以上儿童的照护。"
+      },
+      {
+        "de": "Viele Eltern suchen einen Platz in einer Kindertageseinrichtung.",
+        "zh": "许多家长在寻找儿童日托机构的位置。"
+      }
+    ],
+    "collocations": [
+      "Kindertageseinrichtung besuchen",
+      "Platz in der Kindertageseinrichtung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "Kita",
+      "Kindertagesstätte"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Kleidungsstück",
+    "lemma": "Kleidungsstück",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Kleidungsstücke",
+    "meaning": [
+      {
+        "zh": "衣物",
+        "en": "garment"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieses Kleidungsstück ist aus Baumwolle.",
+        "zh": "这件衣物是棉质的。"
+      },
+      {
+        "de": "Sie hat mehrere Kleidungsstücke im Schrank.",
+        "zh": "她衣柜里有好几件衣物。"
+      }
+    ],
+    "collocations": [
+      "ein Kleidungsstück anziehen",
+      "Kleidungsstück waschen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Kleidung",
+      "Bekleidungsstück"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Klingelton",
+    "lemma": "Klingelton",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Klingeltöne",
+    "meaning": [
+      {
+        "zh": "铃声",
+        "en": "ringtone"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe einen neuen Klingelton für mein Handy heruntergeladen.",
+        "zh": "我给我的手机下载了一个新铃声。"
+      },
+      {
+        "de": "Der Klingelton war so laut, dass alle im Raum es hörten.",
+        "zh": "铃声太响了，房间里所有人都听到了。"
+      }
+    ],
+    "collocations": [
+      "einen Klingelton einstellen",
+      "einen Klingelton herunterladen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "Rufton",
+      "Melodie"
+    ],
+    "antonyms": [
+      "Stille"
+    ]
+  },
+  {
+    "word": "Knappheit",
+    "lemma": "Knappheit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "短缺，匮乏",
+        "en": "scarcity, shortage"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Knappheit an Wasser wird in vielen Regionen immer größer.",
+        "zh": "许多地区的水资源短缺越来越严重。"
+      },
+      {
+        "de": "Wegen der Knappheit an Rohstoffen stiegen die Preise.",
+        "zh": "由于原材料短缺，价格上涨了。"
+      }
+    ],
+    "collocations": [
+      "Knappheit an etwas",
+      "unter Knappheit leiden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "经济",
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "Mangel",
+      "Engpass"
+    ],
+    "antonyms": [
+      "Überfluss",
+      "Reichtum"
+    ]
+  },
+  {
+    "word": "WAA",
+    "lemma": "WAA",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "WAAs",
+    "meaning": [
+      {
+        "zh": "（缩写）废物处理厂（Wiederaufarbeitungsanlage 的缩写）",
+        "en": "reprocessing plant (abbreviation for Wiederaufarbeitungsanlage)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die WAA in Sellafield ist eine der größten in Europa.",
+        "zh": "塞拉菲尔德的废物处理厂是欧洲最大的之一。"
+      },
+      {
+        "de": "Der Bau einer neuen WAA wird kontrovers diskutiert.",
+        "zh": "新建废物处理厂引发了争议性的讨论。"
+      }
+    ],
+    "collocations": [
+      "eine WAA betreiben",
+      "gegen eine WAA protestieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "C1",
+    "tags": [
+      "科技",
+      "环境",
+      "C1"
+    ],
+    "synonyms": [
+      "Wiederaufarbeitungsanlage"
+    ],
+    "antonyms": []
+  }
+]

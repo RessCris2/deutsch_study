@@ -1,0 +1,1218 @@
+[
+  {
+    "word": "Produzent",
+    "lemma": "Produzent",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Produzenten",
+    "meaning": [
+      {
+        "zh": "生产者；制片人",
+        "en": "producer"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Produzent des Films gewann einen Oscar.",
+        "zh": "这部电影的制片人获得了奥斯卡奖。"
+      },
+      {
+        "de": "Viele Produzenten in der Region stellen nachhaltige Waren her.",
+        "zh": "该地区的许多生产者制造可持续商品。"
+      }
+    ],
+    "collocations": [
+      "Filmproduzent",
+      "Musikproduzent",
+      "landwirtschaftlicher Produzent"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "职业",
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "Hersteller",
+      "Erzeuger"
+    ],
+    "antonyms": [
+      "Konsument",
+      "Verbraucher"
+    ]
+  },
+  {
+    "word": "EFSrErEN",
+    "lemma": "EFSrErEN",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "EFSrErEN",
+    "meaning": [
+      {
+        "zh": "（疑似拼写错误，可能为“Erfahrung”或“Eifer”）",
+        "en": "likely misspelling, possibly 'experience' or 'zeal'"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Wort 'EFSrErEN' ist nicht im Standarddeutsch.",
+        "zh": "单词'EFSrErEN'不在标准德语中。"
+      },
+      {
+        "de": "Bitte überprüfen Sie die Schreibweise.",
+        "zh": "请检查拼写。"
+      }
+    ],
+    "collocations": [],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "拼写错误",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Professor",
+    "lemma": "Professor",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Professoren",
+    "meaning": [
+      {
+        "zh": "教授",
+        "en": "professor"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Professor hält eine Vorlesung über Quantenphysik.",
+        "zh": "教授正在讲授量子物理学。"
+      },
+      {
+        "de": "Sie wurde zur Professorin für Linguistik ernannt.",
+        "zh": "她被任命为语言学教授。"
+      }
+    ],
+    "collocations": [
+      "Professor für",
+      "Professor an der Universität",
+      "Professor werden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "职业",
+      "教育",
+      "A2"
+    ],
+    "synonyms": [
+      "Hochschullehrer",
+      "Dozent"
+    ],
+    "antonyms": [
+      "Student",
+      "Schüler"
+    ]
+  },
+  {
+    "word": "Profi",
+    "lemma": "Profi",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Profis",
+    "meaning": [
+      {
+        "zh": "专业人士；职业选手",
+        "en": "professional"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist ein echter Profi in seinem Bereich.",
+        "zh": "他在自己的领域是个真正的专业人士。"
+      },
+      {
+        "de": "Der Profi gewann das Tennisturnier.",
+        "zh": "这位职业选手赢得了网球锦标赛。"
+      }
+    ],
+    "collocations": [
+      "Profi werden",
+      "Profi sein",
+      "Profi-Sportler"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "职业",
+      "体育",
+      "B1"
+    ],
+    "synonyms": [
+      "Experte",
+      "Fachmann"
+    ],
+    "antonyms": [
+      "Amateur",
+      "Anfänger"
+    ]
+  },
+  {
+    "word": "Profil",
+    "lemma": "Profil",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Profile",
+    "meaning": [
+      {
+        "zh": "轮廓；简介；型材",
+        "en": "profile"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat ein Profil auf der Jobbörse erstellt.",
+        "zh": "她在求职网站上创建了个人资料。"
+      },
+      {
+        "de": "Das Profil des Berges ist bei Sonnenuntergang deutlich zu sehen.",
+        "zh": "日落时山脉的轮廓清晰可见。"
+      }
+    ],
+    "collocations": [
+      "Profil erstellen",
+      "Profil löschen",
+      "Profil zeigen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "技术",
+      "社交",
+      "B1"
+    ],
+    "synonyms": [
+      "Umriss",
+      "Darstellung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Protokollieren",
+    "lemma": "protokollieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "记录；做笔录",
+        "en": "to record, to log"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Sekretär protokollierte die Sitzung.",
+        "zh": "秘书记录了会议内容。"
+      },
+      {
+        "de": "Bitte protokollieren Sie alle wichtigen Ergebnisse.",
+        "zh": "请记录所有重要结果。"
+      }
+    ],
+    "collocations": [
+      "Sitzung protokollieren",
+      "Ergebnisse protokollieren",
+      "protokollieren lassen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "protokolliert"
+    },
+    "level": "B2",
+    "tags": [
+      "工作",
+      "行政",
+      "B2"
+    ],
+    "synonyms": [
+      "aufzeichnen",
+      "dokumentieren"
+    ],
+    "antonyms": [
+      "ignorieren",
+      "vergessen"
+    ]
+  },
+  {
+    "word": "Prozent",
+    "lemma": "Prozent",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Prozente",
+    "meaning": [
+      {
+        "zh": "百分比",
+        "en": "percent"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Inflation stieg um zwei Prozent.",
+        "zh": "通货膨胀上升了百分之二。"
+      },
+      {
+        "de": "Er hat zehn Prozent seines Gehalts gespart.",
+        "zh": "他节省了工资的百分之十。"
+      }
+    ],
+    "collocations": [
+      "Prozent der",
+      "in Prozent",
+      "Prozentpunkt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "数学",
+      "经济",
+      "A2"
+    ],
+    "synonyms": [
+      "Hundertstel",
+      "Anteil"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Prozess",
+    "lemma": "Prozess",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Prozesse",
+    "meaning": [
+      {
+        "zh": "过程；诉讼",
+        "en": "process; lawsuit"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Produktionsprozess wurde optimiert.",
+        "zh": "生产过程得到了优化。"
+      },
+      {
+        "de": "Der Prozess gegen den Angeklagten beginnt morgen.",
+        "zh": "对被告的诉讼明天开始。"
+      }
+    ],
+    "collocations": [
+      "Prozess optimieren",
+      "gerichtlicher Prozess",
+      "Prozess starten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "法律",
+      "技术",
+      "B1"
+    ],
+    "synonyms": [
+      "Ablauf",
+      "Verfahren"
+    ],
+    "antonyms": [
+      "Stillstand",
+      "Ende"
+    ]
+  },
+  {
+    "word": "Publikum",
+    "lemma": "Publikum",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "观众，听众",
+        "en": "audience"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Publikum applaudierte begeistert.",
+        "zh": "观众热烈鼓掌。"
+      },
+      {
+        "de": "Die Band spielte vor einem großen Publikum.",
+        "zh": "乐队在大量观众面前演奏。"
+      }
+    ],
+    "collocations": [
+      "das Publikum begeistern",
+      "vor einem Publikum auftreten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "文化",
+      "B1"
+    ],
+    "synonyms": [
+      "Zuschauer",
+      "Hörer"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Punkt",
+    "lemma": "Punkt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Punkte",
+    "meaning": [
+      {
+        "zh": "点，分数，句号",
+        "en": "point, dot, period"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat in der Prüfung 90 Punkte erreicht.",
+        "zh": "他在考试中得了90分。"
+      },
+      {
+        "de": "Der Punkt am Ende des Satzes fehlt.",
+        "zh": "句子末尾的句号缺失了。"
+      }
+    ],
+    "collocations": [
+      "einen Punkt setzen",
+      "Punkte sammeln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "教育",
+      "A2"
+    ],
+    "synonyms": [
+      "Stelle",
+      "Note"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Quantität",
+    "lemma": "Quantität",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Quantitäten",
+    "meaning": [
+      {
+        "zh": "数量，量",
+        "en": "quantity"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Quantität der Produkte hat zugenommen.",
+        "zh": "产品的数量增加了。"
+      },
+      {
+        "de": "Quantität ist nicht immer gleich Qualität.",
+        "zh": "数量并不总是等于质量。"
+      }
+    ],
+    "collocations": [
+      "Quantität und Qualität",
+      "die Quantität erhöhen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "科学",
+      "经济",
+      "B2"
+    ],
+    "synonyms": [
+      "Menge",
+      "Anzahl"
+    ],
+    "antonyms": [
+      "Qualität"
+    ]
+  },
+  {
+    "word": "rasant",
+    "lemma": "rasant",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "迅速的，飞速的",
+        "en": "rapid, fast-paced"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Technologie entwickelt sich rasant.",
+        "zh": "技术发展迅速。"
+      },
+      {
+        "de": "Das Auto fuhr mit rasanter Geschwindigkeit.",
+        "zh": "汽车以飞快的速度行驶。"
+      }
+    ],
+    "collocations": [
+      "rasantes Wachstum",
+      "rasante Entwicklung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "科技",
+      "生活",
+      "B2"
+    ],
+    "synonyms": [
+      "schnell",
+      "rückstandslos"
+    ],
+    "antonyms": [
+      "langsam"
+    ]
+  },
+  {
+    "word": "Rasen",
+    "lemma": "Rasen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "草坪，草地",
+        "en": "lawn, grass"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kinder spielen auf dem Rasen.",
+        "zh": "孩子们在草坪上玩耍。"
+      },
+      {
+        "de": "Der Rasen muss gemäht werden.",
+        "zh": "草坪需要修剪。"
+      }
+    ],
+    "collocations": [
+      "den Rasen mähen",
+      "auf dem Rasen liegen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "自然",
+      "A2"
+    ],
+    "synonyms": [
+      "Gras",
+      "Grünfläche"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "ratsam",
+    "lemma": "ratsam",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "明智的，可取的",
+        "en": "advisable, recommended"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Es ist ratsam, früh zu kommen.",
+        "zh": "早来是明智的。"
+      },
+      {
+        "de": "Eine Impfung ist ratsam.",
+        "zh": "接种疫苗是可取的。"
+      }
+    ],
+    "collocations": [
+      "es ist ratsam",
+      "für ratsam halten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "建议",
+      "B1"
+    ],
+    "synonyms": [
+      "empfehlenswert",
+      "sinnvoll"
+    ],
+    "antonyms": [
+      "unratsam",
+      "gefährlich"
+    ]
+  },
+  {
+    "word": "räumlich",
+    "lemma": "räumlich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "空间的，立体的",
+        "en": "spatial, three-dimensional"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Gebäude hat eine räumliche Aufteilung.",
+        "zh": "这座建筑有空间布局。"
+      },
+      {
+        "de": "Räumliches Denken ist wichtig für Architekten.",
+        "zh": "空间思维对建筑师很重要。"
+      }
+    ],
+    "collocations": [
+      "räumliche Vorstellung",
+      "räumliche Nähe"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "科学",
+      "建筑",
+      "B2"
+    ],
+    "synonyms": [
+      "geometrisch",
+      "dimensional"
+    ],
+    "antonyms": [
+      "zeitlich"
+    ]
+  },
+  {
+    "word": "real",
+    "lemma": "real",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "真实的，实际的",
+        "en": "real, actual"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist kein Traum, sondern real.",
+        "zh": "这不是梦，而是真实的。"
+      },
+      {
+        "de": "Die realen Kosten sind höher als erwartet.",
+        "zh": "实际成本高于预期。"
+      }
+    ],
+    "collocations": [
+      "real existieren",
+      "reale Welt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "哲学",
+      "B1"
+    ],
+    "synonyms": [
+      "wirklich",
+      "tatsächlich"
+    ],
+    "antonyms": [
+      "irreal",
+      "fiktiv"
+    ]
+  },
+  {
+    "word": "realistisch",
+    "lemma": "realistisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "现实的，切合实际的",
+        "en": "realistic"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Seine Einschätzung der Lage ist sehr realistisch.",
+        "zh": "他对形势的评估非常现实。"
+      },
+      {
+        "de": "Wir müssen realistische Ziele setzen.",
+        "zh": "我们必须设定切合实际的目标。"
+      }
+    ],
+    "collocations": [
+      "realistische Einschätzung",
+      "realistische Ziele"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "pragmatisch",
+      "sachlich"
+    ],
+    "antonyms": [
+      "unrealistisch",
+      "idealistisch"
+    ]
+  },
+  {
+    "word": "reflektieren",
+    "lemma": "reflektieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "反射；反思，思考",
+        "en": "to reflect; to think about"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Licht wird von der Wasseroberfläche reflektiert.",
+        "zh": "光被水面反射。"
+      },
+      {
+        "de": "Er reflektiert oft über seine Fehler.",
+        "zh": "他经常反思自己的错误。"
+      }
+    ],
+    "collocations": [
+      "Licht reflektieren",
+      "über etwas reflektieren"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "reflektiert"
+    },
+    "level": "B2",
+    "tags": [
+      "科技",
+      "情感",
+      "B2"
+    ],
+    "synonyms": [
+      "nachdenken",
+      "überlegen"
+    ],
+    "antonyms": [
+      "ignorieren",
+      "übersehen"
+    ]
+  },
+  {
+    "word": "regelrecht",
+    "lemma": "regelrecht",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "简直，完全；按规定地",
+        "en": "outright, downright; properly"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das war regelrecht eine Katastrophe.",
+        "zh": "这简直是一场灾难。"
+      },
+      {
+        "de": "Er hat sich regelrecht benommen.",
+        "zh": "他表现得规规矩矩。"
+      }
+    ],
+    "collocations": [
+      "regelrecht verrückt",
+      "regelrecht schockiert"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "情感",
+      "B2"
+    ],
+    "synonyms": [
+      "geradezu",
+      "förmlich"
+    ],
+    "antonyms": [
+      "kaum",
+      "wenig"
+    ]
+  },
+  {
+    "word": "regieren",
+    "lemma": "regieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "统治，治理",
+        "en": "to govern, to rule"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Partei regiert das Land seit zehn Jahren.",
+        "zh": "该党统治这个国家已有十年。"
+      },
+      {
+        "de": "Er regiert mit harter Hand.",
+        "zh": "他铁腕统治。"
+      }
+    ],
+    "collocations": [
+      "ein Land regieren",
+      "mit harter Hand regieren"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "regiert"
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "herrschen",
+      "lenken"
+    ],
+    "antonyms": [
+      "dienen",
+      "unterwerfen"
+    ]
+  },
+  {
+    "word": "registrieren",
+    "lemma": "registrieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "登记，注册；注意到",
+        "en": "to register; to notice"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bitte registrieren Sie sich online.",
+        "zh": "请在线注册。"
+      },
+      {
+        "de": "Ich habe seine Abwesenheit registriert.",
+        "zh": "我注意到了他的缺席。"
+      }
+    ],
+    "collocations": [
+      "sich registrieren",
+      "etwas registrieren"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "registriert"
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "anmelden",
+      "bemerken"
+    ],
+    "antonyms": [
+      "ignorieren",
+      "übersehen"
+    ]
+  },
+  {
+    "word": "reizen",
+    "lemma": "reizen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "刺激，激怒；吸引",
+        "en": "to irritate, to provoke; to attract"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die scharfe Soße reizt meinen Magen.",
+        "zh": "辣酱刺激我的胃。"
+      },
+      {
+        "de": "Das Angebot reizt mich sehr.",
+        "zh": "这个报价很吸引我。"
+      }
+    ],
+    "collocations": [
+      "jemanden reizen",
+      "zum Widerspruch reizen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gereizt"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "provozieren",
+      "anlocken"
+    ],
+    "antonyms": [
+      "beruhigen",
+      "abschrecken"
+    ]
+  },
+  {
+    "word": "relevant",
+    "lemma": "relevant",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "相关的，重要的",
+        "en": "relevant, significant"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Information ist für unsere Entscheidung relevant.",
+        "zh": "这个信息对我们的决定很重要。"
+      },
+      {
+        "de": "Nur relevante Daten werden berücksichtigt.",
+        "zh": "只考虑相关数据。"
+      }
+    ],
+    "collocations": [
+      "relevante Informationen",
+      "relevant für etwas sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "bedeutend",
+      "wichtig"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "unbedeutend"
+    ]
+  },
+  {
+    "word": "Rhythmus",
+    "lemma": "Rhythmus",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Rhythmen",
+    "meaning": [
+      {
+        "zh": "节奏，韵律",
+        "en": "rhythm"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Musik hat einen schnellen Rhythmus.",
+        "zh": "这首音乐节奏很快。"
+      },
+      {
+        "de": "Er tanzt im Rhythmus der Trommeln.",
+        "zh": "他随着鼓点节奏跳舞。"
+      }
+    ],
+    "collocations": [
+      "im Rhythmus bleiben",
+      "den Rhythmus wechseln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Takt",
+      "Schlag"
+    ],
+    "antonyms": [
+      "Unordnung",
+      "Chaos"
+    ]
+  },
+  {
+    "word": "richten",
+    "lemma": "richten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "对准，指向",
+        "en": "to direct, to aim"
+      },
+      {
+        "zh": "整理，安排",
+        "en": "to arrange, to set"
+      },
+      {
+        "zh": "裁决，审判",
+        "en": "to judge, to pass sentence"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er richtete den Blick auf das Fenster.",
+        "zh": "他把目光投向窗户。"
+      },
+      {
+        "de": "Sie richtete das Zimmer für die Gäste her.",
+        "zh": "她为客人整理了房间。"
+      },
+      {
+        "de": "Das Gericht richtet über den Angeklagten.",
+        "zh": "法庭对被告进行审判。"
+      }
+    ],
+    "collocations": [
+      "sich an jemanden richten",
+      "etwas nach etwas richten",
+      "das Wort an jemanden richten",
+      "sich gegen etwas richten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gerichtet"
+    },
+    "level": "B1",
+    "tags": [
+      "动词",
+      "B1",
+      "日常",
+      "法律"
+    ],
+    "synonyms": [
+      "ausrichten",
+      "lenken",
+      "urteilen"
+    ],
+    "antonyms": [
+      "ignorieren",
+      "vernachlässigen"
+    ]
+  }
+]

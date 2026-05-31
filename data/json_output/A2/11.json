@@ -1,0 +1,804 @@
+[
+  {
+    "word": "Hose",
+    "lemma": "Hose",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Hosen",
+    "meaning": [
+      {
+        "zh": "裤子",
+        "en": "pants/trousers"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich ziehe mir eine neue Hose an.",
+        "zh": "我穿上了一条新裤子。"
+      },
+      {
+        "de": "Die Hose ist mir zu lang.",
+        "zh": "这条裤子对我来说太长了。"
+      }
+    ],
+    "collocations": [
+      "eine Hose anziehen",
+      "eine Hose tragen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "hübsch",
+    "lemma": "hübsch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "漂亮的，好看的",
+        "en": "pretty, nice-looking"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie ist ein hübsches Mädchen.",
+        "zh": "她是一个漂亮的女孩。"
+      },
+      {
+        "de": "Das ist ein hübsches Kleid.",
+        "zh": "这是一件漂亮的连衣裙。"
+      }
+    ],
+    "collocations": [
+      "hübsch aussehen",
+      "hübsch finden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "schön",
+      "attraktiv"
+    ],
+    "antonyms": [
+      "hässlich"
+    ]
+  },
+  {
+    "word": "humorvoll",
+    "lemma": "humorvoll",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "幽默的",
+        "en": "humorous"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist ein humorvoller Mensch.",
+        "zh": "他是一个幽默的人。"
+      },
+      {
+        "de": "Die Rede war sehr humorvoll.",
+        "zh": "这个演讲非常幽默。"
+      }
+    ],
+    "collocations": [
+      "humorvoll sein",
+      "humorvoll erzählen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "lustig",
+      "witzig"
+    ],
+    "antonyms": [
+      "ernst",
+      "humorlos"
+    ]
+  },
+  {
+    "word": "Industriegebiet",
+    "lemma": "Industriegebiet",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Industriegebiete",
+    "meaning": [
+      {
+        "zh": "工业区",
+        "en": "industrial area"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Industriegebiet liegt am Stadtrand.",
+        "zh": "工业区位于城郊。"
+      },
+      {
+        "de": "Viele Fabriken sind in diesem Industriegebiet angesiedelt.",
+        "zh": "许多工厂都设在这个工业区。"
+      }
+    ],
+    "collocations": [
+      "im Industriegebiet arbeiten",
+      "ein Industriegebiet erschließen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Gewerbegebiet"
+    ],
+    "antonyms": [
+      "Wohngebiet"
+    ]
+  },
+  {
+    "word": "Industriekaufmann",
+    "lemma": "Industriekaufmann",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Industriekaufleute",
+    "meaning": [
+      {
+        "zh": "工业商务员",
+        "en": "industrial clerk"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er macht eine Ausbildung zum Industriekaufmann.",
+        "zh": "他正在接受工业商务员的培训。"
+      },
+      {
+        "de": "Als Industriekaufmann arbeitet sie in der Personalabteilung.",
+        "zh": "作为一名工业商务员，她在人事部工作。"
+      }
+    ],
+    "collocations": [
+      "als Industriekaufmann arbeiten",
+      "Industriekaufmann werden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Information",
+    "lemma": "Information",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Informationen",
+    "meaning": [
+      {
+        "zh": "信息",
+        "en": "information"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du mir mehr Informationen geben?",
+        "zh": "你能给我更多信息吗？"
+      },
+      {
+        "de": "Die Informationen sind nicht aktuell.",
+        "zh": "这些信息不是最新的。"
+      }
+    ],
+    "collocations": [
+      "Informationen einholen",
+      "Informationen weitergeben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "科技",
+      "A2"
+    ],
+    "synonyms": [
+      "Auskunft",
+      "Daten"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "informieren",
+    "lemma": "informieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "通知，告知",
+        "en": "to inform"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich informiere dich über die Änderungen.",
+        "zh": "我通知你关于变更的事。"
+      },
+      {
+        "de": "Er informiert sich über das neue Gesetz.",
+        "zh": "他正在了解新法律。"
+      }
+    ],
+    "collocations": [
+      "jemanden informieren",
+      "sich informieren über"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "informiert"
+    },
+    "level": "A2",
+    "tags": [
+      "社会",
+      "A2"
+    ],
+    "synonyms": [
+      "benachrichtigen",
+      "mitteilen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Inhalt",
+    "lemma": "Inhalt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Inhalte",
+    "meaning": [
+      {
+        "zh": "内容",
+        "en": "content"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Inhalt des Buches ist sehr interessant.",
+        "zh": "这本书的内容非常有趣。"
+      },
+      {
+        "de": "Kannst du mir den Inhalt der E-Mail zusammenfassen?",
+        "zh": "你能给我总结一下邮件的内容吗？"
+      }
+    ],
+    "collocations": [
+      "den Inhalt verstehen",
+      "Inhalt eines Textes"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "科技",
+      "A2"
+    ],
+    "synonyms": [
+      "Gehalt",
+      "Substanz"
+    ],
+    "antonyms": [
+      "Form"
+    ]
+  },
+  {
+    "word": "Jahreswechsel",
+    "lemma": "Jahreswechsel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Jahreswechsel",
+    "meaning": [
+      {
+        "zh": "年际交替，新年之交",
+        "en": "turn of the year"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Zum Jahreswechsel feiern viele Menschen mit Feuerwerk.",
+        "zh": "在新年之交，许多人用烟花庆祝。"
+      },
+      {
+        "de": "Der Jahreswechsel ist eine Zeit der Besinnung.",
+        "zh": "年际交替是一个反思的时刻。"
+      }
+    ],
+    "collocations": [
+      "zum Jahreswechsel",
+      "am Jahreswechsel"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "时间",
+      "节日",
+      "B1"
+    ],
+    "synonyms": [
+      "Jahreswende",
+      "Neujahr"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Jahrhundert",
+    "lemma": "Jahrhundert",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Jahrhunderte",
+    "meaning": [
+      {
+        "zh": "世纪",
+        "en": "century"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das 20. Jahrhundert war geprägt von großen technologischen Fortschritten.",
+        "zh": "20世纪以巨大的技术进步为特征。"
+      },
+      {
+        "de": "Im 21. Jahrhundert spielt die Digitalisierung eine zentrale Rolle.",
+        "zh": "在21世纪，数字化扮演着核心角色。"
+      }
+    ],
+    "collocations": [
+      "im 21. Jahrhundert",
+      "Jahrhundertwende"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "时间",
+      "历史",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "jetzig",
+    "lemma": "jetzig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "当前的，现在的",
+        "en": "current, present"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die jetzige Situation erfordert schnelles Handeln.",
+        "zh": "当前的情况需要迅速行动。"
+      },
+      {
+        "de": "Unter der jetzigen Regierung hat sich viel verändert.",
+        "zh": "在现任政府领导下，很多事情发生了变化。"
+      }
+    ],
+    "collocations": [
+      "die jetzige Lage",
+      "der jetzige Zustand"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "时间",
+      "描述",
+      "B1"
+    ],
+    "synonyms": [
+      "aktuell",
+      "gegenwärtig"
+    ],
+    "antonyms": [
+      "früher",
+      "ehemalig"
+    ]
+  },
+  {
+    "word": "Job",
+    "lemma": "Job",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Jobs",
+    "meaning": [
+      {
+        "zh": "工作，职业",
+        "en": "job"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat einen neuen Job in einer Firma gefunden.",
+        "zh": "他在一家公司找到了一份新工作。"
+      },
+      {
+        "de": "Sie sucht einen Job als Programmiererin.",
+        "zh": "她正在找一份程序员的工作。"
+      }
+    ],
+    "collocations": [
+      "einen Job haben",
+      "einen Job suchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "工作",
+      "职业",
+      "A2"
+    ],
+    "synonyms": [
+      "Arbeit",
+      "Stelle",
+      "Beruf"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Jugendliche",
+    "lemma": "Jugendliche",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der/die",
+    "plural": "Jugendlichen",
+    "meaning": [
+      {
+        "zh": "青少年",
+        "en": "adolescent, young person"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Viele Jugendliche verbringen viel Zeit mit sozialen Medien.",
+        "zh": "许多青少年花很多时间在社交媒体上。"
+      },
+      {
+        "de": "Die Stadt bietet spezielle Kurse für Jugendliche an.",
+        "zh": "这座城市为青少年提供特别课程。"
+      }
+    ],
+    "collocations": [
+      "für Jugendliche",
+      "Jugendliche und Erwachsene"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "人",
+      "年龄",
+      "A2"
+    ],
+    "synonyms": [
+      "Teenager",
+      "Heranwachsende"
+    ],
+    "antonyms": [
+      "Erwachsene",
+      "Kind"
+    ]
+  },
+  {
+    "word": "Junge",
+    "lemma": "Junge",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Jungen",
+    "meaning": [
+      {
+        "zh": "男孩",
+        "en": "boy"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Junge spielt im Park mit seinen Freunden.",
+        "zh": "那个男孩在公园里和他的朋友们玩耍。"
+      },
+      {
+        "de": "Ein kleiner Junge hat seinen Ball verloren.",
+        "zh": "一个小男孩丢了他的球。"
+      }
+    ],
+    "collocations": [
+      "kleiner Junge",
+      "Junge und Mädchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "人",
+      "家庭",
+      "A1"
+    ],
+    "synonyms": [
+      "Knabe",
+      "Bub"
+    ],
+    "antonyms": [
+      "Mädchen"
+    ]
+  },
+  {
+    "word": "Kaiser",
+    "lemma": "Kaiser",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Kaiser",
+    "meaning": [
+      {
+        "zh": "皇帝",
+        "en": "emperor"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Kaiser regierte das Land mit harter Hand.",
+        "zh": "皇帝以铁腕统治国家。"
+      },
+      {
+        "de": "Im alten China gab es viele mächtige Kaiser.",
+        "zh": "在古代中国，有许多强大的皇帝。"
+      }
+    ],
+    "collocations": [
+      "der deutsche Kaiser",
+      "Kaiser und König"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "历史",
+      "政治",
+      "B1"
+    ],
+    "synonyms": [
+      "Monarch",
+      "Herrscher"
+    ],
+    "antonyms": [
+      "Untertan",
+      "Bürger"
+    ]
+  },
+  {
+    "word": "kaiserlich",
+    "lemma": "kaiserlich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "皇帝的，帝国的",
+        "en": "imperial"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die kaiserliche Armee marschierte in die Stadt ein.",
+        "zh": "帝国军队进入了这座城市。"
+      },
+      {
+        "de": "Das kaiserliche Schloss ist eine Touristenattraktion.",
+        "zh": "皇帝的宫殿是一个旅游景点。"
+      }
+    ],
+    "collocations": [
+      "kaiserliche Familie",
+      "kaiserliche Regierung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "历史",
+      "政治",
+      "B1"
+    ],
+    "synonyms": [
+      "imperial",
+      "monarchisch"
+    ],
+    "antonyms": [
+      "republikanisch",
+      "demokratisch"
+    ]
+  },
+  {
+    "word": "kaputtgehen",
+    "lemma": "kaputtgehen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "坏掉，损坏",
+        "en": "to break, to get broken"
+      },
+      {
+        "zh": "（非正式）破产，失败",
+        "en": "to go bust, to fail"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mein Handy ist kaputtgegangen.",
+        "zh": "我的手机坏了。"
+      },
+      {
+        "de": "Die Firma ist letztes Jahr kaputtgegangen.",
+        "zh": "这家公司去年破产了。"
+      },
+      {
+        "de": "Der Aufzug geht schon wieder kaputt.",
+        "zh": "电梯又坏了。"
+      }
+    ],
+    "collocations": [
+      "etwas geht kaputt",
+      "kaputtgehen lassen",
+      "die Beziehung geht kaputt",
+      "die Maschine geht kaputt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "kaputtgegangen"
+    },
+    "level": "B1",
+    "tags": [
+      "日常",
+      "损坏",
+      "B1"
+    ],
+    "synonyms": [
+      "zerbrechen",
+      "defekt werden",
+      "entzweigehen"
+    ],
+    "antonyms": [
+      "funktionieren",
+      "heil bleiben"
+    ]
+  }
+]

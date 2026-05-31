@@ -1,0 +1,1702 @@
+[
+  {
+    "word": "einsteigen",
+    "lemma": "einsteigen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "上车；进入；参与",
+        "en": "to get in; to board; to join in"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir müssen in den Zug einsteigen.",
+        "zh": "我们必须上火车。"
+      },
+      {
+        "de": "Er ist in das Projekt eingestiegen.",
+        "zh": "他参与了该项目。"
+      }
+    ],
+    "collocations": [
+      "in den Bus einsteigen",
+      "in ein Geschäft einsteigen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "eingestiegen"
+    },
+    "level": "B1",
+    "tags": [
+      "交通",
+      "参与",
+      "B1"
+    ],
+    "synonyms": [
+      "hineingehen",
+      "mitmachen"
+    ],
+    "antonyms": [
+      "aussteigen"
+    ]
+  },
+  {
+    "word": "eins",
+    "lemma": "eins",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "一；一致的",
+        "en": "one; united"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Zahl eins ist die kleinste natürliche Zahl.",
+        "zh": "数字一是最小的自然数。"
+      },
+      {
+        "de": "Wir sind uns in dieser Sache eins.",
+        "zh": "我们在这件事上意见一致。"
+      }
+    ],
+    "collocations": [
+      "eins sein",
+      "eins werden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "数字",
+      "一致",
+      "A1"
+    ],
+    "synonyms": [
+      "einer",
+      "einig"
+    ],
+    "antonyms": [
+      "null",
+      "uneins"
+    ]
+  },
+  {
+    "word": "Eis",
+    "lemma": "Eis",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "冰；冰淇淋",
+        "en": "ice; ice cream"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Winter liegt überall Eis auf der Straße.",
+        "zh": "冬天街上到处是冰。"
+      },
+      {
+        "de": "Kinder essen gerne Eis im Sommer.",
+        "zh": "孩子们夏天喜欢吃冰淇淋。"
+      }
+    ],
+    "collocations": [
+      "Eis essen",
+      "Eis schmelzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "食物",
+      "自然",
+      "A1"
+    ],
+    "synonyms": [
+      "Speiseeis",
+      "Gletscher"
+    ],
+    "antonyms": [
+      "Hitze",
+      "Wärme"
+    ]
+  },
+  {
+    "word": "Elektrotechnik",
+    "lemma": "Elektrotechnik",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "电气工程",
+        "en": "electrical engineering"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er studiert Elektrotechnik an der Universität.",
+        "zh": "他在大学学习电气工程。"
+      },
+      {
+        "de": "Die Elektrotechnik hat viele Anwendungen im Alltag.",
+        "zh": "电气工程在日常生活中有很多应用。"
+      }
+    ],
+    "collocations": [
+      "Elektrotechnik studieren",
+      "Elektrotechnik anwenden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "Elektronik",
+      "Ingenieurwesen"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "Eltern",
+    "lemma": "Eltern",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Eltern",
+    "meaning": [
+      {
+        "zh": "父母",
+        "en": "parents"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Meine Eltern wohnen in Berlin.",
+        "zh": "我的父母住在柏林。"
+      },
+      {
+        "de": "Die Eltern kümmern sich um ihre Kinder.",
+        "zh": "父母照顾他们的孩子。"
+      }
+    ],
+    "collocations": [
+      "Elternhaus",
+      "Elternabend"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "家庭",
+      "社会",
+      "A1"
+    ],
+    "synonyms": [
+      "Mutter und Vater",
+      "Erziehungsberechtigte"
+    ],
+    "antonyms": [
+      "Kinder"
+    ]
+  },
+  {
+    "word": "empfehlen",
+    "lemma": "empfehlen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "推荐；建议",
+        "en": "to recommend; to suggest"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich empfehle dir dieses Buch.",
+        "zh": "我推荐你这本书。"
+      },
+      {
+        "de": "Der Arzt empfiehlt, mehr Wasser zu trinken.",
+        "zh": "医生建议多喝水。"
+      }
+    ],
+    "collocations": [
+      "jemandem etwas empfehlen",
+      "sich empfehlen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "empfohlen"
+    },
+    "level": "B1",
+    "tags": [
+      "交流",
+      "建议",
+      "B1"
+    ],
+    "synonyms": [
+      "vorschlagen",
+      "anraten"
+    ],
+    "antonyms": [
+      "abraten"
+    ]
+  },
+  {
+    "word": "endlich",
+    "lemma": "endlich",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "终于；最终",
+        "en": "finally; at last"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Endlich ist der Sommer da!",
+        "zh": "夏天终于来了！"
+      },
+      {
+        "de": "Er hat endlich seine Prüfung bestanden.",
+        "zh": "他终于通过了考试。"
+      }
+    ],
+    "collocations": [
+      "endlich einmal",
+      "endlich wieder"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "时间",
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "schließlich",
+      "letztendlich"
+    ],
+    "antonyms": [
+      "nie",
+      "unendlich"
+    ]
+  },
+  {
+    "word": "Englisch",
+    "lemma": "Englisch",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "英语",
+        "en": "English language"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie spricht fließend Englisch.",
+        "zh": "她说一口流利的英语。"
+      },
+      {
+        "de": "Englisch ist eine Weltsprache.",
+        "zh": "英语是一门世界语言。"
+      }
+    ],
+    "collocations": [
+      "Englisch lernen",
+      "Englisch sprechen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语言",
+      "教育",
+      "A1"
+    ],
+    "synonyms": [
+      "die englische Sprache"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "Enkelkind",
+    "lemma": "Enkelkind",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Enkelkinder",
+    "meaning": [
+      {
+        "zh": "孙子/孙女，外孙/外孙女",
+        "en": "grandchild"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Enkelkind besucht seine Großeltern jeden Sonntag.",
+        "zh": "孙子每个星期天都去看望祖父母。"
+      },
+      {
+        "de": "Sie hat drei Enkelkinder, zwei Jungen und ein Mädchen.",
+        "zh": "她有三个孙辈，两个男孩和一个女孩。"
+      }
+    ],
+    "collocations": [
+      "das Enkelkind betreuen",
+      "das Enkelkind besuchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "家庭",
+      "B1"
+    ],
+    "synonyms": [
+      "der Enkel",
+      "die Enkelin"
+    ],
+    "antonyms": [
+      "der Großvater",
+      "die Großmutter"
+    ]
+  },
+  {
+    "word": "entlang",
+    "lemma": "entlang",
+    "pos": [
+      "preposition",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "沿着",
+        "en": "along"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir gehen den Fluss entlang.",
+        "zh": "我们沿着河走。"
+      },
+      {
+        "de": "Die Straße entlang stehen viele Bäume.",
+        "zh": "沿着街道有很多树。"
+      }
+    ],
+    "collocations": [
+      "den Weg entlang",
+      "die Küste entlang"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "方位",
+      "A2"
+    ],
+    "synonyms": [
+      "längs"
+    ],
+    "antonyms": [
+      "quer"
+    ]
+  },
+  {
+    "word": "entschuldigen",
+    "lemma": "entschuldigen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "道歉，原谅",
+        "en": "to apologize, to excuse"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Entschuldigen Sie bitte die Verspätung.",
+        "zh": "请原谅我的迟到。"
+      },
+      {
+        "de": "Er entschuldigte sich bei ihr für das Missverständnis.",
+        "zh": "他为误会向她道歉。"
+      }
+    ],
+    "collocations": [
+      "sich für etwas entschuldigen",
+      "jemanden um Entschuldigung bitten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "entschuldigt"
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "社交",
+      "A2"
+    ],
+    "synonyms": [
+      "verzeihen",
+      "um Verzeihung bitten"
+    ],
+    "antonyms": [
+      "beschuldigen",
+      "anklagen"
+    ]
+  },
+  {
+    "word": "Entschuldigung",
+    "lemma": "Entschuldigung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Entschuldigungen",
+    "meaning": [
+      {
+        "zh": "道歉，原谅；请假条",
+        "en": "apology, excuse; note of excuse"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich bitte um Entschuldigung für mein Verhalten.",
+        "zh": "我为我的行为道歉。"
+      },
+      {
+        "de": "Sie schrieb eine Entschuldigung für die Schule.",
+        "zh": "她为学校写了一张请假条。"
+      }
+    ],
+    "collocations": [
+      "eine Entschuldigung annehmen",
+      "um Entschuldigung bitten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "社交",
+      "A1"
+    ],
+    "synonyms": [
+      "die Verzeihung",
+      "die Apologie"
+    ],
+    "antonyms": [
+      "die Beschuldigung",
+      "der Vorwurf"
+    ]
+  },
+  {
+    "word": "Erfolg",
+    "lemma": "Erfolg",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Erfolge",
+    "meaning": [
+      {
+        "zh": "成功，成就",
+        "en": "success, achievement"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sein Erfolg im Beruf ist beeindruckend.",
+        "zh": "他在职业上的成功令人印象深刻。"
+      },
+      {
+        "de": "Ohne Fleiß kein Erfolg.",
+        "zh": "没有努力就没有成功。"
+      }
+    ],
+    "collocations": [
+      "Erfolg haben",
+      "großer Erfolg"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "工作",
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "der Triumph",
+      "der Sieg"
+    ],
+    "antonyms": [
+      "der Misserfolg",
+      "die Niederlage"
+    ]
+  },
+  {
+    "word": "erkilten",
+    "lemma": "erkälten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "使感冒，着凉",
+        "en": "to catch a cold"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe mich erkältet.",
+        "zh": "我感冒了。"
+      },
+      {
+        "de": "Zieh dich warm an, sonst erkältest du dich.",
+        "zh": "穿暖和点，否则你会着凉的。"
+      }
+    ],
+    "collocations": [
+      "sich erkälten",
+      "sich leicht erkälten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "erkältet"
+    },
+    "level": "A2",
+    "tags": [
+      "健康",
+      "A2"
+    ],
+    "synonyms": [
+      "sich verkühlen"
+    ],
+    "antonyms": [
+      "sich erwärmen"
+    ]
+  },
+  {
+    "word": "Erkältung",
+    "lemma": "Erkältung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Erkältungen",
+    "meaning": [
+      {
+        "zh": "感冒，着凉",
+        "en": "cold (illness)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er leidet unter einer starken Erkältung.",
+        "zh": "他患了重感冒。"
+      },
+      {
+        "de": "Bei einer Erkältung sollte man viel trinken.",
+        "zh": "感冒时应该多喝水。"
+      }
+    ],
+    "collocations": [
+      "eine Erkältung haben",
+      "eine Erkältung behandeln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "健康",
+      "A2"
+    ],
+    "synonyms": [
+      "der Schnupfen",
+      "die Verkühlung"
+    ],
+    "antonyms": [
+      "die Gesundheit"
+    ]
+  },
+  {
+    "word": "erklären",
+    "lemma": "erklären",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "解释，说明",
+        "en": "to explain, to declare"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du mir die Aufgabe erklären?",
+        "zh": "你能给我解释一下这个任务吗？"
+      },
+      {
+        "de": "Er erklärte seine Liebe zu ihr.",
+        "zh": "他向她表白了他的爱。"
+      }
+    ],
+    "collocations": [
+      "etwas erklären",
+      "sich bereit erklären"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "erklärt"
+    },
+    "level": "A2",
+    "tags": [
+      "学习",
+      "沟通",
+      "A2"
+    ],
+    "synonyms": [
+      "erläutern",
+      "darlegen"
+    ],
+    "antonyms": [
+      "verwirren",
+      "verschweigen"
+    ]
+  },
+  {
+    "word": "erleben",
+    "lemma": "erleben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "经历，体验",
+        "en": "to experience"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe gestern ein tolles Konzert erlebt.",
+        "zh": "我昨天经历了一场精彩的音乐会。"
+      },
+      {
+        "de": "Er möchte viele Abenteuer erleben.",
+        "zh": "他想经历很多冒险。"
+      }
+    ],
+    "collocations": [
+      "etwas erleben",
+      "ein Erlebnis erleben"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "erlebt"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "erfahren",
+      "durchmachen"
+    ],
+    "antonyms": [
+      "verpassen"
+    ]
+  },
+  {
+    "word": "erzählen",
+    "lemma": "erzählen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "讲述，告诉",
+        "en": "to tell, to narrate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du mir eine Geschichte erzählen?",
+        "zh": "你能给我讲个故事吗？"
+      },
+      {
+        "de": "Er erzählt von seiner Reise nach Berlin.",
+        "zh": "他讲述了他的柏林之旅。"
+      }
+    ],
+    "collocations": [
+      "eine Geschichte erzählen",
+      "von etwas erzählen"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "erzählt"
+    },
+    "level": "A2",
+    "tags": [
+      "交流",
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "berichten",
+      "schildern"
+    ],
+    "antonyms": [
+      "verschweigen"
+    ]
+  },
+  {
+    "word": "Pron",
+    "lemma": "Pron",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Pron",
+    "meaning": [
+      {
+        "zh": "代词（缩写）",
+        "en": "pronoun (abbreviation)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In der Grammatik steht 'Pron' für Pronomen.",
+        "zh": "在语法中，'Pron' 代表代词。"
+      },
+      {
+        "de": "Das Pron 'er' ist ein Personalpronomen.",
+        "zh": "代词 'er' 是一个人称代词。"
+      }
+    ],
+    "collocations": [
+      "das Pron",
+      "Pron verwenden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语言",
+      "语法",
+      "B1"
+    ],
+    "synonyms": [
+      "Pronomen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "essen",
+    "lemma": "essen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "吃",
+        "en": "to eat"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir essen heute Abend Pizza.",
+        "zh": "我们今晚吃披萨。"
+      },
+      {
+        "de": "Isst du gerne Obst?",
+        "zh": "你喜欢吃水果吗？"
+      }
+    ],
+    "collocations": [
+      "zu Mittag essen",
+      "etwas essen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gegessen"
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "饮食",
+      "A1"
+    ],
+    "synonyms": [
+      "verzehren",
+      "speisen"
+    ],
+    "antonyms": [
+      "trinken",
+      "fasten"
+    ]
+  },
+  {
+    "word": "Etage",
+    "lemma": "Etage",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Etagen",
+    "meaning": [
+      {
+        "zh": "楼层，层",
+        "en": "floor, storey"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir wohnen im dritten Etage.",
+        "zh": "我们住在三楼。"
+      },
+      {
+        "de": "Das Büro ist in der ersten Etage.",
+        "zh": "办公室在一楼。"
+      }
+    ],
+    "collocations": [
+      "im ersten Etage",
+      "die obere Etage"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "建筑",
+      "A2"
+    ],
+    "synonyms": [
+      "Stock",
+      "Stockwerk"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "etwa",
+    "lemma": "etwa",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "大约，例如",
+        "en": "approximately, for example"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Zug kommt etwa um 10 Uhr an.",
+        "zh": "火车大约在10点到达。"
+      },
+      {
+        "de": "Etwa 20 Leute waren auf der Party.",
+        "zh": "大约有20个人在派对上。"
+      }
+    ],
+    "collocations": [
+      "etwa 100 Euro",
+      "etwa so"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "数量",
+      "时间",
+      "A2"
+    ],
+    "synonyms": [
+      "ungefähr",
+      "circa"
+    ],
+    "antonyms": [
+      "genau"
+    ]
+  },
+  {
+    "word": "etwas",
+    "lemma": "etwas",
+    "pos": [
+      "pronoun",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "某事，某物；稍微",
+        "en": "something; a little"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich möchte etwas essen.",
+        "zh": "我想吃点东西。"
+      },
+      {
+        "de": "Kannst du etwas lauter sprechen?",
+        "zh": "你能稍微大声点说话吗？"
+      }
+    ],
+    "collocations": [
+      "etwas tun",
+      "etwas haben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "日常",
+      "A1"
+    ],
+    "synonyms": [
+      "ein bisschen",
+      "ein wenig"
+    ],
+    "antonyms": [
+      "nichts"
+    ]
+  },
+  {
+    "word": "Euro",
+    "lemma": "Euro",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Euro",
+    "meaning": [
+      {
+        "zh": "欧元（货币单位）",
+        "en": "Euro (currency)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Buch kostet 20 Euro.",
+        "zh": "这本书20欧元。"
+      },
+      {
+        "de": "Hast du einen Euro für mich?",
+        "zh": "你能给我一欧元吗？"
+      }
+    ],
+    "collocations": [
+      "10 Euro bezahlen",
+      "in Euro rechnen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "经济",
+      "货币",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "die",
+    "lemma": "der",
+    "pos": [
+      "article"
+    ],
+    "gender": "feminine",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "这，那（阴性定冠词）",
+        "en": "the (feminine definite article)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Frau geht nach Hause.",
+        "zh": "那个女人回家。"
+      },
+      {
+        "de": "Die Blume ist schön.",
+        "zh": "这朵花很漂亮。"
+      }
+    ],
+    "collocations": [
+      "die Frau",
+      "die Blume"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语法",
+      "冠词",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Fachhochschule",
+    "lemma": "Fachhochschule",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Fachhochschulen",
+    "meaning": [
+      {
+        "zh": "应用技术大学",
+        "en": "university of applied sciences"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er studiert an einer Fachhochschule.",
+        "zh": "他在一所应用技术大学学习。"
+      },
+      {
+        "de": "Die Fachhochschule bietet praxisnahe Studiengänge an.",
+        "zh": "这所应用技术大学提供实践导向的课程。"
+      }
+    ],
+    "collocations": [
+      "an einer Fachhochschule studieren",
+      "Fachhochschule besuchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "大学",
+      "B1"
+    ],
+    "synonyms": [
+      "Hochschule",
+      "Universität"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "fahren",
+    "lemma": "fahren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "驾驶，乘车",
+        "en": "to drive, to ride"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich fahre mit dem Bus zur Arbeit.",
+        "zh": "我乘公交车去上班。"
+      },
+      {
+        "de": "Sie fährt ein neues Auto.",
+        "zh": "她开一辆新车。"
+      }
+    ],
+    "collocations": [
+      "Auto fahren",
+      "mit dem Zug fahren"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "sein",
+      "partizip2": "gefahren"
+    },
+    "level": "A1",
+    "tags": [
+      "交通",
+      "运动",
+      "A1"
+    ],
+    "synonyms": [
+      "steuern",
+      "reisen"
+    ],
+    "antonyms": [
+      "gehen",
+      "stehen"
+    ]
+  },
+  {
+    "word": "Fahrrad",
+    "lemma": "Fahrrad",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Fahrräder",
+    "meaning": [
+      {
+        "zh": "自行车",
+        "en": "bicycle"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er fährt jeden Tag mit dem Fahrrad zur Schule.",
+        "zh": "他每天骑自行车上学。"
+      },
+      {
+        "de": "Das Fahrrad ist kaputt.",
+        "zh": "自行车坏了。"
+      }
+    ],
+    "collocations": [
+      "Fahrrad fahren",
+      "Fahrrad reparieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "交通",
+      "运动",
+      "A1"
+    ],
+    "synonyms": [
+      "Rad",
+      "Velo"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Fahrstuhl",
+    "lemma": "Fahrstuhl",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Fahrstühle",
+    "meaning": [
+      {
+        "zh": "电梯",
+        "en": "elevator, lift"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Fahrstuhl ist außer Betrieb.",
+        "zh": "电梯坏了。"
+      },
+      {
+        "de": "Wir nehmen den Fahrstuhl in den dritten Stock.",
+        "zh": "我们乘电梯到三楼。"
+      }
+    ],
+    "collocations": [
+      "mit dem Fahrstuhl fahren",
+      "Fahrstuhl benutzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "建筑",
+      "技术",
+      "A2"
+    ],
+    "synonyms": [
+      "Aufzug",
+      "Lift"
+    ],
+    "antonyms": [
+      "Treppe"
+    ]
+  },
+  {
+    "word": "Fahrt",
+    "lemma": "Fahrt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Fahrten",
+    "meaning": [
+      {
+        "zh": "行驶，旅程",
+        "en": "trip, journey, drive"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Fahrt nach Berlin dauert drei Stunden.",
+        "zh": "去柏林的旅程需要三个小时。"
+      },
+      {
+        "de": "Wir machen eine Fahrt mit dem Schiff.",
+        "zh": "我们乘船旅行。"
+      }
+    ],
+    "collocations": [
+      "eine Fahrt machen",
+      "auf der Fahrt sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "交通",
+      "旅行",
+      "A2"
+    ],
+    "synonyms": [
+      "Reise",
+      "Ausflug"
+    ],
+    "antonyms": [
+      "Stopp",
+      "Pause"
+    ]
+  },
+  {
+    "word": "Familie",
+    "lemma": "Familie",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Familien",
+    "meaning": [
+      {
+        "zh": "家庭",
+        "en": "family"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Meine Familie wohnt in München.",
+        "zh": "我的家人住在慕尼黑。"
+      },
+      {
+        "de": "Sie hat eine große Familie.",
+        "zh": "她有一个大家庭。"
+      }
+    ],
+    "collocations": [
+      "Familie haben",
+      "in der Familie"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "社会",
+      "生活",
+      "A1"
+    ],
+    "synonyms": [
+      "Verwandtschaft",
+      "Haushalt"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Familienname",
+    "lemma": "Familienname",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Familiennamen",
+    "meaning": [
+      {
+        "zh": "姓氏",
+        "en": "surname, family name"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mein Familienname ist Müller.",
+        "zh": "我的姓是穆勒。"
+      },
+      {
+        "de": "Bitte geben Sie Ihren Familiennamen an.",
+        "zh": "请提供您的姓氏。"
+      }
+    ],
+    "collocations": [
+      "Familienname angeben",
+      "Familienname ändern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "社会",
+      "身份",
+      "A1"
+    ],
+    "synonyms": [
+      "Nachname",
+      "Zuname"
+    ],
+    "antonyms": [
+      "Vorname"
+    ]
+  },
+  {
+    "word": "die",
+    "lemma": "der",
+    "pos": [
+      "article"
+    ],
+    "gender": "feminine",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "这，那（阴性单数定冠词）",
+        "en": "the (feminine singular definite article)"
+      },
+      {
+        "zh": "这，那（复数定冠词）",
+        "en": "the (plural definite article)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Frau liest ein Buch.",
+        "zh": "那个女人在读一本书。"
+      },
+      {
+        "de": "Die Kinder spielen im Garten.",
+        "zh": "孩子们在花园里玩。"
+      }
+    ],
+    "collocations": [
+      "die ganze Zeit",
+      "die meisten Leute"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语法",
+      "冠词",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "die",
+    "lemma": "der",
+    "pos": [
+      "article"
+    ],
+    "gender": "feminine",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "这，那（阴性定冠词）",
+        "en": "the (feminine definite article)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Frau geht nach Hause.",
+        "zh": "那个女人回家。"
+      },
+      {
+        "de": "Die Blume ist schön.",
+        "zh": "这朵花很漂亮。"
+      }
+    ],
+    "collocations": [
+      "die Frau",
+      "die Blume"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语法",
+      "冠词",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Fanta",
+    "lemma": "Fanta",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "芬达（一种橙味汽水品牌）",
+        "en": "Fanta (a brand of orange-flavored soft drink)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich trinke gerne eine kalte Fanta im Sommer.",
+        "zh": "夏天我喜欢喝一杯冰凉的芬达。"
+      },
+      {
+        "de": "Kannst du mir bitte eine Fanta aus dem Kühlschrank holen?",
+        "zh": "你能帮我去冰箱拿一瓶芬达吗？"
+      }
+    ],
+    "collocations": [
+      "eine Fanta trinken",
+      "eine Dose Fanta"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "饮料",
+      "品牌",
+      "生活"
+    ],
+    "synonyms": [
+      "Limonade",
+      "Orangenlimonade"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Farbe",
+    "lemma": "Farbe",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Farben",
+    "meaning": [
+      {
+        "zh": "颜色；颜料；油漆",
+        "en": "color; paint; dye"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Welche Farbe hat dein neues Auto?",
+        "zh": "你的新车是什么颜色？"
+      },
+      {
+        "de": "Ich habe die Wand in einer hellen Farbe gestrichen.",
+        "zh": "我把墙刷成了浅色。"
+      }
+    ],
+    "collocations": [
+      "eine Farbe wählen",
+      "in Farbe",
+      "die Farbe wechseln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "视觉",
+      "日常",
+      "艺术"
+    ],
+    "synonyms": [
+      "Farbton",
+      "Tönung"
+    ],
+    "antonyms": []
+  }
+]

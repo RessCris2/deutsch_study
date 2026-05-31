@@ -1,0 +1,1531 @@
+[
+  {
+    "word": "Abend",
+    "lemma": "Abend",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Abende",
+    "meaning": [
+      {
+        "zh": "晚上",
+        "en": "evening"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Guten Abend!",
+        "zh": "晚上好！"
+      },
+      {
+        "de": "Am Abend gehe ich ins Kino.",
+        "zh": "晚上我去看电影。"
+      }
+    ],
+    "collocations": [
+      "am Abend",
+      "einen schönen Abend haben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "时间",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "Morgen"
+    ]
+  },
+  {
+    "word": "aber",
+    "lemma": "aber",
+    "pos": [
+      "conjunction"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "但是",
+        "en": "but"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich möchte kommen, aber ich habe keine Zeit.",
+        "zh": "我想来，但是我没有时间。"
+      },
+      {
+        "de": "Das ist teuer, aber gut.",
+        "zh": "这很贵，但是很好。"
+      }
+    ],
+    "collocations": [
+      "nicht nur ..., sondern auch ...",
+      "aber trotzdem"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "连接词",
+      "A1"
+    ],
+    "synonyms": [
+      "jedoch",
+      "doch"
+    ],
+    "antonyms": [
+      "und"
+    ]
+  },
+  {
+    "word": "abfahren",
+    "lemma": "abfahren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "出发，启程",
+        "en": "depart"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Zug fährt um 8 Uhr ab.",
+        "zh": "火车8点出发。"
+      },
+      {
+        "de": "Wir fahren morgen früh ab.",
+        "zh": "我们明天早上出发。"
+      }
+    ],
+    "collocations": [
+      "vom Bahnhof abfahren",
+      "pünktlich abfahren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "abgefahren"
+    },
+    "level": "A2",
+    "tags": [
+      "交通",
+      "A2"
+    ],
+    "synonyms": [
+      "losfahren",
+      "starten"
+    ],
+    "antonyms": [
+      "ankommen"
+    ]
+  },
+  {
+    "word": "abholen",
+    "lemma": "abholen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "接（人），取（物）",
+        "en": "pick up, collect"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich hole dich vom Flughafen ab.",
+        "zh": "我去机场接你。"
+      },
+      {
+        "de": "Er holt das Paket von der Post ab.",
+        "zh": "他去邮局取包裹。"
+      }
+    ],
+    "collocations": [
+      "vom Bahnhof abholen",
+      "das Paket abholen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "abgeholt"
+    },
+    "level": "A2",
+    "tags": [
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "abnehmen",
+      "einsammeln"
+    ],
+    "antonyms": [
+      "bringen",
+      "liefern"
+    ]
+  },
+  {
+    "word": "ablehnen",
+    "lemma": "ablehnen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "拒绝",
+        "en": "reject, decline"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er lehnt das Angebot ab.",
+        "zh": "他拒绝了那个提议。"
+      },
+      {
+        "de": "Sie lehnt die Einladung höflich ab.",
+        "zh": "她礼貌地拒绝了邀请。"
+      }
+    ],
+    "collocations": [
+      "ein Angebot ablehnen",
+      "eine Bitte ablehnen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "abgelehnt"
+    },
+    "level": "B1",
+    "tags": [
+      "社交",
+      "B1"
+    ],
+    "synonyms": [
+      "verweigern",
+      "zurückweisen"
+    ],
+    "antonyms": [
+      "annehmen",
+      "akzeptieren"
+    ]
+  },
+  {
+    "word": "Abschlussarbeit",
+    "lemma": "Abschlussarbeit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Abschlussarbeiten",
+    "meaning": [
+      {
+        "zh": "毕业论文，结业论文",
+        "en": "thesis, final paper"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie schreibt ihre Abschlussarbeit über Klimawandel.",
+        "zh": "她正在写关于气候变化的毕业论文。"
+      },
+      {
+        "de": "Die Abschlussarbeit muss bis Ende des Semesters abgegeben werden.",
+        "zh": "毕业论文必须在学期末之前提交。"
+      }
+    ],
+    "collocations": [
+      "eine Abschlussarbeit schreiben",
+      "die Abschlussarbeit abgeben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "教育",
+      "B2"
+    ],
+    "synonyms": [
+      "Bachelorarbeit",
+      "Masterarbeit"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "absolvieren",
+    "lemma": "absolvieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "完成（学业、培训等）",
+        "en": "complete, graduate from"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat sein Studium erfolgreich absolviert.",
+        "zh": "他成功完成了学业。"
+      },
+      {
+        "de": "Sie absolviert ein Praktikum bei einer Firma.",
+        "zh": "她在一家公司完成实习。"
+      }
+    ],
+    "collocations": [
+      "ein Studium absolvieren",
+      "ein Praktikum absolvieren"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "absolviert"
+    },
+    "level": "B2",
+    "tags": [
+      "教育",
+      "B2"
+    ],
+    "synonyms": [
+      "abschließen",
+      "beenden"
+    ],
+    "antonyms": [
+      "abbrechen"
+    ]
+  },
+  {
+    "word": "Abteilung",
+    "lemma": "Abteilung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Abteilungen",
+    "meaning": [
+      {
+        "zh": "部门，科室",
+        "en": "department, division"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er arbeitet in der Marketingabteilung.",
+        "zh": "他在市场部工作。"
+      },
+      {
+        "de": "Die Abteilung für Personalwesen ist im dritten Stock.",
+        "zh": "人事部在三楼。"
+      }
+    ],
+    "collocations": [
+      "in einer Abteilung arbeiten",
+      "die Abteilung leiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "Bereich",
+      "Sparte"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "ablehnen",
+    "lemma": "ablehnen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "拒绝",
+        "en": "to reject, to decline"
+      },
+      {
+        "zh": "否决",
+        "en": "to turn down"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er lehnte das Angebot höflich ab.",
+        "zh": "他礼貌地拒绝了那个提议。"
+      },
+      {
+        "de": "Der Antrag wurde vom Ausschuss abgelehnt.",
+        "zh": "该申请被委员会否决了。"
+      }
+    ],
+    "collocations": [
+      "ein Angebot ablehnen",
+      "einen Antrag ablehnen",
+      "eine Einladung ablehnen",
+      "die Verantwortung ablehnen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "abgelehnt"
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "沟通",
+      "B1"
+    ],
+    "synonyms": [
+      "verweigern",
+      "zurückweisen",
+      "abschlagen"
+    ],
+    "antonyms": [
+      "annehmen",
+      "akzeptieren",
+      "zustimmen"
+    ]
+  },
+  {
+    "word": "ablehnen",
+    "lemma": "ablehnen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "拒绝",
+        "en": "to reject, to decline"
+      },
+      {
+        "zh": "否决",
+        "en": "to turn down"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er lehnte das Angebot höflich ab.",
+        "zh": "他礼貌地拒绝了那个提议。"
+      },
+      {
+        "de": "Der Antrag wurde vom Ausschuss abgelehnt.",
+        "zh": "该申请被委员会否决了。"
+      }
+    ],
+    "collocations": [
+      "ein Angebot ablehnen",
+      "einen Antrag ablehnen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "abgelehnt"
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "verweigern",
+      "zurückweisen"
+    ],
+    "antonyms": [
+      "annehmen",
+      "akzeptieren"
+    ]
+  },
+  {
+    "word": "acht",
+    "lemma": "acht",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "八",
+        "en": "eight"
+      },
+      {
+        "zh": "注意的，留心的",
+        "en": "attentive, careful"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Es ist acht Uhr.",
+        "zh": "现在是八点。"
+      },
+      {
+        "de": "Sei bitte acht auf den Verkehr.",
+        "zh": "请注意交通。"
+      }
+    ],
+    "collocations": [
+      "acht geben",
+      "acht nehmen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "数字",
+      "A1"
+    ],
+    "synonyms": [
+      "aufmerksam"
+    ],
+    "antonyms": [
+      "unachtsam"
+    ]
+  },
+  {
+    "word": "Adresse",
+    "lemma": "Adresse",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Adressen",
+    "meaning": [
+      {
+        "zh": "地址",
+        "en": "address"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du mir deine Adresse geben?",
+        "zh": "你能给我你的地址吗？"
+      },
+      {
+        "de": "Die Adresse ist falsch.",
+        "zh": "地址是错的。"
+      }
+    ],
+    "collocations": [
+      "die Adresse ändern",
+      "die Adresse eingeben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "A1"
+    ],
+    "synonyms": [
+      "Anschrift"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "aktiv",
+    "lemma": "aktiv",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "积极的，活跃的",
+        "en": "active"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist ein aktiver Sportler.",
+        "zh": "他是一名活跃的运动员。"
+      },
+      {
+        "de": "Sie beteiligt sich aktiv am Unterricht.",
+        "zh": "她积极参与课堂。"
+      }
+    ],
+    "collocations": [
+      "aktiv sein",
+      "aktiv teilnehmen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "engagiert",
+      "tatkräftig"
+    ],
+    "antonyms": [
+      "passiv",
+      "inaktiv"
+    ]
+  },
+  {
+    "word": "Alexanderplatz",
+    "lemma": "Alexanderplatz",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "亚历山大广场（柏林）",
+        "en": "Alexanderplatz (Berlin)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir treffen uns am Alexanderplatz.",
+        "zh": "我们在亚历山大广场见面。"
+      },
+      {
+        "de": "Der Alexanderplatz ist ein berühmter Platz in Berlin.",
+        "zh": "亚历山大广场是柏林一个著名的广场。"
+      }
+    ],
+    "collocations": [
+      "am Alexanderplatz",
+      "zum Alexanderplatz fahren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "地理",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Alkohol",
+    "lemma": "Alkohol",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Alkohole",
+    "meaning": [
+      {
+        "zh": "酒精",
+        "en": "alcohol"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er trinkt keinen Alkohol.",
+        "zh": "他不喝酒。"
+      },
+      {
+        "de": "Alkohol ist in vielen Ländern ab 18 Jahren erlaubt.",
+        "zh": "在许多国家，18岁以上才允许饮酒。"
+      }
+    ],
+    "collocations": [
+      "Alkohol trinken",
+      "auf Alkohol verzichten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Spirituosen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "alle",
+    "lemma": "alle",
+    "pos": [
+      "pronoun",
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "所有的，大家",
+        "en": "all, everyone"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Alle sind gekommen.",
+        "zh": "所有人都来了。"
+      },
+      {
+        "de": "Ich habe alle Bücher gelesen.",
+        "zh": "我读了所有的书。"
+      }
+    ],
+    "collocations": [
+      "alle zusammen",
+      "alle Tage"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语法",
+      "A1"
+    ],
+    "synonyms": [
+      "sämtliche",
+      "jeder"
+    ],
+    "antonyms": [
+      "keiner",
+      "niemand"
+    ]
+  },
+  {
+    "word": "alleinstehend",
+    "lemma": "alleinstehend",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "独身的，单身的",
+        "en": "single, living alone"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie ist alleinstehend und wohnt in einer kleinen Wohnung.",
+        "zh": "她单身，住在一间小公寓里。"
+      },
+      {
+        "de": "Alleinstehende Menschen haben oft mehr Freizeit.",
+        "zh": "独身的人通常有更多空闲时间。"
+      }
+    ],
+    "collocations": [
+      "alleinstehend sein",
+      "alleinstehende Person"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "ledig",
+      "unverheiratet"
+    ],
+    "antonyms": [
+      "verheiratet",
+      "in einer Beziehung"
+    ]
+  },
+  {
+    "word": "alles",
+    "lemma": "alles",
+    "pos": [
+      "pronoun"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "一切，所有东西",
+        "en": "everything"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Alles ist in Ordnung.",
+        "zh": "一切正常。"
+      },
+      {
+        "de": "Ich habe alles vergessen.",
+        "zh": "我忘了所有事情。"
+      }
+    ],
+    "collocations": [
+      "alles Gute",
+      "alles in allem"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语法",
+      "A1"
+    ],
+    "synonyms": [
+      "jedes",
+      "sämtliches"
+    ],
+    "antonyms": [
+      "nichts"
+    ]
+  },
+  {
+    "word": "Allgemeinmedizin",
+    "lemma": "Allgemeinmedizin",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "全科医学",
+        "en": "general medicine"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie praktiziert als Ärztin für Allgemeinmedizin.",
+        "zh": "她是一名全科医生。"
+      },
+      {
+        "de": "Die Allgemeinmedizin umfasst die Grundversorgung von Patienten.",
+        "zh": "全科医学涵盖患者的基础医疗。"
+      }
+    ],
+    "collocations": [
+      "Fachärztin für Allgemeinmedizin",
+      "Praxis für Allgemeinmedizin"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "医学",
+      "B2"
+    ],
+    "synonyms": [
+      "Hausarztmedizin"
+    ],
+    "antonyms": [
+      "Fachmedizin"
+    ]
+  },
+  {
+    "word": "als",
+    "lemma": "als",
+    "pos": [
+      "conjunction"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "作为；当……时；比",
+        "en": "as; when; than"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er arbeitet als Lehrer.",
+        "zh": "他作为一名教师工作。"
+      },
+      {
+        "de": "Als ich jung war, reiste ich viel.",
+        "zh": "当我年轻时，我旅行很多。"
+      }
+    ],
+    "collocations": [
+      "als ob",
+      "mehr als"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语法",
+      "A1"
+    ],
+    "synonyms": [
+      "wie",
+      "wenn"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "alt",
+    "lemma": "alt",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "老的；旧的",
+        "en": "old; aged"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mein Großvater ist sehr alt.",
+        "zh": "我的祖父很老了。"
+      },
+      {
+        "de": "Das ist ein altes Haus.",
+        "zh": "这是一栋老房子。"
+      }
+    ],
+    "collocations": [
+      "alt werden",
+      "alt aussehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "年龄",
+      "A1"
+    ],
+    "synonyms": [
+      "betagt",
+      "uralt"
+    ],
+    "antonyms": [
+      "jung",
+      "neu"
+    ]
+  },
+  {
+    "word": "Ampel",
+    "lemma": "Ampel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Ampeln",
+    "meaning": [
+      {
+        "zh": "交通信号灯",
+        "en": "traffic light"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Ampel ist rot, wir müssen warten.",
+        "zh": "红灯亮了，我们必须等待。"
+      },
+      {
+        "de": "An der Kreuzung steht eine Ampel.",
+        "zh": "十字路口有一个交通信号灯。"
+      }
+    ],
+    "collocations": [
+      "an der Ampel stehen",
+      "rote Ampel"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "交通",
+      "A1"
+    ],
+    "synonyms": [
+      "Verkehrsampel",
+      "Lichtzeichenanlage"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "ander",
+    "lemma": "ander",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "其他的；不同的",
+        "en": "other; different"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich möchte ein anderes Buch.",
+        "zh": "我想要另一本书。"
+      },
+      {
+        "de": "Das ist eine andere Sache.",
+        "zh": "这是另一回事。"
+      }
+    ],
+    "collocations": [
+      "ein anderer Mensch",
+      "andere Länder"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "描述",
+      "A1"
+    ],
+    "synonyms": [
+      "verschieden",
+      "weiter"
+    ],
+    "antonyms": [
+      "gleich",
+      "derselbe"
+    ]
+  },
+  {
+    "word": "anfangen",
+    "lemma": "anfangen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "开始",
+        "en": "to begin; to start"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Unterricht fängt um acht Uhr an.",
+        "zh": "课程八点开始。"
+      },
+      {
+        "de": "Ich fange mit der Arbeit an.",
+        "zh": "我开始工作。"
+      }
+    ],
+    "collocations": [
+      "mit etwas anfangen",
+      "neu anfangen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "angefangen"
+    },
+    "level": "A1",
+    "tags": [
+      "动作",
+      "A1"
+    ],
+    "synonyms": [
+      "beginnen",
+      "starten"
+    ],
+    "antonyms": [
+      "aufhören",
+      "beenden"
+    ]
+  },
+  {
+    "word": "Angst",
+    "lemma": "Angst",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Ängste",
+    "meaning": [
+      {
+        "zh": "恐惧；害怕",
+        "en": "fear; anxiety"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat Angst vor Spinnen.",
+        "zh": "她害怕蜘蛛。"
+      },
+      {
+        "de": "Die Angst vor der Prüfung ist groß.",
+        "zh": "对考试的恐惧很大。"
+      }
+    ],
+    "collocations": [
+      "Angst haben",
+      "Angst machen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "Furcht",
+      "Beklemmung"
+    ],
+    "antonyms": [
+      "Mut",
+      "Zuversicht"
+    ]
+  },
+  {
+    "word": "ankommen",
+    "lemma": "ankommen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "到达；取决于",
+        "en": "to arrive; to depend on"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Zug kommt um 10 Uhr an.",
+        "zh": "火车十点到达。"
+      },
+      {
+        "de": "Es kommt auf dich an.",
+        "zh": "这取决于你。"
+      }
+    ],
+    "collocations": [
+      "am Ziel ankommen",
+      "auf etwas ankommen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "angekommen"
+    },
+    "level": "A1",
+    "tags": [
+      "交通",
+      "A1"
+    ],
+    "synonyms": [
+      "eintreffen",
+      "erreichen"
+    ],
+    "antonyms": [
+      "abfahren",
+      "weggehen"
+    ]
+  },
+  {
+    "word": "annehmen",
+    "lemma": "annehmen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "接受，假设，采纳",
+        "en": "to accept, to assume, to adopt"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich nehme deine Einladung gerne an.",
+        "zh": "我很乐意接受你的邀请。"
+      },
+      {
+        "de": "Wir nehmen an, dass er morgen kommt.",
+        "zh": "我们假设他明天来。"
+      }
+    ],
+    "collocations": [
+      "einen Vorschlag annehmen",
+      "eine Einladung annehmen",
+      "ein Gesetz annehmen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "angenommen"
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "akzeptieren",
+      "vermuten"
+    ],
+    "antonyms": [
+      "ablehnen",
+      "verweigern"
+    ]
+  },
+  {
+    "word": "anrufen",
+    "lemma": "anrufen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "打电话",
+        "en": "to call (by phone)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich rufe dich morgen an.",
+        "zh": "我明天给你打电话。"
+      },
+      {
+        "de": "Er hat den Arzt angerufen.",
+        "zh": "他给医生打了电话。"
+      }
+    ],
+    "collocations": [
+      "jemanden anrufen",
+      "beim Kundenservice anrufen",
+      "zu Hause anrufen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "angerufen"
+    },
+    "level": "A2",
+    "tags": [
+      "日常",
+      "通信",
+      "A2"
+    ],
+    "synonyms": [
+      "telefonieren",
+      "durchklingeln"
+    ],
+    "antonyms": [
+      "auflegen",
+      "ignorieren"
+    ]
+  },
+  {
+    "word": "ansehen",
+    "lemma": "ansehen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "看，观看，视为",
+        "en": "to look at, to watch, to consider"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sieh dir das Bild an!",
+        "zh": "看看这张图片！"
+      },
+      {
+        "de": "Ich sehe ihn als meinen Freund an.",
+        "zh": "我把他视为我的朋友。"
+      }
+    ],
+    "collocations": [
+      "sich etwas ansehen",
+      "jemanden als etwas ansehen",
+      "einen Film ansehen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "angesehen"
+    },
+    "level": "B1",
+    "tags": [
+      "日常",
+      "视觉",
+      "B1"
+    ],
+    "synonyms": [
+      "betrachten",
+      "beobachten"
+    ],
+    "antonyms": [
+      "übersehen",
+      "ignorieren"
+    ]
+  },
+  {
+    "word": "antworten",
+    "lemma": "antworten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "回答，答复",
+        "en": "to answer, to reply"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er antwortet auf meine Frage.",
+        "zh": "他回答了我的问题。"
+      },
+      {
+        "de": "Bitte antworten Sie mir bis morgen.",
+        "zh": "请明天之前答复我。"
+      }
+    ],
+    "collocations": [
+      "auf eine Frage antworten",
+      "jemandem antworten",
+      "mit einem Brief antworten"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geantwortet"
+    },
+    "level": "A2",
+    "tags": [
+      "日常",
+      "交流",
+      "A2"
+    ],
+    "synonyms": [
+      "reagieren",
+      "erwidern"
+    ],
+    "antonyms": [
+      "schweigen",
+      "fragen"
+    ]
+  },
+  {
+    "word": "Anzeige",
+    "lemma": "Anzeige",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Anzeigen",
+    "meaning": [
+      {
+        "zh": "广告，显示，举报",
+        "en": "advertisement, display, report"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe eine Anzeige in der Zeitung gesehen.",
+        "zh": "我在报纸上看到了一则广告。"
+      },
+      {
+        "de": "Er hat Anzeige gegen den Dieb erstattet.",
+        "zh": "他举报了那个小偷。"
+      }
+    ],
+    "collocations": [
+      "eine Anzeige schalten",
+      "Anzeige erstatten",
+      "eine digitale Anzeige"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "媒体",
+      "法律",
+      "B1"
+    ],
+    "synonyms": [
+      "Werbung",
+      "Meldung"
+    ],
+    "antonyms": [
+      "Versteck",
+      "Geheimnis"
+    ]
+  },
+  {
+    "word": "Klick",
+    "lemma": "Klick",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Klicks",
+    "meaning": [
+      {
+        "zh": "点击（鼠标）",
+        "en": "click (mouse)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mit einem Klick öffnet sich das Fenster.",
+        "zh": "点击一下，窗口就打开了。"
+      },
+      {
+        "de": "Die Webseite hat viele Klicks bekommen.",
+        "zh": "这个网站获得了许多点击。"
+      }
+    ],
+    "collocations": [
+      "ein Klick mit der Maus",
+      "per Klick bestellen",
+      "Klicks generieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "科技",
+      "互联网",
+      "A2"
+    ],
+    "synonyms": [
+      "Mausklick",
+      "Klickgeräusch"
+    ],
+    "antonyms": [
+      "Doppelklick",
+      "Scrollen"
+    ]
+  }
+]

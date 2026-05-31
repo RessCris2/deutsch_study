@@ -1,0 +1,1672 @@
+[
+  {
+    "word": "Familienstand",
+    "lemma": "Familienstand",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "婚姻状况",
+        "en": "marital status"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bitte geben Sie Ihren Familienstand an.",
+        "zh": "请说明您的婚姻状况。"
+      },
+      {
+        "de": "Der Familienstand ist in vielen Formularen wichtig.",
+        "zh": "婚姻状况在许多表格中很重要。"
+      }
+    ],
+    "collocations": [
+      "den Familienstand angeben",
+      "lediger Familienstand"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "faszinieren",
+    "lemma": "faszinieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "使着迷，吸引",
+        "en": "to fascinate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Geschichte hat mich sehr fasziniert.",
+        "zh": "这个故事让我非常着迷。"
+      },
+      {
+        "de": "Wissenschaftliche Entdeckungen faszinieren viele Menschen.",
+        "zh": "科学发现吸引了许多人。"
+      }
+    ],
+    "collocations": [
+      "jemanden faszinieren",
+      "von etwas fasziniert sein"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "fasziniert"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "begeistern",
+      "fesseln"
+    ],
+    "antonyms": [
+      "langweilen"
+    ]
+  },
+  {
+    "word": "Fazit",
+    "lemma": "Fazit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Fazite",
+    "meaning": [
+      {
+        "zh": "结论，总结",
+        "en": "conclusion, summary"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Fazit der Diskussion war positiv.",
+        "zh": "讨论的结论是积极的。"
+      },
+      {
+        "de": "Ziehen Sie ein Fazit aus Ihren Erfahrungen.",
+        "zh": "从您的经验中得出一个结论。"
+      }
+    ],
+    "collocations": [
+      "ein Fazit ziehen",
+      "das Fazit lautet"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Schlussfolgerung",
+      "Resümee"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Fernbedienung",
+    "lemma": "Fernbedienung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Fernbedienungen",
+    "meaning": [
+      {
+        "zh": "遥控器",
+        "en": "remote control"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wo ist die Fernbedienung für den Fernseher?",
+        "zh": "电视遥控器在哪里？"
+      },
+      {
+        "de": "Mit der Fernbedienung kann man den Sender wechseln.",
+        "zh": "用遥控器可以切换频道。"
+      }
+    ],
+    "collocations": [
+      "die Fernbedienung benutzen",
+      "die Fernbedienung suchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "科技",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "festhalten",
+    "lemma": "festhalten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "抓住，固定；记录",
+        "en": "to hold on to; to record"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hielt sich am Geländer fest.",
+        "zh": "他抓住了栏杆。"
+      },
+      {
+        "de": "Wir haben die wichtigsten Punkte im Protokoll festgehalten.",
+        "zh": "我们在记录中记下了最重要的点。"
+      }
+    ],
+    "collocations": [
+      "sich an etwas festhalten",
+      "etwas schriftlich festhalten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "festgehalten"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "greifen",
+      "notieren"
+    ],
+    "antonyms": [
+      "loslassen"
+    ]
+  },
+  {
+    "word": "Festland",
+    "lemma": "Festland",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "大陆，陆地",
+        "en": "mainland, continent"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Schiff erreichte das Festland nach drei Tagen.",
+        "zh": "船在三天后到达了大陆。"
+      },
+      {
+        "de": "Auf dem Festland gibt es mehr Städte als auf der Insel.",
+        "zh": "大陆上的城市比岛上多。"
+      }
+    ],
+    "collocations": [
+      "das europäische Festland",
+      "das Festland erreichen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "地理",
+      "B1"
+    ],
+    "synonyms": [
+      "Kontinent"
+    ],
+    "antonyms": [
+      "Insel"
+    ]
+  },
+  {
+    "word": "Fett",
+    "lemma": "Fett",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Fette",
+    "meaning": [
+      {
+        "zh": "脂肪，油脂",
+        "en": "fat, grease"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieses Essen enthält viel Fett.",
+        "zh": "这种食物含有大量脂肪。"
+      },
+      {
+        "de": "Man sollte nicht zu viel Fett essen.",
+        "zh": "不应该吃太多脂肪。"
+      }
+    ],
+    "collocations": [
+      "gesundes Fett",
+      "Fett abbauen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Öl",
+      "Schmalz"
+    ],
+    "antonyms": [
+      "Magermilch"
+    ]
+  },
+  {
+    "word": "Fettsäure",
+    "lemma": "Fettsäure",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Fettsäuren",
+    "meaning": [
+      {
+        "zh": "脂肪酸",
+        "en": "fatty acid"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Omega-3-Fettsäuren sind wichtig für die Gesundheit.",
+        "zh": "Omega-3脂肪酸对健康很重要。"
+      },
+      {
+        "de": "Diese Fettsäure kommt in Olivenöl vor.",
+        "zh": "这种脂肪酸存在于橄榄油中。"
+      }
+    ],
+    "collocations": [
+      "gesättigte Fettsäuren",
+      "ungesättigte Fettsäuren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "科技",
+      "B2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Feuerwehr",
+    "lemma": "Feuerwehr",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Feuerwehren",
+    "meaning": [
+      {
+        "zh": "消防队",
+        "en": "fire department"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Feuerwehr löschte den Brand innerhalb einer Stunde.",
+        "zh": "消防队在一小时内扑灭了大火。"
+      },
+      {
+        "de": "Rufen Sie sofort die Feuerwehr, wenn es brennt!",
+        "zh": "如果发生火灾，请立即呼叫消防队！"
+      }
+    ],
+    "collocations": [
+      "die Feuerwehr rufen",
+      "bei der Feuerwehr arbeiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "社会",
+      "安全",
+      "A2"
+    ],
+    "synonyms": [
+      "Brandbekämpfungstruppe"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Finanzen",
+    "lemma": "Finanzen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "财政，金融",
+        "en": "finances"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er kümmert sich um die Finanzen des Unternehmens.",
+        "zh": "他负责公司的财务。"
+      },
+      {
+        "de": "Meine Finanzen sind momentan etwas knapp.",
+        "zh": "我目前的财务状况有点紧张。"
+      }
+    ],
+    "collocations": [
+      "die Finanzen verwalten",
+      "private Finanzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Geldangelegenheiten",
+      "Finanzwesen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Fingernagel",
+    "lemma": "Fingernagel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Fingernägel",
+    "meaning": [
+      {
+        "zh": "手指甲",
+        "en": "fingernail"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie lackiert sich die Fingernägel rot.",
+        "zh": "她把手指甲涂成红色。"
+      },
+      {
+        "de": "Er hat sich den Fingernagel eingerissen.",
+        "zh": "他把手指甲撕破了。"
+      }
+    ],
+    "collocations": [
+      "sich die Fingernägel schneiden",
+      "Fingernägel lackieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "身体",
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Nagel"
+    ],
+    "antonyms": [
+      "Zehennagel"
+    ]
+  },
+  {
+    "word": "Fischer",
+    "lemma": "Fischer",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Fischer",
+    "meaning": [
+      {
+        "zh": "渔民，渔夫",
+        "en": "fisherman"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Fischer fährt jeden Morgen mit seinem Boot aufs Meer.",
+        "zh": "渔夫每天早晨乘船出海。"
+      },
+      {
+        "de": "Viele Fischer leben von der Nordsee.",
+        "zh": "许多渔民靠北海为生。"
+      }
+    ],
+    "collocations": [
+      "als Fischer arbeiten",
+      "ein erfahrener Fischer"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "职业",
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Angler"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "flexibel",
+    "lemma": "flexibel",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "灵活的",
+        "en": "flexible"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir brauchen flexible Arbeitszeiten.",
+        "zh": "我们需要灵活的工作时间。"
+      },
+      {
+        "de": "Sie ist sehr flexibel und passt sich schnell an.",
+        "zh": "她非常灵活，能很快适应。"
+      }
+    ],
+    "collocations": [
+      "flexibel sein",
+      "flexible Lösungen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "性格",
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "anpassungsfähig",
+      "beweglich"
+    ],
+    "antonyms": [
+      "starr",
+      "unflexibel"
+    ]
+  },
+  {
+    "word": "fließend",
+    "lemma": "fließend",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "流利的",
+        "en": "fluent"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er spricht fließend Deutsch.",
+        "zh": "他德语说得很流利。"
+      },
+      {
+        "de": "Nach einem Jahr konnte sie fließend Englisch.",
+        "zh": "一年后，她能流利地说英语了。"
+      }
+    ],
+    "collocations": [
+      "fließend sprechen",
+      "fließend beherrschen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语言",
+      "能力",
+      "B1"
+    ],
+    "synonyms": [
+      "gewandt",
+      "perfekt"
+    ],
+    "antonyms": [
+      "stockend",
+      "gebrochen"
+    ]
+  },
+  {
+    "word": "Floß",
+    "lemma": "Floß",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Flöße",
+    "meaning": [
+      {
+        "zh": "筏子，木排",
+        "en": "raft"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie bauten ein Floß aus Baumstämmen.",
+        "zh": "他们用树干造了一个筏子。"
+      },
+      {
+        "de": "Das Floß trieb langsam den Fluss hinunter.",
+        "zh": "筏子慢慢地顺流而下。"
+      }
+    ],
+    "collocations": [
+      "ein Floß bauen",
+      "auf einem Floß fahren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "交通",
+      "自然",
+      "B1"
+    ],
+    "synonyms": [
+      "Fährboot"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "flüchtig",
+    "lemma": "flüchtig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "短暂的，仓促的",
+        "en": "fleeting, superficial"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir hatten nur einen flüchtigen Blick auf das Gemälde.",
+        "zh": "我们只是匆匆看了一眼那幅画。"
+      },
+      {
+        "de": "Die Bekanntschaft war nur flüchtig.",
+        "zh": "那次相识只是短暂的。"
+      }
+    ],
+    "collocations": [
+      "flüchtig kennenlernen",
+      "ein flüchtiger Eindruck"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "时间",
+      "情感",
+      "B2"
+    ],
+    "synonyms": [
+      "kurz",
+      "oberflächlich"
+    ],
+    "antonyms": [
+      "dauerhaft",
+      "gründlich"
+    ]
+  },
+  {
+    "word": "Flüssigkeit",
+    "lemma": "Flüssigkeit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Flüssigkeiten",
+    "meaning": [
+      {
+        "zh": "液体",
+        "en": "liquid"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Flüssigkeit muss vorsichtig erhitzt werden.",
+        "zh": "必须小心加热这种液体。"
+      },
+      {
+        "de": "Er trank eine heiße Flüssigkeit.",
+        "zh": "他喝了一种热液体。"
+      }
+    ],
+    "collocations": [
+      "eine Flüssigkeit trinken",
+      "die Flüssigkeit erhitzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "化学",
+      "物理",
+      "B1"
+    ],
+    "synonyms": [
+      "das Getränk",
+      "der Saft"
+    ],
+    "antonyms": [
+      "das Gas",
+      "der Feststoff"
+    ]
+  },
+  {
+    "word": "folgen",
+    "lemma": "folgen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "跟随",
+        "en": "to follow"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bitte folgen Sie mir.",
+        "zh": "请跟我来。"
+      },
+      {
+        "de": "Dem Vortrag folgte eine Diskussion.",
+        "zh": "报告之后进行了一场讨论。"
+      }
+    ],
+    "collocations": [
+      "einer Person folgen",
+      "einer Spur folgen"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": false,
+      "auxiliary": "sein",
+      "partizip2": "gefolgt"
+    },
+    "level": "A2",
+    "tags": [
+      "行动",
+      "A2"
+    ],
+    "synonyms": [
+      "nachgehen",
+      "hinterhergehen"
+    ],
+    "antonyms": [
+      "vorausgehen",
+      "führen"
+    ]
+  },
+  {
+    "word": "folgerichtig",
+    "lemma": "folgerichtig",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "合乎逻辑的",
+        "en": "logical, consistent"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist eine folgerichtige Entscheidung.",
+        "zh": "这是一个合乎逻辑的决定。"
+      },
+      {
+        "de": "Er handelte folgerichtig.",
+        "zh": "他的行为合乎逻辑。"
+      }
+    ],
+    "collocations": [
+      "folgerichtig handeln",
+      "eine folgerichtige Schlussfolgerung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "逻辑",
+      "B2"
+    ],
+    "synonyms": [
+      "logisch",
+      "konsequent"
+    ],
+    "antonyms": [
+      "unlogisch",
+      "widersprüchlich"
+    ]
+  },
+  {
+    "word": "Förderung",
+    "lemma": "Förderung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Förderungen",
+    "meaning": [
+      {
+        "zh": "促进；资助；开采",
+        "en": "promotion, support, extraction"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Förderung erneuerbarer Energien ist wichtig.",
+        "zh": "促进可再生能源很重要。"
+      },
+      {
+        "de": "Er erhielt eine finanzielle Förderung für sein Projekt.",
+        "zh": "他的项目获得了资金资助。"
+      }
+    ],
+    "collocations": [
+      "die Förderung von Talenten",
+      "die Förderung beantragen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "Unterstützung",
+      "Subvention"
+    ],
+    "antonyms": [
+      "Behinderung",
+      "Hemmung"
+    ]
+  },
+  {
+    "word": "Form",
+    "lemma": "Form",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Formen",
+    "meaning": [
+      {
+        "zh": "形式；形状",
+        "en": "form, shape"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Form des Tisches ist rund.",
+        "zh": "桌子的形状是圆的。"
+      },
+      {
+        "de": "Bitte füllen Sie das Formular in der richtigen Form aus.",
+        "zh": "请以正确的形式填写表格。"
+      }
+    ],
+    "collocations": [
+      "in Form sein",
+      "die Form annehmen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "形状",
+      "A2"
+    ],
+    "synonyms": [
+      "Gestalt",
+      "Art"
+    ],
+    "antonyms": [
+      "Inhalt",
+      "Substanz"
+    ]
+  },
+  {
+    "word": "Forscher",
+    "lemma": "Forscher",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Forscher",
+    "meaning": [
+      {
+        "zh": "研究者；科学家",
+        "en": "researcher, scientist"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Forscher arbeitet an einem neuen Medikament.",
+        "zh": "这位研究者正在研发一种新药。"
+      },
+      {
+        "de": "Viele Forscher untersuchen den Klimawandel.",
+        "zh": "许多科学家在研究气候变化。"
+      }
+    ],
+    "collocations": [
+      "ein Forscher sein",
+      "die Arbeit der Forscher"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科学",
+      "职业",
+      "B1"
+    ],
+    "synonyms": [
+      "Wissenschaftler",
+      "Experte"
+    ],
+    "antonyms": [
+      "Laie",
+      "Amateur"
+    ]
+  },
+  {
+    "word": "fossil",
+    "lemma": "fossil",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "化石的；化石燃料的",
+        "en": "fossil, fossilized"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Fossile Brennstoffe sind begrenzt.",
+        "zh": "化石燃料是有限的。"
+      },
+      {
+        "de": "Das ist ein fossiler Knochen.",
+        "zh": "这是一块化石骨头。"
+      }
+    ],
+    "collocations": [
+      "fossile Energie",
+      "fossile Überreste"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "环境",
+      "地质",
+      "B2"
+    ],
+    "synonyms": [
+      "versteinert",
+      "urzeitlich"
+    ],
+    "antonyms": [
+      "erneuerbar",
+      "lebendig"
+    ]
+  },
+  {
+    "word": "Freiheit",
+    "lemma": "Freiheit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Freiheiten",
+    "meaning": [
+      {
+        "zh": "自由",
+        "en": "freedom, liberty"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Freiheit ist ein grundlegendes Menschenrecht.",
+        "zh": "自由是一项基本人权。"
+      },
+      {
+        "de": "Er genoss die Freiheit des Reisens.",
+        "zh": "他享受旅行的自由。"
+      }
+    ],
+    "collocations": [
+      "die Freiheit haben",
+      "für die Freiheit kämpfen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "政治",
+      "B1"
+    ],
+    "synonyms": [
+      "Unabhängigkeit",
+      "Selbstbestimmung"
+    ],
+    "antonyms": [
+      "Unfreiheit",
+      "Gefangenschaft"
+    ]
+  },
+  {
+    "word": "freiwillig",
+    "lemma": "freiwillig",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "自愿的，志愿的",
+        "en": "voluntary"
+      },
+      {
+        "zh": "自愿地",
+        "en": "voluntarily"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat sich freiwillig für den Einsatz gemeldet.",
+        "zh": "他自愿报名参加行动。"
+      },
+      {
+        "de": "Die Arbeit ist freiwillig und unbezahlt.",
+        "zh": "这份工作是自愿且无报酬的。"
+      }
+    ],
+    "collocations": [
+      "freiwillig helfen",
+      "freiwillige Feuerwehr"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "ehrenamtlich",
+      "ungezwungen"
+    ],
+    "antonyms": [
+      "gezwungen",
+      "pflichtgemäß"
+    ]
+  },
+  {
+    "word": "Frist",
+    "lemma": "Frist",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Fristen",
+    "meaning": [
+      {
+        "zh": "期限，截止日期",
+        "en": "deadline, period"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Frist für die Bewerbung endet am Freitag.",
+        "zh": "申请截止日期是周五。"
+      },
+      {
+        "de": "Er hat die Frist um drei Tage verlängert.",
+        "zh": "他把期限延长了三天。"
+      }
+    ],
+    "collocations": [
+      "eine Frist setzen",
+      "die Frist einhalten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "法律",
+      "B1"
+    ],
+    "synonyms": [
+      "Termin",
+      "Zeitraum"
+    ],
+    "antonyms": [
+      "Unendlichkeit"
+    ]
+  },
+  {
+    "word": "Frucht",
+    "lemma": "Frucht",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Früchte",
+    "meaning": [
+      {
+        "zh": "水果，果实",
+        "en": "fruit"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Sommer gibt es viele frische Früchte.",
+        "zh": "夏天有很多新鲜水果。"
+      },
+      {
+        "de": "Der Baum trägt jedes Jahr reiche Früchte.",
+        "zh": "这棵树每年都结出丰硕的果实。"
+      }
+    ],
+    "collocations": [
+      "frische Früchte",
+      "die Früchte der Arbeit"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "食物",
+      "A2"
+    ],
+    "synonyms": [
+      "Obst",
+      "Erzeugnis"
+    ],
+    "antonyms": [
+      "Gemüse"
+    ]
+  },
+  {
+    "word": "funktionieren",
+    "lemma": "funktionieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "起作用，正常运行",
+        "en": "to function, to work"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Computer funktioniert nicht mehr.",
+        "zh": "电脑不再工作了。"
+      },
+      {
+        "de": "Die Zusammenarbeit funktioniert gut.",
+        "zh": "合作进行得很顺利。"
+      }
+    ],
+    "collocations": [
+      "nicht funktionieren",
+      "einwandfrei funktionieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "funktioniert"
+    },
+    "level": "A2",
+    "tags": [
+      "科技",
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "arbeiten",
+      "laufen"
+    ],
+    "antonyms": [
+      "versagen",
+      "kaputtgehen"
+    ]
+  },
+  {
+    "word": "ganzheitlich",
+    "lemma": "ganzheitlich",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "整体的，全面的",
+        "en": "holistic, comprehensive"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ein ganzheitlicher Ansatz berücksichtigt alle Faktoren.",
+        "zh": "整体方法考虑所有因素。"
+      },
+      {
+        "de": "Die Behandlung ist ganzheitlich ausgerichtet.",
+        "zh": "治疗是整体导向的。"
+      }
+    ],
+    "collocations": [
+      "ganzheitliche Medizin",
+      "ganzheitlich denken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "健康",
+      "B2"
+    ],
+    "synonyms": [
+      "umfassend",
+      "integral"
+    ],
+    "antonyms": [
+      "einseitig",
+      "partiell"
+    ]
+  },
+  {
+    "word": "gebären",
+    "lemma": "gebären",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "生育，分娩",
+        "en": "to give birth"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat gestern ein gesundes Baby geboren.",
+        "zh": "她昨天生了一个健康的宝宝。"
+      },
+      {
+        "de": "In der Klinik werden jedes Jahr viele Kinder geboren.",
+        "zh": "这家诊所每年有很多孩子出生。"
+      }
+    ],
+    "collocations": [
+      "ein Kind gebären",
+      "geboren werden"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geboren"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "健康",
+      "B1"
+    ],
+    "synonyms": [
+      "zur Welt bringen",
+      "entbinden"
+    ],
+    "antonyms": [
+      "sterben"
+    ]
+  },
+  {
+    "word": "Gebäude",
+    "lemma": "Gebäude",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Gebäude",
+    "meaning": [
+      {
+        "zh": "建筑物，大楼",
+        "en": "building"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Gebäude hat fünf Stockwerke.",
+        "zh": "这栋楼有五层。"
+      },
+      {
+        "de": "Alte Gebäude werden oft renoviert.",
+        "zh": "老建筑经常被翻新。"
+      }
+    ],
+    "collocations": [
+      "ein hohes Gebäude",
+      "öffentliche Gebäude"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "建筑",
+      "A2"
+    ],
+    "synonyms": [
+      "Bau",
+      "Haus"
+    ],
+    "antonyms": [
+      "Ruine"
+    ]
+  },
+  {
+    "word": "Gebiet",
+    "lemma": "Gebiet",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Gebiete",
+    "meaning": [
+      {
+        "zh": "地区，区域；领域",
+        "en": "area, region; field"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieses Gebiet ist für den Tourismus erschlossen.",
+        "zh": "这个地区已开发用于旅游业。"
+      },
+      {
+        "de": "Er ist ein Experte auf dem Gebiet der Medizin.",
+        "zh": "他是医学领域的专家。"
+      }
+    ],
+    "collocations": [
+      "auf dem Gebiet der",
+      "ein ländliches Gebiet"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "地理",
+      "B1"
+    ],
+    "synonyms": [
+      "Region",
+      "Bereich"
+    ],
+    "antonyms": [
+      "Zentrum"
+    ]
+  },
+  {
+    "word": "Geborgenheit",
+    "lemma": "Geborgenheit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "安全感，安全，温暖",
+        "en": "security, safety, feeling of being protected"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Kind fühlt sich in den Armen der Mutter geborgen und genießt die Geborgenheit.",
+        "zh": "孩子在母亲的怀里感到安全，享受着这种安全感。"
+      },
+      {
+        "de": "Ein Zuhause sollte ein Ort der Geborgenheit sein.",
+        "zh": "家应该是一个充满安全感的地方。"
+      }
+    ],
+    "collocations": [
+      "Geborgenheit geben",
+      "Geborgenheit suchen",
+      "Geborgenheit finden",
+      "Geborgenheit schenken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "Sicherheit",
+      "Schutz",
+      "Wärme"
+    ],
+    "antonyms": [
+      "Unsicherheit",
+      "Gefahr",
+      "Bedrohung"
+    ]
+  },
+  {
+    "word": "Gebühr",
+    "lemma": "Gebühr",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Gebühren",
+    "meaning": [
+      {
+        "zh": "费用，手续费，规费",
+        "en": "fee, charge, duty"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Für die Bearbeitung des Antrags fällt eine Gebühr von 50 Euro an.",
+        "zh": "处理申请需支付50欧元的费用。"
+      },
+      {
+        "de": "Die Gebühren für den Parkplatz sind gestiegen.",
+        "zh": "停车场的费用上涨了。"
+      }
+    ],
+    "collocations": [
+      "Gebühr bezahlen",
+      "Gebühr erheben",
+      "Gebühr entrichten",
+      "Gebührenordnung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "Kosten",
+      "Entgelt",
+      "Abgabe"
+    ],
+    "antonyms": [
+      "Gratisleistung",
+      "Kostenfreiheit"
+    ]
+  },
+  {
+    "word": "Geburt",
+    "lemma": "Geburt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Geburten",
+    "meaning": [
+      {
+        "zh": "出生，分娩，诞生",
+        "en": "birth, childbirth"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Geburt ihres ersten Kindes war ein sehr emotionales Erlebnis.",
+        "zh": "她第一个孩子的出生是一次非常感人的经历。"
+      },
+      {
+        "de": "Nach der Geburt blieb die Mutter noch drei Tage im Krankenhaus.",
+        "zh": "分娩后，母亲还在医院住了三天。"
+      }
+    ],
+    "collocations": [
+      "Geburt eines Kindes",
+      "Geburtstag",
+      "Geburtsdatum",
+      "Geburtsort",
+      "Geburtsurkunde"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Entbindung",
+      "Niederkunft"
+    ],
+    "antonyms": [
+      "Tod",
+      "Sterben"
+    ]
+  }
+]

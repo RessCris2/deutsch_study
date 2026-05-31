@@ -1,0 +1,1696 @@
+[
+  {
+    "word": "Rollenverteilung",
+    "lemma": "Rollenverteilung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Rollenverteilungen",
+    "meaning": [
+      {
+        "zh": "角色分配",
+        "en": "role distribution"
+      },
+      {
+        "zh": "分工",
+        "en": "division of roles"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In der Familie gibt es eine traditionelle Rollenverteilung.",
+        "zh": "在家庭中有传统的角色分配。"
+      },
+      {
+        "de": "Die Rollenverteilung im Team muss klar definiert sein.",
+        "zh": "团队中的角色分配必须明确。"
+      }
+    ],
+    "collocations": [
+      "traditionelle Rollenverteilung",
+      "die Rollenverteilung festlegen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "Aufgabenverteilung",
+      "Zuteilung"
+    ],
+    "antonyms": [
+      "Gleichberechtigung"
+    ]
+  },
+  {
+    "word": "Rostbratwurst",
+    "lemma": "Rostbratwurst",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Rostbratwürste",
+    "meaning": [
+      {
+        "zh": "烤香肠",
+        "en": "grilled sausage"
+      },
+      {
+        "zh": "烤肠",
+        "en": "roast bratwurst"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Auf dem Grill gab es leckere Rostbratwürste.",
+        "zh": "烤架上放着美味的烤香肠。"
+      },
+      {
+        "de": "Eine Rostbratwurst mit Senf schmeckt am besten.",
+        "zh": "烤香肠配芥末味道最好。"
+      }
+    ],
+    "collocations": [
+      "Rostbratwurst grillen",
+      "Rostbratwurst mit Senf"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "饮食",
+      "A2"
+    ],
+    "synonyms": [
+      "Bratwurst",
+      "Grillwurst"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "rot",
+    "lemma": "rot",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "红色的",
+        "en": "red"
+      },
+      {
+        "zh": "红的",
+        "en": "red-colored"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Auto ist rot.",
+        "zh": "这辆车是红色的。"
+      },
+      {
+        "de": "Sie trug ein rotes Kleid.",
+        "zh": "她穿着一件红色的连衣裙。"
+      }
+    ],
+    "collocations": [
+      "rote Farbe",
+      "rote Rose"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "颜色",
+      "A1"
+    ],
+    "synonyms": [
+      "blutrot",
+      "feuerrot"
+    ],
+    "antonyms": [
+      "grün",
+      "blau"
+    ]
+  },
+  {
+    "word": "Rücken",
+    "lemma": "Rücken",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Rücken",
+    "meaning": [
+      {
+        "zh": "背部",
+        "en": "back"
+      },
+      {
+        "zh": "脊背",
+        "en": "spine area"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe Schmerzen im Rücken.",
+        "zh": "我背部疼痛。"
+      },
+      {
+        "de": "Er legte sich auf den Rücken.",
+        "zh": "他仰面躺下。"
+      }
+    ],
+    "collocations": [
+      "Rückenschmerzen haben",
+      "auf dem Rücken liegen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "身体",
+      "A2"
+    ],
+    "synonyms": [
+      "Rückseite",
+      "Wirbelsäule"
+    ],
+    "antonyms": [
+      "Bauch",
+      "Brust"
+    ]
+  },
+  {
+    "word": "Rügen",
+    "lemma": "Rügen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "吕根岛",
+        "en": "Rügen (island)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Rügen ist die größte Insel Deutschlands.",
+        "zh": "吕根岛是德国最大的岛屿。"
+      },
+      {
+        "de": "Im Sommer fahren viele Touristen nach Rügen.",
+        "zh": "夏天许多游客去吕根岛。"
+      }
+    ],
+    "collocations": [
+      "Insel Rügen",
+      "nach Rügen reisen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "地理",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ruhig",
+    "lemma": "ruhig",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "安静的",
+        "en": "quiet"
+      },
+      {
+        "zh": "平静的",
+        "en": "calm"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bitte sei ruhig!",
+        "zh": "请安静！"
+      },
+      {
+        "de": "Hier ist es sehr ruhig.",
+        "zh": "这里非常安静。"
+      }
+    ],
+    "collocations": [
+      "ruhig bleiben",
+      "ein ruhiger Ort"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "情感",
+      "A1"
+    ],
+    "synonyms": [
+      "still",
+      "leise"
+    ],
+    "antonyms": [
+      "laut",
+      "unruhig"
+    ]
+  },
+  {
+    "word": "Rundfahrt",
+    "lemma": "Rundfahrt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Rundfahrten",
+    "meaning": [
+      {
+        "zh": "环游",
+        "en": "round trip"
+      },
+      {
+        "zh": "观光游览",
+        "en": "sightseeing tour"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir machen eine Rundfahrt durch die Stadt.",
+        "zh": "我们进行了一次城市环游。"
+      },
+      {
+        "de": "Die Rundfahrt dauert zwei Stunden.",
+        "zh": "这次环游持续两个小时。"
+      }
+    ],
+    "collocations": [
+      "eine Rundfahrt machen",
+      "Stadtrundfahrt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "旅游",
+      "B1"
+    ],
+    "synonyms": [
+      "Besichtigungstour",
+      "Ausflug"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Sache",
+    "lemma": "Sache",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Sachen",
+    "meaning": [
+      {
+        "zh": "东西",
+        "en": "thing"
+      },
+      {
+        "zh": "事情",
+        "en": "matter"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist meine Sache.",
+        "zh": "这是我的事情。"
+      },
+      {
+        "de": "Ich habe viele Sachen eingekauft.",
+        "zh": "我买了很多东西。"
+      }
+    ],
+    "collocations": [
+      "eine Sache erledigen",
+      "persönliche Sachen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "A1"
+    ],
+    "synonyms": [
+      "Ding",
+      "Angelegenheit"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Saft",
+    "lemma": "Saft",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Säfte",
+    "meaning": [
+      {
+        "zh": "果汁",
+        "en": "juice"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich trinke jeden Morgen ein Glas Orangensaft.",
+        "zh": "我每天早上喝一杯橙汁。"
+      },
+      {
+        "de": "Der Saft aus frischen Früchten schmeckt am besten.",
+        "zh": "新鲜水果榨的果汁味道最好。"
+      }
+    ],
+    "collocations": [
+      "frischer Saft",
+      "ein Glas Saft"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "饮食",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sagen",
+    "lemma": "sagen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "说",
+        "en": "say"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du das noch einmal sagen?",
+        "zh": "你能再说一遍吗？"
+      },
+      {
+        "de": "Er hat mir die Wahrheit gesagt.",
+        "zh": "他对我说了实话。"
+      }
+    ],
+    "collocations": [
+      "die Wahrheit sagen",
+      "etwas zu jemandem sagen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gesagt"
+    },
+    "level": "A1",
+    "tags": [
+      "交流",
+      "A1"
+    ],
+    "synonyms": [
+      "sprechen",
+      "äußern"
+    ],
+    "antonyms": [
+      "schweigen"
+    ]
+  },
+  {
+    "word": "Salat",
+    "lemma": "Salat",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Salate",
+    "meaning": [
+      {
+        "zh": "沙拉",
+        "en": "salad"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich möchte einen gemischten Salat als Vorspeise.",
+        "zh": "我想要一份混合沙拉作为开胃菜。"
+      },
+      {
+        "de": "Der Salat schmeckt sehr frisch.",
+        "zh": "这份沙拉尝起来很新鲜。"
+      }
+    ],
+    "collocations": [
+      "gemischter Salat",
+      "einen Salat zubereiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "饮食",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Samstag",
+    "lemma": "Samstag",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Samstage",
+    "meaning": [
+      {
+        "zh": "星期六",
+        "en": "Saturday"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Am Samstag habe ich frei.",
+        "zh": "星期六我休息。"
+      },
+      {
+        "de": "Wir treffen uns am Samstag im Park.",
+        "zh": "我们星期六在公园见面。"
+      }
+    ],
+    "collocations": [
+      "am Samstag",
+      "nächsten Samstag"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "时间",
+      "A1"
+    ],
+    "synonyms": [
+      "Sonnabend"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Satz",
+    "lemma": "Satz",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Sätze",
+    "meaning": [
+      {
+        "zh": "句子",
+        "en": "sentence"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieser Satz ist grammatikalisch falsch.",
+        "zh": "这个句子语法错误。"
+      },
+      {
+        "de": "Kannst du den Satz wiederholen?",
+        "zh": "你能重复一下这个句子吗？"
+      }
+    ],
+    "collocations": [
+      "einen Satz bilden",
+      "ein langer Satz"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "语言",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Schatz",
+    "lemma": "Schatz",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Schätze",
+    "meaning": [
+      {
+        "zh": "宝藏；亲爱的",
+        "en": "treasure; darling"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kinder suchen nach einem versteckten Schatz.",
+        "zh": "孩子们在寻找一个隐藏的宝藏。"
+      },
+      {
+        "de": "Guten Morgen, mein Schatz!",
+        "zh": "早上好，亲爱的！"
+      }
+    ],
+    "collocations": [
+      "einen Schatz finden",
+      "mein Schatz"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "Liebling",
+      "Kostbarkeit"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "schenken",
+    "lemma": "schenken",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "赠送",
+        "en": "give as a gift"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich schenke meiner Mutter einen Blumenstrauß zum Geburtstag.",
+        "zh": "我送给我妈妈一束花作为生日礼物。"
+      },
+      {
+        "de": "Er hat mir ein Buch geschenkt.",
+        "zh": "他送了我一本书。"
+      }
+    ],
+    "collocations": [
+      "ein Geschenk schenken",
+      "jemandem etwas schenken"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geschenkt"
+    },
+    "level": "A2",
+    "tags": [
+      "社交",
+      "A2"
+    ],
+    "synonyms": [
+      "überreichen",
+      "geben"
+    ],
+    "antonyms": [
+      "nehmen"
+    ]
+  },
+  {
+    "word": "schlafen",
+    "lemma": "schlafen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "睡觉",
+        "en": "sleep"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich schlafe normalerweise acht Stunden pro Nacht.",
+        "zh": "我通常每晚睡八个小时。"
+      },
+      {
+        "de": "Das Baby schläft schon.",
+        "zh": "婴儿已经睡着了。"
+      }
+    ],
+    "collocations": [
+      "gut schlafen",
+      "tief schlafen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geschlafen"
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "A1"
+    ],
+    "synonyms": [
+      "dösen",
+      "ruhen"
+    ],
+    "antonyms": [
+      "wachen"
+    ]
+  },
+  {
+    "word": "Schlaflosigkeit",
+    "lemma": "Schlaflosigkeit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "失眠",
+        "en": "insomnia"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Viele Menschen leiden unter Schlaflosigkeit.",
+        "zh": "许多人患有失眠症。"
+      },
+      {
+        "de": "Schlaflosigkeit kann durch Stress verursacht werden.",
+        "zh": "失眠可能由压力引起。"
+      }
+    ],
+    "collocations": [
+      "unter Schlaflosigkeit leiden",
+      "Schlaflosigkeit bekämpfen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "健康",
+      "B2"
+    ],
+    "synonyms": [
+      "Insomnie"
+    ],
+    "antonyms": [
+      "Schlaf"
+    ]
+  },
+  {
+    "word": "Schlafzimmer",
+    "lemma": "Schlafzimmer",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Schlafzimmer",
+    "meaning": [
+      {
+        "zh": "卧室",
+        "en": "bedroom"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Schlafzimmer ist sehr gemütlich.",
+        "zh": "卧室非常舒适。"
+      },
+      {
+        "de": "Sie hat das Schlafzimmer neu gestrichen.",
+        "zh": "她把卧室重新粉刷了。"
+      }
+    ],
+    "collocations": [
+      "im Schlafzimmer schlafen",
+      "das Schlafzimmer einrichten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "schließen",
+    "lemma": "schließen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "关闭；结束；推断",
+        "en": "to close; to conclude; to deduce"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bitte schließen Sie die Tür.",
+        "zh": "请关上门。"
+      },
+      {
+        "de": "Die Firma schließt um 18 Uhr.",
+        "zh": "公司18点关门。"
+      },
+      {
+        "de": "Daraus kann man schließen, dass er recht hat.",
+        "zh": "由此可以推断他是对的。"
+      }
+    ],
+    "collocations": [
+      "die Tür schließen",
+      "einen Vertrag schließen",
+      "daraus schließen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geschlossen"
+    },
+    "level": "B1",
+    "tags": [
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "zumachen",
+      "beenden"
+    ],
+    "antonyms": [
+      "öffnen",
+      "aufmachen"
+    ]
+  },
+  {
+    "word": "schließlich",
+    "lemma": "schließlich",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "最后；毕竟",
+        "en": "finally; after all"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Schließlich haben wir uns für das rote Auto entschieden.",
+        "zh": "最后我们选择了红色的车。"
+      },
+      {
+        "de": "Er ist schließlich dein Bruder.",
+        "zh": "他毕竟是你的兄弟。"
+      }
+    ],
+    "collocations": [
+      "schließlich und endlich",
+      "schließlich doch"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语气",
+      "B1"
+    ],
+    "synonyms": [
+      "endlich",
+      "letztendlich"
+    ],
+    "antonyms": [
+      "zunächst"
+    ]
+  },
+  {
+    "word": "schlimm",
+    "lemma": "schlimm",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "糟糕的；严重的",
+        "en": "bad; severe"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist nicht so schlimm.",
+        "zh": "这没那么糟糕。"
+      },
+      {
+        "de": "Er hat eine schlimme Erkältung.",
+        "zh": "他得了重感冒。"
+      }
+    ],
+    "collocations": [
+      "schlimme Folgen haben",
+      "schlimm genug"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "übel",
+      "arg"
+    ],
+    "antonyms": [
+      "gut",
+      "angenehm"
+    ]
+  },
+  {
+    "word": "Schlüssel",
+    "lemma": "Schlüssel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Schlüssel",
+    "meaning": [
+      {
+        "zh": "钥匙；关键",
+        "en": "key"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe meinen Schlüssel verloren.",
+        "zh": "我丢了钥匙。"
+      },
+      {
+        "de": "Der Schlüssel zum Erfolg ist harte Arbeit.",
+        "zh": "成功的关键是努力工作。"
+      }
+    ],
+    "collocations": [
+      "den Schlüssel finden",
+      "der Schlüssel zu etwas"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "日常",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "schmecken",
+    "lemma": "schmecken",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "尝起来；合口味",
+        "en": "to taste"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Essen schmeckt sehr gut.",
+        "zh": "这食物尝起来很好。"
+      },
+      {
+        "de": "Schmeckt dir der Kaffee?",
+        "zh": "咖啡合你的口味吗？"
+      }
+    ],
+    "collocations": [
+      "gut schmecken",
+      "nach etwas schmecken"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geschmeckt"
+    },
+    "level": "A2",
+    "tags": [
+      "饮食",
+      "A2"
+    ],
+    "synonyms": [
+      "munden"
+    ],
+    "antonyms": [
+      "ekeln"
+    ]
+  },
+  {
+    "word": "Schmerz",
+    "lemma": "Schmerz",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Schmerzen",
+    "meaning": [
+      {
+        "zh": "疼痛；痛苦",
+        "en": "pain"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat starke Schmerzen im Rücken.",
+        "zh": "他背部剧痛。"
+      },
+      {
+        "de": "Der Schmerz ist unerträglich.",
+        "zh": "疼痛难以忍受。"
+      }
+    ],
+    "collocations": [
+      "Schmerzen haben",
+      "Schmerzen lindern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "健康",
+      "B1"
+    ],
+    "synonyms": [
+      "Weh",
+      "Leid"
+    ],
+    "antonyms": [
+      "Wohlbefinden"
+    ]
+  },
+  {
+    "word": "schnell",
+    "lemma": "schnell",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "快的，迅速的",
+        "en": "fast, quick"
+      },
+      {
+        "zh": "快速地",
+        "en": "quickly"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er läuft sehr schnell.",
+        "zh": "他跑得很快。"
+      },
+      {
+        "de": "Bitte mach schnell, wir haben wenig Zeit.",
+        "zh": "请快点，我们时间不多了。"
+      }
+    ],
+    "collocations": [
+      "schnell sein",
+      "schnell machen",
+      "schnell gehen",
+      "schnell antworten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "形容词",
+      "副词",
+      "速度",
+      "A2"
+    ],
+    "synonyms": [
+      "rasch",
+      "flink",
+      "zügig"
+    ],
+    "antonyms": [
+      "langsam"
+    ]
+  },
+  {
+    "word": "Schnellimbiss",
+    "lemma": "Schnellimbiss",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Schnellimbisse",
+    "meaning": [
+      {
+        "zh": "快餐店，小吃摊",
+        "en": "fast food restaurant, snack bar"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir essen heute im Schnellimbiss.",
+        "zh": "我们今天在快餐店吃饭。"
+      },
+      {
+        "de": "Der Schnellimbiss um die Ecke hat leckere Currywurst.",
+        "zh": "拐角处的快餐店有好吃的咖喱香肠。"
+      }
+    ],
+    "collocations": [
+      "im Schnellimbiss essen",
+      "einen Schnellimbiss besuchen",
+      "Schnellimbiss um die Ecke"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "名词",
+      "餐饮",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Imbiss",
+      "Fast-Food-Restaurant"
+    ],
+    "antonyms": [
+      "Restaurant",
+      "Feinschmeckerlokal"
+    ]
+  },
+  {
+    "word": "Schnitzel",
+    "lemma": "Schnitzel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Schnitzel",
+    "meaning": [
+      {
+        "zh": "炸肉排（通常指维也纳炸肉排）",
+        "en": "schnitzel (breaded and fried meat cutlet)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich bestelle ein Wiener Schnitzel mit Pommes.",
+        "zh": "我点一份维也纳炸肉排配薯条。"
+      },
+      {
+        "de": "Das Schnitzel schmeckt ausgezeichnet.",
+        "zh": "这块炸肉排味道好极了。"
+      }
+    ],
+    "collocations": [
+      "Wiener Schnitzel",
+      "Schnitzel mit Pommes",
+      "Schnitzel essen",
+      "Schnitzel braten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "名词",
+      "餐饮",
+      "食物",
+      "A2"
+    ],
+    "synonyms": [
+      "Fleischschnitzel",
+      "Panierte Schnitzel"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Schnupfen",
+    "lemma": "Schnupfen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Schnupfen",
+    "meaning": [
+      {
+        "zh": "感冒，鼻塞",
+        "en": "cold, runny nose"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe einen Schnupfen und muss niesen.",
+        "zh": "我感冒了，必须打喷嚏。"
+      },
+      {
+        "de": "Bei Schnupfen hilft viel Tee trinken.",
+        "zh": "感冒时多喝茶有帮助。"
+      }
+    ],
+    "collocations": [
+      "einen Schnupfen haben",
+      "Schnupfen bekommen",
+      "gegen Schnupfen",
+      "Schnupfenmittel"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "名词",
+      "健康",
+      "疾病",
+      "A2"
+    ],
+    "synonyms": [
+      "Erkältung",
+      "Nasenkatarrh"
+    ],
+    "antonyms": [
+      "Gesundheit"
+    ]
+  },
+  {
+    "word": "schon",
+    "lemma": "schon",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "已经",
+        "en": "already"
+      },
+      {
+        "zh": "就（加强语气）",
+        "en": "just, indeed"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe schon gegessen.",
+        "zh": "我已经吃过了。"
+      },
+      {
+        "de": "Das ist schon möglich.",
+        "zh": "这倒是可能的。"
+      }
+    ],
+    "collocations": [
+      "schon einmal",
+      "schon lange",
+      "schon wieder",
+      "schon jetzt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "副词",
+      "时间",
+      "语气",
+      "A1"
+    ],
+    "synonyms": [
+      "bereits",
+      "längst"
+    ],
+    "antonyms": [
+      "noch nicht"
+    ]
+  },
+  {
+    "word": "schön",
+    "lemma": "schön",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "美丽的，漂亮的",
+        "en": "beautiful, nice"
+      },
+      {
+        "zh": "好地，令人愉快地",
+        "en": "nicely, pleasantly"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Wetter ist heute schön.",
+        "zh": "今天天气很好。"
+      },
+      {
+        "de": "Sie hat ein schönes Lächeln.",
+        "zh": "她有一个美丽的微笑。"
+      }
+    ],
+    "collocations": [
+      "schön aussehen",
+      "schön sein",
+      "schöne Aussicht",
+      "schönes Wetter"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "形容词",
+      "副词",
+      "外貌",
+      "感受",
+      "A1"
+    ],
+    "synonyms": [
+      "hübsch",
+      "attraktiv",
+      "angenehm"
+    ],
+    "antonyms": [
+      "hässlich",
+      "unschön"
+    ]
+  },
+  {
+    "word": "Schrank",
+    "lemma": "Schrank",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Schränke",
+    "meaning": [
+      {
+        "zh": "柜子，橱柜",
+        "en": "cupboard, cabinet, wardrobe"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Schrank ist aus Holz.",
+        "zh": "这个柜子是木制的。"
+      },
+      {
+        "de": "Ich lege die Kleidung in den Schrank.",
+        "zh": "我把衣服放进柜子里。"
+      }
+    ],
+    "collocations": [
+      "im Schrank",
+      "den Schrank öffnen",
+      "Kleiderschrank",
+      "Bücherschrank"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "名词",
+      "家具",
+      "生活",
+      "A1"
+    ],
+    "synonyms": [
+      "Kasten",
+      "Kabinett"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "schrecklich",
+    "lemma": "schrecklich",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "可怕的，糟糕的",
+        "en": "terrible, awful"
+      },
+      {
+        "zh": "非常地（加强语气）",
+        "en": "terribly, extremely"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das war ein schrecklicher Unfall.",
+        "zh": "那是一场可怕的事故。"
+      },
+      {
+        "de": "Es tut mir schrecklich leid.",
+        "zh": "我非常抱歉。"
+      }
+    ],
+    "collocations": [
+      "schrecklich sein",
+      "schreckliche Nachricht",
+      "schrecklich aussehen",
+      "schrecklich finden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "形容词",
+      "副词",
+      "情感",
+      "评价",
+      "A2"
+    ],
+    "synonyms": [
+      "furchtbar",
+      "entsetzlich",
+      "fürchterlich"
+    ],
+    "antonyms": [
+      "wunderbar",
+      "angenehm"
+    ]
+  },
+  {
+    "word": "schreiben",
+    "lemma": "schreiben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "写",
+        "en": "to write"
+      },
+      {
+        "zh": "写信",
+        "en": "to write a letter"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich schreibe einen Brief an meine Mutter.",
+        "zh": "我给妈妈写了一封信。"
+      },
+      {
+        "de": "Er schreibt einen Aufsatz über die Umwelt.",
+        "zh": "他写了一篇关于环境的文章。"
+      }
+    ],
+    "collocations": [
+      "einen Brief schreiben",
+      "einen Aufsatz schreiben"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geschrieben"
+    },
+    "level": "A2",
+    "tags": [
+      "日常活动",
+      "A2"
+    ],
+    "synonyms": [
+      "verfassen",
+      "notieren"
+    ],
+    "antonyms": [
+      "lesen"
+    ]
+  },
+  {
+    "word": "schreibware",
+    "lemma": "Schreibware",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Schreibwaren",
+    "meaning": [
+      {
+        "zh": "文具",
+        "en": "stationery"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Schreibwarenladen kaufe ich Stifte und Papier.",
+        "zh": "我在文具店买了笔和纸。"
+      },
+      {
+        "de": "Die Schreibwaren sind im Angebot.",
+        "zh": "文具正在打折。"
+      }
+    ],
+    "collocations": [
+      "Schreibwaren kaufen",
+      "Schreibwarenladen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "购物",
+      "B1"
+    ],
+    "synonyms": [
+      "Bürobedarf"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Schuh",
+    "lemma": "Schuh",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Schuhe",
+    "meaning": [
+      {
+        "zh": "鞋",
+        "en": "shoe"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich ziehe meine Schuhe an.",
+        "zh": "我穿上鞋子。"
+      },
+      {
+        "de": "Diese Schuhe sind sehr bequem.",
+        "zh": "这双鞋很舒服。"
+      }
+    ],
+    "collocations": [
+      "Schuhe anziehen",
+      "Schuhe kaufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "衣物",
+      "A1"
+    ],
+    "synonyms": [
+      "Stiefel",
+      "Sandale"
+    ],
+    "antonyms": []
+  }
+]

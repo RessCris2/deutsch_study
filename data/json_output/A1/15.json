@@ -1,0 +1,1591 @@
+[
+  {
+    "word": "Musik",
+    "lemma": "Musik",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "音乐",
+        "en": "music"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich höre gerne klassische Musik.",
+        "zh": "我喜欢听古典音乐。"
+      },
+      {
+        "de": "Die Musik war sehr laut.",
+        "zh": "音乐非常大声。"
+      }
+    ],
+    "collocations": [
+      "Musik hören",
+      "Musik machen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "艺术",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Müsli",
+    "lemma": "Müsli",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Müslis",
+    "meaning": [
+      {
+        "zh": "麦片",
+        "en": "muesli"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Zum Frühstück esse ich Müsli mit Milch.",
+        "zh": "早餐我吃麦片加牛奶。"
+      },
+      {
+        "de": "Dieses Müsli enthält viele Nüsse.",
+        "zh": "这种麦片含有很多坚果。"
+      }
+    ],
+    "collocations": [
+      "Müsli essen",
+      "Müsli mit Joghurt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "饮食",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Mutter",
+    "lemma": "Mutter",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Mütter",
+    "meaning": [
+      {
+        "zh": "母亲",
+        "en": "mother"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Meine Mutter kocht sehr gut.",
+        "zh": "我母亲做饭很好。"
+      },
+      {
+        "de": "Die Mutter des Kindes wartet draußen.",
+        "zh": "孩子的母亲在外面等。"
+      }
+    ],
+    "collocations": [
+      "Mutter werden",
+      "Mutter und Kind"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "家庭",
+      "A1"
+    ],
+    "synonyms": [
+      "Mama"
+    ],
+    "antonyms": [
+      "Vater"
+    ]
+  },
+  {
+    "word": "Mütze",
+    "lemma": "Mütze",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Mützen",
+    "meaning": [
+      {
+        "zh": "帽子",
+        "en": "cap"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Winter trage ich eine warme Mütze.",
+        "zh": "冬天我戴一顶暖和的帽子。"
+      },
+      {
+        "de": "Er setzte die Mütze auf den Kopf.",
+        "zh": "他把帽子戴在头上。"
+      }
+    ],
+    "collocations": [
+      "eine Mütze tragen",
+      "Mütze aufsetzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "服饰",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nachbar",
+    "lemma": "Nachbar",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Nachbarn",
+    "meaning": [
+      {
+        "zh": "邻居",
+        "en": "neighbor"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Unser Nachbar hilft uns oft.",
+        "zh": "我们的邻居经常帮助我们。"
+      },
+      {
+        "de": "Die Nachbarn feiern eine Party.",
+        "zh": "邻居们在开派对。"
+      }
+    ],
+    "collocations": [
+      "guter Nachbar",
+      "Nachbar sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "社会",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nachhilfestunde",
+    "lemma": "Nachhilfestunde",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Nachhilfestunden",
+    "meaning": [
+      {
+        "zh": "辅导课",
+        "en": "tutoring lesson"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe heute eine Nachhilfestunde in Mathe.",
+        "zh": "我今天有一节数学辅导课。"
+      },
+      {
+        "de": "Die Nachhilfestunde dauert eine Stunde.",
+        "zh": "辅导课持续一小时。"
+      }
+    ],
+    "collocations": [
+      "Nachhilfestunde geben",
+      "Nachhilfestunde nehmen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Nachmittag",
+    "lemma": "Nachmittag",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Nachmittage",
+    "meaning": [
+      {
+        "zh": "下午",
+        "en": "afternoon"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Am Nachmittag gehe ich spazieren.",
+        "zh": "下午我去散步。"
+      },
+      {
+        "de": "Der Nachmittag war sehr heiß.",
+        "zh": "下午非常热。"
+      }
+    ],
+    "collocations": [
+      "am Nachmittag",
+      "heute Nachmittag"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "时间",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "Vormittag"
+    ]
+  },
+  {
+    "word": "nachsehen",
+    "lemma": "nachsehen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "查看；查阅",
+        "en": "to check; to look up"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich muss im Wörterbuch nachsehen.",
+        "zh": "我得查一下词典。"
+      },
+      {
+        "de": "Sie sah nach, ob die Tür abgeschlossen war.",
+        "zh": "她查看门是否锁上了。"
+      }
+    ],
+    "collocations": [
+      "im Wörterbuch nachsehen",
+      "nachsehen, ob"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "nachgesehen"
+    },
+    "level": "B1",
+    "tags": [
+      "动作",
+      "B1"
+    ],
+    "synonyms": [
+      "überprüfen",
+      "kontrollieren"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "nächst",
+    "lemma": "nächst",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "下一个的，最近的",
+        "en": "next, nearest"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die nächste Bushaltestelle ist um die Ecke.",
+        "zh": "下一个公交车站就在拐角处。"
+      },
+      {
+        "de": "Nächstes Jahr fahren wir nach Italien.",
+        "zh": "明年我们去意大利。"
+      }
+    ],
+    "collocations": [
+      "nächste Woche",
+      "nächster Halt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "时间",
+      "空间",
+      "A2"
+    ],
+    "synonyms": [
+      "folgend",
+      "kommend"
+    ],
+    "antonyms": [
+      "vorherig",
+      "letzt"
+    ]
+  },
+  {
+    "word": "Nacht",
+    "lemma": "Nacht",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Nächte",
+    "meaning": [
+      {
+        "zh": "夜晚",
+        "en": "night"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In der Nacht hat es geregnet.",
+        "zh": "夜里下雨了。"
+      },
+      {
+        "de": "Gute Nacht, schlaf gut!",
+        "zh": "晚安，睡个好觉！"
+      }
+    ],
+    "collocations": [
+      "bei Nacht",
+      "die ganze Nacht"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "时间",
+      "自然",
+      "A1"
+    ],
+    "synonyms": [
+      "Dunkelheit"
+    ],
+    "antonyms": [
+      "Tag"
+    ]
+  },
+  {
+    "word": "Nachtisch",
+    "lemma": "Nachtisch",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Nachtische",
+    "meaning": [
+      {
+        "zh": "餐后甜点",
+        "en": "dessert"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Zum Nachtisch gab es Eis.",
+        "zh": "餐后甜点有冰淇淋。"
+      },
+      {
+        "de": "Magst du Nachtisch?",
+        "zh": "你喜欢甜点吗？"
+      }
+    ],
+    "collocations": [
+      "als Nachtisch",
+      "Nachtisch bestellen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "饮食",
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Dessert",
+      "Süßspeise"
+    ],
+    "antonyms": [
+      "Vorspeise",
+      "Hauptgericht"
+    ]
+  },
+  {
+    "word": "Nachttisch",
+    "lemma": "Nachttisch",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Nachttische",
+    "meaning": [
+      {
+        "zh": "床头柜",
+        "en": "nightstand, bedside table"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Auf dem Nachttisch steht eine Lampe.",
+        "zh": "床头柜上有一盏灯。"
+      },
+      {
+        "de": "Ich lege mein Buch auf den Nachttisch.",
+        "zh": "我把书放在床头柜上。"
+      }
+    ],
+    "collocations": [
+      "am Nachttisch",
+      "Nachttischlampe"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "家具",
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Bettisch"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "Nähe",
+    "lemma": "Nähe",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "附近，接近",
+        "en": "nearness, proximity"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In der Nähe gibt es einen Supermarkt.",
+        "zh": "附近有一家超市。"
+      },
+      {
+        "de": "Die Nähe zum Meer ist angenehm.",
+        "zh": "靠近大海很舒适。"
+      }
+    ],
+    "collocations": [
+      "in der Nähe",
+      "aus der Nähe"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "空间",
+      "关系",
+      "B1"
+    ],
+    "synonyms": [
+      "Umgebung",
+      "Nachbarschaft"
+    ],
+    "antonyms": [
+      "Ferne",
+      "Entfernung"
+    ]
+  },
+  {
+    "word": "Name",
+    "lemma": "Name",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Namen",
+    "meaning": [
+      {
+        "zh": "名字，名称",
+        "en": "name"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wie ist Ihr Name?",
+        "zh": "您叫什么名字？"
+      },
+      {
+        "de": "Der Name des Films ist mir entfallen.",
+        "zh": "我忘了电影的名字。"
+      }
+    ],
+    "collocations": [
+      "im Namen von",
+      "einen Namen geben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "身份",
+      "语言",
+      "A1"
+    ],
+    "synonyms": [
+      "Bezeichnung",
+      "Titel"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "nämlich",
+    "lemma": "nämlich",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "也就是，即；因为",
+        "en": "namely, that is; because"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich kann nicht kommen, ich bin nämlich krank.",
+        "zh": "我不能来，因为我病了。"
+      },
+      {
+        "de": "Er hat zwei Hobbys, nämlich Lesen und Schwimmen.",
+        "zh": "他有两个爱好，即阅读和游泳。"
+      }
+    ],
+    "collocations": [
+      "und zwar nämlich",
+      "nämlich dass"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "连接",
+      "解释",
+      "B1"
+    ],
+    "synonyms": [
+      "und zwar",
+      "denn"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "Nase",
+    "lemma": "Nase",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Nasen",
+    "meaning": [
+      {
+        "zh": "鼻子",
+        "en": "nose"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat eine laufende Nase.",
+        "zh": "他流鼻涕。"
+      },
+      {
+        "de": "Die Nase juckt mich.",
+        "zh": "我鼻子痒。"
+      }
+    ],
+    "collocations": [
+      "die Nase rümpfen",
+      "eine Nase voll haben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "身体",
+      "感官",
+      "A1"
+    ],
+    "synonyms": [
+      "Riechorgan"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "neben",
+    "lemma": "neben",
+    "pos": [
+      "preposition",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "在旁边",
+        "en": "next to, beside"
+      },
+      {
+        "zh": "除了...之外",
+        "en": "besides, in addition to"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Buch liegt neben dem Computer.",
+        "zh": "书在电脑旁边。"
+      },
+      {
+        "de": "Neben Deutsch lerne ich auch Englisch.",
+        "zh": "除了德语，我还学英语。"
+      }
+    ],
+    "collocations": [
+      "nebenbei",
+      "nebenan",
+      "neben der Arbeit"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "介词",
+      "空间",
+      "A2"
+    ],
+    "synonyms": [
+      "an",
+      "bei"
+    ],
+    "antonyms": [
+      "fern von"
+    ]
+  },
+  {
+    "word": "Neckar",
+    "lemma": "Neckar",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "内卡河（德国河流）",
+        "en": "Neckar (river in Germany)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Neckar fließt durch Heidelberg.",
+        "zh": "内卡河流经海德堡。"
+      },
+      {
+        "de": "Wir machen eine Bootsfahrt auf dem Neckar.",
+        "zh": "我们在内卡河上乘船游览。"
+      }
+    ],
+    "collocations": [
+      "am Neckar",
+      "Neckar-Ufer",
+      "Neckar-Tal"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "地理",
+      "河流",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "nehmen",
+    "lemma": "nehmen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "拿，取",
+        "en": "to take"
+      },
+      {
+        "zh": "乘坐（交通工具）",
+        "en": "to take (transportation)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich nehme den Bus zur Arbeit.",
+        "zh": "我乘公交车去上班。"
+      },
+      {
+        "de": "Nimmst du Zucker in den Kaffee?",
+        "zh": "你咖啡里加糖吗？"
+      }
+    ],
+    "collocations": [
+      "in Anspruch nehmen",
+      "zur Kenntnis nehmen",
+      "Maßnahmen ergreifen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "genommen"
+    },
+    "level": "A1",
+    "tags": [
+      "动词",
+      "日常",
+      "A1"
+    ],
+    "synonyms": [
+      "greifen",
+      "holen"
+    ],
+    "antonyms": [
+      "geben",
+      "legen"
+    ]
+  },
+  {
+    "word": "nein",
+    "lemma": "nein",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "不，不是",
+        "en": "no"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Nein, ich habe keine Zeit.",
+        "zh": "不，我没有时间。"
+      },
+      {
+        "de": "Kommst du mit? – Nein, ich bleibe zu Hause.",
+        "zh": "你一起来吗？——不，我待在家里。"
+      }
+    ],
+    "collocations": [
+      "nein sagen",
+      "nein danke"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "副词",
+      "否定",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "ja"
+    ]
+  },
+  {
+    "word": "nett",
+    "lemma": "nett",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "友好的，和蔼的",
+        "en": "nice, kind"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Verkäuferin war sehr nett.",
+        "zh": "女售货员非常友好。"
+      },
+      {
+        "de": "Das ist nett von dir!",
+        "zh": "你真好！"
+      }
+    ],
+    "collocations": [
+      "nett sein",
+      "nett gemeint",
+      "nett aussehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "形容词",
+      "性格",
+      "A1"
+    ],
+    "synonyms": [
+      "freundlich",
+      "liebenswürdig"
+    ],
+    "antonyms": [
+      "unfreundlich",
+      "gemein"
+    ]
+  },
+  {
+    "word": "nicht",
+    "lemma": "nicht",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "不，没有（否定词）",
+        "en": "not"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich mag das nicht.",
+        "zh": "我不喜欢这个。"
+      },
+      {
+        "de": "Er kommt heute nicht.",
+        "zh": "他今天不来。"
+      }
+    ],
+    "collocations": [
+      "nicht mehr",
+      "nicht nur",
+      "gar nicht"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "副词",
+      "否定",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "ja",
+      "doch"
+    ]
+  },
+  {
+    "word": "nichts",
+    "lemma": "nichts",
+    "pos": [
+      "pronoun"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "没有什么，什么也没有",
+        "en": "nothing"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe nichts zu essen.",
+        "zh": "我没什么可吃的。"
+      },
+      {
+        "de": "Das macht nichts.",
+        "zh": "没关系。"
+      }
+    ],
+    "collocations": [
+      "nichts tun",
+      "nichts sagen",
+      "nichts Neues"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "代词",
+      "否定",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "alles",
+      "etwas"
+    ]
+  },
+  {
+    "word": "nie",
+    "lemma": "nie",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "从不，从来没有",
+        "en": "never"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich war noch nie in Berlin.",
+        "zh": "我从没去过柏林。"
+      },
+      {
+        "de": "Das habe ich nie gesagt.",
+        "zh": "我从未说过这个。"
+      }
+    ],
+    "collocations": [
+      "nie wieder",
+      "noch nie",
+      "nie und nimmer"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "副词",
+      "时间",
+      "A1"
+    ],
+    "synonyms": [
+      "niemals"
+    ],
+    "antonyms": [
+      "immer",
+      "oft"
+    ]
+  },
+  {
+    "word": "niedrig",
+    "lemma": "niedrig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "低的，矮的",
+        "en": "low"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Decke ist sehr niedrig.",
+        "zh": "天花板很低。"
+      },
+      {
+        "de": "Die Preise sind in diesem Jahr niedrig.",
+        "zh": "今年的价格很低。"
+      }
+    ],
+    "collocations": [
+      "niedrige Temperatur",
+      "niedriger Preis"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "形容词",
+      "描述",
+      "A2"
+    ],
+    "synonyms": [
+      "gering",
+      "tief"
+    ],
+    "antonyms": [
+      "hoch"
+    ]
+  },
+  {
+    "word": "noch",
+    "lemma": "noch",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "还，仍然",
+        "en": "still, yet"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich warte noch auf den Bus.",
+        "zh": "我还在等公交车。"
+      },
+      {
+        "de": "Hast du noch etwas zu sagen?",
+        "zh": "你还有什么要说的吗？"
+      }
+    ],
+    "collocations": [
+      "noch einmal",
+      "noch nicht"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "副词",
+      "时间",
+      "A1"
+    ],
+    "synonyms": [
+      "immer noch",
+      "weiterhin"
+    ],
+    "antonyms": [
+      "nicht mehr"
+    ]
+  },
+  {
+    "word": "Norden",
+    "lemma": "Norden",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "北方",
+        "en": "north"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Wind kommt aus dem Norden.",
+        "zh": "风从北方吹来。"
+      },
+      {
+        "de": "Wir fahren in den Norden Deutschlands.",
+        "zh": "我们开车去德国北部。"
+      }
+    ],
+    "collocations": [
+      "im Norden",
+      "nach Norden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "名词",
+      "方向",
+      "地理",
+      "A2"
+    ],
+    "synonyms": [
+      "Nordrichtung"
+    ],
+    "antonyms": [
+      "Süden"
+    ]
+  },
+  {
+    "word": "normal",
+    "lemma": "normal",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "正常的，普通的",
+        "en": "normal"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist völlig normal.",
+        "zh": "这完全正常。"
+      },
+      {
+        "de": "Heute ist ein normaler Arbeitstag.",
+        "zh": "今天是正常的工作日。"
+      }
+    ],
+    "collocations": [
+      "normale Größe",
+      "normalerweise"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "形容词",
+      "描述",
+      "A2"
+    ],
+    "synonyms": [
+      "gewöhnlich",
+      "üblich"
+    ],
+    "antonyms": [
+      "unnormal",
+      "besonders"
+    ]
+  },
+  {
+    "word": "nötig",
+    "lemma": "nötig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "必要的，必需的",
+        "en": "necessary"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Es ist nötig, das Fenster zu schließen.",
+        "zh": "有必要关上窗户。"
+      },
+      {
+        "de": "Hast du alles Nötige dabei?",
+        "zh": "你带了所有必需的东西吗？"
+      }
+    ],
+    "collocations": [
+      "nötig haben",
+      "für nötig halten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "形容词",
+      "必要性",
+      "B1"
+    ],
+    "synonyms": [
+      "erforderlich",
+      "notwendig"
+    ],
+    "antonyms": [
+      "unnötig"
+    ]
+  },
+  {
+    "word": "Nudel",
+    "lemma": "Nudel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Nudeln",
+    "meaning": [
+      {
+        "zh": "面条，意大利面",
+        "en": "noodle, pasta"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich esse gerne Nudeln mit Tomatensoße.",
+        "zh": "我喜欢吃番茄酱意大利面。"
+      },
+      {
+        "de": "Die Nudeln sind al dente gekocht.",
+        "zh": "面条煮得有嚼劲。"
+      }
+    ],
+    "collocations": [
+      "Nudeln kochen",
+      "Nudeln mit Soße"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "名词",
+      "食物",
+      "A1"
+    ],
+    "synonyms": [
+      "Pasta",
+      "Teigwaren"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "nun",
+    "lemma": "nun",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "现在，那么",
+        "en": "now, well"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Nun ist es zu spät.",
+        "zh": "现在太晚了。"
+      },
+      {
+        "de": "Nun, was sollen wir tun?",
+        "zh": "那么，我们该怎么办？"
+      }
+    ],
+    "collocations": [
+      "nun ja",
+      "nun einmal"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "副词",
+      "时间",
+      "A2"
+    ],
+    "synonyms": [
+      "jetzt",
+      "nunmehr"
+    ],
+    "antonyms": [
+      "damals"
+    ]
+  },
+  {
+    "word": "nur",
+    "lemma": "nur",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "只，仅仅",
+        "en": "only, just"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe nur fünf Euro dabei.",
+        "zh": "我只带了五欧元。"
+      },
+      {
+        "de": "Nur keine Panik!",
+        "zh": "千万别慌！"
+      }
+    ],
+    "collocations": [
+      "nur noch",
+      "nur selten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "副词",
+      "限制",
+      "A1"
+    ],
+    "synonyms": [
+      "bloß",
+      "allein"
+    ],
+    "antonyms": [
+      "auch",
+      "sogar"
+    ]
+  },
+  {
+    "word": "nützlich",
+    "lemma": "nützlich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "有用的，有益的",
+        "en": "useful, beneficial"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese App ist sehr nützlich für den Alltag.",
+        "zh": "这个应用在日常生活中非常有用。"
+      },
+      {
+        "de": "Es ist nützlich, früh mit dem Lernen zu beginnen.",
+        "zh": "早点开始学习是有益的。"
+      }
+    ],
+    "collocations": [
+      "nützlich sein",
+      "sich als nützlich erweisen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "形容词",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "hilfreich",
+      "praktisch"
+    ],
+    "antonyms": [
+      "unnütz",
+      "nutzlos"
+    ]
+  },
+  {
+    "word": "Klick",
+    "lemma": "Klick",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Klicks",
+    "meaning": [
+      {
+        "zh": "点击（鼠标）",
+        "en": "click (mouse)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mit einem Klick öffnet sich das Fenster.",
+        "zh": "点击一下，窗口就打开了。"
+      },
+      {
+        "de": "Der Klick auf den Link führt zur Webseite.",
+        "zh": "点击链接会跳转到网页。"
+      }
+    ],
+    "collocations": [
+      "ein Klick mit der Maus",
+      "per Klick"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "名词",
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "Mausklick"
+    ],
+    "antonyms": []
+  }
+]

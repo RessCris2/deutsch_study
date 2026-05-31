@@ -1,0 +1,1510 @@
+[
+  {
+    "word": "Technik",
+    "lemma": "Technik",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Techniken",
+    "meaning": [
+      {
+        "zh": "技术，科技",
+        "en": "technology, technique"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die moderne Technik hat unser Leben verändert.",
+        "zh": "现代技术改变了我们的生活。"
+      },
+      {
+        "de": "Er beherrscht die Technik des Klavierspiels.",
+        "zh": "他掌握了钢琴演奏的技巧。"
+      }
+    ],
+    "collocations": [
+      "moderne Technik",
+      "Technik entwickeln",
+      "Technik anwenden",
+      "Technik studieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "Technologie",
+      "Verfahren"
+    ],
+    "antonyms": [
+      "Natur"
+    ]
+  },
+  {
+    "word": "BAR",
+    "lemma": "Bar",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Bars",
+    "meaning": [
+      {
+        "zh": "酒吧",
+        "en": "bar"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir treffen uns heute Abend in der Bar.",
+        "zh": "我们今晚在酒吧见面。"
+      },
+      {
+        "de": "Die Bar hat bis Mitternacht geöffnet.",
+        "zh": "这家酒吧营业到午夜。"
+      }
+    ],
+    "collocations": [
+      "in die Bar gehen",
+      "an der Bar sitzen",
+      "eine Bar besuchen",
+      "Cocktailbar"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Kneipe",
+      "Lokal"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Telearbeiter",
+    "lemma": "Telearbeiter",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Telearbeiter",
+    "meaning": [
+      {
+        "zh": "远程工作者",
+        "en": "teleworker"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Viele Telearbeiter nutzen Videokonferenzen für Meetings.",
+        "zh": "许多远程工作者使用视频会议进行会议。"
+      },
+      {
+        "de": "Als Telearbeiter arbeitet er von zu Hause aus.",
+        "zh": "作为远程工作者，他在家工作。"
+      }
+    ],
+    "collocations": [
+      "als Telearbeiter arbeiten",
+      "Telearbeiter werden",
+      "Telearbeiter unterstützen",
+      "flexible Telearbeiter"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "工作",
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "Homeoffice-Mitarbeiter",
+      "Fernarbeiter"
+    ],
+    "antonyms": [
+      "Büroangestellter"
+    ]
+  },
+  {
+    "word": "Teilnahmslosigkeit",
+    "lemma": "Teilnahmslosigkeit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "冷漠，无动于衷",
+        "en": "apathy, indifference"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Seine Teilnahmslosigkeit gegenüber den Problemen anderer ist besorgniserregend.",
+        "zh": "他对他人问题的冷漠令人担忧。"
+      },
+      {
+        "de": "Die Teilnahmslosigkeit der Schüler im Unterricht frustriert den Lehrer.",
+        "zh": "学生在课堂上的无动于衷让老师感到沮丧。"
+      }
+    ],
+    "collocations": [
+      "Teilnahmslosigkeit zeigen",
+      "in Teilnahmslosigkeit verfallen",
+      "Teilnahmslosigkeit überwinden",
+      "tiefe Teilnahmslosigkeit"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "情感",
+      "心理",
+      "B2"
+    ],
+    "synonyms": [
+      "Apathie",
+      "Gleichgültigkeit"
+    ],
+    "antonyms": [
+      "Anteilnahme",
+      "Interesse"
+    ]
+  },
+  {
+    "word": "Tempo",
+    "lemma": "Tempo",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Tempos",
+    "meaning": [
+      {
+        "zh": "速度，节奏",
+        "en": "speed, pace"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Tempo des Autos war zu hoch für die Kurve.",
+        "zh": "汽车的速度对于弯道来说太快了。"
+      },
+      {
+        "de": "Sie arbeitet in einem schnellen Tempo.",
+        "zh": "她以快速的工作节奏工作。"
+      }
+    ],
+    "collocations": [
+      "Tempo erhöhen",
+      "Tempo reduzieren",
+      "im gleichen Tempo",
+      "Tempo angeben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "运动",
+      "A2"
+    ],
+    "synonyms": [
+      "Geschwindigkeit",
+      "Rhythmus"
+    ],
+    "antonyms": [
+      "Langsamkeit"
+    ]
+  },
+  {
+    "word": "Thermoskanne",
+    "lemma": "Thermoskanne",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Thermoskannen",
+    "meaning": [
+      {
+        "zh": "保温瓶",
+        "en": "thermos flask"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich fülle den Kaffee in die Thermoskanne, damit er warm bleibt.",
+        "zh": "我把咖啡倒进保温瓶，这样它就能保持温热。"
+      },
+      {
+        "de": "Die Thermoskanne hält das Wasser den ganzen Tag heiß.",
+        "zh": "保温瓶能让水一整天保持热。"
+      }
+    ],
+    "collocations": [
+      "Thermoskanne füllen",
+      "Thermoskanne benutzen",
+      "Thermoskanne mitnehmen",
+      "Kaffee in der Thermoskanne"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "日常用品",
+      "A2"
+    ],
+    "synonyms": [
+      "Isolierkanne",
+      "Wärmflasche (selten)"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "These",
+    "lemma": "These",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Thesen",
+    "meaning": [
+      {
+        "zh": "论点，命题",
+        "en": "thesis, proposition"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Professor stellte eine interessante These zur Diskussion.",
+        "zh": "教授提出了一个有趣的论点供讨论。"
+      },
+      {
+        "de": "Seine These wurde durch die Forschungsergebnisse bestätigt.",
+        "zh": "他的论点得到了研究结果的证实。"
+      }
+    ],
+    "collocations": [
+      "eine These aufstellen",
+      "These vertreten",
+      "These widerlegen",
+      "These diskutieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "学术",
+      "B2"
+    ],
+    "synonyms": [
+      "Behauptung",
+      "Hypothese"
+    ],
+    "antonyms": [
+      "Antithese"
+    ]
+  },
+  {
+    "word": "Thrombose",
+    "lemma": "Thrombose",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Thrombosen",
+    "meaning": [
+      {
+        "zh": "血栓形成",
+        "en": "thrombosis"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Nach der Operation besteht ein erhöhtes Risiko für eine Thrombose.",
+        "zh": "手术后血栓形成的风险增加。"
+      },
+      {
+        "de": "Der Arzt verschrieb Medikamente zur Vorbeugung einer Thrombose.",
+        "zh": "医生开了预防血栓形成的药物。"
+      }
+    ],
+    "collocations": [
+      "Thrombose vorbeugen",
+      "Thrombose behandeln",
+      "Thrombose-Risiko",
+      "tiefe Venenthrombose"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "医学",
+      "健康",
+      "B2"
+    ],
+    "synonyms": [
+      "Gefäßverschluss"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Tinte",
+    "lemma": "Tinte",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Tinten",
+    "meaning": [
+      {
+        "zh": "墨水",
+        "en": "ink"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Tinte ist ausgelaufen.",
+        "zh": "墨水洒了。"
+      },
+      {
+        "de": "Er schreibt mit blauer Tinte.",
+        "zh": "他用蓝色墨水写字。"
+      }
+    ],
+    "collocations": [
+      "schwarze Tinte",
+      "Tinte nachfüllen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "物品",
+      "文具",
+      "B1"
+    ],
+    "synonyms": [
+      "Schreibflüssigkeit"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "tragisch",
+    "lemma": "tragisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "悲剧的",
+        "en": "tragic"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das war ein tragischer Unfall.",
+        "zh": "那是一场悲剧性的事故。"
+      },
+      {
+        "de": "Die Geschichte endet tragisch.",
+        "zh": "这个故事以悲剧告终。"
+      }
+    ],
+    "collocations": [
+      "tragisches Ende",
+      "tragische Figur"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "文学",
+      "B1"
+    ],
+    "synonyms": [
+      "unglücklich",
+      "verhängnisvoll"
+    ],
+    "antonyms": [
+      "glücklich",
+      "komisch"
+    ]
+  },
+  {
+    "word": "trauen",
+    "lemma": "trauen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "信任",
+        "en": "trust"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich traue ihm nicht.",
+        "zh": "我不信任他。"
+      },
+      {
+        "de": "Sie traut sich, allein zu reisen.",
+        "zh": "她敢于独自旅行。"
+      }
+    ],
+    "collocations": [
+      "jemandem trauen",
+      "sich trauen"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "getraut"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "社交",
+      "B1"
+    ],
+    "synonyms": [
+      "vertrauen",
+      "glauben"
+    ],
+    "antonyms": [
+      "misstrauen",
+      "zweifeln"
+    ]
+  },
+  {
+    "word": "Beeren",
+    "lemma": "Beere",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Beeren",
+    "meaning": [
+      {
+        "zh": "浆果",
+        "en": "berries"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Wald wachsen viele Beeren.",
+        "zh": "森林里长着许多浆果。"
+      },
+      {
+        "de": "Sie hat einen Kuchen mit Beeren gebacken.",
+        "zh": "她烤了一个浆果蛋糕。"
+      }
+    ],
+    "collocations": [
+      "frische Beeren",
+      "Beeren pflücken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "食物",
+      "自然",
+      "A2"
+    ],
+    "synonyms": [
+      "Früchte"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "überallhin",
+    "lemma": "überallhin",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "到处",
+        "en": "everywhere"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er folgt ihr überallhin.",
+        "zh": "他到处跟着她。"
+      },
+      {
+        "de": "Man kann mit diesem Ticket überallhin fahren.",
+        "zh": "用这张票可以去任何地方。"
+      }
+    ],
+    "collocations": [
+      "überallhin mitnehmen",
+      "überallhin gehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "方位",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "überall",
+      "an jeden Ort"
+    ],
+    "antonyms": [
+      "nirgendwohin"
+    ]
+  },
+  {
+    "word": "Überblick",
+    "lemma": "Überblick",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "概览",
+        "en": "overview"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Gib mir einen Überblick über das Projekt.",
+        "zh": "给我一个项目的概览。"
+      },
+      {
+        "de": "Er hat den Überblick verloren.",
+        "zh": "他失去了全局观。"
+      }
+    ],
+    "collocations": [
+      "einen Überblick verschaffen",
+      "den Überblick behalten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "抽象",
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "Zusammenfassung",
+      "Gesamtbild"
+    ],
+    "antonyms": [
+      "Detail",
+      "Verwirrung"
+    ]
+  },
+  {
+    "word": "überfliegen",
+    "lemma": "überfliegen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "浏览",
+        "en": "skim"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe den Text nur überflogen.",
+        "zh": "我只是浏览了一下文本。"
+      },
+      {
+        "de": "Er überflog die Zeitung beim Frühstück.",
+        "zh": "他吃早餐时浏览了报纸。"
+      }
+    ],
+    "collocations": [
+      "einen Text überfliegen",
+      "die Nachrichten überfliegen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "überflogen"
+    },
+    "level": "B2",
+    "tags": [
+      "阅读",
+      "日常",
+      "B2"
+    ],
+    "synonyms": [
+      "durchblättern",
+      "überlesen"
+    ],
+    "antonyms": [
+      "studieren",
+      "gründlich lesen"
+    ]
+  },
+  {
+    "word": "überflüssig",
+    "lemma": "überflüssig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "多余的",
+        "en": "superfluous"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Bemerkung war völlig überflüssig.",
+        "zh": "这个评论完全是多余的。"
+      },
+      {
+        "de": "Wir haben überflüssige Ausgaben gestrichen.",
+        "zh": "我们删除了多余的开支。"
+      }
+    ],
+    "collocations": [
+      "überflüssige Arbeit",
+      "sich überflüssig machen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "抽象",
+      "评价",
+      "B1"
+    ],
+    "synonyms": [
+      "unnötig",
+      "entbehrlich"
+    ],
+    "antonyms": [
+      "notwendig",
+      "wichtig"
+    ]
+  },
+  {
+    "word": "Übergangszone",
+    "lemma": "Übergangszone",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Übergangszonen",
+    "meaning": [
+      {
+        "zh": "过渡区",
+        "en": "transition zone"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Übergangszone zwischen Stadt und Land ist oft dünn besiedelt.",
+        "zh": "城乡之间的过渡区通常人口稀少。"
+      },
+      {
+        "de": "In der Übergangszone des Waldes wachsen besondere Pflanzenarten.",
+        "zh": "森林的过渡区生长着特殊的植物种类。"
+      }
+    ],
+    "collocations": [
+      "in der Übergangszone liegen",
+      "eine Übergangszone bilden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "地理",
+      "B2"
+    ],
+    "synonyms": [
+      "Grenzbereich",
+      "Übergangsbereich"
+    ],
+    "antonyms": [
+      "Kernzone"
+    ]
+  },
+  {
+    "word": "überlasten",
+    "lemma": "überlasten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "使超负荷",
+        "en": "to overload"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Stromnetz ist durch den hohen Verbrauch überlastet.",
+        "zh": "由于高消耗，电网超负荷了。"
+      },
+      {
+        "de": "Man sollte den Rücken nicht mit schwerem Heben überlasten.",
+        "zh": "不应该通过提重物使背部超负荷。"
+      }
+    ],
+    "collocations": [
+      "das System überlasten",
+      "jemanden überlasten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "überlastet"
+    },
+    "level": "B2",
+    "tags": [
+      "技术",
+      "健康",
+      "B2"
+    ],
+    "synonyms": [
+      "überfordern",
+      "belasten"
+    ],
+    "antonyms": [
+      "entlasten"
+    ]
+  },
+  {
+    "word": "übernehmen",
+    "lemma": "übernehmen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "接管；承担",
+        "en": "to take over; to assume"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er wird die Firma von seinem Vater übernehmen.",
+        "zh": "他将接管他父亲的公司。"
+      },
+      {
+        "de": "Sie übernimmt die Verantwortung für das Projekt.",
+        "zh": "她承担这个项目的责任。"
+      }
+    ],
+    "collocations": [
+      "die Leitung übernehmen",
+      "eine Aufgabe übernehmen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "übernommen"
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "annehmen",
+      "auf sich nehmen"
+    ],
+    "antonyms": [
+      "ablehnen",
+      "abgeben"
+    ]
+  },
+  {
+    "word": "überquellend",
+    "lemma": "überquellend",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "满溢的；洋溢的",
+        "en": "overflowing; brimming"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Mülleimer war überquellend voll.",
+        "zh": "垃圾桶满得溢出来了。"
+      },
+      {
+        "de": "Sie begrüßte ihn mit überquellender Freude.",
+        "zh": "她以洋溢的喜悦迎接了他。"
+      }
+    ],
+    "collocations": [
+      "überquellend voll sein",
+      "überquellende Begeisterung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "情感",
+      "描述",
+      "B2"
+    ],
+    "synonyms": [
+      "übervoll",
+      "überschäumend"
+    ],
+    "antonyms": [
+      "leer",
+      "knapp"
+    ]
+  },
+  {
+    "word": "Übersättigung",
+    "lemma": "Übersättigung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Übersättigungen",
+    "meaning": [
+      {
+        "zh": "过饱和；过度满足",
+        "en": "oversaturation; satiety"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Übersättigung des Marktes führt zu sinkenden Preisen.",
+        "zh": "市场的过饱和导致价格下降。"
+      },
+      {
+        "de": "Nach dem reichhaltigen Essen verspürte er eine Übersättigung.",
+        "zh": "丰盛的饭后他感到过度满足。"
+      }
+    ],
+    "collocations": [
+      "zur Übersättigung führen",
+      "eine Übersättigung des Marktes"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "经济",
+      "化学",
+      "B2"
+    ],
+    "synonyms": [
+      "Sättigung",
+      "Überfluss"
+    ],
+    "antonyms": [
+      "Mangel",
+      "Unterversorgung"
+    ]
+  },
+  {
+    "word": "überschätzen",
+    "lemma": "überschätzen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "高估",
+        "en": "to overestimate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er überschätzt seine Fähigkeiten im Sport.",
+        "zh": "他高估了自己在运动方面的能力。"
+      },
+      {
+        "de": "Man sollte die Gefahr nicht überschätzen.",
+        "zh": "不应该高估危险。"
+      }
+    ],
+    "collocations": [
+      "jemanden überschätzen",
+      "die Bedeutung überschätzen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "überschätzt"
+    },
+    "level": "B1",
+    "tags": [
+      "心理",
+      "评价",
+      "B1"
+    ],
+    "synonyms": [
+      "überbewerten",
+      "hoch einschätzen"
+    ],
+    "antonyms": [
+      "unterschätzen"
+    ]
+  },
+  {
+    "word": "überschwemmen",
+    "lemma": "überschwemmen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "淹没；泛滥",
+        "en": "to flood; to inundate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Fluss überschwemmte nach dem Regen die Felder.",
+        "zh": "雨后河水淹没了田地。"
+      },
+      {
+        "de": "Die Stadt wurde von Touristen überschwemmt.",
+        "zh": "这座城市被游客淹没了。"
+      }
+    ],
+    "collocations": [
+      "das Land überschwemmen",
+      "mit Anfragen überschwemmt werden"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "überschwemmt"
+    },
+    "level": "B2",
+    "tags": [
+      "自然",
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "überfluten",
+      "überströmen"
+    ],
+    "antonyms": [
+      "austrocknen",
+      "leeren"
+    ]
+  },
+  {
+    "word": "übertragen",
+    "lemma": "übertragen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "传输；转播；传染",
+        "en": "to transmit; to broadcast; to transfer"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Spiel wird live im Fernsehen übertragen.",
+        "zh": "比赛在电视上直播。"
+      },
+      {
+        "de": "Die Krankheit wird durch Mücken übertragen.",
+        "zh": "这种疾病通过蚊子传播。"
+      }
+    ],
+    "collocations": [
+      "eine Sendung übertragen",
+      "eine Krankheit übertragen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "übertragen"
+    },
+    "level": "B1",
+    "tags": [
+      "媒体",
+      "医学",
+      "技术",
+      "B1"
+    ],
+    "synonyms": [
+      "senden",
+      "weitergeben",
+      "übermitteln"
+    ],
+    "antonyms": [
+      "empfangen",
+      "aufhalten"
+    ]
+  },
+  {
+    "word": "übrig",
+    "lemma": "übrig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "剩余的，剩下的",
+        "en": "leftover, remaining"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Es ist noch etwas Geld übrig.",
+        "zh": "还剩一些钱。"
+      },
+      {
+        "de": "Hast du noch ein Stück Kuchen übrig?",
+        "zh": "你还有一块蛋糕剩下吗？"
+      }
+    ],
+    "collocations": [
+      "übrig bleiben",
+      "übrig haben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "restlich",
+      "verbleibend"
+    ],
+    "antonyms": [
+      "fehlend",
+      "vollständig"
+    ]
+  },
+  {
+    "word": "umrüsten",
+    "lemma": "umrüsten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "改装，重新装备",
+        "en": "to retrofit, to convert"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Fabrik wird auf erneuerbare Energien umgerüstet.",
+        "zh": "工厂正在改装使用可再生能源。"
+      },
+      {
+        "de": "Wir müssen die Maschinen für die neue Produktion umrüsten.",
+        "zh": "我们必须为新的生产改装机器。"
+      }
+    ],
+    "collocations": [
+      "auf etwas umrüsten",
+      "umrüsten zu"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "umgerüstet"
+    },
+    "level": "B2",
+    "tags": [
+      "技术",
+      "工业",
+      "B2"
+    ],
+    "synonyms": [
+      "umbauen",
+      "umstellen"
+    ],
+    "antonyms": [
+      "belassen",
+      "beibehalten"
+    ]
+  },
+  {
+    "word": "Umfeld",
+    "lemma": "Umfeld",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Umfelder",
+    "meaning": [
+      {
+        "zh": "环境，周围环境",
+        "en": "environment, surroundings"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In einem ruhigen Umfeld kann man besser lernen.",
+        "zh": "在安静的环境中可以更好地学习。"
+      },
+      {
+        "de": "Das soziale Umfeld spielt eine wichtige Rolle für die Entwicklung.",
+        "zh": "社会环境对发展起着重要作用。"
+      }
+    ],
+    "collocations": [
+      "soziales Umfeld",
+      "berufliches Umfeld",
+      "im Umfeld von"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Umgebung",
+      "Milieu"
+    ],
+    "antonyms": [
+      "Isolation",
+      "Abgeschiedenheit"
+    ]
+  },
+  {
+    "word": "Umstand",
+    "lemma": "Umstand",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Umstände",
+    "meaning": [
+      {
+        "zh": "情况，状况，条件",
+        "en": "circumstance, condition"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Unter diesen Umständen können wir nicht weiterarbeiten.",
+        "zh": "在这种情况下我们无法继续工作。"
+      },
+      {
+        "de": "Er hat sich über die Umstände beschwert.",
+        "zh": "他对这些情况表示不满。"
+      }
+    ],
+    "collocations": [
+      "unter Umständen",
+      "die Umstände berücksichtigen",
+      "erschwerte Umstände"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "日常",
+      "法律",
+      "B1"
+    ],
+    "synonyms": [
+      "Situation",
+      "Lage",
+      "Gegebenheit"
+    ],
+    "antonyms": [
+      "Normalität",
+      "Regel"
+    ]
+  },
+  {
+    "word": "Umstellung",
+    "lemma": "Umstellung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Umstellungen",
+    "meaning": [
+      {
+        "zh": "调整，转换，改变",
+        "en": "conversion, adjustment, changeover"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Umstellung auf das neue System dauert einige Wochen.",
+        "zh": "转换到新系统需要几周时间。"
+      },
+      {
+        "de": "Nach der Umstellung der Ernährung fühlte er sich besser.",
+        "zh": "调整饮食后他感觉好多了。"
+      }
+    ],
+    "collocations": [
+      "Umstellung auf",
+      "Umstellung der Produktion",
+      "große Umstellung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "技术",
+      "生活",
+      "B2"
+    ],
+    "synonyms": [
+      "Änderung",
+      "Wechsel",
+      "Anpassung"
+    ],
+    "antonyms": [
+      "Stabilität",
+      "Beibehaltung"
+    ]
+  },
+  {
+    "word": "unerlässlich",
+    "lemma": "unerlässlich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "不可或缺的，必要的",
+        "en": "indispensable, essential"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Gute Kommunikation ist für ein Team unerlässlich.",
+        "zh": "良好的沟通对一个团队来说是不可或缺的。"
+      },
+      {
+        "de": "Eine gründliche Vorbereitung ist unerlässlich für den Erfolg.",
+        "zh": "充分的准备对成功是必要的。"
+      }
+    ],
+    "collocations": [
+      "unerlässlich für",
+      "als unerlässlich betrachten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "正式",
+      "B2"
+    ],
+    "synonyms": [
+      "notwendig",
+      "erforderlich",
+      "unverzichtbar"
+    ],
+    "antonyms": [
+      "verzichtbar",
+      "entbehrlich"
+    ]
+  },
+  {
+    "word": "ECV",
+    "lemma": "ECV",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "ECVs",
+    "meaning": [
+      {
+        "zh": "欧洲学分转换系统（European Credit Transfer System）的缩写",
+        "en": "European Credit Transfer System (abbreviation)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Universität akzeptiert ECV-Punkte aus dem Ausland.",
+        "zh": "大学接受来自国外的ECV学分。"
+      },
+      {
+        "de": "Für das Auslandssemester müssen mindestens 30 ECV erworben werden.",
+        "zh": "海外学期必须获得至少30个ECV学分。"
+      }
+    ],
+    "collocations": [
+      "ECV-Punkte",
+      "ECV-System",
+      "ECV anrechnen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "教育",
+      "学术",
+      "B2"
+    ],
+    "synonyms": [
+      "ECTS"
+    ],
+    "antonyms": []
+  }
+]

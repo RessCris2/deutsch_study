@@ -1,0 +1,1177 @@
+[
+  {
+    "word": "Netz",
+    "lemma": "Netz",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Netze",
+    "meaning": [
+      {
+        "zh": "网，网络",
+        "en": "net, network"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Netz ist gerissen.",
+        "zh": "网破了。"
+      },
+      {
+        "de": "Er hat das Netz im Internet gefunden.",
+        "zh": "他在互联网上找到了这个网络。"
+      }
+    ],
+    "collocations": [
+      "im Netz surfen",
+      "ein Netz spannen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "技术",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "Gitter",
+      "Netzwerk"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "neuerdings",
+    "lemma": "neuerdings",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "最近，新近",
+        "en": "recently, lately"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Neuerdings arbeitet er von zu Hause aus.",
+        "zh": "他最近在家工作。"
+      },
+      {
+        "de": "Sie hat neuerdings ein neues Hobby.",
+        "zh": "她最近有了一个新爱好。"
+      }
+    ],
+    "collocations": [
+      "neuerdings oft",
+      "neuerdings bekannt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "时间",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "kürzlich",
+      "in letzter Zeit"
+    ],
+    "antonyms": [
+      "früher",
+      "einst"
+    ]
+  },
+  {
+    "word": "nicken",
+    "lemma": "nicken",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "点头",
+        "en": "to nod"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er nickte zustimmend.",
+        "zh": "他赞同地点了点头。"
+      },
+      {
+        "de": "Sie nickte mir zu.",
+        "zh": "她向我点了点头。"
+      }
+    ],
+    "collocations": [
+      "zustimmend nicken",
+      "mit dem Kopf nicken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "genickt"
+    },
+    "level": "A2",
+    "tags": [
+      "动作",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "zustimmen",
+      "bejahen"
+    ],
+    "antonyms": [
+      "schütteln",
+      "verneinen"
+    ]
+  },
+  {
+    "word": "nominieren",
+    "lemma": "nominieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "提名",
+        "en": "to nominate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er wurde für den Preis nominiert.",
+        "zh": "他被提名了该奖项。"
+      },
+      {
+        "de": "Die Partei nominierte einen Kandidaten.",
+        "zh": "该党提名了一位候选人。"
+      }
+    ],
+    "collocations": [
+      "für einen Preis nominieren",
+      "als Kandidaten nominieren"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "nominiert"
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "政治",
+      "B2"
+    ],
+    "synonyms": [
+      "vorschlagen",
+      "auswählen"
+    ],
+    "antonyms": [
+      "ablehnen",
+      "ausschließen"
+    ]
+  },
+  {
+    "word": "ohnehin",
+    "lemma": "ohnehin",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "反正，无论如何",
+        "en": "anyway, anyhow"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist ohnehin nicht wichtig.",
+        "zh": "这反正不重要。"
+      },
+      {
+        "de": "Wir müssen ohnehin gehen.",
+        "zh": "我们无论如何都得走。"
+      }
+    ],
+    "collocations": [
+      "ohnehin schon",
+      "ohnehin klar"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语气",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "sowieso",
+      "jedenfalls"
+    ],
+    "antonyms": [
+      "vielleicht",
+      "eventuell"
+    ]
+  },
+  {
+    "word": "Optimist",
+    "lemma": "Optimist",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Optimisten",
+    "meaning": [
+      {
+        "zh": "乐观主义者",
+        "en": "optimist"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist ein großer Optimist.",
+        "zh": "他是一个非常乐观的人。"
+      },
+      {
+        "de": "Optimisten sehen immer das Positive.",
+        "zh": "乐观主义者总是看到积极的一面。"
+      }
+    ],
+    "collocations": [
+      "ein Optimist sein",
+      "als Optimist gelten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "性格",
+      "B1"
+    ],
+    "synonyms": [
+      "Hoffnungsmensch",
+      "Positivdenker"
+    ],
+    "antonyms": [
+      "Pessimist",
+      "Skeptiker"
+    ]
+  },
+  {
+    "word": "paaren",
+    "lemma": "paaren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "配对，交配；结合",
+        "en": "to pair, to mate; to combine"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Vögel paaren sich im Frühling.",
+        "zh": "鸟儿在春天交配。"
+      },
+      {
+        "de": "Er paart Geschick mit Erfahrung.",
+        "zh": "他把技巧和经验结合起来。"
+      }
+    ],
+    "collocations": [
+      "sich paaren",
+      "paaren mit"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gepaart"
+    },
+    "level": "B2",
+    "tags": [
+      "生物",
+      "抽象",
+      "B2"
+    ],
+    "synonyms": [
+      "vereinen",
+      "kombinieren"
+    ],
+    "antonyms": [
+      "trennen",
+      "scheiden"
+    ]
+  },
+  {
+    "word": "Patent",
+    "lemma": "Patent",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Patente",
+    "meaning": [
+      {
+        "zh": "专利",
+        "en": "patent"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat ein Patent auf seine Erfindung angemeldet.",
+        "zh": "他为他的发明申请了专利。"
+      },
+      {
+        "de": "Das Patent ist abgelaufen.",
+        "zh": "该专利已过期。"
+      }
+    ],
+    "collocations": [
+      "ein Patent anmelden",
+      "Patent erteilen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "法律",
+      "科技",
+      "B2"
+    ],
+    "synonyms": [
+      "Schutzrecht",
+      "Urheberrecht"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Pendler",
+    "lemma": "Pendler",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Pendler",
+    "meaning": [
+      {
+        "zh": "通勤者",
+        "en": "commuter"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Viele Pendler fahren jeden Tag mit dem Zug zur Arbeit.",
+        "zh": "许多通勤者每天乘火车上班。"
+      },
+      {
+        "de": "Der Pendler verliert viel Zeit im Stau.",
+        "zh": "通勤者在堵车中浪费了很多时间。"
+      }
+    ],
+    "collocations": [
+      "Pendlerpauschale",
+      "Pendlerzug"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "交通",
+      "B1"
+    ],
+    "synonyms": [
+      "Berufspendler"
+    ],
+    "antonyms": [
+      "Heimarbeiter"
+    ]
+  },
+  {
+    "word": "per",
+    "lemma": "per",
+    "pos": [
+      "preposition"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "通过；每",
+        "en": "by; per"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Ware wird per Post verschickt.",
+        "zh": "货物通过邮寄发送。"
+      },
+      {
+        "de": "Der Preis beträgt 10 Euro pro Stück.",
+        "zh": "价格是每件10欧元。"
+      }
+    ],
+    "collocations": [
+      "per E-Mail",
+      "per Anhalter"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "介词",
+      "A2"
+    ],
+    "synonyms": [
+      "durch",
+      "mittels"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "Personal",
+    "lemma": "Personal",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "员工；人员",
+        "en": "staff; personnel"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Personal der Firma ist sehr motiviert.",
+        "zh": "公司的员工非常有动力。"
+      },
+      {
+        "de": "Wir brauchen mehr Personal für das Projekt.",
+        "zh": "我们需要更多人员来做这个项目。"
+      }
+    ],
+    "collocations": [
+      "Personalabteilung",
+      "Personalmangel"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "Belegschaft",
+      "Mitarbeiter"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "Personalchef",
+    "lemma": "Personalchef",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Personalchefs",
+    "meaning": [
+      {
+        "zh": "人事主管",
+        "en": "HR manager"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Personalchef führt die Bewerbungsgespräche.",
+        "zh": "人事主管主持面试。"
+      },
+      {
+        "de": "Sie arbeitet als Personalchefin in einem großen Unternehmen.",
+        "zh": "她在一家大公司担任人事主管。"
+      }
+    ],
+    "collocations": [
+      "Personalchef werden",
+      "mit dem Personalchef sprechen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "工作",
+      "B2"
+    ],
+    "synonyms": [
+      "Personalleiter"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "INES",
+    "lemma": "INES",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "国际核事件分级表",
+        "en": "International Nuclear Event Scale"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Unfall wurde auf der INES-Skala als Stufe 4 eingestuft.",
+        "zh": "该事故在国际核事件分级表上被定为4级。"
+      },
+      {
+        "de": "Die INES dient der Klassifizierung von nuklearen Vorfällen.",
+        "zh": "INES用于核事件的分类。"
+      }
+    ],
+    "collocations": [
+      "INES-Skala",
+      "INES-Stufe"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "C1",
+    "tags": [
+      "科技",
+      "C1"
+    ],
+    "synonyms": null,
+    "antonyms": null
+  },
+  {
+    "word": "Persönlichkeit",
+    "lemma": "Persönlichkeit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Persönlichkeiten",
+    "meaning": [
+      {
+        "zh": "个性；人格",
+        "en": "personality"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat eine starke Persönlichkeit.",
+        "zh": "她有个性很强。"
+      },
+      {
+        "de": "Die Entwicklung der Persönlichkeit ist ein lebenslanger Prozess.",
+        "zh": "人格的发展是一个终身的过程。"
+      }
+    ],
+    "collocations": [
+      "Persönlichkeitsentwicklung",
+      "Persönlichkeitsstörung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "心理",
+      "B1"
+    ],
+    "synonyms": [
+      "Charakter",
+      "Wesen"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "Pessimist",
+    "lemma": "Pessimist",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Pessimisten",
+    "meaning": [
+      {
+        "zh": "悲观主义者",
+        "en": "pessimist"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist ein Pessimist und sieht immer das Negative.",
+        "zh": "他是个悲观主义者，总是看到消极的一面。"
+      },
+      {
+        "de": "Pessimisten erwarten oft das Schlimmste.",
+        "zh": "悲观主义者常常预期最坏的情况。"
+      }
+    ],
+    "collocations": [
+      "Pessimist sein",
+      "Pessimist bleiben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "情感",
+      "B2"
+    ],
+    "synonyms": [
+      "Schwarzseher"
+    ],
+    "antonyms": [
+      "Optimist"
+    ]
+  },
+  {
+    "word": "pflegen",
+    "lemma": "pflegen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "护理；保养；习惯于",
+        "en": "to care for; to maintain; to be accustomed to"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie pflegt ihre kranke Mutter.",
+        "zh": "她照顾她生病的母亲。"
+      },
+      {
+        "de": "Er pflegt jeden Morgen einen Spaziergang zu machen.",
+        "zh": "他习惯每天早上散步。"
+      }
+    ],
+    "collocations": [
+      "Kranke pflegen",
+      "Beziehungen pflegen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gepflegt"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "versorgen",
+      "betreuen"
+    ],
+    "antonyms": [
+      "vernachlässigen"
+    ]
+  },
+  {
+    "word": "Phase",
+    "lemma": "Phase",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Phasen",
+    "meaning": [
+      {
+        "zh": "阶段，时期",
+        "en": "phase, stage"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die erste Phase des Projekts ist abgeschlossen.",
+        "zh": "项目的第一阶段已经完成。"
+      },
+      {
+        "de": "In dieser Phase des Lebens ist es wichtig, Erfahrungen zu sammeln.",
+        "zh": "在人生的这个阶段，积累经验很重要。"
+      }
+    ],
+    "collocations": [
+      "in der Phase sein",
+      "eine Phase durchlaufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "时间",
+      "过程",
+      "B1"
+    ],
+    "synonyms": [
+      "Stadium",
+      "Abschnitt"
+    ],
+    "antonyms": [
+      "Ende"
+    ]
+  },
+  {
+    "word": "Philosoph",
+    "lemma": "Philosoph",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Philosophen",
+    "meaning": [
+      {
+        "zh": "哲学家",
+        "en": "philosopher"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Philosoph Aristoteles hatte großen Einfluss auf die westliche Denkweise.",
+        "zh": "哲学家亚里士多德对西方思维方式有很大影响。"
+      },
+      {
+        "de": "Viele Philosophen beschäftigen sich mit der Frage nach dem Sinn des Lebens.",
+        "zh": "许多哲学家研究生命意义的问题。"
+      }
+    ],
+    "collocations": [
+      "ein berühmter Philosoph",
+      "die Werke eines Philosophen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "人物",
+      "学术",
+      "B1"
+    ],
+    "synonyms": [
+      "Denker",
+      "Gelehrter"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Plakat",
+    "lemma": "Plakat",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Plakate",
+    "meaning": [
+      {
+        "zh": "海报，招贴画",
+        "en": "poster, placard"
+      }
+    ],
+    "examples": [
+      {
+        "de": "An der Wand hängt ein buntes Plakat für das Konzert.",
+        "zh": "墙上挂着一张音乐会的彩色海报。"
+      },
+      {
+        "de": "Die Firma ließ Plakate in der ganzen Stadt aufhängen.",
+        "zh": "公司让在全城张贴海报。"
+      }
+    ],
+    "collocations": [
+      "ein Plakat aufhängen",
+      "ein Plakat entwerfen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "媒体",
+      "广告",
+      "A2"
+    ],
+    "synonyms": [
+      "Aushang",
+      "Poster"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "planmäßig",
+    "lemma": "planmäßig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "按计划的，有计划的",
+        "en": "according to plan, scheduled"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Zug kommt planmäßig um 15 Uhr an.",
+        "zh": "火车按计划在15点到达。"
+      },
+      {
+        "de": "Die Arbeiten verlaufen planmäßig und ohne Verzögerungen.",
+        "zh": "工作按计划进行，没有延误。"
+      }
+    ],
+    "collocations": [
+      "planmäßig verlaufen",
+      "planmäßig ankommen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "时间",
+      "交通",
+      "B1"
+    ],
+    "synonyms": [
+      "vorgesehen",
+      "regelmäßig"
+    ],
+    "antonyms": [
+      "unplanmäßig",
+      "verspätet"
+    ]
+  },
+  {
+    "word": "Plattform",
+    "lemma": "Plattform",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Plattformen",
+    "meaning": [
+      {
+        "zh": "平台",
+        "en": "platform"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Firma nutzt eine digitale Plattform für den Kundenservice.",
+        "zh": "公司使用一个数字平台进行客户服务。"
+      },
+      {
+        "de": "Auf der politischen Plattform diskutierten die Kandidaten ihre Ideen.",
+        "zh": "在政治平台上，候选人讨论了他们的想法。"
+      }
+    ],
+    "collocations": [
+      "eine Plattform schaffen",
+      "auf einer Plattform arbeiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "技术",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Basis",
+      "Forum"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Popularität",
+    "lemma": "Popularität",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "受欢迎，知名度",
+        "en": "popularity"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Popularität des Sängers ist in den letzten Jahren gestiegen.",
+        "zh": "这位歌手的知名度近年来上升了。"
+      },
+      {
+        "de": "Die Popularität von Online-Kursen nimmt ständig zu.",
+        "zh": "在线课程的受欢迎程度不断增加。"
+      }
+    ],
+    "collocations": [
+      "an Popularität gewinnen",
+      "große Popularität genießen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "媒体",
+      "B2"
+    ],
+    "synonyms": [
+      "Beliebtheit",
+      "Ansehen"
+    ],
+    "antonyms": [
+      "Unbeliebtheit"
+    ]
+  },
+  {
+    "word": "Printmedium",
+    "lemma": "Printmedium",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Printmedien",
+    "meaning": [
+      {
+        "zh": "印刷媒体",
+        "en": "print medium"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Zeitungen und Zeitschriften sind klassische Printmedien.",
+        "zh": "报纸和杂志是经典的印刷媒体。"
+      },
+      {
+        "de": "Viele Printmedien haben heute auch eine Online-Ausgabe.",
+        "zh": "许多印刷媒体如今也有在线版本。"
+      }
+    ],
+    "collocations": [
+      "ein Printmedium lesen",
+      "das Printmedium verdrängen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "媒体",
+      "技术",
+      "B2"
+    ],
+    "synonyms": [
+      "Druckerzeugnis",
+      "Papiermedium"
+    ],
+    "antonyms": [
+      "Digitalmedium",
+      "Online-Medium"
+    ]
+  },
+  {
+    "word": "Prinzip",
+    "lemma": "Prinzip",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Prinzipien",
+    "meaning": [
+      {
+        "zh": "原则，原理",
+        "en": "principle"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Prinzip der Gleichberechtigung ist in der Verfassung verankert.",
+        "zh": "平等原则被写入宪法。"
+      },
+      {
+        "de": "Er handelt nach dem Prinzip, immer ehrlich zu sein.",
+        "zh": "他按照始终诚实的准则行事。"
+      }
+    ],
+    "collocations": [
+      "ein Prinzip befolgen",
+      "nach einem Prinzip handeln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "道德",
+      "B1"
+    ],
+    "synonyms": [
+      "Grundsatz",
+      "Regel"
+    ],
+    "antonyms": [
+      "Ausnahme"
+    ]
+  },
+  {
+    "word": "produktiv",
+    "lemma": "produktiv",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "富有成效的，多产的",
+        "en": "productive"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Methode ist sehr produktiv.",
+        "zh": "这种方法非常有效。"
+      },
+      {
+        "de": "Er arbeitet heute besonders produktiv.",
+        "zh": "他今天工作特别高效。"
+      }
+    ],
+    "collocations": [
+      "produktiv arbeiten",
+      "produktive Zusammenarbeit"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "形容词",
+      "工作",
+      "效率"
+    ],
+    "synonyms": [
+      "effizient",
+      "ergiebig"
+    ],
+    "antonyms": [
+      "unproduktiv",
+      "ineffizient"
+    ]
+  }
+]

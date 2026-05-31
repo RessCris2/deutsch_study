@@ -1,0 +1,1937 @@
+[
+  {
+    "word": "Beratung",
+    "lemma": "Beratung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Beratungen",
+    "meaning": [
+      {
+        "zh": "咨询，建议",
+        "en": "consultation, advice"
+      },
+      {
+        "zh": "商议，讨论",
+        "en": "counseling, deliberation"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe einen Termin zur Beratung bei der Bank.",
+        "zh": "我在银行有一个咨询预约。"
+      },
+      {
+        "de": "Die Beratung dauerte über eine Stunde.",
+        "zh": "咨询持续了一个多小时。"
+      },
+      {
+        "de": "Nach langer Beratung einigten sie sich auf einen Kompromiss.",
+        "zh": "经过长时间的商议，他们达成了一项妥协。"
+      }
+    ],
+    "collocations": [
+      "eine Beratung durchführen",
+      "zur Beratung gehen",
+      "fachliche Beratung",
+      "Beratung anbieten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "Rat",
+      "Besprechung",
+      "Konsultation"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "bereit",
+    "lemma": "bereit",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "准备好的",
+        "en": "ready, prepared"
+      },
+      {
+        "zh": "愿意的",
+        "en": "willing"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bist du bereit für die Prüfung?",
+        "zh": "你准备好考试了吗？"
+      },
+      {
+        "de": "Er ist bereit, uns zu helfen.",
+        "zh": "他愿意帮助我们。"
+      },
+      {
+        "de": "Das Essen ist bereit.",
+        "zh": "饭准备好了。"
+      }
+    ],
+    "collocations": [
+      "bereit sein für",
+      "bereit zu etwas",
+      "sich bereit erklären",
+      "bereit stehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "fertig",
+      "vorbereitet",
+      "willig"
+    ],
+    "antonyms": [
+      "unbereit",
+      "unwillig"
+    ]
+  },
+  {
+    "word": "bereits",
+    "lemma": "bereits",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "已经",
+        "en": "already"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist bereits angekommen.",
+        "zh": "他已经到了。"
+      },
+      {
+        "de": "Das habe ich bereits gesehen.",
+        "zh": "我已经看过了。"
+      },
+      {
+        "de": "Bereits gestern hat es geregnet.",
+        "zh": "昨天就已经下雨了。"
+      }
+    ],
+    "collocations": [
+      "bereits heute",
+      "bereits gestern",
+      "bereits vorher",
+      "nicht bereits"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "时间",
+      "A2"
+    ],
+    "synonyms": [
+      "schon"
+    ],
+    "antonyms": [
+      "noch nicht"
+    ]
+  },
+  {
+    "word": "berufstätig",
+    "lemma": "berufstätig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "在职的，有工作的",
+        "en": "employed, working"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie ist seit zehn Jahren berufstätig.",
+        "zh": "她已经工作十年了。"
+      },
+      {
+        "de": "Viele berufstätige Mütter haben wenig Freizeit.",
+        "zh": "许多在职母亲很少有空闲时间。"
+      },
+      {
+        "de": "Er ist als Ingenieur berufstätig.",
+        "zh": "他是一名在职工程师。"
+      }
+    ],
+    "collocations": [
+      "berufstätig sein",
+      "berufstätige Eltern",
+      "berufstätig werden",
+      "voll berufstätig"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "工作",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "arbeitend",
+      "erwerbstätig"
+    ],
+    "antonyms": [
+      "arbeitslos",
+      "nicht berufstätig"
+    ]
+  },
+  {
+    "word": "beruhigend",
+    "lemma": "beruhigend",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "令人安心的，镇静的",
+        "en": "calming, reassuring"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Nachricht war sehr beruhigend.",
+        "zh": "这个消息非常令人安心。"
+      },
+      {
+        "de": "Er sprach mit beruhigender Stimme.",
+        "zh": "他用镇静的声音说话。"
+      },
+      {
+        "de": "Das beruhigende Gefühl half ihr, einzuschlafen.",
+        "zh": "这种安心的感觉帮助她入睡。"
+      }
+    ],
+    "collocations": [
+      "beruhigende Worte",
+      "beruhigende Wirkung",
+      "beruhigend wirken",
+      "etwas ist beruhigend"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "tröstlich",
+      "besänftigend"
+    ],
+    "antonyms": [
+      "beunruhigend",
+      "aufregend"
+    ]
+  },
+  {
+    "word": "berühren",
+    "lemma": "berühren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "触摸，碰触",
+        "en": "to touch"
+      },
+      {
+        "zh": "涉及，感动",
+        "en": "to concern, to move emotionally"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bitte berühren Sie die Ausstellung nicht.",
+        "zh": "请不要触摸展品。"
+      },
+      {
+        "de": "Seine Geschichte hat mich tief berührt.",
+        "zh": "他的故事深深地感动了我。"
+      },
+      {
+        "de": "Das Problem berührt viele Menschen.",
+        "zh": "这个问题涉及很多人。"
+      }
+    ],
+    "collocations": [
+      "jemanden berühren",
+      "sich berühren",
+      "tief berührt sein",
+      "ein Thema berühren"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "berührt"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "anfassen",
+      "anrühren",
+      "bewegen"
+    ],
+    "antonyms": [
+      "vermeiden",
+      "ignorieren"
+    ]
+  },
+  {
+    "word": "besagen",
+    "lemma": "besagen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "说明，表明",
+        "en": "to state, to mean, to indicate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Was besagt dieser Satz?",
+        "zh": "这句话说明什么？"
+      },
+      {
+        "de": "Die Regel besagt, dass man hier nicht rauchen darf.",
+        "zh": "这条规定表明这里禁止吸烟。"
+      },
+      {
+        "de": "Seine Worte besagen nichts Gutes.",
+        "zh": "他的话不意味着什么好事。"
+      }
+    ],
+    "collocations": [
+      "etwas besagt, dass",
+      "was besagt ...?",
+      "die Regel besagt",
+      "nichts besagen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "besagt"
+    },
+    "level": "B2",
+    "tags": [
+      "语言",
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "bedeuten",
+      "aussagen",
+      "heißen"
+    ],
+    "antonyms": [
+      "verschweigen"
+    ]
+  },
+  {
+    "word": "Beschäftigung",
+    "lemma": "Beschäftigung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Beschäftigungen",
+    "meaning": [
+      {
+        "zh": "工作，职业",
+        "en": "employment, occupation"
+      },
+      {
+        "zh": "活动，消遣",
+        "en": "activity, pastime"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie sucht eine neue Beschäftigung.",
+        "zh": "她在找一份新工作。"
+      },
+      {
+        "de": "Lesen ist eine beliebte Beschäftigung.",
+        "zh": "阅读是一种受欢迎的消遣活动。"
+      },
+      {
+        "de": "Die Beschäftigung mit diesem Thema dauert schon lange.",
+        "zh": "对这个主题的研究已经持续很久了。"
+      }
+    ],
+    "collocations": [
+      "eine Beschäftigung finden",
+      "Beschäftigung mit etwas",
+      "berufliche Beschäftigung",
+      "sinnvolle Beschäftigung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "工作",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Arbeit",
+      "Tätigkeit",
+      "Job"
+    ],
+    "antonyms": [
+      "Arbeitslosigkeit",
+      "Untätigkeit"
+    ]
+  },
+  {
+    "word": "Bescheid",
+    "lemma": "Bescheid",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Bescheide",
+    "meaning": [
+      {
+        "zh": "通知，告知；决定",
+        "en": "notice, notification; decision"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe noch keinen Bescheid von der Behörde bekommen.",
+        "zh": "我还没有收到当局的通知。"
+      },
+      {
+        "de": "Kannst du mir bitte Bescheid sagen, wann du ankommst?",
+        "zh": "你能告诉我你什么时候到吗？"
+      }
+    ],
+    "collocations": [
+      "Bescheid geben",
+      "Bescheid wissen",
+      "einen Bescheid erhalten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Mitteilung",
+      "Benachrichtigung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Bescheinigung",
+    "lemma": "Bescheinigung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Bescheinigungen",
+    "meaning": [
+      {
+        "zh": "证明，凭证",
+        "en": "certificate, confirmation"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Für die Krankschreibung brauche ich eine ärztliche Bescheinigung.",
+        "zh": "病假需要一份医生证明。"
+      },
+      {
+        "de": "Die Bescheinigung über die Teilnahme am Kurs wurde ausgestellt.",
+        "zh": "课程参与证明已经开具。"
+      }
+    ],
+    "collocations": [
+      "eine Bescheinigung ausstellen",
+      "eine Bescheinigung vorlegen",
+      "ärztliche Bescheinigung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "行政",
+      "B1"
+    ],
+    "synonyms": [
+      "Nachweis",
+      "Zertifikat"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "besetzen",
+    "lemma": "besetzen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "占领；占据；分配角色",
+        "en": "to occupy; to fill (a position); to cast (a role)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Demonstranten haben das Gebäude besetzt.",
+        "zh": "示威者占领了这座建筑。"
+      },
+      {
+        "de": "Die Rolle wurde mit einem bekannten Schauspieler besetzt.",
+        "zh": "这个角色由一位著名演员扮演。"
+      }
+    ],
+    "collocations": [
+      "einen Platz besetzen",
+      "eine Stelle besetzen",
+      "ein Amt besetzen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "besetzt"
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "政治",
+      "B2"
+    ],
+    "synonyms": [
+      "einnehmen",
+      "belegen"
+    ],
+    "antonyms": [
+      "räumen",
+      "freigeben"
+    ]
+  },
+  {
+    "word": "Bestandteil",
+    "lemma": "Bestandteil",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Bestandteile",
+    "meaning": [
+      {
+        "zh": "组成部分，成分",
+        "en": "component, constituent part"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wasser ist ein wichtiger Bestandteil des menschlichen Körpers.",
+        "zh": "水是人体重要的组成部分。"
+      },
+      {
+        "de": "Dieses Projekt ist ein fester Bestandteil unserer Strategie.",
+        "zh": "这个项目是我们战略的固定组成部分。"
+      }
+    ],
+    "collocations": [
+      "ein Bestandteil von etwas sein",
+      "wichtiger Bestandteil",
+      "fester Bestandteil"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Komponente",
+      "Element"
+    ],
+    "antonyms": [
+      "Ganzes"
+    ]
+  },
+  {
+    "word": "bestätigen",
+    "lemma": "bestätigen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "确认，证实",
+        "en": "to confirm, to verify"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Können Sie den Termin schriftlich bestätigen?",
+        "zh": "您能书面确认这个预约吗？"
+      },
+      {
+        "de": "Die Zeugin bestätigte die Aussage des Angeklagten.",
+        "zh": "证人证实了被告的陈述。"
+      }
+    ],
+    "collocations": [
+      "eine Bestellung bestätigen",
+      "eine Vermutung bestätigen",
+      "den Empfang bestätigen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "bestätigt"
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "行政",
+      "B1"
+    ],
+    "synonyms": [
+      "belegen",
+      "verifizieren"
+    ],
+    "antonyms": [
+      "widerlegen",
+      "dementieren"
+    ]
+  },
+  {
+    "word": "bestrafen",
+    "lemma": "bestrafen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "惩罚，处罚",
+        "en": "to punish"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Richter bestrafte den Täter mit einer Geldstrafe.",
+        "zh": "法官判处肇事者罚款。"
+      },
+      {
+        "de": "Wer gegen die Regeln verstößt, wird bestraft.",
+        "zh": "违反规则的人会受到惩罚。"
+      }
+    ],
+    "collocations": [
+      "jemanden für etwas bestrafen",
+      "mit einer Strafe bestrafen",
+      "hart bestrafen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "bestraft"
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "法律",
+      "B1"
+    ],
+    "synonyms": [
+      "ahnden",
+      "strafen"
+    ],
+    "antonyms": [
+      "belohnen",
+      "begnadigen"
+    ]
+  },
+  {
+    "word": "Beton",
+    "lemma": "Beton",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Betone",
+    "meaning": [
+      {
+        "zh": "混凝土",
+        "en": "concrete"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Fundament besteht aus Stahlbeton.",
+        "zh": "地基由钢筋混凝土构成。"
+      },
+      {
+        "de": "Für den Bau werden mehrere Tonnen Beton benötigt.",
+        "zh": "施工需要数吨混凝土。"
+      }
+    ],
+    "collocations": [
+      "Beton mischen",
+      "Beton gießen",
+      "Stahlbeton"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "建筑",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Betonen",
+    "lemma": "betonen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "强调；重读",
+        "en": "to emphasize; to stress"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Lehrer betonte die Wichtigkeit der Hausaufgaben.",
+        "zh": "老师强调了作业的重要性。"
+      },
+      {
+        "de": "Im Deutschen wird die erste Silbe oft betont.",
+        "zh": "在德语中，第一个音节通常重读。"
+      }
+    ],
+    "collocations": [
+      "etwas betonen",
+      "die Bedeutung betonen",
+      "eine Silbe betonen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "betont"
+    },
+    "level": "B1",
+    "tags": [
+      "语言",
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "hervorheben",
+      "unterstreichen"
+    ],
+    "antonyms": [
+      "vernachlässigen",
+      "übersehen"
+    ]
+  },
+  {
+    "word": "Betrag",
+    "lemma": "Betrag",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Beträge",
+    "meaning": [
+      {
+        "zh": "金额，数额",
+        "en": "amount, sum"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bitte überweisen Sie den Betrag auf mein Konto.",
+        "zh": "请将金额汇到我的账户。"
+      },
+      {
+        "de": "Der Betrag von 100 Euro ist fällig.",
+        "zh": "100欧元的金额已到期。"
+      }
+    ],
+    "collocations": [
+      "einen Betrag überweisen",
+      "einen Betrag zahlen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "金融",
+      "B1"
+    ],
+    "synonyms": [
+      "Summe",
+      "Geldbetrag"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Betreff",
+    "lemma": "Betreff",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Betreffe",
+    "meaning": [
+      {
+        "zh": "主题，事由",
+        "en": "subject, reference"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Betreff der E-Mail war falsch.",
+        "zh": "这封邮件的主题错了。"
+      },
+      {
+        "de": "Bitte geben Sie im Betreff Ihre Kundennummer an.",
+        "zh": "请在主题中注明您的客户编号。"
+      }
+    ],
+    "collocations": [
+      "im Betreff",
+      "Betreff angeben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "通信",
+      "B1"
+    ],
+    "synonyms": [
+      "Thema",
+      "Gegenstand"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "betreiben",
+    "lemma": "betreiben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "经营，从事，推动",
+        "en": "to operate, to pursue, to drive"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er betreibt ein kleines Restaurant in der Stadt.",
+        "zh": "他在城里经营一家小餐馆。"
+      },
+      {
+        "de": "Wir müssen die Forschung weiter betreiben.",
+        "zh": "我们必须继续推动研究。"
+      }
+    ],
+    "collocations": [
+      "ein Geschäft betreiben",
+      "Forschung betreiben"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "betrieben"
+    },
+    "level": "B2",
+    "tags": [
+      "商业",
+      "B2"
+    ],
+    "synonyms": [
+      "führen",
+      "ausüben"
+    ],
+    "antonyms": [
+      "aufgeben",
+      "einstellen"
+    ]
+  },
+  {
+    "word": "beurteilen",
+    "lemma": "beurteilen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "评价，判断",
+        "en": "to judge, to assess"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Lehrer beurteilt die Leistungen der Schüler.",
+        "zh": "老师评价学生的成绩。"
+      },
+      {
+        "de": "Man sollte eine Situation nicht zu schnell beurteilen.",
+        "zh": "不应该太快判断一个情况。"
+      }
+    ],
+    "collocations": [
+      "jemanden beurteilen",
+      "eine Situation beurteilen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "beurteilt"
+    },
+    "level": "B2",
+    "tags": [
+      "评价",
+      "B2"
+    ],
+    "synonyms": [
+      "bewerten",
+      "einschätzen"
+    ],
+    "antonyms": [
+      "ignorieren",
+      "übersehen"
+    ]
+  },
+  {
+    "word": "bewältigen",
+    "lemma": "bewältigen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "克服，应对，完成",
+        "en": "to cope with, to overcome, to manage"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat die schwierige Aufgabe erfolgreich bewältigt.",
+        "zh": "她成功完成了这项艰巨的任务。"
+      },
+      {
+        "de": "Wir müssen die Krise gemeinsam bewältigen.",
+        "zh": "我们必须共同应对危机。"
+      }
+    ],
+    "collocations": [
+      "eine Aufgabe bewältigen",
+      "eine Krise bewältigen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "bewältigt"
+    },
+    "level": "B2",
+    "tags": [
+      "心理",
+      "B2"
+    ],
+    "synonyms": [
+      "überwinden",
+      "meistern"
+    ],
+    "antonyms": [
+      "scheitern",
+      "aufgeben"
+    ]
+  },
+  {
+    "word": "Beweis",
+    "lemma": "Beweis",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Beweise",
+    "meaning": [
+      {
+        "zh": "证据，证明",
+        "en": "proof, evidence"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Beweis für seine Unschuld wurde erbracht.",
+        "zh": "他无罪的证据已被提供。"
+      },
+      {
+        "de": "Kannst du einen Beweis für deine Behauptung liefern?",
+        "zh": "你能为你的说法提供证据吗？"
+      }
+    ],
+    "collocations": [
+      "einen Beweis erbringen",
+      "einen Beweis liefern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "法律",
+      "B1"
+    ],
+    "synonyms": [
+      "Nachweis",
+      "Beleg"
+    ],
+    "antonyms": [
+      "Verdacht",
+      "Zweifel"
+    ]
+  },
+  {
+    "word": "beweisen",
+    "lemma": "beweisen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "证明，证实",
+        "en": "to prove, to demonstrate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er konnte seine Theorie experimentell beweisen.",
+        "zh": "他通过实验证明了他的理论。"
+      },
+      {
+        "de": "Sie hat ihr Talent in diesem Wettbewerb bewiesen.",
+        "zh": "她在这个比赛中证明了她的才华。"
+      }
+    ],
+    "collocations": [
+      "eine Theorie beweisen",
+      "sein Können beweisen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "bewiesen"
+    },
+    "level": "B2",
+    "tags": [
+      "科学",
+      "B2"
+    ],
+    "synonyms": [
+      "nachweisen",
+      "belegen"
+    ],
+    "antonyms": [
+      "widerlegen",
+      "bezweifeln"
+    ]
+  },
+  {
+    "word": "bewerben",
+    "lemma": "bewerben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "申请，求职",
+        "en": "to apply (for a job)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat sich bei einer großen Firma beworben.",
+        "zh": "她在一家大公司申请了职位。"
+      },
+      {
+        "de": "Ich möchte mich um diese Stelle bewerben.",
+        "zh": "我想申请这个职位。"
+      }
+    ],
+    "collocations": [
+      "sich um eine Stelle bewerben",
+      "sich bei einer Firma bewerben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "beworben"
+    },
+    "level": "B1",
+    "tags": [
+      "职业",
+      "B1"
+    ],
+    "synonyms": [
+      "sich bewerben um",
+      "sich melden"
+    ],
+    "antonyms": [
+      "ablehnen",
+      "verzichten"
+    ]
+  },
+  {
+    "word": "bewusst",
+    "lemma": "bewusst",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "有意识的，故意的",
+        "en": "conscious, aware, deliberate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat sich bewusst für diesen Beruf entschieden.",
+        "zh": "他有意选择了这个职业。"
+      },
+      {
+        "de": "Mir ist bewusst, dass das nicht einfach wird.",
+        "zh": "我意识到这不会容易。"
+      }
+    ],
+    "collocations": [
+      "sich einer Sache bewusst sein",
+      "bewusst entscheiden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "认知",
+      "B1"
+    ],
+    "synonyms": [
+      "absichtlich",
+      "gewollt"
+    ],
+    "antonyms": [
+      "unbewusst",
+      "unabsichtlich"
+    ]
+  },
+  {
+    "word": "Bewusstsein",
+    "lemma": "Bewusstsein",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "意识，知觉",
+        "en": "consciousness, awareness"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Nach dem Unfall verlor er kurz das Bewusstsein.",
+        "zh": "事故后他短暂失去了意识。"
+      },
+      {
+        "de": "Das Umweltbewusstsein in der Gesellschaft wächst.",
+        "zh": "社会中的环保意识在增长。"
+      }
+    ],
+    "collocations": [
+      "das Bewusstsein verlieren",
+      "das Bewusstsein schärfen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "心理",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Wahrnehmung",
+      "Erkenntnis"
+    ],
+    "antonyms": [
+      "Bewusstlosigkeit",
+      "Unbewusstheit"
+    ]
+  },
+  {
+    "word": "bezeichnen",
+    "lemma": "bezeichnen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "表示，称为，标明",
+        "en": "to designate, to describe, to label"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Man kann ihn als Experten bezeichnen.",
+        "zh": "可以称他为专家。"
+      },
+      {
+        "de": "Dieses Wort bezeichnet einen bestimmten Gegenstand.",
+        "zh": "这个词表示一个特定的物体。"
+      }
+    ],
+    "collocations": [
+      "etwas als etwas bezeichnen",
+      "sich bezeichnen als"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "bezeichnet"
+    },
+    "level": "B1",
+    "tags": [
+      "语言",
+      "认知",
+      "B1"
+    ],
+    "synonyms": [
+      "nennen",
+      "benennen",
+      "kennzeichnen"
+    ],
+    "antonyms": [
+      "verschweigen",
+      "verheimlichen"
+    ]
+  },
+  {
+    "word": "Beziehung",
+    "lemma": "Beziehung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Beziehungen",
+    "meaning": [
+      {
+        "zh": "关系，联系",
+        "en": "relationship, connection"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie haben eine gute Beziehung zueinander.",
+        "zh": "他们彼此关系很好。"
+      },
+      {
+        "de": "Die Beziehung zwischen den beiden Ländern hat sich verbessert.",
+        "zh": "两国之间的关系改善了。"
+      }
+    ],
+    "collocations": [
+      "eine Beziehung haben",
+      "in Beziehung stehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "社会",
+      "人际",
+      "A2"
+    ],
+    "synonyms": [
+      "Verhältnis",
+      "Kontakt"
+    ],
+    "antonyms": [
+      "Trennung",
+      "Distanz"
+    ]
+  },
+  {
+    "word": "beziehungsweise",
+    "lemma": "beziehungsweise",
+    "pos": [
+      "conjunction"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "或者，分别地，也就是",
+        "en": "or respectively, or rather"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er kommt am Montag beziehungsweise Dienstag.",
+        "zh": "他周一或周二来。"
+      },
+      {
+        "de": "Die Kosten betragen 100 beziehungsweise 150 Euro.",
+        "zh": "费用分别为100欧元和150欧元。"
+      }
+    ],
+    "collocations": [
+      "A beziehungsweise B",
+      "oder beziehungsweise"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语言",
+      "逻辑",
+      "B1"
+    ],
+    "synonyms": [
+      "oder",
+      "genauer gesagt"
+    ],
+    "antonyms": [
+      "und",
+      "sowie"
+    ]
+  },
+  {
+    "word": "Bezirk",
+    "lemma": "Bezirk",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Bezirke",
+    "meaning": [
+      {
+        "zh": "区，地区，行政区",
+        "en": "district, region, area"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er wohnt im Bezirk Mitte.",
+        "zh": "他住在中心区。"
+      },
+      {
+        "de": "Der Bezirk hat eine eigene Verwaltung.",
+        "zh": "这个区有自己的管理机构。"
+      }
+    ],
+    "collocations": [
+      "im Bezirk wohnen",
+      "der Bezirk Berlin"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "地理",
+      "行政",
+      "B1"
+    ],
+    "synonyms": [
+      "Region",
+      "Gebiet",
+      "Stadtteil"
+    ],
+    "antonyms": [
+      "Zentrum",
+      "Gesamtstadt"
+    ]
+  },
+  {
+    "word": "bildlich",
+    "lemma": "bildlich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "图像的，形象的，比喻的",
+        "en": "pictorial, figurative, visual"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er erklärte den Vorgang bildlich.",
+        "zh": "他用图像解释了过程。"
+      },
+      {
+        "de": "Das ist eine bildliche Darstellung des Problems.",
+        "zh": "这是问题的形象描述。"
+      }
+    ],
+    "collocations": [
+      "bildliche Darstellung",
+      "bildlich vorstellen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "艺术",
+      "语言",
+      "B1"
+    ],
+    "synonyms": [
+      "anschaulich",
+      "figürlich"
+    ],
+    "antonyms": [
+      "abstrakt",
+      "begrifflich"
+    ]
+  },
+  {
+    "word": "Biologie",
+    "lemma": "Biologie",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "生物学",
+        "en": "biology"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie studiert Biologie an der Universität.",
+        "zh": "她在大学学习生物学。"
+      },
+      {
+        "de": "Biologie ist ein wichtiges Schulfach.",
+        "zh": "生物学是一门重要的学校科目。"
+      }
+    ],
+    "collocations": [
+      "Biologie studieren",
+      "Biologie unterrichten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "科学",
+      "教育",
+      "A2"
+    ],
+    "synonyms": [
+      "Naturwissenschaft",
+      "Lebenswissenschaft"
+    ],
+    "antonyms": [
+      "Physik",
+      "Chemie"
+    ]
+  },
+  {
+    "word": "Biomasse",
+    "lemma": "Biomasse",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Biomassen",
+    "meaning": [
+      {
+        "zh": "生物质",
+        "en": "biomass"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Biomasse wird zur Energiegewinnung genutzt.",
+        "zh": "生物质被用于能源生产。"
+      },
+      {
+        "de": "Die Nutzung von Biomasse reduziert CO2-Emissionen.",
+        "zh": "使用生物质可以减少二氧化碳排放。"
+      }
+    ],
+    "collocations": [
+      "Biomasse nutzen",
+      "Biomasse verbrennen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "环境",
+      "能源",
+      "B2"
+    ],
+    "synonyms": [
+      "Biobrennstoff"
+    ],
+    "antonyms": [
+      "fossiler Brennstoff"
+    ]
+  },
+  {
+    "word": "Biotonne",
+    "lemma": "Biotonne",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Biotonnen",
+    "meaning": [
+      {
+        "zh": "生物垃圾桶",
+        "en": "organic waste bin"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Biotonne wird jede Woche geleert.",
+        "zh": "生物垃圾桶每周被清空一次。"
+      },
+      {
+        "de": "Bitte werfen Sie keine Plastikabfälle in die Biotonne.",
+        "zh": "请不要把塑料垃圾扔进生物垃圾桶。"
+      }
+    ],
+    "collocations": [
+      "Biotonne leeren",
+      "Biotonne benutzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "环保",
+      "A2"
+    ],
+    "synonyms": [
+      "Bioabfalltonne"
+    ],
+    "antonyms": [
+      "Restmülltonne"
+    ]
+  },
+  {
+    "word": "blinken",
+    "lemma": "blinken",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "闪烁；打转向灯",
+        "en": "to flash; to blink"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Auto blinkt vor der Kreuzung.",
+        "zh": "汽车在十字路口前打转向灯。"
+      },
+      {
+        "de": "Die Lichter blinken in der Dunkelheit.",
+        "zh": "灯光在黑暗中闪烁。"
+      }
+    ],
+    "collocations": [
+      "mit dem Auto blinken",
+      "Licht blinkt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geblinkt"
+    },
+    "level": "A2",
+    "tags": [
+      "交通",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "leuchten",
+      "signalisieren"
+    ],
+    "antonyms": [
+      "dunkel sein"
+    ]
+  },
+  {
+    "word": "Boden",
+    "lemma": "Boden",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Böden",
+    "meaning": [
+      {
+        "zh": "地面；土壤；地板",
+        "en": "ground; soil; floor"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Boden ist nass nach dem Regen.",
+        "zh": "雨后地面是湿的。"
+      },
+      {
+        "de": "Wir haben einen Holzboden im Wohnzimmer.",
+        "zh": "我们客厅里有一个木地板。"
+      }
+    ],
+    "collocations": [
+      "auf dem Boden liegen",
+      "fruchtbarer Boden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "自然",
+      "A1"
+    ],
+    "synonyms": [
+      "Erde",
+      "Fußboden"
+    ],
+    "antonyms": [
+      "Decke",
+      "Himmel"
+    ]
+  },
+  {
+    "word": "Borte",
+    "lemma": "Borte",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Borten",
+    "meaning": [
+      {
+        "zh": "饰边；镶边",
+        "en": "trim; border; edging"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Borte am Kleid ist aus Spitze.",
+        "zh": "裙子上的饰边是蕾丝做的。"
+      },
+      {
+        "de": "Sie näht eine goldene Borte an den Vorhang.",
+        "zh": "她把一条金色镶边缝在窗帘上。"
+      }
+    ],
+    "collocations": [
+      "Borte annähen",
+      "Borte verzieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "手工",
+      "服装",
+      "B1"
+    ],
+    "synonyms": [
+      "Einfassung",
+      "Kante"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "brandenburgerisch",
+    "lemma": "brandenburgerisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "勃兰登堡的",
+        "en": "Brandenburgian"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die brandenburgerische Landschaft ist sehr flach.",
+        "zh": "勃兰登堡的风景非常平坦。"
+      },
+      {
+        "de": "Er spricht mit einem brandenburgerischen Akzent.",
+        "zh": "他说话带有勃兰登堡口音。"
+      }
+    ],
+    "collocations": [
+      "brandenburgerische Küche",
+      "brandenburgerische Kultur"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "地理",
+      "文化",
+      "B1"
+    ],
+    "synonyms": [
+      "brandenburgisch"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "TonSarna",
+    "lemma": "TonSarna",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "（专有名词，可能为地名或品牌）",
+        "en": "TonSarna (proper noun, possibly a place or brand)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "TonSarna ist ein kleiner Ort in Deutschland.",
+        "zh": "TonSarna是德国的一个小地方。"
+      },
+      {
+        "de": "Ich habe noch nie von TonSarna gehört.",
+        "zh": "我从未听说过TonSarna。"
+      }
+    ],
+    "collocations": [],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "C1",
+    "tags": [
+      "专有名词",
+      "地理",
+      "C1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  }
+]

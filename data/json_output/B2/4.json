@@ -1,0 +1,1396 @@
+[
+  {
+    "word": "Bogen",
+    "lemma": "Bogen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Bögen",
+    "meaning": [
+      {
+        "zh": "弓；弧；弯曲",
+        "en": "bow; arc; curve"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er spannte den Bogen und schoss den Pfeil ab.",
+        "zh": "他拉弓射箭。"
+      },
+      {
+        "de": "Der Fluss macht einen großen Bogen um die Stadt.",
+        "zh": "河流绕城形成了一个大弯。"
+      }
+    ],
+    "collocations": [
+      "einen Bogen spannen",
+      "einen Bogen machen",
+      "den Bogen überspannen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "物品",
+      "形状",
+      "B1"
+    ],
+    "synonyms": [
+      "Kurve",
+      "Schleife"
+    ],
+    "antonyms": [
+      "Gerade"
+    ]
+  },
+  {
+    "word": "Botschaft",
+    "lemma": "Botschaft",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Botschaften",
+    "meaning": [
+      {
+        "zh": "消息；信息；大使馆",
+        "en": "message; embassy"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Botschaft des Präsidenten wurde im Fernsehen übertragen.",
+        "zh": "总统的讲话在电视上播出了。"
+      },
+      {
+        "de": "Er arbeitet in der deutschen Botschaft in Peking.",
+        "zh": "他在德国驻北京大使馆工作。"
+      }
+    ],
+    "collocations": [
+      "eine Botschaft überbringen",
+      "die Botschaft verstehen",
+      "die Botschaft besuchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "政治",
+      "B1"
+    ],
+    "synonyms": [
+      "Nachricht",
+      "Mitteilung",
+      "Konsulat"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Branche",
+    "lemma": "Branche",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Branchen",
+    "meaning": [
+      {
+        "zh": "行业；领域",
+        "en": "industry; sector"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Automobilbranche ist eine der wichtigsten Industrien in Deutschland.",
+        "zh": "汽车行业是德国最重要的产业之一。"
+      },
+      {
+        "de": "In dieser Branche gibt es viele neue Jobs.",
+        "zh": "这个行业有很多新工作。"
+      }
+    ],
+    "collocations": [
+      "in der Branche arbeiten",
+      "die Branche kennen",
+      "die Branche boomt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "职业",
+      "B1"
+    ],
+    "synonyms": [
+      "Sektor",
+      "Gewerbe"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Briefmarke",
+    "lemma": "Briefmarke",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Briefmarken",
+    "meaning": [
+      {
+        "zh": "邮票",
+        "en": "postage stamp"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe eine Briefmarke auf den Umschlag geklebt.",
+        "zh": "我在信封上贴了一张邮票。"
+      },
+      {
+        "de": "Er sammelt alte Briefmarken aus aller Welt.",
+        "zh": "他收集来自世界各地的旧邮票。"
+      }
+    ],
+    "collocations": [
+      "eine Briefmarke kaufen",
+      "Briefmarken sammeln",
+      "eine Briefmarke aufkleben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "物品",
+      "通信",
+      "A2"
+    ],
+    "synonyms": [
+      "Postwertzeichen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Brille",
+    "lemma": "Brille",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Brillen",
+    "meaning": [
+      {
+        "zh": "眼镜",
+        "en": "glasses; spectacles"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ohne Brille kann ich nichts lesen.",
+        "zh": "没有眼镜我什么也读不了。"
+      },
+      {
+        "de": "Sie trägt eine neue Brille mit blauem Rahmen.",
+        "zh": "她戴着一副蓝色镜框的新眼镜。"
+      }
+    ],
+    "collocations": [
+      "eine Brille tragen",
+      "die Brille putzen",
+      "eine Brille aufsetzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "物品",
+      "健康",
+      "A2"
+    ],
+    "synonyms": [
+      "Sehhilfe"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "buchen",
+    "lemma": "buchen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "预订；记账",
+        "en": "to book; to reserve"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe einen Flug nach Berlin gebucht.",
+        "zh": "我预订了一张去柏林的机票。"
+      },
+      {
+        "de": "Wir buchen das Hotelzimmer online.",
+        "zh": "我们在网上预订酒店房间。"
+      }
+    ],
+    "collocations": [
+      "einen Flug buchen",
+      "ein Hotel buchen",
+      "ein Ticket buchen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gebucht"
+    },
+    "level": "A2",
+    "tags": [
+      "旅行",
+      "经济",
+      "A2"
+    ],
+    "synonyms": [
+      "reservieren",
+      "bestellen"
+    ],
+    "antonyms": [
+      "stornieren"
+    ]
+  },
+  {
+    "word": "Budget",
+    "lemma": "Budget",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Budgets",
+    "meaning": [
+      {
+        "zh": "预算",
+        "en": "budget"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Budget für das Projekt ist begrenzt.",
+        "zh": "这个项目的预算有限。"
+      },
+      {
+        "de": "Wir müssen unser Budget einhalten.",
+        "zh": "我们必须遵守预算。"
+      }
+    ],
+    "collocations": [
+      "das Budget planen",
+      "das Budget einhalten",
+      "das Budget überschreiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "管理",
+      "B1"
+    ],
+    "synonyms": [
+      "Finanzplan",
+      "Etat"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "bummeln",
+    "lemma": "bummeln",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "闲逛；慢行",
+        "en": "to stroll; to wander"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Am Sonntag bummeln wir durch die Altstadt.",
+        "zh": "星期天我们在老城区闲逛。"
+      },
+      {
+        "de": "Sie bummelte gemütlich über den Markt.",
+        "zh": "她悠闲地在市场上闲逛。"
+      }
+    ],
+    "collocations": [
+      "durch die Stadt bummeln",
+      "bummeln gehen",
+      "gemütlich bummeln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "partizip2": "gebummelt"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "休闲",
+      "A2"
+    ],
+    "synonyms": [
+      "schlendern",
+      "flanieren"
+    ],
+    "antonyms": [
+      "eilen",
+      "rennen"
+    ]
+  },
+  {
+    "word": "Campus",
+    "lemma": "Campus",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Campusse",
+    "meaning": [
+      {
+        "zh": "校园",
+        "en": "campus"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Campus der Universität ist sehr groß.",
+        "zh": "这所大学的校园非常大。"
+      },
+      {
+        "de": "Wir treffen uns auf dem Campus.",
+        "zh": "我们在校园里见面。"
+      }
+    ],
+    "collocations": [
+      "auf dem Campus",
+      "Campusleben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "地点"
+    ],
+    "synonyms": [
+      "Universitätsgelände",
+      "Hochschulgelände"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "charakterisieren",
+    "lemma": "charakterisieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "描述…的特征，刻画",
+        "en": "to characterize"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Autor charakterisiert die Hauptfigur als mutig.",
+        "zh": "作者将主角描述为勇敢的。"
+      },
+      {
+        "de": "Man kann diese Epoche durch ihre Kunst charakterisieren.",
+        "zh": "人们可以通过其艺术来刻画这个时代。"
+      }
+    ],
+    "collocations": [
+      "etwas/jemanden als etwas charakterisieren",
+      "sich durch etwas charakterisieren lassen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "charakterisiert"
+    },
+    "level": "B2",
+    "tags": [
+      "语言",
+      "描述"
+    ],
+    "synonyms": [
+      "beschreiben",
+      "kennzeichnen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "checken",
+    "lemma": "checken",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "检查；明白，理解（口语）",
+        "en": "to check; to get (slang)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich muss noch meine E-Mails checken.",
+        "zh": "我还得检查一下我的邮件。"
+      },
+      {
+        "de": "Hast du den Plan gecheckt?",
+        "zh": "你明白这个计划了吗？"
+      }
+    ],
+    "collocations": [
+      "etwas checken",
+      "jemanden checken"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gecheckt"
+    },
+    "level": "B1",
+    "tags": [
+      "日常",
+      "科技"
+    ],
+    "synonyms": [
+      "überprüfen",
+      "kapieren"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Dach",
+    "lemma": "Dach",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Dächer",
+    "meaning": [
+      {
+        "zh": "屋顶",
+        "en": "roof"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Dach des Hauses ist rot.",
+        "zh": "房子的屋顶是红色的。"
+      },
+      {
+        "de": "Vögel sitzen auf dem Dach.",
+        "zh": "鸟停在屋顶上。"
+      }
+    ],
+    "collocations": [
+      "unter einem Dach",
+      "Dachgeschoss"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "建筑",
+      "日常"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "daheim",
+    "lemma": "daheim",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "在家",
+        "en": "at home"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich bin heute Abend daheim.",
+        "zh": "我今晚在家。"
+      },
+      {
+        "de": "Fühl dich wie daheim!",
+        "zh": "请像在家一样自在！"
+      }
+    ],
+    "collocations": [
+      "daheim sein",
+      "sich daheim fühlen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "日常",
+      "地点"
+    ],
+    "synonyms": [
+      "zu Hause"
+    ],
+    "antonyms": [
+      "unterwegs"
+    ]
+  },
+  {
+    "word": "damalig",
+    "lemma": "damalig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "当时的",
+        "en": "of that time, former"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der damalige Präsident hielt eine Rede.",
+        "zh": "当时的总统发表了一场演讲。"
+      },
+      {
+        "de": "In der damaligen Situation war das richtig.",
+        "zh": "在当时的情况下，那是正确的。"
+      }
+    ],
+    "collocations": [
+      "der/die/das damalige",
+      "damalige Verhältnisse"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "时间",
+      "描述"
+    ],
+    "synonyms": [
+      "früher",
+      "ehemalig"
+    ],
+    "antonyms": [
+      "heutig",
+      "jetzig"
+    ]
+  },
+  {
+    "word": "daraufhin",
+    "lemma": "daraufhin",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "随后，于是",
+        "en": "thereupon, subsequently"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er rief mich an, und daraufhin ging ich zu ihm.",
+        "zh": "他打电话给我，于是我就去了他那里。"
+      },
+      {
+        "de": "Daraufhin beschloss sie, zu kündigen.",
+        "zh": "随后她决定辞职。"
+      }
+    ],
+    "collocations": [
+      "und daraufhin",
+      "daraufhin beschließen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "时间",
+      "连接"
+    ],
+    "synonyms": [
+      "danach",
+      "anschließend"
+    ],
+    "antonyms": [
+      "zuvor"
+    ]
+  },
+  {
+    "word": "darstellen",
+    "lemma": "darstellen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "描绘，表现；代表",
+        "en": "to depict, to represent"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Gemälde stellt eine Landschaft dar.",
+        "zh": "这幅画描绘了一片风景。"
+      },
+      {
+        "de": "Diese Statistik stellt die Entwicklung der Bevölkerung dar.",
+        "zh": "这个统计图表表现了人口的发展。"
+      }
+    ],
+    "collocations": [
+      "etwas als etwas darstellen",
+      "sich darstellen lassen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "dargestellt"
+    },
+    "level": "B2",
+    "tags": [
+      "艺术",
+      "描述",
+      "科学"
+    ],
+    "synonyms": [
+      "abbilden",
+      "repräsentieren"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "demokratisch",
+    "lemma": "demokratisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "民主的",
+        "en": "democratic"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die demokratische Regierung wurde gewählt.",
+        "zh": "民主政府被选举产生。"
+      },
+      {
+        "de": "Er vertritt demokratische Werte.",
+        "zh": "他代表民主价值观。"
+      }
+    ],
+    "collocations": [
+      "demokratische Wahlen",
+      "demokratische Grundrechte"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "政治",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "freiheitlich",
+      "volksnah"
+    ],
+    "antonyms": [
+      "diktatorisch",
+      "autoritär"
+    ]
+  },
+  {
+    "word": "deprimieren",
+    "lemma": "deprimieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "使沮丧",
+        "en": "to depress"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das schlechte Wetter deprimiert mich.",
+        "zh": "坏天气让我沮丧。"
+      },
+      {
+        "de": "Die Nachricht hat ihn sehr deprimiert.",
+        "zh": "这个消息让他非常沮丧。"
+      }
+    ],
+    "collocations": [
+      "jemanden deprimieren",
+      "deprimiert sein"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "deprimiert"
+    },
+    "level": "B2",
+    "tags": [
+      "情感",
+      "心理",
+      "B2"
+    ],
+    "synonyms": [
+      "entmutigen",
+      "niederdrücken"
+    ],
+    "antonyms": [
+      "aufmuntern",
+      "ermutigen"
+    ]
+  },
+  {
+    "word": "Design",
+    "lemma": "Design",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Designs",
+    "meaning": [
+      {
+        "zh": "设计",
+        "en": "design"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Design des neuen Autos ist modern.",
+        "zh": "新车的设计很现代。"
+      },
+      {
+        "de": "Sie studiert Design an der Universität.",
+        "zh": "她在大学学习设计。"
+      }
+    ],
+    "collocations": [
+      "modernes Design",
+      "Design studieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "艺术",
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "Gestaltung",
+      "Formgebung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "detonieren",
+    "lemma": "detonieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "爆炸",
+        "en": "to detonate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Bombe detonierte in der Stadtmitte.",
+        "zh": "炸弹在市中心爆炸了。"
+      },
+      {
+        "de": "Das Feuerwerk detonierte laut.",
+        "zh": "烟花大声爆炸了。"
+      }
+    ],
+    "collocations": [
+      "eine Bombe detonieren",
+      "laut detonieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "partizip2": "detoniert"
+    },
+    "level": "B2",
+    "tags": [
+      "军事",
+      "科技",
+      "B2"
+    ],
+    "synonyms": [
+      "explodieren",
+      "zerbersten"
+    ],
+    "antonyms": [
+      "verpuffen"
+    ]
+  },
+  {
+    "word": "deutlich",
+    "lemma": "deutlich",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "清楚的",
+        "en": "clear"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er sprach deutlich und langsam.",
+        "zh": "他清楚而缓慢地说话。"
+      },
+      {
+        "de": "Die Unterschiede sind deutlich sichtbar.",
+        "zh": "差异清晰可见。"
+      }
+    ],
+    "collocations": [
+      "deutlich machen",
+      "deutlich sehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "语言",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "klar",
+      "eindeutig"
+    ],
+    "antonyms": [
+      "unklar",
+      "vage"
+    ]
+  },
+  {
+    "word": "Dichter",
+    "lemma": "Dichter",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Dichter",
+    "meaning": [
+      {
+        "zh": "诗人",
+        "en": "poet"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Goethe war ein berühmter Dichter.",
+        "zh": "歌德是一位著名诗人。"
+      },
+      {
+        "de": "Der Dichter liest aus seinen Werken.",
+        "zh": "诗人朗读他的作品。"
+      }
+    ],
+    "collocations": [
+      "berühmter Dichter",
+      "Dichter und Denker"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "文学",
+      "文化",
+      "B1"
+    ],
+    "synonyms": [
+      "Lyriker",
+      "Poet"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "differenzieren",
+    "lemma": "differenzieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "区分",
+        "en": "to differentiate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Man muss zwischen Ursache und Wirkung differenzieren.",
+        "zh": "必须区分原因和结果。"
+      },
+      {
+        "de": "Die Schüler lernen, Farben zu differenzieren.",
+        "zh": "学生们学习区分颜色。"
+      }
+    ],
+    "collocations": [
+      "zwischen etwas differenzieren",
+      "genau differenzieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "differenziert"
+    },
+    "level": "B2",
+    "tags": [
+      "学术",
+      "思维",
+      "B2"
+    ],
+    "synonyms": [
+      "unterscheiden",
+      "abgrenzen"
+    ],
+    "antonyms": [
+      "vermischen",
+      "gleichsetzen"
+    ]
+  },
+  {
+    "word": "diskutieren",
+    "lemma": "diskutieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "讨论",
+        "en": "to discuss"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir diskutieren das Problem in der Gruppe.",
+        "zh": "我们在小组里讨论这个问题。"
+      },
+      {
+        "de": "Sie diskutierten über die neue Politik.",
+        "zh": "他们讨论了新政策。"
+      }
+    ],
+    "collocations": [
+      "ein Thema diskutieren",
+      "heftig diskutieren"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "diskutiert"
+    },
+    "level": "A2",
+    "tags": [
+      "交流",
+      "社会",
+      "A2"
+    ],
+    "synonyms": [
+      "erörtern",
+      "besprechen"
+    ],
+    "antonyms": [
+      "schweigen",
+      "ignorieren"
+    ]
+  },
+  {
+    "word": "Dissertation",
+    "lemma": "Dissertation",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Dissertationen",
+    "meaning": [
+      {
+        "zh": "博士论文",
+        "en": "doctoral dissertation"
+      },
+      {
+        "zh": "学位论文",
+        "en": "dissertation"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie schreibt ihre Dissertation über Klimawandel.",
+        "zh": "她正在写关于气候变化的博士论文。"
+      },
+      {
+        "de": "Die Dissertation wurde mit Auszeichnung bewertet.",
+        "zh": "这篇博士论文获得了优秀评价。"
+      }
+    ],
+    "collocations": [
+      "eine Dissertation schreiben",
+      "Dissertation verteidigen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "学术",
+      "教育",
+      "B2"
+    ],
+    "synonyms": [
+      "Doktorarbeit",
+      "Abschlussarbeit"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "dominieren",
+    "lemma": "dominieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "支配，主导",
+        "en": "to dominate"
+      },
+      {
+        "zh": "占优势",
+        "en": "to prevail"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In der Diskussion dominierte der Experte.",
+        "zh": "在讨论中，专家占据了主导地位。"
+      },
+      {
+        "de": "Die Firma dominiert den Markt für Elektroautos.",
+        "zh": "这家公司主导了电动汽车市场。"
+      }
+    ],
+    "collocations": [
+      "den Markt dominieren",
+      "das Gespräch dominieren"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "dominiert"
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "经济",
+      "B2"
+    ],
+    "synonyms": [
+      "beherrschen",
+      "vorherrschen"
+    ],
+    "antonyms": [
+      "unterliegen",
+      "nachgeben"
+    ]
+  },
+  {
+    "word": "dösen",
+    "lemma": "dösen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "打瞌睡，小睡",
+        "en": "to doze"
+      },
+      {
+        "zh": "发呆",
+        "en": "to daydream"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er döst nach dem Mittagessen auf dem Sofa.",
+        "zh": "他午饭后在沙发上打瞌睡。"
+      },
+      {
+        "de": "Im Unterricht döste sie vor sich hin.",
+        "zh": "她在课堂上打瞌睡。"
+      }
+    ],
+    "collocations": [
+      "vor sich hin dösen",
+      "im Sessel dösen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gedöst"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "schlummern",
+      "nicken"
+    ],
+    "antonyms": [
+      "aufwachen",
+      "wach sein"
+    ]
+  },
+  {
+    "word": "dramatisch",
+    "lemma": "dramatisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "戏剧性的",
+        "en": "dramatic"
+      },
+      {
+        "zh": "急剧的，严重的",
+        "en": "drastic"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Situation hat sich dramatisch verschlechtert.",
+        "zh": "情况急剧恶化。"
+      },
+      {
+        "de": "Der Film war sehr dramatisch und bewegend.",
+        "zh": "这部电影非常戏剧化且感人。"
+      }
+    ],
+    "collocations": [
+      "dramatische Veränderung",
+      "dramatische Szene"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "描述",
+      "B1"
+    ],
+    "synonyms": [
+      "spektakulär",
+      "einschneidend"
+    ],
+    "antonyms": [
+      "harmlos",
+      "unspektakulär"
+    ]
+  },
+  {
+    "word": "drehen",
+    "lemma": "drehen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "旋转，转动",
+        "en": "to turn"
+      },
+      {
+        "zh": "拍摄（电影）",
+        "en": "to shoot (a film)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er dreht den Schlüssel im Schloss.",
+        "zh": "他转动锁里的钥匙。"
+      },
+      {
+        "de": "Der Regisseur dreht einen neuen Film.",
+        "zh": "导演正在拍摄一部新电影。"
+      }
+    ],
+    "collocations": [
+      "sich im Kreis drehen",
+      "einen Film drehen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gedreht"
+    },
+    "level": "A2",
+    "tags": [
+      "日常",
+      "媒体",
+      "A2"
+    ],
+    "synonyms": [
+      "wenden",
+      "rotieren"
+    ],
+    "antonyms": [
+      "stoppen",
+      "anhalten"
+    ]
+  }
+]

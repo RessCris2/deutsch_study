@@ -1,0 +1,1578 @@
+[
+  {
+    "word": "Display",
+    "lemma": "Display",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Displays",
+    "meaning": [
+      {
+        "zh": "显示屏",
+        "en": "display"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Display des Smartphones ist kaputt.",
+        "zh": "智能手机的显示屏坏了。"
+      },
+      {
+        "de": "Auf dem Display erscheint eine Fehlermeldung.",
+        "zh": "显示屏上出现了一条错误信息。"
+      }
+    ],
+    "collocations": [
+      "das Display einschalten",
+      "das Display reparieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "Bildschirm"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Dokument",
+    "lemma": "Dokument",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Dokumente",
+    "meaning": [
+      {
+        "zh": "文件；文档",
+        "en": "document"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bitte unterschreiben Sie dieses Dokument.",
+        "zh": "请签署这份文件。"
+      },
+      {
+        "de": "Ich habe das Dokument per E-Mail geschickt.",
+        "zh": "我已经通过电子邮件发送了文档。"
+      }
+    ],
+    "collocations": [
+      "ein Dokument öffnen",
+      "ein Dokument ausdrucken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "办公",
+      "B1"
+    ],
+    "synonyms": [
+      "Schriftstück",
+      "Papier"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Donau",
+    "lemma": "Donau",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "多瑙河",
+        "en": "Danube"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Donau fließt durch mehrere Länder.",
+        "zh": "多瑙河流经多个国家。"
+      },
+      {
+        "de": "Wien liegt an der Donau.",
+        "zh": "维也纳位于多瑙河畔。"
+      }
+    ],
+    "collocations": [
+      "an der Donau",
+      "die Donau überqueren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "地理",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Dozent",
+    "lemma": "Dozent",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Dozenten",
+    "meaning": [
+      {
+        "zh": "讲师",
+        "en": "lecturer"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Dozent erklärt die Grammatik sehr gut.",
+        "zh": "这位讲师把语法解释得很好。"
+      },
+      {
+        "de": "Die Dozentin hält einen Vortrag über Geschichte.",
+        "zh": "女讲师做了一个关于历史的报告。"
+      }
+    ],
+    "collocations": [
+      "als Dozent arbeiten",
+      "der Dozent für Deutsch"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "Lehrer",
+      "Professor"
+    ],
+    "antonyms": [
+      "Student"
+    ]
+  },
+  {
+    "word": "Drachenboot",
+    "lemma": "Drachenboot",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Drachenboote",
+    "meaning": [
+      {
+        "zh": "龙舟",
+        "en": "dragon boat"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir fahren im Drachenboot den Fluss entlang.",
+        "zh": "我们划着龙舟沿河而下。"
+      },
+      {
+        "de": "Das Drachenboot ist bunt bemalt.",
+        "zh": "龙舟被涂上了鲜艳的颜色。"
+      }
+    ],
+    "collocations": [
+      "ein Drachenboot steuern",
+      "Drachenboot fahren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "文化",
+      "体育",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Drachenbootfest",
+    "lemma": "Drachenbootfest",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Drachenbootfeste",
+    "meaning": [
+      {
+        "zh": "端午节",
+        "en": "Dragon Boat Festival"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Drachenbootfest wird im Juni gefeiert.",
+        "zh": "端午节在六月庆祝。"
+      },
+      {
+        "de": "Zum Drachenbootfest essen wir Zongzi.",
+        "zh": "端午节我们吃粽子。"
+      }
+    ],
+    "collocations": [
+      "das Drachenbootfest feiern",
+      "am Drachenbootfest"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "文化",
+      "节日",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Drachenkönig",
+    "lemma": "Drachenkönig",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Drachenkönige",
+    "meaning": [
+      {
+        "zh": "龙王",
+        "en": "Dragon King"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Drachenkönig lebt im Meer.",
+        "zh": "龙王住在海里。"
+      },
+      {
+        "de": "In der Legende ruft der Drachenkönig den Regen herbei.",
+        "zh": "传说中龙王召唤雨水。"
+      }
+    ],
+    "collocations": [
+      "der Drachenkönig der chinesischen Mythologie",
+      "den Drachenkönig verehren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "神话",
+      "文化",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Drachentanz",
+    "lemma": "Drachentanz",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Drachentänze",
+    "meaning": [
+      {
+        "zh": "舞龙",
+        "en": "dragon dance"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Drachentanz wird zu Neujahr aufgeführt.",
+        "zh": "舞龙在春节时表演。"
+      },
+      {
+        "de": "Die Kinder schauen dem Drachentanz begeistert zu.",
+        "zh": "孩子们兴奋地观看舞龙。"
+      }
+    ],
+    "collocations": [
+      "einen Drachentanz aufführen",
+      "beim Drachentanz mitmachen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "文化",
+      "表演",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dreirädrig",
+    "lemma": "dreirädrig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "三轮的",
+        "en": "three-wheeled"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ein dreirädriges Fahrrad ist für Kinder geeignet.",
+        "zh": "三轮自行车适合儿童。"
+      },
+      {
+        "de": "Das dreirädrige Auto fährt sehr stabil.",
+        "zh": "这辆三轮车行驶非常稳定。"
+      }
+    ],
+    "collocations": [
+      "dreirädriges Fahrzeug",
+      "dreirädriger Roller"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "形容词",
+      "交通工具",
+      "B1"
+    ],
+    "synonyms": [
+      "dreiradartig"
+    ],
+    "antonyms": [
+      "zweirädrig",
+      "vierrädrig"
+    ]
+  },
+  {
+    "word": "dreitausendjährig",
+    "lemma": "dreitausendjährig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "三千年的",
+        "en": "three-thousand-year-old"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die dreitausendjährige Geschichte dieser Stadt ist faszinierend.",
+        "zh": "这座城市三千年的历史令人着迷。"
+      },
+      {
+        "de": "Ein dreitausendjähriger Baum steht im Park.",
+        "zh": "公园里有一棵三千年的树。"
+      }
+    ],
+    "collocations": [
+      "dreitausendjährige Kultur",
+      "dreitausendjährige Tradition"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "形容词",
+      "时间",
+      "历史",
+      "B2"
+    ],
+    "synonyms": [
+      "uralt"
+    ],
+    "antonyms": [
+      "jung",
+      "neu"
+    ]
+  },
+  {
+    "word": "dual",
+    "lemma": "dual",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "双重的，双元的",
+        "en": "dual"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das duale Studium kombiniert Theorie und Praxis.",
+        "zh": "双元制学习结合了理论和实践。"
+      },
+      {
+        "de": "In diesem System gibt es eine duale Führung.",
+        "zh": "在这个系统中存在双重领导。"
+      }
+    ],
+    "collocations": [
+      "duales System",
+      "duale Ausbildung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "形容词",
+      "教育",
+      "系统",
+      "B1"
+    ],
+    "synonyms": [
+      "zweifach",
+      "doppelt"
+    ],
+    "antonyms": [
+      "einfach",
+      "singular"
+    ]
+  },
+  {
+    "word": "dunkel",
+    "lemma": "dunkel",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "黑暗的，深色的",
+        "en": "dark"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Winter wird es früh dunkel.",
+        "zh": "冬天天黑得早。"
+      },
+      {
+        "de": "Sie trägt ein dunkles Kleid.",
+        "zh": "她穿着一件深色连衣裙。"
+      }
+    ],
+    "collocations": [
+      "dunkle Nacht",
+      "dunkle Farbe"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "形容词",
+      "颜色",
+      "光线",
+      "A2"
+    ],
+    "synonyms": [
+      "finster",
+      "schwarz"
+    ],
+    "antonyms": [
+      "hell",
+      "licht"
+    ]
+  },
+  {
+    "word": "durchführen",
+    "lemma": "durchführen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "执行，进行",
+        "en": "to carry out, to conduct"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Firma führt eine Umfrage durch.",
+        "zh": "公司正在进行一项调查。"
+      },
+      {
+        "de": "Wir müssen das Experiment sorgfältig durchführen.",
+        "zh": "我们必须仔细进行这个实验。"
+      }
+    ],
+    "collocations": [
+      "eine Untersuchung durchführen",
+      "ein Projekt durchführen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "durchgeführt"
+    },
+    "level": "B1",
+    "tags": [
+      "动词",
+      "工作",
+      "行动",
+      "B1"
+    ],
+    "synonyms": [
+      "ausführen",
+      "realisieren"
+    ],
+    "antonyms": [
+      "unterlassen",
+      "abbrechen"
+    ]
+  },
+  {
+    "word": "Durchschnitt",
+    "lemma": "Durchschnitt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Durchschnitte",
+    "meaning": [
+      {
+        "zh": "平均，平均水平",
+        "en": "average"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Durchschnitt der Noten liegt bei 2,5.",
+        "zh": "平均分数为2.5。"
+      },
+      {
+        "de": "Im Durchschnitt arbeitet er 40 Stunden pro Woche.",
+        "zh": "他平均每周工作40小时。"
+      }
+    ],
+    "collocations": [
+      "im Durchschnitt",
+      "über dem Durchschnitt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "名词",
+      "统计",
+      "数学",
+      "B1"
+    ],
+    "synonyms": [
+      "Mittelwert",
+      "Norm"
+    ],
+    "antonyms": [
+      "Extrem",
+      "Ausnahme"
+    ]
+  },
+  {
+    "word": "durchschnittlich",
+    "lemma": "durchschnittlich",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "平均的，一般的",
+        "en": "average, ordinary"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die durchschnittliche Temperatur beträgt 20 Grad.",
+        "zh": "平均温度为20度。"
+      },
+      {
+        "de": "Er ist ein durchschnittlicher Schüler.",
+        "zh": "他是一个普通的学生。"
+      }
+    ],
+    "collocations": [
+      "durchschnittliche Leistung",
+      "durchschnittliches Einkommen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "形容词",
+      "副词",
+      "统计",
+      "B1"
+    ],
+    "synonyms": [
+      "mittel",
+      "normal"
+    ],
+    "antonyms": [
+      "außergewöhnlich",
+      "extrem"
+    ]
+  },
+  {
+    "word": "Durst",
+    "lemma": "Durst",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "口渴",
+        "en": "thirst"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Nach dem Sport habe ich großen Durst.",
+        "zh": "运动后我非常口渴。"
+      },
+      {
+        "de": "Er stillte seinen Durst mit einem Glas Wasser.",
+        "zh": "他用一杯水解渴。"
+      }
+    ],
+    "collocations": [
+      "Durst haben",
+      "Durst stillen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "名词",
+      "身体",
+      "感觉",
+      "A2"
+    ],
+    "synonyms": [
+      "Trockenheit"
+    ],
+    "antonyms": [
+      "Sättigung",
+      "Nässe"
+    ]
+  },
+  {
+    "word": "Edelstein",
+    "lemma": "Edelstein",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Edelsteine",
+    "meaning": [
+      {
+        "zh": "宝石",
+        "en": "gemstone, precious stone"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie trug einen Ring mit einem blauen Edelstein.",
+        "zh": "她戴着一枚镶有蓝色宝石的戒指。"
+      },
+      {
+        "de": "Der Edelstein wurde in einer Mine in Südafrika gefunden.",
+        "zh": "这颗宝石是在南非的一个矿中发现的。"
+      }
+    ],
+    "collocations": [
+      "ein Edelstein funkelt",
+      "einen Edelstein schleifen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "矿物",
+      "珠宝",
+      "B1"
+    ],
+    "synonyms": [
+      "Schmuckstein",
+      "Juwel"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Ehefrau",
+    "lemma": "Ehefrau",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Ehefrauen",
+    "meaning": [
+      {
+        "zh": "妻子",
+        "en": "wife"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Meine Ehefrau und ich feiern nächstes Jahr unseren zehnten Hochzeitstag.",
+        "zh": "我和妻子明年庆祝结婚十周年。"
+      },
+      {
+        "de": "Er stellte seine Ehefrau seinen Kollegen vor.",
+        "zh": "他把妻子介绍给了他的同事。"
+      }
+    ],
+    "collocations": [
+      "seine Ehefrau lieben",
+      "mit der Ehefrau sprechen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "家庭",
+      "社会关系",
+      "A2"
+    ],
+    "synonyms": [
+      "Gattin",
+      "Gemahlin"
+    ],
+    "antonyms": [
+      "Ehemann"
+    ]
+  },
+  {
+    "word": "ehemalig",
+    "lemma": "ehemalig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "以前的，前任的",
+        "en": "former, ex-"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der ehemalige Präsident hielt eine Rede.",
+        "zh": "前总统发表了一场演讲。"
+      },
+      {
+        "de": "Sie traf ihren ehemaligen Lehrer auf der Straße.",
+        "zh": "她在街上遇到了她以前的老师。"
+      }
+    ],
+    "collocations": [
+      "ehemaliger Kollege",
+      "ehemalige Schule"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "时间",
+      "描述",
+      "B1"
+    ],
+    "synonyms": [
+      "früher",
+      "vorherig"
+    ],
+    "antonyms": [
+      "aktuell",
+      "gegenwärtig"
+    ]
+  },
+  {
+    "word": "eigen",
+    "lemma": "eigen",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "自己的，独特的",
+        "en": "own, personal, characteristic"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Jeder Mensch hat seine eigene Meinung.",
+        "zh": "每个人都有自己的观点。"
+      },
+      {
+        "de": "Sie hat ein eigenes Zimmer.",
+        "zh": "她有自己的房间。"
+      }
+    ],
+    "collocations": [
+      "eigenes Haus",
+      "eigene Erfahrung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "所有",
+      "描述",
+      "A2"
+    ],
+    "synonyms": [
+      "persönlich",
+      "individuell"
+    ],
+    "antonyms": [
+      "fremd"
+    ]
+  },
+  {
+    "word": "Eigenständigkeit",
+    "lemma": "Eigenständigkeit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "独立性，自主性",
+        "en": "independence, autonomy"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Eigenständigkeit der Region wird respektiert.",
+        "zh": "该地区的独立性受到尊重。"
+      },
+      {
+        "de": "Er strebt nach finanzieller Eigenständigkeit.",
+        "zh": "他追求经济上的独立。"
+      }
+    ],
+    "collocations": [
+      "Eigenständigkeit bewahren",
+      "Eigenständigkeit fördern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "抽象概念",
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "Unabhängigkeit",
+      "Selbstständigkeit"
+    ],
+    "antonyms": [
+      "Abhängigkeit"
+    ]
+  },
+  {
+    "word": "eilig",
+    "lemma": "eilig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "匆忙的，紧急的",
+        "en": "hurried, urgent"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hatte es eilig und verließ das Haus ohne Frühstück.",
+        "zh": "他很匆忙，没吃早餐就离开了家。"
+      },
+      {
+        "de": "Das ist eine eilige Angelegenheit.",
+        "zh": "这是一件紧急的事情。"
+      }
+    ],
+    "collocations": [
+      "es eilig haben",
+      "eilige Nachricht"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "时间",
+      "状态",
+      "B1"
+    ],
+    "synonyms": [
+      "dringend",
+      "hastig"
+    ],
+    "antonyms": [
+      "langsam",
+      "gemächlich"
+    ]
+  },
+  {
+    "word": "Einkommen",
+    "lemma": "Einkommen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Einkommen",
+    "meaning": [
+      {
+        "zh": "收入",
+        "en": "income"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sein monatliches Einkommen reicht nicht aus, um die Miete zu bezahlen.",
+        "zh": "他的月收入不足以支付房租。"
+      },
+      {
+        "de": "Das durchschnittliche Einkommen in Deutschland ist gestiegen.",
+        "zh": "德国的平均收入有所增长。"
+      }
+    ],
+    "collocations": [
+      "Einkommen erzielen",
+      "steuerpflichtiges Einkommen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "财务",
+      "B1"
+    ],
+    "synonyms": [
+      "Verdienst",
+      "Gehalt"
+    ],
+    "antonyms": [
+      "Ausgabe"
+    ]
+  },
+  {
+    "word": "einsam",
+    "lemma": "einsam",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "孤独的，寂寞的",
+        "en": "lonely, solitary"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Nach dem Umzug fühlte sie sich sehr einsam.",
+        "zh": "搬家后她感到非常孤独。"
+      },
+      {
+        "de": "Er lebt in einem einsamen Haus im Wald.",
+        "zh": "他住在森林里一栋孤零零的房子里。"
+      }
+    ],
+    "collocations": [
+      "sich einsam fühlen",
+      "einsamer Ort"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "状态",
+      "A2"
+    ],
+    "synonyms": [
+      "allein",
+      "verlassen"
+    ],
+    "antonyms": [
+      "gesellig",
+      "beliebt"
+    ]
+  },
+  {
+    "word": "einschalten",
+    "lemma": "einschalten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "打开（电器）",
+        "en": "to switch on"
+      },
+      {
+        "zh": "介入，参与",
+        "en": "to intervene"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du bitte das Licht einschalten?",
+        "zh": "你能把灯打开吗？"
+      },
+      {
+        "de": "Die Polizei musste sich in den Streit einschalten.",
+        "zh": "警察不得不介入这场争吵。"
+      }
+    ],
+    "collocations": [
+      "das Licht einschalten",
+      "den Computer einschalten",
+      "sich in etwas einschalten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "eingeschaltet"
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "anmachen",
+      "aktivieren"
+    ],
+    "antonyms": [
+      "ausschalten",
+      "deaktivieren"
+    ]
+  },
+  {
+    "word": "Einschreibegebühr",
+    "lemma": "Einschreibegebühr",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Einschreibegebühren",
+    "meaning": [
+      {
+        "zh": "注册费",
+        "en": "registration fee"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Einschreibegebühr beträgt 50 Euro.",
+        "zh": "注册费是50欧元。"
+      },
+      {
+        "de": "Vor der Einschreibung muss die Einschreibegebühr bezahlt werden.",
+        "zh": "注册前必须支付注册费。"
+      }
+    ],
+    "collocations": [
+      "Einschreibegebühr bezahlen",
+      "Einschreibegebühr erheben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "费用",
+      "B1"
+    ],
+    "synonyms": [
+      "Anmeldegebühr",
+      "Registrierungsgebühr"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Einschreibung",
+    "lemma": "Einschreibung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Einschreibungen",
+    "meaning": [
+      {
+        "zh": "注册，登记",
+        "en": "registration"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Einschreibung für den Kurs endet morgen.",
+        "zh": "课程的注册明天截止。"
+      },
+      {
+        "de": "Nach der Einschreibung erhält man einen Studentenausweis.",
+        "zh": "注册后会收到学生证。"
+      }
+    ],
+    "collocations": [
+      "Einschreibung für einen Kurs",
+      "Einschreibung an der Universität"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "行政",
+      "B1"
+    ],
+    "synonyms": [
+      "Anmeldung",
+      "Registrierung"
+    ],
+    "antonyms": [
+      "Abmeldung"
+    ]
+  },
+  {
+    "word": "einstecken",
+    "lemma": "einstecken",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "插入，放入",
+        "en": "to insert, to put in"
+      },
+      {
+        "zh": "忍受（口语）",
+        "en": "to take (a hit), to endure"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er steckte den Schlüssel ins Schloss ein.",
+        "zh": "他把钥匙插进锁里。"
+      },
+      {
+        "de": "Der Boxer musste viele Schläge einstecken.",
+        "zh": "拳击手挨了很多拳。"
+      }
+    ],
+    "collocations": [
+      "den Schlüssel einstecken",
+      "Geld einstecken",
+      "Kritik einstecken"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "eingesteckt"
+    },
+    "level": "B1",
+    "tags": [
+      "日常",
+      "动作",
+      "B1"
+    ],
+    "synonyms": [
+      "hineinstecken",
+      "einfügen"
+    ],
+    "antonyms": [
+      "herausnehmen",
+      "ausstecken"
+    ]
+  },
+  {
+    "word": "eintragen",
+    "lemma": "eintragen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "登记，填写",
+        "en": "to enter, to register"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bitte tragen Sie Ihren Namen in die Liste ein.",
+        "zh": "请将您的名字登记在名单上。"
+      },
+      {
+        "de": "Er hat sich für den Kurs eingetragen.",
+        "zh": "他注册了这门课程。"
+      }
+    ],
+    "collocations": [
+      "sich in eine Liste eintragen",
+      "Daten in ein Formular eintragen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "eingetragen"
+    },
+    "level": "B1",
+    "tags": [
+      "行政",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "registrieren",
+      "notieren"
+    ],
+    "antonyms": [
+      "austragen",
+      "löschen"
+    ]
+  },
+  {
+    "word": "Einwohner",
+    "lemma": "Einwohner",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Einwohner",
+    "meaning": [
+      {
+        "zh": "居民",
+        "en": "inhabitant, resident"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Stadt hat 100.000 Einwohner.",
+        "zh": "这座城市有10万居民。"
+      },
+      {
+        "de": "Die Einwohner wurden über die Bauarbeiten informiert.",
+        "zh": "居民们被告知了施工情况。"
+      }
+    ],
+    "collocations": [
+      "Einwohner einer Stadt",
+      "Einwohnerzahl"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "社会",
+      "人口",
+      "A2"
+    ],
+    "synonyms": [
+      "Bewohner",
+      "Bürger"
+    ],
+    "antonyms": [
+      "Auswärtiger",
+      "Besucher"
+    ]
+  },
+  {
+    "word": "Elbe",
+    "lemma": "Elbe",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "易北河",
+        "en": "Elbe River"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Elbe fließt durch Hamburg.",
+        "zh": "易北河流经汉堡。"
+      },
+      {
+        "de": "Wir machen eine Schifffahrt auf der Elbe.",
+        "zh": "我们在易北河上乘船游览。"
+      }
+    ],
+    "collocations": [
+      "an der Elbe",
+      "die Elbe überqueren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "地理",
+      "河流",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "elektronisch",
+    "lemma": "elektronisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "电子的",
+        "en": "electronic"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bitte senden Sie eine elektronische Rechnung.",
+        "zh": "请发送电子发票。"
+      },
+      {
+        "de": "Die elektronische Musik ist sehr beliebt.",
+        "zh": "电子音乐很受欢迎。"
+      }
+    ],
+    "collocations": [
+      "elektronische Geräte",
+      "elektronische Post"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "digital",
+      "computergesteuert"
+    ],
+    "antonyms": [
+      "mechanisch",
+      "analog"
+    ]
+  },
+  {
+    "word": "empfinden",
+    "lemma": "empfinden",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "感受，感觉，觉得",
+        "en": "to feel, to sense, to perceive"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich empfinde große Freude bei diesem Anblick.",
+        "zh": "看到这一幕，我感到非常高兴。"
+      },
+      {
+        "de": "Sie empfindet die Kritik als ungerecht.",
+        "zh": "她觉得这个批评不公平。"
+      }
+    ],
+    "collocations": [
+      "etwas als etwas empfinden",
+      "Schmerz empfinden",
+      "Freude empfinden",
+      "Mitleid empfinden"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "empfunden"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "感知",
+      "B1"
+    ],
+    "synonyms": [
+      "fühlen",
+      "spüren",
+      "wahrnehmen"
+    ],
+    "antonyms": [
+      "ignorieren",
+      "übersehen"
+    ]
+  }
+]

@@ -1,0 +1,1631 @@
+[
+  {
+    "word": "reichen",
+    "lemma": "reichen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "足够，够用",
+        "en": "to be enough, to suffice"
+      },
+      {
+        "zh": "递给，递给",
+        "en": "to hand, to pass"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Geld reicht nicht für den Urlaub.",
+        "zh": "这些钱不够度假用。"
+      },
+      {
+        "de": "Kannst du mir bitte das Salz reichen?",
+        "zh": "你能把盐递给我吗？"
+      }
+    ],
+    "collocations": [
+      "ausreichen",
+      "jemandem etwas reichen",
+      "für etwas reichen",
+      "bis zu etwas reichen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gereicht"
+    },
+    "level": "B1",
+    "tags": [
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "genügen",
+      "ausreichen",
+      "geben"
+    ],
+    "antonyms": [
+      "fehlen",
+      "mangeln"
+    ]
+  },
+  {
+    "word": "reinlegen",
+    "lemma": "reinlegen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "欺骗，愚弄",
+        "en": "to trick, to fool"
+      },
+      {
+        "zh": "放入，放进",
+        "en": "to put in"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat mich mit dieser Lüge reingelegt.",
+        "zh": "他用这个谎言骗了我。"
+      },
+      {
+        "de": "Leg das Buch bitte wieder in die Schublade rein.",
+        "zh": "请把书放回抽屉里。"
+      }
+    ],
+    "collocations": [
+      "jemanden reinlegen",
+      "sich reinlegen lassen",
+      "etwas in etwas reinlegen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "reingelegt"
+    },
+    "level": "B2",
+    "tags": [
+      "日常",
+      "情感",
+      "B2"
+    ],
+    "synonyms": [
+      "täuschen",
+      "betrügen",
+      "hineinlegen"
+    ],
+    "antonyms": [
+      "aufklären",
+      "ehrlich sein"
+    ]
+  },
+  {
+    "word": "Reisebüro",
+    "lemma": "Reisebüro",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Reisebüros",
+    "meaning": [
+      {
+        "zh": "旅行社",
+        "en": "travel agency"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe die Reise im Reisebüro gebucht.",
+        "zh": "我在旅行社预订了这次旅行。"
+      },
+      {
+        "de": "Das Reisebüro bietet viele günstige Angebote an.",
+        "zh": "这家旅行社提供很多优惠套餐。"
+      }
+    ],
+    "collocations": [
+      "ein Reisebüro besuchen",
+      "im Reisebüro buchen",
+      "Reisebüro-Mitarbeiter"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "旅行",
+      "商业",
+      "A2"
+    ],
+    "synonyms": [
+      "Reiseagentur"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "Reisegruppe",
+    "lemma": "Reisegruppe",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Reisegruppen",
+    "meaning": [
+      {
+        "zh": "旅行团",
+        "en": "travel group, tour group"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Reisegruppe besichtigte das Schloss.",
+        "zh": "旅行团参观了城堡。"
+      },
+      {
+        "de": "Eine Reisegruppe von 20 Personen reist nach Italien.",
+        "zh": "一个20人的旅行团前往意大利。"
+      }
+    ],
+    "collocations": [
+      "einer Reisegruppe beitreten",
+      "Reisegruppe führen",
+      "Reisegruppe buchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "旅行",
+      "社会",
+      "A2"
+    ],
+    "synonyms": [
+      "Touristengruppe",
+      "Reisetrupp"
+    ],
+    "antonyms": [
+      "Einzelreisender"
+    ]
+  },
+  {
+    "word": "idie",
+    "lemma": "idie",
+    "pos": [
+      "noun"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "（无效词，可能是拼写错误）",
+        "en": "invalid word, possibly a typo"
+      }
+    ],
+    "examples": [],
+    "collocations": [],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": null,
+    "tags": [
+      "无效"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Rennen",
+    "lemma": "Rennen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Rennen",
+    "meaning": [
+      {
+        "zh": "比赛，赛跑",
+        "en": "race, competition"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat das Rennen gewonnen.",
+        "zh": "他赢得了比赛。"
+      },
+      {
+        "de": "Das Rennen findet am Sonntag statt.",
+        "zh": "比赛在周日举行。"
+      }
+    ],
+    "collocations": [
+      "ein Rennen fahren",
+      "Rennen gewinnen",
+      "an einem Rennen teilnehmen",
+      "Rennen verlieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "体育",
+      "娱乐",
+      "A2"
+    ],
+    "synonyms": [
+      "Wettkampf",
+      "Wettrennen"
+    ],
+    "antonyms": [
+      "Ruhe",
+      "Stillstand"
+    ]
+  },
+  {
+    "word": "reparieren",
+    "lemma": "reparieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "修理，修复",
+        "en": "to repair, to fix"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du mein Fahrrad reparieren?",
+        "zh": "你能修理我的自行车吗？"
+      },
+      {
+        "de": "Der Mechaniker repariert den Motor.",
+        "zh": "机械师正在修理发动机。"
+      }
+    ],
+    "collocations": [
+      "etwas reparieren lassen",
+      "reparieren müssen",
+      "Auto reparieren",
+      "Computer reparieren"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "repariert"
+    },
+    "level": "A2",
+    "tags": [
+      "日常",
+      "技术",
+      "A2"
+    ],
+    "synonyms": [
+      "instand setzen",
+      "ausbessern",
+      "flicken"
+    ],
+    "antonyms": [
+      "kaputt machen",
+      "zerstören"
+    ]
+  },
+  {
+    "word": "Residenz",
+    "lemma": "Residenz",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Residenzen",
+    "meaning": [
+      {
+        "zh": "官邸，住所",
+        "en": "residence, official home"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Residenz des Botschafters liegt im Zentrum.",
+        "zh": "大使的官邸位于市中心。"
+      },
+      {
+        "de": "Das Schloss diente früher als königliche Residenz.",
+        "zh": "这座城堡以前是皇家住所。"
+      }
+    ],
+    "collocations": [
+      "offizielle Residenz",
+      "Residenzstadt",
+      "in der Residenz wohnen",
+      "Residenz wechseln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "建筑",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Wohnsitz",
+      "Domizil",
+      "Sitz"
+    ],
+    "antonyms": [
+      "Provisorium",
+      "Notunterkunft"
+    ]
+  },
+  {
+    "word": "restlich",
+    "lemma": "restlich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "剩余的，剩下的",
+        "en": "remaining, leftover"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das restliche Geld lege ich auf die Bank.",
+        "zh": "我把剩余的钱存到银行。"
+      },
+      {
+        "de": "Die restlichen Aufgaben erledigen wir morgen.",
+        "zh": "剩下的任务我们明天完成。"
+      }
+    ],
+    "collocations": [
+      "restliche Zeit",
+      "restliche Menge"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "数量",
+      "B1"
+    ],
+    "synonyms": [
+      "übrig",
+      "verbleibend"
+    ],
+    "antonyms": [
+      "gesamte",
+      "vollständig"
+    ]
+  },
+  {
+    "word": "retten",
+    "lemma": "retten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "拯救，挽救",
+        "en": "to save, to rescue"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Feuerwehr rettete das Kind aus dem brennenden Haus.",
+        "zh": "消防员从着火的房子里救出了孩子。"
+      },
+      {
+        "de": "Er konnte sein Leben nur knapp retten.",
+        "zh": "他勉强保住了性命。"
+      }
+    ],
+    "collocations": [
+      "jemanden retten",
+      "Leben retten",
+      "sich retten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gerettet"
+    },
+    "level": "B1",
+    "tags": [
+      "行动",
+      "B1"
+    ],
+    "synonyms": [
+      "befreien",
+      "bewahren"
+    ],
+    "antonyms": [
+      "gefährden",
+      "verlieren"
+    ]
+  },
+  {
+    "word": "Rhein",
+    "lemma": "Rhein",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "莱茵河",
+        "en": "Rhine River"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Rhein fließt durch mehrere europäische Länder.",
+        "zh": "莱茵河流经多个欧洲国家。"
+      },
+      {
+        "de": "Wir machen eine Schifffahrt auf dem Rhein.",
+        "zh": "我们在莱茵河上乘船游览。"
+      }
+    ],
+    "collocations": [
+      "am Rhein",
+      "Rhein entlang",
+      "Rheinüberquerung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "地理",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Rheinland",
+    "lemma": "Rheinland",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "莱茵兰（德国地区）",
+        "en": "Rhineland (region in Germany)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Rheinland ist bekannt für seine Weinberge.",
+        "zh": "莱茵兰以其葡萄园而闻名。"
+      },
+      {
+        "de": "Im Rheinland wird Karneval besonders ausgelassen gefeiert.",
+        "zh": "在莱茵兰，狂欢节庆祝得特别热闹。"
+      }
+    ],
+    "collocations": [
+      "im Rheinland",
+      "Rheinland-Pfalz",
+      "Rheinland-Karneval"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "地理",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Rikscha",
+    "lemma": "Rikscha",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Rikschas",
+    "meaning": [
+      {
+        "zh": "人力车，三轮车",
+        "en": "rickshaw"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In vielen asiatischen Städten fährt man noch mit der Rikscha.",
+        "zh": "在许多亚洲城市，人们仍然乘坐人力车。"
+      },
+      {
+        "de": "Der Fahrer der Rikscha trat kräftig in die Pedale.",
+        "zh": "人力车夫用力踩踏板。"
+      }
+    ],
+    "collocations": [
+      "mit der Rikscha fahren",
+      "Rikscha-Fahrer"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "交通",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Roman",
+    "lemma": "Roman",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Romane",
+    "meaning": [
+      {
+        "zh": "小说",
+        "en": "novel"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieser Roman spielt im 19. Jahrhundert.",
+        "zh": "这部小说以19世纪为背景。"
+      },
+      {
+        "de": "Sie liest gerne historische Romane.",
+        "zh": "她喜欢读历史小说。"
+      }
+    ],
+    "collocations": [
+      "einen Roman lesen",
+      "Roman schreiben",
+      "historischer Roman"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "文学",
+      "A2"
+    ],
+    "synonyms": [
+      "Erzählung",
+      "Buch"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Rosenmontag",
+    "lemma": "Rosenmontag",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Rosenmontage",
+    "meaning": [
+      {
+        "zh": "玫瑰星期一（狂欢节高潮日）",
+        "en": "Rose Monday (carnival highlight)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Am Rosenmontag finden in Köln große Umzüge statt.",
+        "zh": "在玫瑰星期一，科隆有大型游行。"
+      },
+      {
+        "de": "Viele Menschen verkleiden sich am Rosenmontag.",
+        "zh": "许多人在玫瑰星期一化妆打扮。"
+      }
+    ],
+    "collocations": [
+      "Rosenmontagsumzug",
+      "am Rosenmontag feiern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "节日",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Rotkäppchen",
+    "lemma": "Rotkäppchen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "小红帽（童话人物）",
+        "en": "Little Red Riding Hood (fairy tale character)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Rotkäppchen bringt der Großmutter Kuchen und Wein.",
+        "zh": "小红帽给祖母带去蛋糕和酒。"
+      },
+      {
+        "de": "Im Märchen begegnet Rotkäppchen dem Wolf.",
+        "zh": "在童话中，小红帽遇到了狼。"
+      }
+    ],
+    "collocations": [
+      "Rotkäppchen und der Wolf",
+      "Märchen von Rotkäppchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "文学",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Rückkehr",
+    "lemma": "Rückkehr",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "返回，回归",
+        "en": "return"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Rückkehr nach Hause war sehr emotional.",
+        "zh": "回家非常令人感动。"
+      },
+      {
+        "de": "Er freut sich auf die Rückkehr seiner Familie.",
+        "zh": "他很期待家人的回归。"
+      }
+    ],
+    "collocations": [
+      "die Rückkehr in den Beruf",
+      "die Rückkehr zur Normalität"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "Wiederkehr",
+      "Heimkehr"
+    ],
+    "antonyms": [
+      "Abreise",
+      "Abschied"
+    ]
+  },
+  {
+    "word": "rufen",
+    "lemma": "rufen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "喊，叫；呼唤",
+        "en": "to call, to shout"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er rief laut um Hilfe.",
+        "zh": "他大声呼救。"
+      },
+      {
+        "de": "Die Mutter ruft die Kinder zum Abendessen.",
+        "zh": "母亲叫孩子们吃晚饭。"
+      }
+    ],
+    "collocations": [
+      "um Hilfe rufen",
+      "jemanden zu sich rufen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gerufen"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "沟通",
+      "A2"
+    ],
+    "synonyms": [
+      "schreien",
+      "brüllen"
+    ],
+    "antonyms": [
+      "flüstern",
+      "schweigen"
+    ]
+  },
+  {
+    "word": "Ruhe",
+    "lemma": "Ruhe",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "安静，平静；休息",
+        "en": "quiet, calm; rest"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich brauche etwas Ruhe, um mich zu konzentrieren.",
+        "zh": "我需要一些安静来集中注意力。"
+      },
+      {
+        "de": "Nach der Arbeit genießt er die Ruhe zu Hause.",
+        "zh": "下班后他享受家里的宁静。"
+      }
+    ],
+    "collocations": [
+      "Ruhe geben",
+      "in Ruhe lassen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "Stille",
+      "Frieden"
+    ],
+    "antonyms": [
+      "Lärm",
+      "Unruhe"
+    ]
+  },
+  {
+    "word": "Rundfunk",
+    "lemma": "Rundfunk",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "广播，无线电广播",
+        "en": "broadcasting, radio"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Rundfunk informiert die Bürger über aktuelle Ereignisse.",
+        "zh": "广播向市民通报最新事件。"
+      },
+      {
+        "de": "Sie arbeitet beim öffentlich-rechtlichen Rundfunk.",
+        "zh": "她在公共广播机构工作。"
+      }
+    ],
+    "collocations": [
+      "öffentlich-rechtlicher Rundfunk",
+      "Rundfunk und Fernsehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "媒体",
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "Radio",
+      "Sendung"
+    ],
+    "antonyms": [
+      "Stille",
+      "Schweigen"
+    ]
+  },
+  {
+    "word": "Saal",
+    "lemma": "Saal",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Säle",
+    "meaning": [
+      {
+        "zh": "大厅，厅堂",
+        "en": "hall, room"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Saal war für das Konzert voll besetzt.",
+        "zh": "大厅里坐满了听音乐会的人。"
+      },
+      {
+        "de": "Sie mieteten einen großen Saal für die Hochzeit.",
+        "zh": "他们为婚礼租了一个大礼堂。"
+      }
+    ],
+    "collocations": [
+      "im Saal",
+      "einen Saal buchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "建筑",
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Halle",
+      "Raum"
+    ],
+    "antonyms": [
+      "Kabinett",
+      "Zimmer"
+    ]
+  },
+  {
+    "word": "sammeln",
+    "lemma": "sammeln",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "收集，聚集",
+        "en": "to collect, to gather"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er sammelt Briefmarken aus aller Welt.",
+        "zh": "他收集世界各地的邮票。"
+      },
+      {
+        "de": "Die Kinder sammeln im Herbst bunte Blätter.",
+        "zh": "孩子们在秋天收集彩色的叶子。"
+      }
+    ],
+    "collocations": [
+      "Erfahrungen sammeln",
+      "Geld sammeln"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gesammelt"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "活动",
+      "A2"
+    ],
+    "synonyms": [
+      "ansammeln",
+      "zusammenbringen"
+    ],
+    "antonyms": [
+      "verteilen",
+      "zerstreuen"
+    ]
+  },
+  {
+    "word": "sauber",
+    "lemma": "sauber",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "干净的，清洁的",
+        "en": "clean"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Zimmer ist sauber und ordentlich.",
+        "zh": "房间干净整洁。"
+      },
+      {
+        "de": "Er wäscht die Teller, bis sie sauber sind.",
+        "zh": "他把盘子洗到干净为止。"
+      }
+    ],
+    "collocations": [
+      "sauber machen",
+      "sauber halten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "日常",
+      "A1"
+    ],
+    "synonyms": [
+      "rein",
+      "blitzblank"
+    ],
+    "antonyms": [
+      "schmutzig",
+      "dreckig"
+    ]
+  },
+  {
+    "word": "Sauberkeit",
+    "lemma": "Sauberkeit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "清洁，干净",
+        "en": "cleanliness"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In diesem Hotel wird großen Wert auf Sauberkeit gelegt.",
+        "zh": "这家酒店非常重视清洁。"
+      },
+      {
+        "de": "Die Sauberkeit der Küche ist für die Gesundheit wichtig.",
+        "zh": "厨房的清洁对健康很重要。"
+      }
+    ],
+    "collocations": [
+      "auf Sauberkeit achten",
+      "für Sauberkeit sorgen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "健康",
+      "B1"
+    ],
+    "synonyms": [
+      "Reinheit",
+      "Hygiene"
+    ],
+    "antonyms": [
+      "Schmutz",
+      "Unordnung"
+    ]
+  },
+  {
+    "word": "scheinen",
+    "lemma": "scheinen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "照耀，发光",
+        "en": "to shine"
+      },
+      {
+        "zh": "似乎，看起来",
+        "en": "to seem, to appear"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Sonne scheint heute hell.",
+        "zh": "今天阳光明媚。"
+      },
+      {
+        "de": "Er scheint müde zu sein.",
+        "zh": "他看起来累了。"
+      }
+    ],
+    "collocations": [
+      "die Sonne scheint",
+      "es scheint, dass ...",
+      "scheinen + zu + Infinitiv"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geschienen"
+    },
+    "level": "B1",
+    "tags": [
+      "自然",
+      "感知",
+      "B1"
+    ],
+    "synonyms": [
+      "leuchten",
+      "wirken",
+      "aussehen"
+    ],
+    "antonyms": [
+      "verschwinden",
+      "dunkel sein"
+    ]
+  },
+  {
+    "word": "Schere",
+    "lemma": "Schere",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Scheren",
+    "meaning": [
+      {
+        "zh": "剪刀",
+        "en": "scissors"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mit der Schere schneide ich das Papier.",
+        "zh": "我用剪刀剪纸。"
+      },
+      {
+        "de": "Die Schere liegt auf dem Tisch.",
+        "zh": "剪刀在桌子上。"
+      }
+    ],
+    "collocations": [
+      "eine Schere benutzen",
+      "mit der Schere schneiden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "日常",
+      "工具",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Schichtarbeit",
+    "lemma": "Schichtarbeit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "轮班工作",
+        "en": "shift work"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Schichtarbeit kann den Schlafrhythmus stören.",
+        "zh": "轮班工作会扰乱睡眠节奏。"
+      },
+      {
+        "de": "Viele Krankenpfleger arbeiten in Schichtarbeit.",
+        "zh": "许多护士从事轮班工作。"
+      }
+    ],
+    "collocations": [
+      "Schichtarbeit leisten",
+      "in Schichtarbeit arbeiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "工作",
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "Wechselschicht"
+    ],
+    "antonyms": [
+      "Tagarbeit"
+    ]
+  },
+  {
+    "word": "schick",
+    "lemma": "schick",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "时髦的，漂亮的",
+        "en": "chic, stylish"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie trägt ein schickes Kleid.",
+        "zh": "她穿着一件时髦的裙子。"
+      },
+      {
+        "de": "Das Restaurant ist sehr schick eingerichtet.",
+        "zh": "这家餐厅装修得很漂亮。"
+      }
+    ],
+    "collocations": [
+      "schick aussehen",
+      "schick gekleidet sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "时尚",
+      "外观",
+      "B1"
+    ],
+    "synonyms": [
+      "elegant",
+      "modisch",
+      "stilvoll"
+    ],
+    "antonyms": [
+      "unmodern",
+      "schlicht"
+    ]
+  },
+  {
+    "word": "schicken",
+    "lemma": "schicken",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "发送，寄送",
+        "en": "to send"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich schicke dir eine E-Mail.",
+        "zh": "我给你发一封电子邮件。"
+      },
+      {
+        "de": "Er schickt das Paket per Post.",
+        "zh": "他通过邮局寄送包裹。"
+      }
+    ],
+    "collocations": [
+      "eine Nachricht schicken",
+      "jemanden schicken"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geschickt"
+    },
+    "level": "A2",
+    "tags": [
+      "通信",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "senden",
+      "versenden"
+    ],
+    "antonyms": [
+      "empfangen",
+      "erhalten"
+    ]
+  },
+  {
+    "word": "schießen",
+    "lemma": "schießen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "射击，开枪",
+        "en": "to shoot"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Jäger schießt auf den Hirsch.",
+        "zh": "猎人向鹿射击。"
+      },
+      {
+        "de": "Er schießt den Ball ins Tor.",
+        "zh": "他把球射进球门。"
+      }
+    ],
+    "collocations": [
+      "mit einem Gewehr schießen",
+      "auf jemanden schießen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geschossen"
+    },
+    "level": "B1",
+    "tags": [
+      "运动",
+      "军事",
+      "B1"
+    ],
+    "synonyms": [
+      "feuern",
+      "abdrücken"
+    ],
+    "antonyms": [
+      "zielen",
+      "halten"
+    ]
+  },
+  {
+    "word": "schildern",
+    "lemma": "schildern",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "描述，描绘",
+        "en": "to describe, to depict"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er schildert den Unfallhergang genau.",
+        "zh": "他详细描述了事故经过。"
+      },
+      {
+        "de": "Sie schildert ihre Eindrücke von der Reise.",
+        "zh": "她描述了她旅行的印象。"
+      }
+    ],
+    "collocations": [
+      "etwas genau schildern",
+      "eine Situation schildern"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geschildert"
+    },
+    "level": "B2",
+    "tags": [
+      "沟通",
+      "叙述",
+      "B2"
+    ],
+    "synonyms": [
+      "beschreiben",
+      "darstellen",
+      "erzählen"
+    ],
+    "antonyms": [
+      "verschweigen",
+      "verheimlichen"
+    ]
+  },
+  {
+    "word": "Schlange",
+    "lemma": "Schlange",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Schlangen",
+    "meaning": [
+      {
+        "zh": "蛇",
+        "en": "snake"
+      },
+      {
+        "zh": "长队",
+        "en": "queue, line"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Zoo habe ich eine große Schlange gesehen.",
+        "zh": "在动物园我看到了一条大蛇。"
+      },
+      {
+        "de": "Wir stehen in einer langen Schlange an der Kasse.",
+        "zh": "我们在收银台排着长队。"
+      }
+    ],
+    "collocations": [
+      "eine Schlange stehen",
+      "sich in eine Schlange einreihen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "动物",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "Reihe",
+      "Warteschlange"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "schleppen",
+    "lemma": "schleppen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "拖，拉，搬运（重物）",
+        "en": "to drag, to haul, to lug"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er musste die schweren Koffer die Treppe hoch schleppen.",
+        "zh": "他不得不把沉重的箱子拖上楼梯。"
+      },
+      {
+        "de": "Wir haben die Möbel in den dritten Stock geschleppt.",
+        "zh": "我们把家具搬到了四楼。"
+      }
+    ],
+    "collocations": [
+      "schwere Kisten schleppen",
+      "sich mit etwas schleppen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geschleppt"
+    },
+    "level": "B1",
+    "tags": [
+      "动作",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "ziehen",
+      "tragen",
+      "befördern"
+    ],
+    "antonyms": [
+      "schieben",
+      "rollen"
+    ]
+  },
+  {
+    "word": "schmücken",
+    "lemma": "schmücken",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "装饰，点缀",
+        "en": "to decorate, to adorn"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kinder schmücken den Weihnachtsbaum mit bunten Kugeln.",
+        "zh": "孩子们用彩球装饰圣诞树。"
+      },
+      {
+        "de": "Sie schmückte den Saal mit Blumen für die Feier.",
+        "zh": "她为庆祝活动用鲜花装饰了大厅。"
+      }
+    ],
+    "collocations": [
+      "einen Baum schmücken",
+      "sich mit Schmuck schmücken"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geschmückt"
+    },
+    "level": "B1",
+    "tags": [
+      "日常",
+      "节日",
+      "B1"
+    ],
+    "synonyms": [
+      "dekorieren",
+      "verzieren",
+      "ausschmücken"
+    ],
+    "antonyms": [
+      "entfernen",
+      "abnehmen"
+    ]
+  }
+]

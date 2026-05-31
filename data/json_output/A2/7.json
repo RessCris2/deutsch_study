@@ -1,0 +1,1778 @@
+[
+  {
+    "word": "Ende",
+    "lemma": "Ende",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Enden",
+    "meaning": [
+      {
+        "zh": "结束，终点",
+        "en": "end, finish"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Am Ende des Films gab es eine Überraschung.",
+        "zh": "电影结束时有一个惊喜。"
+      },
+      {
+        "de": "Das Ende der Straße ist nicht weit.",
+        "zh": "路的尽头不远了。"
+      }
+    ],
+    "collocations": [
+      "am Ende",
+      "zu Ende gehen",
+      "ein Ende finden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "时间",
+      "空间",
+      "A2"
+    ],
+    "synonyms": [
+      "Schluss",
+      "Abschluss"
+    ],
+    "antonyms": [
+      "Anfang",
+      "Beginn"
+    ]
+  },
+  {
+    "word": "enden",
+    "lemma": "enden",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "结束，终止",
+        "en": "to end, to finish"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Veranstaltung endet um 22 Uhr.",
+        "zh": "活动在晚上10点结束。"
+      },
+      {
+        "de": "Das Wort endet mit einem Konsonanten.",
+        "zh": "这个词以辅音结尾。"
+      }
+    ],
+    "collocations": [
+      "mit etwas enden",
+      "enden in"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geendet"
+    },
+    "level": "B1",
+    "tags": [
+      "动作",
+      "时间",
+      "B1"
+    ],
+    "synonyms": [
+      "aufhören",
+      "beenden"
+    ],
+    "antonyms": [
+      "beginnen",
+      "anfangen"
+    ]
+  },
+  {
+    "word": "eng",
+    "lemma": "eng",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "狭窄的，紧密的",
+        "en": "narrow, tight, close"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Straße ist sehr eng.",
+        "zh": "这条街很窄。"
+      },
+      {
+        "de": "Sie haben eine enge Beziehung.",
+        "zh": "他们关系密切。"
+      }
+    ],
+    "collocations": [
+      "enge Zusammenarbeit",
+      "enge Verbindung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "空间",
+      "关系",
+      "A2"
+    ],
+    "synonyms": [
+      "schmal",
+      "dicht"
+    ],
+    "antonyms": [
+      "breit",
+      "weit"
+    ]
+  },
+  {
+    "word": "entlassen",
+    "lemma": "entlassen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "解雇，释放",
+        "en": "to dismiss, to discharge, to release"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Firma hat viele Mitarbeiter entlassen.",
+        "zh": "公司解雇了许多员工。"
+      },
+      {
+        "de": "Der Patient wurde aus dem Krankenhaus entlassen.",
+        "zh": "病人被允许出院了。"
+      }
+    ],
+    "collocations": [
+      "aus dem Krankenhaus entlassen",
+      "aus der Haft entlassen",
+      "Mitarbeiter entlassen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "entlassen"
+    },
+    "level": "B2",
+    "tags": [
+      "工作",
+      "法律",
+      "医疗",
+      "B2"
+    ],
+    "synonyms": [
+      "kündigen",
+      "freilassen"
+    ],
+    "antonyms": [
+      "einstellen",
+      "anstellen"
+    ]
+  },
+  {
+    "word": "Entscheidungshoheit",
+    "lemma": "Entscheidungshoheit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "决策权",
+        "en": "decision-making authority, sovereignty of decision"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Vorstand hat die Entscheidungshoheit über Investitionen.",
+        "zh": "董事会对投资拥有决策权。"
+      },
+      {
+        "de": "In diesem Bereich liegt die Entscheidungshoheit beim Chef.",
+        "zh": "在这个领域，决策权在老板手中。"
+      }
+    ],
+    "collocations": [
+      "die Entscheidungshoheit haben",
+      "die Entscheidungshoheit über etwas"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "C1",
+    "tags": [
+      "管理",
+      "法律",
+      "政治",
+      "C1"
+    ],
+    "synonyms": [
+      "Entscheidungsbefugnis",
+      "Bestimmungsrecht"
+    ],
+    "antonyms": [
+      "Abhängigkeit",
+      "Unterordnung"
+    ]
+  },
+  {
+    "word": "entsprechend",
+    "lemma": "entsprechend",
+    "pos": [
+      "adjective",
+      "preposition"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "相应的，按照",
+        "en": "corresponding, according to"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die entsprechenden Unterlagen müssen eingereicht werden.",
+        "zh": "必须提交相应的文件。"
+      },
+      {
+        "de": "Entsprechend den Regeln ist das nicht erlaubt.",
+        "zh": "按照规则，这是不允许的。"
+      }
+    ],
+    "collocations": [
+      "entsprechende Maßnahmen",
+      "entsprechend den Vorschriften"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "逻辑",
+      "规则",
+      "B2"
+    ],
+    "synonyms": [
+      "gemäß",
+      "passend"
+    ],
+    "antonyms": [
+      "ungeeignet",
+      "unpassend"
+    ]
+  },
+  {
+    "word": "entspringen",
+    "lemma": "entspringen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "发源于，起源于",
+        "en": "to originate, to spring from"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Rhein entspringt in den Alpen.",
+        "zh": "莱茵河发源于阿尔卑斯山。"
+      },
+      {
+        "de": "Diese Idee entspringt seiner Fantasie.",
+        "zh": "这个想法源于他的想象力。"
+      }
+    ],
+    "collocations": [
+      "einer Quelle entspringen",
+      "einer Idee entspringen"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": false,
+      "auxiliary": "sein",
+      "partizip2": "entsprungen"
+    },
+    "level": "C1",
+    "tags": [
+      "地理",
+      "抽象",
+      "C1"
+    ],
+    "synonyms": [
+      "stammen",
+      "herrühren"
+    ],
+    "antonyms": [
+      "münden",
+      "enden"
+    ]
+  },
+  {
+    "word": "entstehen",
+    "lemma": "entstehen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "产生，形成",
+        "en": "to arise, to emerge, to be created"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Aus dem Konflikt entstand ein neues Problem.",
+        "zh": "冲突中产生了新的问题。"
+      },
+      {
+        "de": "Das Gebäude entstand im 18. Jahrhundert.",
+        "zh": "这座建筑建于18世纪。"
+      }
+    ],
+    "collocations": [
+      "aus etwas entstehen",
+      "durch etwas entstehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "partizip2": "entstanden"
+    },
+    "level": "B2",
+    "tags": [
+      "变化",
+      "过程",
+      "B2"
+    ],
+    "synonyms": [
+      "sich bilden",
+      "aufkommen"
+    ],
+    "antonyms": [
+      "vergehen",
+      "verschwinden"
+    ]
+  },
+  {
+    "word": "entwickeln",
+    "lemma": "entwickeln",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "发展，开发",
+        "en": "to develop"
+      },
+      {
+        "zh": "产生，形成",
+        "en": "to evolve"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Unternehmen entwickelt neue Software.",
+        "zh": "这家公司正在开发新软件。"
+      },
+      {
+        "de": "Die Situation entwickelt sich positiv.",
+        "zh": "情况正在积极发展。"
+      }
+    ],
+    "collocations": [
+      "eine Strategie entwickeln",
+      "sich zu etwas entwickeln"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "entwickelt"
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "gestalten",
+      "hervorbringen"
+    ],
+    "antonyms": [
+      "zerstören",
+      "verfallen"
+    ]
+  },
+  {
+    "word": "Entwicklung",
+    "lemma": "Entwicklung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Entwicklungen",
+    "meaning": [
+      {
+        "zh": "发展，开发",
+        "en": "development"
+      },
+      {
+        "zh": "演变，进化",
+        "en": "evolution"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die wirtschaftliche Entwicklung des Landes ist beeindruckend.",
+        "zh": "这个国家的经济发展令人印象深刻。"
+      },
+      {
+        "de": "Die Entwicklung neuer Technologien erfordert viel Zeit.",
+        "zh": "新技术的开发需要很多时间。"
+      }
+    ],
+    "collocations": [
+      "wirtschaftliche Entwicklung",
+      "technologische Entwicklung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "Fortschritt",
+      "Wachstum"
+    ],
+    "antonyms": [
+      "Rückschritt",
+      "Stagnation"
+    ]
+  },
+  {
+    "word": "erfahren",
+    "lemma": "erfahren",
+    "pos": [
+      "verb",
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "得知，了解到",
+        "en": "to learn, to find out"
+      },
+      {
+        "zh": "经历，体验",
+        "en": "to experience"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe gestern von dem Unfall erfahren.",
+        "zh": "我昨天得知了那场事故。"
+      },
+      {
+        "de": "Er hat viel Leid erfahren.",
+        "zh": "他经历了很多痛苦。"
+      }
+    ],
+    "collocations": [
+      "von etwas erfahren",
+      "etwas am eigenen Leib erfahren"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "erfahren"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "hören",
+      "erleben"
+    ],
+    "antonyms": [
+      "ignorieren",
+      "verpassen"
+    ]
+  },
+  {
+    "word": "Erfahrung",
+    "lemma": "Erfahrung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Erfahrungen",
+    "meaning": [
+      {
+        "zh": "经验，经历",
+        "en": "experience"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat viel Erfahrung im Projektmanagement.",
+        "zh": "她在项目管理方面有很多经验。"
+      },
+      {
+        "de": "Diese Reise war eine wertvolle Erfahrung.",
+        "zh": "这次旅行是一次宝贵的经历。"
+      }
+    ],
+    "collocations": [
+      "Erfahrung sammeln",
+      "aus Erfahrung sprechen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "Kenntnis",
+      "Praxis"
+    ],
+    "antonyms": [
+      "Unwissenheit",
+      "Theorie"
+    ]
+  },
+  {
+    "word": "Erfindung",
+    "lemma": "Erfindung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Erfindungen",
+    "meaning": [
+      {
+        "zh": "发明，创造",
+        "en": "invention"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Erfindung des Internets hat die Welt verändert.",
+        "zh": "互联网的发明改变了世界。"
+      },
+      {
+        "de": "Diese Erfindung ist sehr nützlich im Alltag.",
+        "zh": "这项发明在日常生活中非常有用。"
+      }
+    ],
+    "collocations": [
+      "eine Erfindung machen",
+      "technische Erfindung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "历史",
+      "B1"
+    ],
+    "synonyms": [
+      "Entdeckung",
+      "Innovation"
+    ],
+    "antonyms": [
+      "Nachahmung",
+      "Kopie"
+    ]
+  },
+  {
+    "word": "erfolgreich",
+    "lemma": "erfolgreich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "成功的",
+        "en": "successful"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist ein erfolgreicher Geschäftsmann.",
+        "zh": "他是一位成功的商人。"
+      },
+      {
+        "de": "Das Projekt war sehr erfolgreich.",
+        "zh": "这个项目非常成功。"
+      }
+    ],
+    "collocations": [
+      "erfolgreich sein",
+      "erfolgreich abschließen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "工作",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "erfolgversprechend",
+      "glücklich"
+    ],
+    "antonyms": [
+      "erfolglos",
+      "gescheitert"
+    ]
+  },
+  {
+    "word": "erfordern",
+    "lemma": "erfordern",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "需要，要求",
+        "en": "to require, to demand"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Aufgabe erfordert viel Geduld.",
+        "zh": "这项任务需要很多耐心。"
+      },
+      {
+        "de": "Die Arbeit erfordert hohe Konzentration.",
+        "zh": "这项工作需要高度集中注意力。"
+      }
+    ],
+    "collocations": [
+      "etwas erfordert etwas",
+      "erforderlich sein"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "erfordert"
+    },
+    "level": "B2",
+    "tags": [
+      "工作",
+      "教育",
+      "B2"
+    ],
+    "synonyms": [
+      "benötigen",
+      "verlangen"
+    ],
+    "antonyms": [
+      "entbehren",
+      "verzichten"
+    ]
+  },
+  {
+    "word": "erfüllen",
+    "lemma": "erfüllen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "满足，实现",
+        "en": "to fulfill, to satisfy"
+      },
+      {
+        "zh": "充满",
+        "en": "to fill"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat alle Anforderungen erfüllt.",
+        "zh": "他满足了所有要求。"
+      },
+      {
+        "de": "Der Raum war mit Freude erfüllt.",
+        "zh": "房间里充满了喜悦。"
+      }
+    ],
+    "collocations": [
+      "eine Bedingung erfüllen",
+      "einen Wunsch erfüllen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "erfüllt"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "befriedigen",
+      "realisieren"
+    ],
+    "antonyms": [
+      "enttäuschen",
+      "verfehlen"
+    ]
+  },
+  {
+    "word": "Ergebnis",
+    "lemma": "Ergebnis",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Ergebnisse",
+    "meaning": [
+      {
+        "zh": "结果",
+        "en": "result"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Ergebnis der Prüfung war sehr gut.",
+        "zh": "考试结果非常好。"
+      },
+      {
+        "de": "Wir warten noch auf das Ergebnis der Verhandlungen.",
+        "zh": "我们还在等待谈判的结果。"
+      }
+    ],
+    "collocations": [
+      "ein Ergebnis erzielen",
+      "das Ergebnis bekannt geben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Resultat",
+      "Ausgang"
+    ],
+    "antonyms": [
+      "Ursache"
+    ]
+  },
+  {
+    "word": "ergreifen",
+    "lemma": "ergreifen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "抓住；采取",
+        "en": "to seize; to take"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ergriff die Gelegenheit, um zu reisen.",
+        "zh": "他抓住了旅行的机会。"
+      },
+      {
+        "de": "Die Regierung ergriff Maßnahmen gegen die Krise.",
+        "zh": "政府采取了应对危机的措施。"
+      }
+    ],
+    "collocations": [
+      "eine Chance ergreifen",
+      "Maßnahmen ergreifen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "ergriffen"
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "fassen",
+      "packen"
+    ],
+    "antonyms": [
+      "loslassen"
+    ]
+  },
+  {
+    "word": "erhalten",
+    "lemma": "erhalten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "收到；保持",
+        "en": "to receive; to maintain"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe gestern einen Brief erhalten.",
+        "zh": "我昨天收到了一封信。"
+      },
+      {
+        "de": "Sie erhält ihre Gesundheit durch regelmäßigen Sport.",
+        "zh": "她通过定期运动保持健康。"
+      }
+    ],
+    "collocations": [
+      "eine Antwort erhalten",
+      "den Frieden erhalten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "erhalten"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "bekommen",
+      "bewahren"
+    ],
+    "antonyms": [
+      "verlieren",
+      "zerstören"
+    ]
+  },
+  {
+    "word": "erholen",
+    "lemma": "erholen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "恢复；休养",
+        "en": "to recover; to recuperate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Nach der Krankheit muss er sich erholen.",
+        "zh": "病后他需要恢复。"
+      },
+      {
+        "de": "Wir erholen uns am Wochenende im Park.",
+        "zh": "我们周末在公园里休养。"
+      }
+    ],
+    "collocations": [
+      "sich von etwas erholen",
+      "sich gut erholen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "erholt"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "ausruhen",
+      "regenerieren"
+    ],
+    "antonyms": [
+      "ermüden",
+      "erschöpfen"
+    ]
+  },
+  {
+    "word": "Erholung",
+    "lemma": "Erholung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "恢复；休养",
+        "en": "recovery; recreation"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Nach der Arbeit brauche ich etwas Erholung.",
+        "zh": "工作后我需要一些休息。"
+      },
+      {
+        "de": "Der Urlaub diente der Erholung.",
+        "zh": "假期用于休养。"
+      }
+    ],
+    "collocations": [
+      "sich Erholung gönnen",
+      "zur Erholung fahren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Entspannung",
+      "Regeneration"
+    ],
+    "antonyms": [
+      "Anstrengung",
+      "Stress"
+    ]
+  },
+  {
+    "word": "Erholungsort",
+    "lemma": "Erholungsort",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Erholungsorte",
+    "meaning": [
+      {
+        "zh": "休养地",
+        "en": "recreation area; resort"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieser See ist ein beliebter Erholungsort.",
+        "zh": "这个湖是一个受欢迎的休养地。"
+      },
+      {
+        "de": "Im Sommer fahren viele Menschen an Erholungsorte.",
+        "zh": "夏天很多人去休养地。"
+      }
+    ],
+    "collocations": [
+      "einen Erholungsort besuchen",
+      "als Erholungsort dienen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Ferienort",
+      "Urlaubsort"
+    ],
+    "antonyms": [
+      "Arbeitsplatz"
+    ]
+  },
+  {
+    "word": "erinnern",
+    "lemma": "erinnern",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "提醒；回忆",
+        "en": "to remind; to remember"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich erinnere mich an meinen ersten Schultag.",
+        "zh": "我记得我上学的第一天。"
+      },
+      {
+        "de": "Er erinnert mich an meinen Bruder.",
+        "zh": "他让我想起我的兄弟。"
+      }
+    ],
+    "collocations": [
+      "sich an etwas erinnern",
+      "jemanden an etwas erinnern"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "erinnert"
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "gedenken",
+      "wiedererkennen"
+    ],
+    "antonyms": [
+      "vergessen"
+    ]
+  },
+  {
+    "word": "Erinnerung",
+    "lemma": "Erinnerung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Erinnerungen",
+    "meaning": [
+      {
+        "zh": "记忆；回忆",
+        "en": "memory; recollection"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe schöne Erinnerungen an meine Kindheit.",
+        "zh": "我对童年有美好的回忆。"
+      },
+      {
+        "de": "Die Erinnerung an den Unfall ist noch frisch.",
+        "zh": "对事故的记忆还很新鲜。"
+      }
+    ],
+    "collocations": [
+      "eine Erinnerung bewahren",
+      "in Erinnerung bleiben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "Gedächtnis",
+      "Andenken"
+    ],
+    "antonyms": [
+      "Vergessenheit"
+    ]
+  },
+  {
+    "word": "erkennen",
+    "lemma": "erkennen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "认出，识别",
+        "en": "to recognize, to identify"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe ihn sofort erkannt.",
+        "zh": "我立刻认出了他。"
+      },
+      {
+        "de": "Man kann die Ursache des Problems leicht erkennen.",
+        "zh": "人们可以很容易地识别问题的原因。"
+      }
+    ],
+    "collocations": [
+      "einen Fehler erkennen",
+      "die Wahrheit erkennen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "erkannt"
+    },
+    "level": "B1",
+    "tags": [
+      "认知",
+      "B1"
+    ],
+    "synonyms": [
+      "identifizieren",
+      "wahrnehmen"
+    ],
+    "antonyms": [
+      "übersehen",
+      "verkennen"
+    ]
+  },
+  {
+    "word": "Erklärung",
+    "lemma": "Erklärung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Erklärungen",
+    "meaning": [
+      {
+        "zh": "解释，说明",
+        "en": "explanation, statement"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du mir eine Erklärung für dein Verhalten geben?",
+        "zh": "你能对你的行为给我一个解释吗？"
+      },
+      {
+        "de": "Die Erklärung des Lehrers war sehr hilfreich.",
+        "zh": "老师的解释非常有帮助。"
+      }
+    ],
+    "collocations": [
+      "eine Erklärung abgeben",
+      "eine Erklärung fordern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "沟通",
+      "B1"
+    ],
+    "synonyms": [
+      "Ausführung",
+      "Darlegung"
+    ],
+    "antonyms": [
+      "Verwirrung",
+      "Unklarheit"
+    ]
+  },
+  {
+    "word": "erledigen",
+    "lemma": "erledigen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "完成，处理",
+        "en": "to finish, to handle"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich muss noch einige Aufgaben erledigen.",
+        "zh": "我还需要完成一些任务。"
+      },
+      {
+        "de": "Hast du die E-Mails schon erledigt?",
+        "zh": "你已经处理完邮件了吗？"
+      }
+    ],
+    "collocations": [
+      "eine Arbeit erledigen",
+      "eine Bestellung erledigen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "erledigt"
+    },
+    "level": "B1",
+    "tags": [
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "abschließen",
+      "bewältigen"
+    ],
+    "antonyms": [
+      "verschieben",
+      "vernachlässigen"
+    ]
+  },
+  {
+    "word": "erleichtern",
+    "lemma": "erleichtern",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "减轻，使容易",
+        "en": "to ease, to facilitate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die neue Software erleichtert die Arbeit.",
+        "zh": "新软件减轻了工作负担。"
+      },
+      {
+        "de": "Das Gespräch hat mir sehr erleichtert.",
+        "zh": "这次谈话让我轻松了很多。"
+      }
+    ],
+    "collocations": [
+      "die Arbeit erleichtern",
+      "den Alltag erleichtern"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "erleichtert"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "vereinfachen",
+      "entlasten"
+    ],
+    "antonyms": [
+      "erschweren",
+      "belasten"
+    ]
+  },
+  {
+    "word": "erreichen",
+    "lemma": "erreichen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "到达，达到",
+        "en": "to reach, to achieve"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir haben das Ziel endlich erreicht.",
+        "zh": "我们终于达到了目标。"
+      },
+      {
+        "de": "Kannst du mich telefonisch erreichen?",
+        "zh": "你能通过电话联系到我吗？"
+      }
+    ],
+    "collocations": [
+      "ein Ziel erreichen",
+      "einen Ort erreichen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "erreicht"
+    },
+    "level": "A2",
+    "tags": [
+      "行动",
+      "A2"
+    ],
+    "synonyms": [
+      "erzielen",
+      "ankommen"
+    ],
+    "antonyms": [
+      "verfehlen",
+      "verlieren"
+    ]
+  },
+  {
+    "word": "erstaunt",
+    "lemma": "erstaunt",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "惊讶的",
+        "en": "astonished, amazed"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie war erstaunt über die Neuigkeiten.",
+        "zh": "她对这条消息感到惊讶。"
+      },
+      {
+        "de": "Erstaunt sah er das Ergebnis.",
+        "zh": "他惊讶地看着结果。"
+      }
+    ],
+    "collocations": [
+      "erstaunt sein",
+      "erstaunt über etwas"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "verblüfft",
+      "überrascht"
+    ],
+    "antonyms": [
+      "gleichgültig",
+      "unbeeindruckt"
+    ]
+  },
+  {
+    "word": "erstmals",
+    "lemma": "erstmals",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "首次，第一次",
+        "en": "for the first time"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Erstmals fand die Konferenz in Berlin statt.",
+        "zh": "会议首次在柏林举行。"
+      },
+      {
+        "de": "Ich habe sie erstmals vor einem Jahr getroffen.",
+        "zh": "我一年前第一次见到她。"
+      }
+    ],
+    "collocations": [
+      "erstmals auftreten",
+      "erstmals veröffentlicht"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "时间",
+      "B1"
+    ],
+    "synonyms": [
+      "zum ersten Mal",
+      "erstmalig"
+    ],
+    "antonyms": [
+      "wiederholt",
+      "erneut"
+    ]
+  },
+  {
+    "word": "ertrinken",
+    "lemma": "ertrinken",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "淹死",
+        "en": "to drown"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Schwimmer wäre fast ertrunken.",
+        "zh": "游泳者差点淹死。"
+      },
+      {
+        "de": "Viele Menschen ertrinken jedes Jahr im Meer.",
+        "zh": "每年有很多人在海里淹死。"
+      }
+    ],
+    "collocations": [
+      "im Wasser ertrinken",
+      "fast ertrinken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "partizip2": "ertrunken"
+    },
+    "level": "B1",
+    "tags": [
+      "危险",
+      "B1"
+    ],
+    "synonyms": [
+      "untergehen",
+      "ersaufen"
+    ],
+    "antonyms": [
+      "schwimmen",
+      "überleben"
+    ]
+  },
+  {
+    "word": "Erwachsene",
+    "lemma": "Erwachsene",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Erwachsenen",
+    "meaning": [
+      {
+        "zh": "成年人",
+        "en": "adult"
+      },
+      {
+        "zh": "成人",
+        "en": "grown-up"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Erwachsene haben mehr Verantwortung als Kinder.",
+        "zh": "成年人比孩子有更多责任。"
+      },
+      {
+        "de": "In diesem Kurs lernen Erwachsene Deutsch.",
+        "zh": "在这个课程中，成年人学习德语。"
+      }
+    ],
+    "collocations": [
+      "als Erwachsener",
+      "für Erwachsene",
+      "Erwachsene und Kinder"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "社会",
+      "A2"
+    ],
+    "synonyms": [
+      "Erwachsener",
+      "Volljähriger"
+    ],
+    "antonyms": [
+      "Kind",
+      "Minderjähriger"
+    ]
+  },
+  {
+    "word": "europäisch",
+    "lemma": "europäisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "欧洲的",
+        "en": "European"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die europäische Union hat viele Mitgliedsstaaten.",
+        "zh": "欧盟有很多成员国。"
+      },
+      {
+        "de": "Er reist gern durch europäische Städte.",
+        "zh": "他喜欢在欧洲城市旅行。"
+      }
+    ],
+    "collocations": [
+      "europäische Länder",
+      "europäische Kultur",
+      "europäische Union"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "地理",
+      "A2"
+    ],
+    "synonyms": [
+      "kontinental"
+    ],
+    "antonyms": [
+      "außereuropäisch"
+    ]
+  },
+  {
+    "word": "Existenz",
+    "lemma": "Existenz",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Existenzen",
+    "meaning": [
+      {
+        "zh": "存在",
+        "en": "existence"
+      },
+      {
+        "zh": "生计",
+        "en": "livelihood"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Existenz von Außerirdischen ist nicht bewiesen.",
+        "zh": "外星人的存在尚未被证明。"
+      },
+      {
+        "de": "Er kämpft um seine wirtschaftliche Existenz.",
+        "zh": "他在为他的经济生计而奋斗。"
+      }
+    ],
+    "collocations": [
+      "die Existenz sichern",
+      "um die Existenz kämpfen",
+      "die menschliche Existenz"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "哲学",
+      "B1"
+    ],
+    "synonyms": [
+      "Dasein",
+      "Leben"
+    ],
+    "antonyms": [
+      "Nichtexistenz",
+      "Tod"
+    ]
+  },
+  {
+    "word": "Fach",
+    "lemma": "Fach",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Fächer",
+    "meaning": [
+      {
+        "zh": "学科",
+        "en": "subject"
+      },
+      {
+        "zh": "专业",
+        "en": "field"
+      },
+      {
+        "zh": "格子",
+        "en": "compartment"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mathematik ist mein Lieblingsfach.",
+        "zh": "数学是我最喜欢的学科。"
+      },
+      {
+        "de": "Bitte legen Sie die Dokumente in das richtige Fach.",
+        "zh": "请把文件放入正确的格子中。"
+      }
+    ],
+    "collocations": [
+      "ein Fach studieren",
+      "in einem Fach gut sein",
+      "Fächer wie Deutsch und Englisch"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "教育",
+      "A2"
+    ],
+    "synonyms": [
+      "Disziplin",
+      "Gebiet"
+    ],
+    "antonyms": []
+  }
+]

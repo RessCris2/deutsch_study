@@ -1,0 +1,1465 @@
+[
+  {
+    "word": "Glossar",
+    "lemma": "Glossar",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Glossare",
+    "meaning": [
+      {
+        "zh": "词汇表，术语汇编",
+        "en": "glossary"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Am Ende des Buches befindet sich ein Glossar.",
+        "zh": "书的末尾有一个词汇表。"
+      },
+      {
+        "de": "Im Glossar werden die wichtigsten Fachbegriffe erklärt.",
+        "zh": "词汇表中解释了最重要的专业术语。"
+      }
+    ],
+    "collocations": [
+      "ein Glossar erstellen",
+      "im Glossar nachschlagen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "学习",
+      "学术",
+      "B1"
+    ],
+    "synonyms": [
+      "Wörterverzeichnis",
+      "Vokabelliste"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Oberkörper",
+    "lemma": "Oberkörper",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Oberkörper",
+    "meaning": [
+      {
+        "zh": "上半身，躯干",
+        "en": "upper body"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Beim Schwimmen wird vor allem der Oberkörper trainiert.",
+        "zh": "游泳时主要锻炼上半身。"
+      },
+      {
+        "de": "Er trug ein T-Shirt, das seinen Oberkörper bedeckte.",
+        "zh": "他穿着一件遮住上半身的T恤。"
+      }
+    ],
+    "collocations": [
+      "den Oberkörper aufrichten",
+      "den Oberkörper beugen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "身体",
+      "运动",
+      "B1"
+    ],
+    "synonyms": [
+      "Rumpf",
+      "Torso"
+    ],
+    "antonyms": [
+      "Unterkörper"
+    ]
+  },
+  {
+    "word": "Obst",
+    "lemma": "Obst",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "水果",
+        "en": "fruit"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Zum Frühstück esse ich gern frisches Obst.",
+        "zh": "早餐我喜欢吃新鲜水果。"
+      },
+      {
+        "de": "Obst und Gemüse sind wichtig für eine gesunde Ernährung.",
+        "zh": "水果和蔬菜对健康饮食很重要。"
+      }
+    ],
+    "collocations": [
+      "Obst essen",
+      "Obst anbauen",
+      "frisches Obst"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "食物",
+      "健康",
+      "A1"
+    ],
+    "synonyms": [
+      "Früchte"
+    ],
+    "antonyms": [
+      "Gemüse"
+    ]
+  },
+  {
+    "word": "oder",
+    "lemma": "oder",
+    "pos": [
+      "conjunction"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "或者，否则",
+        "en": "or"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Möchtest du Tee oder Kaffee?",
+        "zh": "你想喝茶还是咖啡？"
+      },
+      {
+        "de": "Beeil dich, oder wir kommen zu spät.",
+        "zh": "快点，否则我们要迟到了。"
+      }
+    ],
+    "collocations": [
+      "entweder ... oder",
+      "oder aber"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语法",
+      "连词",
+      "A1"
+    ],
+    "synonyms": [
+      "beziehungsweise"
+    ],
+    "antonyms": [
+      "und"
+    ]
+  },
+  {
+    "word": "Ofen",
+    "lemma": "Ofen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Öfen",
+    "meaning": [
+      {
+        "zh": "炉子，烤箱",
+        "en": "oven, stove"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Kuchen backt im Ofen bei 180 Grad.",
+        "zh": "蛋糕在180度的烤箱里烤。"
+      },
+      {
+        "de": "Im Winter heizen wir mit einem Holzofen.",
+        "zh": "冬天我们用木炉取暖。"
+      }
+    ],
+    "collocations": [
+      "den Ofen anmachen",
+      "den Ofen ausschalten",
+      "im Ofen backen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "家居",
+      "厨房",
+      "A2"
+    ],
+    "synonyms": [
+      "Backofen",
+      "Herd"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "öffnen",
+    "lemma": "öffnen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "打开",
+        "en": "to open"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du bitte das Fenster öffnen?",
+        "zh": "你能打开窗户吗？"
+      },
+      {
+        "de": "Die Tür öffnet sich automatisch.",
+        "zh": "门自动打开了。"
+      }
+    ],
+    "collocations": [
+      "die Tür öffnen",
+      "ein Konto öffnen",
+      "die Augen öffnen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geöffnet"
+    },
+    "level": "A1",
+    "tags": [
+      "动作",
+      "日常",
+      "A1"
+    ],
+    "synonyms": [
+      "aufmachen",
+      "aufsperren"
+    ],
+    "antonyms": [
+      "schließen",
+      "zumachen"
+    ]
+  },
+  {
+    "word": "oft",
+    "lemma": "oft",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "经常，常常",
+        "en": "often"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich gehe oft ins Kino.",
+        "zh": "我经常去看电影。"
+      },
+      {
+        "de": "Wie oft trainierst du in der Woche?",
+        "zh": "你每周锻炼几次？"
+      }
+    ],
+    "collocations": [
+      "sehr oft",
+      "öfter mal",
+      "so oft wie möglich"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "频率",
+      "日常",
+      "A1"
+    ],
+    "synonyms": [
+      "häufig",
+      "vielmals"
+    ],
+    "antonyms": [
+      "selten",
+      "nie"
+    ]
+  },
+  {
+    "word": "Ohr",
+    "lemma": "Ohr",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Ohren",
+    "meaning": [
+      {
+        "zh": "耳朵",
+        "en": "ear"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat sich die Ohren zugehalten.",
+        "zh": "他捂住了耳朵。"
+      },
+      {
+        "de": "Das Geräusch ist mir noch im Ohr.",
+        "zh": "那个声音还在我耳边回响。"
+      }
+    ],
+    "collocations": [
+      "ein offenes Ohr haben",
+      "die Ohren spitzen",
+      "auf den Ohren sitzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "身体",
+      "感官",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Oma",
+    "lemma": "Oma",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Omas",
+    "meaning": [
+      {
+        "zh": "奶奶；外婆",
+        "en": "grandmother; grandma"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Meine Oma backt jeden Sonntag einen Kuchen.",
+        "zh": "我奶奶每个星期天都烤蛋糕。"
+      },
+      {
+        "de": "Die Oma erzählt den Kindern eine Geschichte.",
+        "zh": "奶奶给孩子们讲了一个故事。"
+      }
+    ],
+    "collocations": [
+      "bei der Oma sein",
+      "die Oma besuchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "家庭",
+      "A1"
+    ],
+    "synonyms": [
+      "Großmutter"
+    ],
+    "antonyms": [
+      "Opa"
+    ]
+  },
+  {
+    "word": "Onkel",
+    "lemma": "Onkel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Onkel",
+    "meaning": [
+      {
+        "zh": "叔叔；舅舅；伯父",
+        "en": "uncle"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mein Onkel wohnt in Berlin.",
+        "zh": "我叔叔住在柏林。"
+      },
+      {
+        "de": "Der Onkel bringt den Kindern Geschenke mit.",
+        "zh": "叔叔给孩子们带了礼物。"
+      }
+    ],
+    "collocations": [
+      "der Onkel von jemandem",
+      "den Onkel besuchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "家庭",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "Tante"
+    ]
+  },
+  {
+    "word": "Opa",
+    "lemma": "Opa",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Opas",
+    "meaning": [
+      {
+        "zh": "爷爷；外公",
+        "en": "grandfather; grandpa"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mein Opa liest gerne Zeitung.",
+        "zh": "我爷爷喜欢看报纸。"
+      },
+      {
+        "de": "Der Opa spielt mit den Enkeln im Garten.",
+        "zh": "爷爷和孙子们在花园里玩。"
+      }
+    ],
+    "collocations": [
+      "der Opa von jemandem",
+      "den Opa besuchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "家庭",
+      "A1"
+    ],
+    "synonyms": [
+      "Großvater"
+    ],
+    "antonyms": [
+      "Oma"
+    ]
+  },
+  {
+    "word": "Orange",
+    "lemma": "Orange",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Orangen",
+    "meaning": [
+      {
+        "zh": "橙子",
+        "en": "orange (fruit)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich esse jeden Morgen eine Orange.",
+        "zh": "我每天早上吃一个橙子。"
+      },
+      {
+        "de": "Die Orangen aus Spanien sind sehr süß.",
+        "zh": "西班牙的橙子很甜。"
+      }
+    ],
+    "collocations": [
+      "eine Orange schälen",
+      "frische Orangen kaufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "食物",
+      "A1"
+    ],
+    "synonyms": [
+      "Apfelsine"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Ordnung",
+    "lemma": "Ordnung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "秩序；整洁；规则",
+        "en": "order; tidiness; rule"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In diesem Zimmer herrscht Ordnung.",
+        "zh": "这个房间很整洁。"
+      },
+      {
+        "de": "Die Ordnung muss eingehalten werden.",
+        "zh": "必须遵守秩序。"
+      }
+    ],
+    "collocations": [
+      "Ordnung halten",
+      "für Ordnung sorgen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "System",
+      "Struktur"
+    ],
+    "antonyms": [
+      "Chaos",
+      "Unordnung"
+    ]
+  },
+  {
+    "word": "Osten",
+    "lemma": "Osten",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "东方；东部",
+        "en": "east; the East"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Sonne geht im Osten auf.",
+        "zh": "太阳从东方升起。"
+      },
+      {
+        "de": "Er kommt aus dem Osten Deutschlands.",
+        "zh": "他来自德国东部。"
+      }
+    ],
+    "collocations": [
+      "im Osten",
+      "nach Osten fahren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "地理",
+      "A2"
+    ],
+    "synonyms": [
+      "Ost"
+    ],
+    "antonyms": [
+      "Westen"
+    ]
+  },
+  {
+    "word": "Paradies",
+    "lemma": "Paradies",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Paradiese",
+    "meaning": [
+      {
+        "zh": "天堂；乐园",
+        "en": "paradise; heaven"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Insel ist ein wahres Paradies.",
+        "zh": "这个岛是一个真正的天堂。"
+      },
+      {
+        "de": "Im Paradies gibt es keine Sorgen.",
+        "zh": "在天堂里没有烦恼。"
+      }
+    ],
+    "collocations": [
+      "ein Paradies auf Erden",
+      "im Paradies sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "宗教",
+      "B1"
+    ],
+    "synonyms": [
+      "Himmel",
+      "Eden"
+    ],
+    "antonyms": [
+      "Hölle"
+    ]
+  },
+  {
+    "word": "Park",
+    "lemma": "Park",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Parks",
+    "meaning": [
+      {
+        "zh": "公园",
+        "en": "park"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir gehen im Park spazieren.",
+        "zh": "我们在公园里散步。"
+      },
+      {
+        "de": "Der Park ist voller Blumen.",
+        "zh": "公园里开满了花。"
+      }
+    ],
+    "collocations": [
+      "im Park sein",
+      "einen Park besuchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "地点",
+      "A1"
+    ],
+    "synonyms": [
+      "Gartenanlage"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "parken",
+    "lemma": "parken",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "停车",
+        "en": "to park"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich parke mein Auto vor dem Supermarkt.",
+        "zh": "我把车停在超市前面。"
+      },
+      {
+        "de": "Hier darf man nicht parken.",
+        "zh": "这里禁止停车。"
+      }
+    ],
+    "collocations": [
+      "das Auto parken",
+      "in der Garage parken"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geparkt"
+    },
+    "level": "A2",
+    "tags": [
+      "交通",
+      "A2"
+    ],
+    "synonyms": [
+      "abstellen"
+    ],
+    "antonyms": [
+      "fahren"
+    ]
+  },
+  {
+    "word": "Parkplatz",
+    "lemma": "Parkplatz",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Parkplätze",
+    "meaning": [
+      {
+        "zh": "停车场，停车位",
+        "en": "parking lot, parking space"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich suche einen Parkplatz in der Innenstadt.",
+        "zh": "我在市中心找一个停车位。"
+      },
+      {
+        "de": "Der Parkplatz ist leider voll.",
+        "zh": "停车场可惜满了。"
+      }
+    ],
+    "collocations": [
+      "einen Parkplatz finden",
+      "auf dem Parkplatz stehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "交通",
+      "A2"
+    ],
+    "synonyms": [
+      "Stellplatz"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Party",
+    "lemma": "Party",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Partys",
+    "meaning": [
+      {
+        "zh": "派对，聚会",
+        "en": "party"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir feiern heute Abend eine Party.",
+        "zh": "我们今晚开派对。"
+      },
+      {
+        "de": "Die Party war sehr lustig.",
+        "zh": "派对非常有趣。"
+      }
+    ],
+    "collocations": [
+      "eine Party feiern",
+      "auf eine Party gehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "社交",
+      "A1"
+    ],
+    "synonyms": [
+      "Feier",
+      "Fest"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Pass",
+    "lemma": "Pass",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Pässe",
+    "meaning": [
+      {
+        "zh": "护照",
+        "en": "passport"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich muss meinen Pass verlängern lassen.",
+        "zh": "我必须延长我的护照。"
+      },
+      {
+        "de": "Am Flughafen kontrolliert man den Pass.",
+        "zh": "在机场检查护照。"
+      }
+    ],
+    "collocations": [
+      "den Pass vorzeigen",
+      "einen neuen Pass beantragen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "旅行",
+      "A2"
+    ],
+    "synonyms": [
+      "Reisepass"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Passant",
+    "lemma": "Passant",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Passanten",
+    "meaning": [
+      {
+        "zh": "行人，路人",
+        "en": "passerby, pedestrian"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ein Passant half mir, den Weg zu finden.",
+        "zh": "一个路人帮我找到了路。"
+      },
+      {
+        "de": "Viele Passanten schauten sich das Schaufenster an.",
+        "zh": "许多路人看着橱窗。"
+      }
+    ],
+    "collocations": [
+      "ein Passant fragt nach dem Weg",
+      "Passanten auf der Straße"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Fußgänger"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Pause",
+    "lemma": "Pause",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Pausen",
+    "meaning": [
+      {
+        "zh": "休息，暂停",
+        "en": "break, pause"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir machen eine kurze Pause.",
+        "zh": "我们休息一会儿。"
+      },
+      {
+        "de": "In der Pause gehe ich in die Kantine.",
+        "zh": "休息时我去食堂。"
+      }
+    ],
+    "collocations": [
+      "eine Pause machen",
+      "in der Pause"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "A1"
+    ],
+    "synonyms": [
+      "Unterbrechung",
+      "Erholung"
+    ],
+    "antonyms": [
+      "Arbeit"
+    ]
+  },
+  {
+    "word": "phantastisch",
+    "lemma": "phantastisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "极好的，奇妙的",
+        "en": "fantastic, wonderful"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Konzert war phantastisch.",
+        "zh": "音乐会棒极了。"
+      },
+      {
+        "de": "Sie hat eine phantastische Idee.",
+        "zh": "她有一个绝妙的主意。"
+      }
+    ],
+    "collocations": [
+      "phantastische Aussichten",
+      "phantastisch gut"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "fantastisch",
+      "großartig"
+    ],
+    "antonyms": [
+      "schlecht",
+      "langweilig"
+    ]
+  },
+  {
+    "word": "Physik",
+    "lemma": "Physik",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "物理学",
+        "en": "physics"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe Physik im Studium belegt.",
+        "zh": "我在大学选了物理课。"
+      },
+      {
+        "de": "Physik ist ein spannendes Fach.",
+        "zh": "物理学是一门有趣的学科。"
+      }
+    ],
+    "collocations": [
+      "Physik studieren",
+      "Physikunterricht"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科学",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Pizza",
+    "lemma": "Pizza",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Pizzen",
+    "meaning": [
+      {
+        "zh": "披萨",
+        "en": "pizza"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich bestelle eine Pizza mit Salami.",
+        "zh": "我点了一份有萨拉米的披萨。"
+      },
+      {
+        "de": "Die Pizza schmeckt sehr gut.",
+        "zh": "这个披萨味道很好。"
+      }
+    ],
+    "collocations": [
+      "eine Pizza bestellen",
+      "Pizza essen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "食物",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Platz",
+    "lemma": "Platz",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Plätze",
+    "meaning": [
+      {
+        "zh": "广场；位置；座位",
+        "en": "square; place; seat"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Platz ist voller Menschen.",
+        "zh": "广场上挤满了人。"
+      },
+      {
+        "de": "Kannst du mir einen Platz freihalten?",
+        "zh": "你能帮我留个座位吗？"
+      }
+    ],
+    "collocations": [
+      "einen Platz nehmen",
+      "auf dem Platz"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "地点",
+      "A2"
+    ],
+    "synonyms": [
+      "Ort",
+      "Stelle"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Polizei",
+    "lemma": "Polizei",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "警察；警方",
+        "en": "police"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Polizei hat den Dieb gefasst.",
+        "zh": "警察抓住了小偷。"
+      },
+      {
+        "de": "Ruf die Polizei!",
+        "zh": "报警！"
+      }
+    ],
+    "collocations": [
+      "die Polizei rufen",
+      "bei der Polizei arbeiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "社会",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Pommes",
+    "lemma": "Pommes",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "薯条",
+        "en": "fries (French fries)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich möchte eine Portion Pommes.",
+        "zh": "我想要一份薯条。"
+      },
+      {
+        "de": "Pommes schmecken am besten mit Ketchup.",
+        "zh": "薯条配番茄酱最好吃。"
+      }
+    ],
+    "collocations": [
+      "Pommes essen",
+      "Pommes mit Ketchup"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "食物",
+      "A1"
+    ],
+    "synonyms": [
+      "Fritten"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Praktikum",
+    "lemma": "Praktikum",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Praktika",
+    "meaning": [
+      {
+        "zh": "实习",
+        "en": "internship"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie macht ein Praktikum bei einer Firma.",
+        "zh": "她在一家公司实习。"
+      },
+      {
+        "de": "Das Praktikum dauert drei Monate.",
+        "zh": "实习持续三个月。"
+      }
+    ],
+    "collocations": [
+      "ein Praktikum machen",
+      "ein Praktikum absolvieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "praktisch",
+    "lemma": "praktisch",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "实用的；实际的；几乎",
+        "en": "practical; practically"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieses Werkzeug ist sehr praktisch.",
+        "zh": "这个工具很实用。"
+      },
+      {
+        "de": "Das ist praktisch unmöglich.",
+        "zh": "这几乎是不可能的。"
+      }
+    ],
+    "collocations": [
+      "praktische Erfahrung",
+      "praktisch veranlagt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "形容词",
+      "B1"
+    ],
+    "synonyms": [
+      "nützlich",
+      "zweckmäßig"
+    ],
+    "antonyms": [
+      "unpraktisch",
+      "theoretisch"
+    ]
+  },
+  {
+    "word": "Preis",
+    "lemma": "Preis",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Preise",
+    "meaning": [
+      {
+        "zh": "价格；奖",
+        "en": "price; prize"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Preis ist zu hoch.",
+        "zh": "价格太高了。"
+      },
+      {
+        "de": "Er hat den ersten Preis gewonnen.",
+        "zh": "他赢得了一等奖。"
+      }
+    ],
+    "collocations": [
+      "einen Preis gewinnen",
+      "der Preis für etwas"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "经济",
+      "A2"
+    ],
+    "synonyms": [
+      "Kosten",
+      "Gewinn"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "prima",
+    "lemma": "prima",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "极好的；一流的",
+        "en": "great; excellent"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Essen war prima.",
+        "zh": "食物很棒。"
+      },
+      {
+        "de": "Wir haben uns prima verstanden.",
+        "zh": "我们相处得很好。"
+      }
+    ],
+    "collocations": [
+      "prima Idee",
+      "prima Laune"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "形容词",
+      "A2"
+    ],
+    "synonyms": [
+      "toll",
+      "super"
+    ],
+    "antonyms": [
+      "schlecht",
+      "miserabel"
+    ]
+  }
+]

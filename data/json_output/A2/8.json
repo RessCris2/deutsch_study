@@ -1,0 +1,1763 @@
+[
+  {
+    "word": "Fachbereich",
+    "lemma": "Fachbereich",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Fachbereiche",
+    "meaning": [
+      {
+        "zh": "专业领域，学科范围",
+        "en": "department, field of study"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er arbeitet im Fachbereich Informatik.",
+        "zh": "他在计算机科学领域工作。"
+      },
+      {
+        "de": "Der Fachbereich für Biologie hat neue Labore bekommen.",
+        "zh": "生物学系获得了新的实验室。"
+      }
+    ],
+    "collocations": [
+      "im Fachbereich arbeiten",
+      "der Fachbereich für"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "学术",
+      "B1"
+    ],
+    "synonyms": [
+      "Abteilung",
+      "Fachgebiet"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Fahrzeug",
+    "lemma": "Fahrzeug",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Fahrzeuge",
+    "meaning": [
+      {
+        "zh": "车辆，交通工具",
+        "en": "vehicle"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Fahrzeug ist sehr zuverlässig.",
+        "zh": "这辆车非常可靠。"
+      },
+      {
+        "de": "Auf der Autobahn sind viele Fahrzeuge unterwegs.",
+        "zh": "高速公路上有很多车辆行驶。"
+      }
+    ],
+    "collocations": [
+      "ein Fahrzeug fahren",
+      "das Fahrzeug reparieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "交通",
+      "技术",
+      "A2"
+    ],
+    "synonyms": [
+      "Auto",
+      "Wagen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Familienangehörige",
+    "lemma": "Familienangehörige",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der/die",
+    "plural": "Familienangehörigen",
+    "meaning": [
+      {
+        "zh": "家庭成员，家属",
+        "en": "family member"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Alle Familienangehörigen waren zur Feier eingeladen.",
+        "zh": "所有家庭成员都被邀请参加庆祝活动。"
+      },
+      {
+        "de": "Sie kümmert sich um ihre kranken Familienangehörigen.",
+        "zh": "她照顾她生病的家人。"
+      }
+    ],
+    "collocations": [
+      "nahe Familienangehörige",
+      "Familienangehörige besuchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "家庭",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Verwandte",
+      "Angehörige"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Fasching",
+    "lemma": "Fasching",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "狂欢节（德国南部和奥地利）",
+        "en": "carnival (in southern Germany and Austria)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Februar feiern wir Fasching.",
+        "zh": "二月份我们庆祝狂欢节。"
+      },
+      {
+        "de": "Viele Menschen verkleiden sich im Fasching.",
+        "zh": "狂欢节期间很多人化妆打扮。"
+      }
+    ],
+    "collocations": [
+      "Fasching feiern",
+      "im Fasching"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "节日",
+      "文化",
+      "B1"
+    ],
+    "synonyms": [
+      "Karneval",
+      "Fastnacht"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "faszinierend",
+    "lemma": "faszinierend",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "迷人的，令人着迷的",
+        "en": "fascinating"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Film war absolut faszinierend.",
+        "zh": "这部电影绝对令人着迷。"
+      },
+      {
+        "de": "Sie hat eine faszinierende Stimme.",
+        "zh": "她有一副迷人的嗓音。"
+      }
+    ],
+    "collocations": [
+      "faszinierend finden",
+      "faszinierend wirken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "描述",
+      "B1"
+    ],
+    "synonyms": [
+      "bezaubernd",
+      "fesselnd"
+    ],
+    "antonyms": [
+      "langweilig",
+      "eintönig"
+    ]
+  },
+  {
+    "word": "feiern",
+    "lemma": "feiern",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "庆祝，欢庆",
+        "en": "to celebrate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir feiern heute meinen Geburtstag.",
+        "zh": "今天我们庆祝我的生日。"
+      },
+      {
+        "de": "Das ganze Land feiert den Sieg.",
+        "zh": "整个国家庆祝胜利。"
+      }
+    ],
+    "collocations": [
+      "ein Fest feiern",
+      "den Erfolg feiern"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gefeiert"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "社交",
+      "A2"
+    ],
+    "synonyms": [
+      "begehen",
+      "zelebrieren"
+    ],
+    "antonyms": [
+      "trauern",
+      "betrauern"
+    ]
+  },
+  {
+    "word": "Feiertag",
+    "lemma": "Feiertag",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Feiertage",
+    "meaning": [
+      {
+        "zh": "节假日，公共假日",
+        "en": "public holiday"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Am Feiertag haben die Geschäfte geschlossen.",
+        "zh": "节假日商店关门。"
+      },
+      {
+        "de": "Weihnachten ist ein wichtiger Feiertag.",
+        "zh": "圣诞节是一个重要的节日。"
+      }
+    ],
+    "collocations": [
+      "ein gesetzlicher Feiertag",
+      "am Feiertag arbeiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "节日",
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Festtag",
+      "Ruhetag"
+    ],
+    "antonyms": [
+      "Arbeitstag",
+      "Werktag"
+    ]
+  },
+  {
+    "word": "fein",
+    "lemma": "fein",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "精细的，精致的；好的",
+        "en": "fine, delicate; good"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist ein feiner Unterschied.",
+        "zh": "这是一个细微的差别。"
+      },
+      {
+        "de": "Das Essen war wirklich fein.",
+        "zh": "这顿饭真的很精致。"
+      }
+    ],
+    "collocations": [
+      "fein säuberlich",
+      "fein abgestimmt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "描述",
+      "品质",
+      "B1"
+    ],
+    "synonyms": [
+      "zart",
+      "exquisit"
+    ],
+    "antonyms": [
+      "grob",
+      "schlecht"
+    ]
+  },
+  {
+    "word": "Familienangehörige",
+    "lemma": "Familienangehörige",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der/die",
+    "plural": "Familienangehörigen",
+    "meaning": [
+      {
+        "zh": "家庭成员",
+        "en": "family member"
+      },
+      {
+        "zh": "家属",
+        "en": "relative"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Alle Familienangehörigen sind zur Feier eingeladen.",
+        "zh": "所有家庭成员都被邀请参加庆祝活动。"
+      },
+      {
+        "de": "Sie kümmert sich um ihre kranken Familienangehörigen.",
+        "zh": "她照顾她生病的家属。"
+      }
+    ],
+    "collocations": [
+      "nahe Familienangehörige",
+      "Familienangehörige pflegen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "家庭",
+      "B1"
+    ],
+    "synonyms": [
+      "Verwandte",
+      "Familienmitglied"
+    ],
+    "antonyms": [
+      "Fremder",
+      "Außenstehender"
+    ]
+  },
+  {
+    "word": "Familienangehörige",
+    "lemma": "Familienangehörige",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der/die",
+    "plural": "Familienangehörigen",
+    "meaning": [
+      {
+        "zh": "家庭成员",
+        "en": "family member"
+      },
+      {
+        "zh": "家属",
+        "en": "relative"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Alle Familienangehörigen sind zur Feier eingeladen.",
+        "zh": "所有家庭成员都被邀请参加庆祝活动。"
+      },
+      {
+        "de": "Sie kümmert sich um ihre kranken Familienangehörigen.",
+        "zh": "她照顾她生病的家属。"
+      }
+    ],
+    "collocations": [
+      "nahe Familienangehörige",
+      "Familienangehörige pflegen",
+      "Familienangehörige einladen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "家庭",
+      "B1"
+    ],
+    "synonyms": [
+      "Verwandte",
+      "Familienmitglied"
+    ],
+    "antonyms": [
+      "Fremde"
+    ]
+  },
+  {
+    "word": "Fest",
+    "lemma": "Fest",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Feste",
+    "meaning": [
+      {
+        "zh": "节日，庆祝活动",
+        "en": "festival, celebration"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir feiern ein großes Fest.",
+        "zh": "我们庆祝一个盛大的节日。"
+      },
+      {
+        "de": "Das Fest findet am Samstag statt.",
+        "zh": "庆祝活动在周六举行。"
+      }
+    ],
+    "collocations": [
+      "ein Fest feiern",
+      "zum Fest gehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "社会",
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Feier",
+      "Party"
+    ],
+    "antonyms": [
+      "Alltag"
+    ]
+  },
+  {
+    "word": "Festessen",
+    "lemma": "Festessen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Festessen",
+    "meaning": [
+      {
+        "zh": "盛宴，节日大餐",
+        "en": "festive meal, banquet"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Zum Geburtstag gab es ein großes Festessen.",
+        "zh": "生日那天有一顿丰盛的节日大餐。"
+      },
+      {
+        "de": "Das Festessen wurde von einem Koch zubereitet.",
+        "zh": "盛宴由一位厨师准备。"
+      }
+    ],
+    "collocations": [
+      "ein Festessen geben",
+      "zum Festessen einladen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "饮食",
+      "B1"
+    ],
+    "synonyms": [
+      "Bankett",
+      "Galaessen"
+    ],
+    "antonyms": [
+      "Snack",
+      "Imbiss"
+    ]
+  },
+  {
+    "word": "festlegen",
+    "lemma": "festlegen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "确定，规定",
+        "en": "to determine, to set"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir müssen den Termin festlegen.",
+        "zh": "我们必须确定日期。"
+      },
+      {
+        "de": "Die Regeln wurden im Voraus festgelegt.",
+        "zh": "规则已提前规定好。"
+      }
+    ],
+    "collocations": [
+      "einen Termin festlegen",
+      "die Bedingungen festlegen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "festgelegt"
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "bestimmen",
+      "festsetzen"
+    ],
+    "antonyms": [
+      "ändern",
+      "lockern"
+    ]
+  },
+  {
+    "word": "festlich",
+    "lemma": "festlich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "节日的，喜庆的",
+        "en": "festive, ceremonial"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie trug ein festliches Kleid.",
+        "zh": "她穿了一件节日礼服。"
+      },
+      {
+        "de": "Die Stimmung war sehr festlich.",
+        "zh": "气氛非常喜庆。"
+      }
+    ],
+    "collocations": [
+      "festliche Kleidung",
+      "festliche Stimmung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "feierlich",
+      "prächtig"
+    ],
+    "antonyms": [
+      "alltäglich",
+      "schlicht"
+    ]
+  },
+  {
+    "word": "Feuerwerk",
+    "lemma": "Feuerwerk",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Feuerwerke",
+    "meaning": [
+      {
+        "zh": "烟花，焰火",
+        "en": "fireworks"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Feuerwerk leuchtete am Himmel.",
+        "zh": "烟花在天空中闪耀。"
+      },
+      {
+        "de": "Zum Jahreswechsel gibt es ein großes Feuerwerk.",
+        "zh": "新年之际有一场盛大的烟花表演。"
+      }
+    ],
+    "collocations": [
+      "ein Feuerwerk abbrennen",
+      "Feuerwerk anschauen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "娱乐",
+      "A2"
+    ],
+    "synonyms": [
+      "Pyrotechnik",
+      "Raketen"
+    ],
+    "antonyms": [
+      "Stille",
+      "Dunkelheit"
+    ]
+  },
+  {
+    "word": "Figur",
+    "lemma": "Figur",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Figuren",
+    "meaning": [
+      {
+        "zh": "人物，身材，图形",
+        "en": "figure, character, shape"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat eine schlanke Figur.",
+        "zh": "她身材苗条。"
+      },
+      {
+        "de": "Die Hauptfigur des Romans ist mutig.",
+        "zh": "小说的主角很勇敢。"
+      }
+    ],
+    "collocations": [
+      "eine gute Figur machen",
+      "eine Figur aus Holz"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "文学",
+      "A2"
+    ],
+    "synonyms": [
+      "Gestalt",
+      "Person"
+    ],
+    "antonyms": [
+      "Hintergrund",
+      "Masse"
+    ]
+  },
+  {
+    "word": "Finanzzentrum",
+    "lemma": "Finanzzentrum",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Finanzzentren",
+    "meaning": [
+      {
+        "zh": "金融中心",
+        "en": "financial center"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Frankfurt ist ein wichtiges Finanzzentrum.",
+        "zh": "法兰克福是一个重要的金融中心。"
+      },
+      {
+        "de": "Das Finanzzentrum zieht viele Investoren an.",
+        "zh": "金融中心吸引了许多投资者。"
+      }
+    ],
+    "collocations": [
+      "ein globales Finanzzentrum",
+      "im Finanzzentrum arbeiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "经济",
+      "城市",
+      "B2"
+    ],
+    "synonyms": [
+      "Bankenviertel",
+      "Wirtschaftszentrum"
+    ],
+    "antonyms": [
+      "Peripherie",
+      "Land"
+    ]
+  },
+  {
+    "word": "flach",
+    "lemma": "flach",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "平的，浅的",
+        "en": "flat, shallow"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Tisch ist flach.",
+        "zh": "桌子是平的。"
+      },
+      {
+        "de": "Das Wasser ist hier sehr flach.",
+        "zh": "这里的水很浅。"
+      }
+    ],
+    "collocations": [
+      "flaches Land",
+      "flaches Wasser"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "自然",
+      "A2"
+    ],
+    "synonyms": [
+      "eben",
+      "niedrig"
+    ],
+    "antonyms": [
+      "steil",
+      "tief"
+    ]
+  },
+  {
+    "word": "Fläche",
+    "lemma": "Fläche",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Flächen",
+    "meaning": [
+      {
+        "zh": "面积；平面；区域",
+        "en": "area; surface; region"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Fläche des Zimmers beträgt 20 Quadratmeter.",
+        "zh": "房间的面积是20平方米。"
+      },
+      {
+        "de": "Auf der glatten Fläche kann man gut rutschen.",
+        "zh": "在光滑的平面上可以很好地滑行。"
+      }
+    ],
+    "collocations": [
+      "eine Fläche berechnen",
+      "große Fläche"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "数学",
+      "空间",
+      "B1"
+    ],
+    "synonyms": [
+      "Areal",
+      "Gebiet"
+    ],
+    "antonyms": [
+      "Punkt"
+    ]
+  },
+  {
+    "word": "Flughafen",
+    "lemma": "Flughafen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Flughäfen",
+    "meaning": [
+      {
+        "zh": "机场",
+        "en": "airport"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir fahren morgen zum Flughafen.",
+        "zh": "我们明天去机场。"
+      },
+      {
+        "de": "Der Flughafen ist wegen Nebel geschlossen.",
+        "zh": "机场因雾关闭。"
+      }
+    ],
+    "collocations": [
+      "am Flughafen ankommen",
+      "vom Flughafen abfliegen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "交通",
+      "旅行",
+      "A2"
+    ],
+    "synonyms": [
+      "Airport"
+    ],
+    "antonyms": [
+      "Bahnhof"
+    ]
+  },
+  {
+    "word": "Folge",
+    "lemma": "Folge",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Folgen",
+    "meaning": [
+      {
+        "zh": "后果；系列；顺序",
+        "en": "consequence; series; sequence"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Folgen des Unfalls waren schwer.",
+        "zh": "事故的后果很严重。"
+      },
+      {
+        "de": "Die nächste Folge der Serie kommt morgen.",
+        "zh": "该系列的下一集明天播出。"
+      }
+    ],
+    "collocations": [
+      "die Folgen tragen",
+      "in Folge"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "抽象",
+      "媒体",
+      "B1"
+    ],
+    "synonyms": [
+      "Konsequenz",
+      "Reihe"
+    ],
+    "antonyms": [
+      "Ursache"
+    ]
+  },
+  {
+    "word": "folgend",
+    "lemma": "folgend",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "以下的；接下来的",
+        "en": "following; subsequent"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im folgenden Kapitel wird das Thema vertieft.",
+        "zh": "在接下来的章节中，这个主题将被深入探讨。"
+      },
+      {
+        "de": "Die folgende Aussage ist wichtig.",
+        "zh": "以下陈述很重要。"
+      }
+    ],
+    "collocations": [
+      "folgende Informationen",
+      "folgende Punkte"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语言",
+      "逻辑",
+      "B1"
+    ],
+    "synonyms": [
+      "nächste",
+      "nachfolgend"
+    ],
+    "antonyms": [
+      "vorhergehend"
+    ]
+  },
+  {
+    "word": "Formalität",
+    "lemma": "Formalität",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Formalitäten",
+    "meaning": [
+      {
+        "zh": "手续；形式上的事情",
+        "en": "formality; procedural matter"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Formalitäten für die Anmeldung sind einfach.",
+        "zh": "注册的手续很简单。"
+      },
+      {
+        "de": "Erledigen Sie bitte die notwendigen Formalitäten.",
+        "zh": "请办理必要的手续。"
+      }
+    ],
+    "collocations": [
+      "Formalitäten erledigen",
+      "bürokratische Formalitäten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "行政",
+      "法律",
+      "B2"
+    ],
+    "synonyms": [
+      "Prozedur",
+      "Verfahren"
+    ],
+    "antonyms": [
+      "Inhalt"
+    ]
+  },
+  {
+    "word": "Forschung",
+    "lemma": "Forschung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Forschungen",
+    "meaning": [
+      {
+        "zh": "研究；科研",
+        "en": "research; scientific study"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Forschung an neuen Medikamenten ist teuer.",
+        "zh": "新药的研究很昂贵。"
+      },
+      {
+        "de": "Er arbeitet in der medizinischen Forschung.",
+        "zh": "他在医学研究领域工作。"
+      }
+    ],
+    "collocations": [
+      "Forschung betreiben",
+      "wissenschaftliche Forschung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "科学",
+      "学术",
+      "B2"
+    ],
+    "synonyms": [
+      "Studie",
+      "Untersuchung"
+    ],
+    "antonyms": [
+      "Praxis"
+    ]
+  },
+  {
+    "word": "fortgehen",
+    "lemma": "fortgehen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "离开；继续",
+        "en": "to leave; to go on"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist ohne ein Wort fortgegangen.",
+        "zh": "他一句话没说就走了。"
+      },
+      {
+        "de": "Die Arbeit geht morgen fort.",
+        "zh": "工作明天继续。"
+      }
+    ],
+    "collocations": [
+      "fortgehen von",
+      "fortgehen mit"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "fortgegangen"
+    },
+    "level": "B1",
+    "tags": [
+      "动作",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "weggehen",
+      "verlassen"
+    ],
+    "antonyms": [
+      "bleiben",
+      "ankommen"
+    ]
+  },
+  {
+    "word": "fortsetzen",
+    "lemma": "fortsetzen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "继续",
+        "en": "to continue"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir setzen die Diskussion morgen fort.",
+        "zh": "我们明天继续讨论。"
+      },
+      {
+        "de": "Er setzte seine Arbeit nach der Pause fort.",
+        "zh": "他在休息后继续工作。"
+      }
+    ],
+    "collocations": [
+      "etwas fortsetzen",
+      "die Arbeit fortsetzen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "fortgesetzt"
+    },
+    "level": "B1",
+    "tags": [
+      "动作",
+      "过程",
+      "B1"
+    ],
+    "synonyms": [
+      "weiterführen",
+      "fortfahren"
+    ],
+    "antonyms": [
+      "abbrechen",
+      "beenden"
+    ]
+  },
+  {
+    "word": "Franc",
+    "lemma": "Franc",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Francs",
+    "meaning": [
+      {
+        "zh": "法郎（货币单位）",
+        "en": "franc (currency unit)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Franc war früher die Währung in Frankreich.",
+        "zh": "法郎曾是法国的货币。"
+      },
+      {
+        "de": "Er bezahlte 100 Franc für das Hotelzimmer.",
+        "zh": "他付了100法郎的房费。"
+      }
+    ],
+    "collocations": [
+      "in Franc bezahlen",
+      "der Schweizer Franc"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "货币",
+      "B1"
+    ],
+    "synonyms": [
+      "Währungseinheit"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "fressen",
+    "lemma": "fressen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "（动物）吃；狼吞虎咽",
+        "en": "to eat (of animals); to devour"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Hund frisst sein Futter.",
+        "zh": "狗在吃它的食物。"
+      },
+      {
+        "de": "Die Katze hat den ganzen Fisch gefressen.",
+        "zh": "猫把整条鱼吃光了。"
+      }
+    ],
+    "collocations": [
+      "etwas fressen",
+      "sich satt fressen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gefressen"
+    },
+    "level": "B1",
+    "tags": [
+      "动物",
+      "饮食",
+      "B1"
+    ],
+    "synonyms": [
+      "verschlingen",
+      "hinunterschlingen"
+    ],
+    "antonyms": [
+      "trinken"
+    ]
+  },
+  {
+    "word": "freundlich",
+    "lemma": "freundlich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "友好的，亲切的",
+        "en": "friendly, kind"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Verkäuferin war sehr freundlich.",
+        "zh": "女售货员非常友好。"
+      },
+      {
+        "de": "Er lächelte freundlich.",
+        "zh": "他友好地笑了笑。"
+      }
+    ],
+    "collocations": [
+      "freundlich sein",
+      "freundlich lächeln",
+      "freundlich grüßen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "性格",
+      "A2"
+    ],
+    "synonyms": [
+      "nett",
+      "liebenswürdig",
+      "zuvorkommend"
+    ],
+    "antonyms": [
+      "unfreundlich",
+      "feindselig"
+    ]
+  },
+  {
+    "word": "friedlich",
+    "lemma": "friedlich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "和平的，安宁的",
+        "en": "peaceful, calm"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Demonstration verlief friedlich.",
+        "zh": "示威游行和平进行。"
+      },
+      {
+        "de": "Sie schlief friedlich in ihrem Bett.",
+        "zh": "她安详地睡在床上。"
+      }
+    ],
+    "collocations": [
+      "friedlich sein",
+      "friedlich leben",
+      "eine friedliche Lösung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "ruhig",
+      "harmonisch",
+      "gewaltfrei"
+    ],
+    "antonyms": [
+      "gewalttätig",
+      "unruhig",
+      "kriegerisch"
+    ]
+  },
+  {
+    "word": "Frühling",
+    "lemma": "Frühling",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Frühlinge",
+    "meaning": [
+      {
+        "zh": "春天",
+        "en": "spring"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Frühling blühen die Blumen.",
+        "zh": "春天花儿盛开。"
+      },
+      {
+        "de": "Der Frühling ist meine Lieblingsjahreszeit.",
+        "zh": "春天是我最喜欢的季节。"
+      }
+    ],
+    "collocations": [
+      "im Frühling",
+      "der Frühling kommt",
+      "Frühlingsanfang"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "自然",
+      "季节",
+      "A2"
+    ],
+    "synonyms": [
+      "Lenz",
+      "Frühjahr"
+    ],
+    "antonyms": [
+      "Herbst"
+    ]
+  },
+  {
+    "word": "Frühlingsfest",
+    "lemma": "Frühlingsfest",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Frühlingsfeste",
+    "meaning": [
+      {
+        "zh": "春节；春季节日",
+        "en": "spring festival"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das chinesische Frühlingsfest ist das wichtigste Fest des Jahres.",
+        "zh": "中国春节是一年中最重要的节日。"
+      },
+      {
+        "de": "Wir feiern das Frühlingsfest mit der Familie.",
+        "zh": "我们和家人一起庆祝春节。"
+      }
+    ],
+    "collocations": [
+      "das Frühlingsfest feiern",
+      "zum Frühlingsfest"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "文化",
+      "节日",
+      "B1"
+    ],
+    "synonyms": [
+      "Neujahrsfest",
+      "Frühlingsfeier"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "furchtbar",
+    "lemma": "furchtbar",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "可怕的，糟糕的",
+        "en": "terrible, awful"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Wetter war furchtbar gestern.",
+        "zh": "昨天天气糟透了。"
+      },
+      {
+        "de": "Es war ein furchtbarer Unfall.",
+        "zh": "那是一场可怕的事故。"
+      }
+    ],
+    "collocations": [
+      "furchtbar sein",
+      "furchtbar klingen",
+      "furchtbar aussehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "评价",
+      "B1"
+    ],
+    "synonyms": [
+      "schrecklich",
+      "entsetzlich",
+      "fürchterlich"
+    ],
+    "antonyms": [
+      "wunderbar",
+      "angenehm"
+    ]
+  },
+  {
+    "word": "fürchten",
+    "lemma": "fürchten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "害怕，担心",
+        "en": "to fear, to be afraid"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich fürchte mich vor Spinnen.",
+        "zh": "我害怕蜘蛛。"
+      },
+      {
+        "de": "Er fürchtet, den Zug zu verpassen.",
+        "zh": "他担心错过火车。"
+      }
+    ],
+    "collocations": [
+      "sich vor etwas fürchten",
+      "jemanden/etwas fürchten",
+      "fürchten, dass"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gefürchtet"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "心理",
+      "B1"
+    ],
+    "synonyms": [
+      "Angst haben",
+      "sich ängstigen",
+      "bang sein"
+    ],
+    "antonyms": [
+      "sich freuen",
+      "mutig sein"
+    ]
+  },
+  {
+    "word": "Gasse",
+    "lemma": "Gasse",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Gassen",
+    "meaning": [
+      {
+        "zh": "小巷，胡同",
+        "en": "alley, lane"
+      },
+      {
+        "zh": "狭窄的街道",
+        "en": "narrow street"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kinder spielen in der engen Gasse.",
+        "zh": "孩子们在狭窄的小巷里玩耍。"
+      },
+      {
+        "de": "Er bog in eine dunkle Gasse ein.",
+        "zh": "他拐进了一条黑暗的小巷。"
+      }
+    ],
+    "collocations": [
+      "enge Gasse",
+      "dunkle Gasse",
+      "durch die Gasse gehen",
+      "in einer Gasse wohnen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "地点",
+      "城市",
+      "B1"
+    ],
+    "synonyms": [
+      "Gässchen",
+      "Seitengasse"
+    ],
+    "antonyms": [
+      "Hauptstraße",
+      "Allee"
+    ]
+  },
+  {
+    "word": "Gebirge",
+    "lemma": "Gebirge",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Gebirge",
+    "meaning": [
+      {
+        "zh": "山脉，山岭",
+        "en": "mountain range, mountains"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Gebirge erstreckt sich über mehrere Kilometer.",
+        "zh": "这座山脉绵延数公里。"
+      },
+      {
+        "de": "Im Gebirge ist das Wetter oft unbeständig.",
+        "zh": "在山里，天气常常多变。"
+      }
+    ],
+    "collocations": [
+      "hohes Gebirge",
+      "im Gebirge wandern",
+      "ein Gebirge überqueren",
+      "das Gebirge erkunden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "地理",
+      "自然",
+      "B1"
+    ],
+    "synonyms": [
+      "Bergkette",
+      "Bergmassiv"
+    ],
+    "antonyms": [
+      "Tal",
+      "Ebene"
+    ]
+  }
+]

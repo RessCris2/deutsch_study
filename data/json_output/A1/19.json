@@ -1,0 +1,1654 @@
+[
+  {
+    "word": "Schüler",
+    "lemma": "Schüler",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Schüler",
+    "meaning": [
+      {
+        "zh": "学生",
+        "en": "student"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Schüler lernt fleißig für die Prüfung.",
+        "zh": "这个学生正在努力学习备考。"
+      },
+      {
+        "de": "Viele Schüler nehmen an dem Wettbewerb teil.",
+        "zh": "许多学生参加了比赛。"
+      }
+    ],
+    "collocations": [
+      "ein guter Schüler",
+      "Schüler und Lehrer"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "教育",
+      "A1"
+    ],
+    "synonyms": [
+      "Lernender",
+      "Student"
+    ],
+    "antonyms": [
+      "Lehrer"
+    ]
+  },
+  {
+    "word": "schwach",
+    "lemma": "schwach",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "弱的，虚弱的",
+        "en": "weak"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Nach der Krankheit fühlte er sich noch sehr schwach.",
+        "zh": "病后他仍然感觉很虚弱。"
+      },
+      {
+        "de": "Die Mannschaft spielte heute schwach.",
+        "zh": "这支队伍今天表现很弱。"
+      }
+    ],
+    "collocations": [
+      "schwach sein",
+      "schwache Leistung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "状态",
+      "A2"
+    ],
+    "synonyms": [
+      "kraftlos",
+      "schwächlich"
+    ],
+    "antonyms": [
+      "stark"
+    ]
+  },
+  {
+    "word": "schwarz",
+    "lemma": "schwarz",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "黑色的",
+        "en": "black"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie trägt ein schwarzes Kleid.",
+        "zh": "她穿着一件黑色连衣裙。"
+      },
+      {
+        "de": "Der Himmel wurde plötzlich schwarz.",
+        "zh": "天空突然变黑了。"
+      }
+    ],
+    "collocations": [
+      "schwarze Farbe",
+      "schwarzer Kaffee"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "颜色",
+      "A1"
+    ],
+    "synonyms": [
+      "dunkel"
+    ],
+    "antonyms": [
+      "weiß"
+    ]
+  },
+  {
+    "word": "Schwarzwald",
+    "lemma": "Schwarzwald",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "黑森林（德国地名）",
+        "en": "Black Forest"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Schwarzwald ist bekannt für seine dichten Wälder.",
+        "zh": "黑森林以其茂密的森林而闻名。"
+      },
+      {
+        "de": "Wir machen Urlaub im Schwarzwald.",
+        "zh": "我们在黑森林度假。"
+      }
+    ],
+    "collocations": [
+      "im Schwarzwald",
+      "Schwarzwälder Kirschtorte"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "地理",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Schweinebraten",
+    "lemma": "Schweinebraten",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Schweinebraten",
+    "meaning": [
+      {
+        "zh": "烤猪肉",
+        "en": "roast pork"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Zum Sonntagsessen gibt es Schweinebraten mit Knödeln.",
+        "zh": "周日餐有烤猪肉配丸子。"
+      },
+      {
+        "de": "Der Schweinebraten ist außen knusprig und innen saftig.",
+        "zh": "烤猪肉外酥里嫩。"
+      }
+    ],
+    "collocations": [
+      "Schweinebraten essen",
+      "Schweinebraten zubereiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "饮食",
+      "B1"
+    ],
+    "synonyms": [
+      "Braten"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Schweiz",
+    "lemma": "Schweiz",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "瑞士",
+        "en": "Switzerland"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Schweiz ist bekannt für ihre Berge und Schokolade.",
+        "zh": "瑞士以其山脉和巧克力闻名。"
+      },
+      {
+        "de": "Er reist oft in die Schweiz.",
+        "zh": "他经常去瑞士旅行。"
+      }
+    ],
+    "collocations": [
+      "in der Schweiz",
+      "die Schweizer Alpen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "地理",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Schwester",
+    "lemma": "Schwester",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Schwestern",
+    "meaning": [
+      {
+        "zh": "姐妹；护士",
+        "en": "sister; nurse"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Meine Schwester wohnt in Berlin.",
+        "zh": "我的姐姐住在柏林。"
+      },
+      {
+        "de": "Die Schwester im Krankenhaus war sehr freundlich.",
+        "zh": "医院里的护士非常友好。"
+      }
+    ],
+    "collocations": [
+      "jüngere Schwester",
+      "Krankenschwester"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "家庭",
+      "A1"
+    ],
+    "synonyms": [
+      "Geschwister"
+    ],
+    "antonyms": [
+      "Bruder"
+    ]
+  },
+  {
+    "word": "Schwiegertochter",
+    "lemma": "Schwiegertochter",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Schwiegertöchter",
+    "meaning": [
+      {
+        "zh": "儿媳",
+        "en": "daughter-in-law"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Seine Schwiegertochter hilft ihm im Haushalt.",
+        "zh": "他的儿媳帮他做家务。"
+      },
+      {
+        "de": "Die Schwiegertochter und der Sohn besuchen die Eltern am Wochenende.",
+        "zh": "儿媳和儿子周末来看望父母。"
+      }
+    ],
+    "collocations": [
+      "die Schwiegertochter kennenlernen",
+      "Schwiegertochter und Schwiegermutter"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "家庭",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "Schwiegersohn"
+    ]
+  },
+  {
+    "word": "sechs",
+    "lemma": "sechs",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "六",
+        "en": "six"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir haben sechs Stunden Unterricht.",
+        "zh": "我们有六节课。"
+      },
+      {
+        "de": "Er ist sechs Jahre alt.",
+        "zh": "他六岁了。"
+      }
+    ],
+    "collocations": [
+      "sechs Mal",
+      "sechs Uhr"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "数字",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dieder",
+    "lemma": "diedern",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "（方言）颤抖，摇晃",
+        "en": "to tremble, to shake"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der alte Tisch diedert bei jeder Bewegung.",
+        "zh": "这张旧桌子一动就摇晃。"
+      },
+      {
+        "de": "Sie diederte vor Kälte.",
+        "zh": "她冷得发抖。"
+      }
+    ],
+    "collocations": [
+      "vor Kälte diedern",
+      "vor Angst diedern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gediedert"
+    },
+    "level": "B2",
+    "tags": [
+      "方言",
+      "动作",
+      "B2"
+    ],
+    "synonyms": [
+      "zittern",
+      "beben"
+    ],
+    "antonyms": [
+      "stabil sein"
+    ]
+  },
+  {
+    "word": "sehen",
+    "lemma": "sehen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "看，看见",
+        "en": "to see"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich sehe einen Vogel im Baum.",
+        "zh": "我看到树上有一只鸟。"
+      },
+      {
+        "de": "Kannst du das Schild sehen?",
+        "zh": "你能看到那个牌子吗？"
+      }
+    ],
+    "collocations": [
+      "etwas sehen",
+      "jemanden sehen",
+      "sich sehen lassen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gesehen"
+    },
+    "level": "A1",
+    "tags": [
+      "感知",
+      "日常",
+      "A1"
+    ],
+    "synonyms": [
+      "erblicken",
+      "schauen"
+    ],
+    "antonyms": [
+      "übersehen",
+      "ignorieren"
+    ]
+  },
+  {
+    "word": "sehr",
+    "lemma": "sehr",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "很，非常",
+        "en": "very"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Essen schmeckt sehr gut.",
+        "zh": "这食物味道很好。"
+      },
+      {
+        "de": "Ich freue mich sehr.",
+        "zh": "我非常高兴。"
+      }
+    ],
+    "collocations": [
+      "sehr gut",
+      "sehr viel",
+      "sehr gern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "程度",
+      "A1"
+    ],
+    "synonyms": [
+      "äußerst",
+      "besonders"
+    ],
+    "antonyms": [
+      "wenig",
+      "kaum"
+    ]
+  },
+  {
+    "word": "sein",
+    "lemma": "sein",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "是",
+        "en": "to be"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist mein Freund.",
+        "zh": "他是我的朋友。"
+      },
+      {
+        "de": "Das Wetter ist schön.",
+        "zh": "天气很好。"
+      }
+    ],
+    "collocations": [
+      "da sein",
+      "fertig sein",
+      "müde sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "partizip2": "gewesen"
+    },
+    "level": "A1",
+    "tags": [
+      "系动词",
+      "A1"
+    ],
+    "synonyms": [
+      "existieren",
+      "sich befinden"
+    ],
+    "antonyms": [
+      "nicht sein"
+    ]
+  },
+  {
+    "word": "Seite",
+    "lemma": "Seite",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Seiten",
+    "meaning": [
+      {
+        "zh": "页；侧面",
+        "en": "page; side"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bitte schlagen Sie Seite 10 auf.",
+        "zh": "请翻到第10页。"
+      },
+      {
+        "de": "Das Auto steht auf der anderen Seite der Straße.",
+        "zh": "车停在街对面。"
+      }
+    ],
+    "collocations": [
+      "auf der Seite",
+      "von der Seite",
+      "Seite an Seite"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "空间",
+      "书籍",
+      "A2"
+    ],
+    "synonyms": [
+      "Blatt",
+      "Flanke"
+    ],
+    "antonyms": [
+      "Mitte"
+    ]
+  },
+  {
+    "word": "Sekretär",
+    "lemma": "Sekretär",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Sekretäre",
+    "meaning": [
+      {
+        "zh": "秘书；写字台",
+        "en": "secretary; writing desk"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Sekretär organisiert die Termine.",
+        "zh": "秘书安排日程。"
+      },
+      {
+        "de": "Im Büro steht ein alter Sekretär.",
+        "zh": "办公室里有一张旧写字台。"
+      }
+    ],
+    "collocations": [
+      "als Sekretär arbeiten",
+      "am Sekretär sitzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "职业",
+      "家具",
+      "B1"
+    ],
+    "synonyms": [
+      "Assistent",
+      "Schreibtisch"
+    ],
+    "antonyms": [
+      "Chef"
+    ]
+  },
+  {
+    "word": "selber",
+    "lemma": "selber",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "自己，亲自",
+        "en": "oneself, personally"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mach es selber!",
+        "zh": "你自己做！"
+      },
+      {
+        "de": "Das habe ich selber gesehen.",
+        "zh": "这是我亲眼看到的。"
+      }
+    ],
+    "collocations": [
+      "selber machen",
+      "selber denken",
+      "selber kommen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "代词性副词",
+      "A2"
+    ],
+    "synonyms": [
+      "selbst",
+      "eigenhändig"
+    ],
+    "antonyms": [
+      "fremd",
+      "durch andere"
+    ]
+  },
+  {
+    "word": "selbstverständlich",
+    "lemma": "selbstverständlich",
+    "pos": [
+      "adverb",
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "当然，理所当然地",
+        "en": "of course, naturally"
+      },
+      {
+        "zh": "不言而喻的",
+        "en": "self-evident, obvious"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Selbstverständlich helfe ich dir bei den Hausaufgaben.",
+        "zh": "我当然会帮你做作业。"
+      },
+      {
+        "de": "Es ist selbstverständlich, dass man sich bedankt.",
+        "zh": "道谢是理所当然的。"
+      }
+    ],
+    "collocations": [
+      "selbstverständlich annehmen",
+      "für selbstverständlich halten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "日常用语",
+      "A2"
+    ],
+    "synonyms": [
+      "natürlich",
+      "klar"
+    ],
+    "antonyms": [
+      "unnatürlich",
+      "fraglich"
+    ]
+  },
+  {
+    "word": "September",
+    "lemma": "September",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "September",
+    "meaning": [
+      {
+        "zh": "九月",
+        "en": "September"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im September beginnt das neue Schuljahr.",
+        "zh": "九月新学期开始。"
+      },
+      {
+        "de": "Wir fahren im September in den Urlaub.",
+        "zh": "我们九月去度假。"
+      }
+    ],
+    "collocations": [
+      "im September",
+      "Anfang September"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "时间",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "selten",
+    "lemma": "selten",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "稀少的，罕见的",
+        "en": "rare, seldom"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Pflanze ist sehr selten.",
+        "zh": "这种植物很罕见。"
+      },
+      {
+        "de": "Ich gehe selten ins Kino.",
+        "zh": "我很少去电影院。"
+      }
+    ],
+    "collocations": [
+      "selten vorkommen",
+      "selten zu sehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "频率",
+      "A2"
+    ],
+    "synonyms": [
+      "rar",
+      "ungewöhnlich"
+    ],
+    "antonyms": [
+      "häufig",
+      "oft"
+    ]
+  },
+  {
+    "word": "sicher",
+    "lemma": "sicher",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "安全的，确定的",
+        "en": "safe, certain"
+      },
+      {
+        "zh": "当然，肯定",
+        "en": "surely, certainly"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bist du dir sicher?",
+        "zh": "你确定吗？"
+      },
+      {
+        "de": "Der Ort ist sicher.",
+        "zh": "这个地方很安全。"
+      }
+    ],
+    "collocations": [
+      "sicher sein",
+      "sicher gehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "安全",
+      "A2"
+    ],
+    "synonyms": [
+      "gewiss",
+      "zuverlässig"
+    ],
+    "antonyms": [
+      "unsicher",
+      "gefährlich"
+    ]
+  },
+  {
+    "word": "Sie",
+    "lemma": "Sie",
+    "pos": [
+      "pronoun"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "您（尊称）",
+        "en": "you (formal)"
+      },
+      {
+        "zh": "他们/她们/它们",
+        "en": "they"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Können Sie mir bitte helfen?",
+        "zh": "您能帮我吗？"
+      },
+      {
+        "de": "Sie kommen aus Deutschland.",
+        "zh": "他们来自德国。"
+      }
+    ],
+    "collocations": [
+      "Sie sind",
+      "mit Ihnen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "代词",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "du"
+    ]
+  },
+  {
+    "word": "Snackbar",
+    "lemma": "Snackbar",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Snackbars",
+    "meaning": [
+      {
+        "zh": "小吃店，快餐店",
+        "en": "snack bar"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir essen in der Snackbar zu Mittag.",
+        "zh": "我们在小吃店吃午饭。"
+      },
+      {
+        "de": "Die Snackbar hat bis 22 Uhr geöffnet.",
+        "zh": "小吃店营业到晚上10点。"
+      }
+    ],
+    "collocations": [
+      "in der Snackbar",
+      "eine Snackbar besuchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "饮食",
+      "B1"
+    ],
+    "synonyms": [
+      "Imbiss",
+      "Cafeteria"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "sofort",
+    "lemma": "sofort",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "立刻，马上",
+        "en": "immediately, right away"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Komm sofort her!",
+        "zh": "马上过来！"
+      },
+      {
+        "de": "Ich werde das sofort erledigen.",
+        "zh": "我立刻处理这件事。"
+      }
+    ],
+    "collocations": [
+      "sofort handeln",
+      "sofort kommen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "时间",
+      "A1"
+    ],
+    "synonyms": [
+      "unverzüglich",
+      "gleich"
+    ],
+    "antonyms": [
+      "später",
+      "langsam"
+    ]
+  },
+  {
+    "word": "sogar",
+    "lemma": "sogar",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "甚至",
+        "en": "even"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat sogar am Sonntag gearbeitet.",
+        "zh": "他甚至周日也工作。"
+      },
+      {
+        "de": "Sogar die Kinder haben geholfen.",
+        "zh": "连孩子们都帮忙了。"
+      }
+    ],
+    "collocations": [
+      "sogar noch",
+      "sogar wenn"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "强调",
+      "A2"
+    ],
+    "synonyms": [
+      "selbst",
+      "gar"
+    ],
+    "antonyms": [
+      "nicht einmal"
+    ]
+  },
+  {
+    "word": "Sohn",
+    "lemma": "Sohn",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Söhne",
+    "meaning": [
+      {
+        "zh": "儿子",
+        "en": "son"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mein Sohn geht schon zur Schule.",
+        "zh": "我的儿子已经上学了。"
+      },
+      {
+        "de": "Sie hat zwei Söhne und eine Tochter.",
+        "zh": "她有两个儿子和一个女儿。"
+      }
+    ],
+    "collocations": [
+      "der älteste Sohn",
+      "der einzige Sohn"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "家庭",
+      "A1"
+    ],
+    "synonyms": [
+      "Junge",
+      "Kind"
+    ],
+    "antonyms": [
+      "Tochter"
+    ]
+  },
+  {
+    "word": "Sonne",
+    "lemma": "Sonne",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Sonnen",
+    "meaning": [
+      {
+        "zh": "太阳",
+        "en": "sun"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Sonne scheint heute sehr hell.",
+        "zh": "今天太阳很明亮。"
+      },
+      {
+        "de": "Im Sommer geht die Sonne früh auf.",
+        "zh": "夏天太阳升得很早。"
+      }
+    ],
+    "collocations": [
+      "die Sonne scheint",
+      "in der Sonne sitzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "自然",
+      "A1"
+    ],
+    "synonyms": [
+      "Stern",
+      "Lichtquelle"
+    ],
+    "antonyms": [
+      "Mond"
+    ]
+  },
+  {
+    "word": "sonst",
+    "lemma": "sonst",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "否则；此外；平时",
+        "en": "otherwise; else; usually"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Beeil dich, sonst kommen wir zu spät.",
+        "zh": "快点，否则我们会迟到。"
+      },
+      {
+        "de": "Sonst ist alles in Ordnung.",
+        "zh": "此外一切都好。"
+      }
+    ],
+    "collocations": [
+      "sonst noch",
+      "sonst niemand"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "语法",
+      "A2"
+    ],
+    "synonyms": [
+      "andernfalls",
+      "außerdem"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Sorge",
+    "lemma": "Sorge",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Sorgen",
+    "meaning": [
+      {
+        "zh": "担忧；烦恼",
+        "en": "worry; concern"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mach dir keine Sorgen, alles wird gut.",
+        "zh": "别担心，一切都会好的。"
+      },
+      {
+        "de": "Er hat große Sorgen um seine Gesundheit.",
+        "zh": "他很担心自己的健康。"
+      }
+    ],
+    "collocations": [
+      "Sorgen machen",
+      "sich um jemanden Sorgen machen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "Angst",
+      "Kummer"
+    ],
+    "antonyms": [
+      "Freude",
+      "Ruhe"
+    ]
+  },
+  {
+    "word": "Sorte",
+    "lemma": "Sorte",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Sorten",
+    "meaning": [
+      {
+        "zh": "种类；品种",
+        "en": "sort; variety"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Welche Sorte Kaffee trinkst du am liebsten?",
+        "zh": "你最喜欢哪种咖啡？"
+      },
+      {
+        "de": "Im Supermarkt gibt es viele Sorten Brot.",
+        "zh": "超市里有很多种面包。"
+      }
+    ],
+    "collocations": [
+      "eine Sorte auswählen",
+      "verschiedene Sorten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Art",
+      "Typ"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "später",
+    "lemma": "spät",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "后来；以后",
+        "en": "later"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir können später darüber reden.",
+        "zh": "我们可以稍后谈这个。"
+      },
+      {
+        "de": "Später wurde er ein berühmter Arzt.",
+        "zh": "后来他成了一位著名的医生。"
+      }
+    ],
+    "collocations": [
+      "später einmal",
+      "bis später"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "时间",
+      "A1"
+    ],
+    "synonyms": [
+      "nachher",
+      "danach"
+    ],
+    "antonyms": [
+      "früher",
+      "jetzt"
+    ]
+  },
+  {
+    "word": "Spaziergang",
+    "lemma": "Spaziergang",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Spaziergänge",
+    "meaning": [
+      {
+        "zh": "散步",
+        "en": "walk; stroll"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir machen jeden Abend einen Spaziergang.",
+        "zh": "我们每晚都散步。"
+      },
+      {
+        "de": "Ein langer Spaziergang im Wald tut gut.",
+        "zh": "在森林里长时间散步有益健康。"
+      }
+    ],
+    "collocations": [
+      "einen Spaziergang machen",
+      "zum Spaziergang gehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "活动",
+      "A2"
+    ],
+    "synonyms": [
+      "Wanderung",
+      "Ausflug"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Speisekarte",
+    "lemma": "Speisekarte",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Speisekarten",
+    "meaning": [
+      {
+        "zh": "菜单",
+        "en": "menu"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kann ich bitte die Speisekarte sehen?",
+        "zh": "请给我看一下菜单好吗？"
+      },
+      {
+        "de": "Die Speisekarte bietet viele vegetarische Gerichte.",
+        "zh": "菜单上有很多素食菜肴。"
+      }
+    ],
+    "collocations": [
+      "die Speisekarte lesen",
+      "auf der Speisekarte stehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "餐饮",
+      "A1"
+    ],
+    "synonyms": [
+      "Menükarte",
+      "Karte"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Spezialität",
+    "lemma": "Spezialität",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Spezialitäten",
+    "meaning": [
+      {
+        "zh": "特色菜，特产",
+        "en": "specialty, speciality"
+      },
+      {
+        "zh": "专长，特长",
+        "en": "specialty, area of expertise"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Spezialität wird nur in dieser Region hergestellt.",
+        "zh": "这种特产只在这个地区生产。"
+      },
+      {
+        "de": "Seine Spezialität ist die Reparatur von alten Uhren.",
+        "zh": "他的专长是修理旧钟表。"
+      }
+    ],
+    "collocations": [
+      "regionale Spezialität",
+      "kulinarische Spezialität",
+      "eine Spezialität probieren",
+      "sich auf eine Spezialität spezialisieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "美食",
+      "B1"
+    ],
+    "synonyms": [
+      "Delikatesse",
+      "Fachgebiet"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Spiegel",
+    "lemma": "Spiegel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Spiegel",
+    "meaning": [
+      {
+        "zh": "镜子",
+        "en": "mirror"
+      },
+      {
+        "zh": "反映，写照",
+        "en": "reflection, mirror image"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie schaut sich jeden Morgen im Spiegel an.",
+        "zh": "她每天早上照镜子。"
+      },
+      {
+        "de": "Die Kunst ist ein Spiegel der Gesellschaft.",
+        "zh": "艺术是社会的镜子。"
+      }
+    ],
+    "collocations": [
+      "in den Spiegel schauen",
+      "sich im Spiegel betrachten",
+      "ein Spiegel der Gesellschaft",
+      "Rückspiegel"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "Reflektor",
+      "Spiegelbild"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Klick",
+    "lemma": "Klick",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Klicks",
+    "meaning": [
+      {
+        "zh": "点击（鼠标）",
+        "en": "click (mouse)"
+      },
+      {
+        "zh": "咔嚓声",
+        "en": "click sound"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mit einem Klick öffnet sich das Fenster.",
+        "zh": "点击一下，窗口就打开了。"
+      },
+      {
+        "de": "Der Klick des Schlosses war laut zu hören.",
+        "zh": "锁的咔嚓声清晰可闻。"
+      }
+    ],
+    "collocations": [
+      "ein Klick mit der Maus",
+      "per Klick bestellen",
+      "Klicks generieren",
+      "auf einen Klick warten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "互联网",
+      "B1"
+    ],
+    "synonyms": [
+      "Mausklick",
+      "Knacken"
+    ],
+    "antonyms": []
+  }
+]

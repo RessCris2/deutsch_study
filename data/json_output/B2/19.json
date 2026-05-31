@@ -1,0 +1,1428 @@
+[
+  {
+    "word": "Windkraftwerk",
+    "lemma": "Windkraftwerk",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Windkraftwerke",
+    "meaning": [
+      {
+        "zh": "风力发电站",
+        "en": "wind power plant"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das neue Windkraftwerk liefert Strom für tausend Haushalte.",
+        "zh": "新的风力发电站为一千户家庭供电。"
+      },
+      {
+        "de": "In der Nordsee entstehen immer mehr Windkraftwerke.",
+        "zh": "北海正在建设越来越多的风力发电站。"
+      }
+    ],
+    "collocations": [
+      "ein Windkraftwerk bauen",
+      "ein Windkraftwerk betreiben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "能源",
+      "环境"
+    ],
+    "synonyms": [
+      "Windpark",
+      "Windenergieanlage"
+    ],
+    "antonyms": [
+      "Kohlekraftwerk"
+    ]
+  },
+  {
+    "word": "wirksam",
+    "lemma": "wirksam",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "有效的",
+        "en": "effective"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Medizin ist sehr wirksam gegen Kopfschmerzen.",
+        "zh": "这种药对头痛非常有效。"
+      },
+      {
+        "de": "Die neue Strategie erwies sich als wirksam.",
+        "zh": "新策略证明是有效的。"
+      }
+    ],
+    "collocations": [
+      "wirksam sein",
+      "wirksam werden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "描述",
+      "效果",
+      "医学"
+    ],
+    "synonyms": [
+      "effektiv",
+      "erfolgreich"
+    ],
+    "antonyms": [
+      "unwirksam",
+      "wirkungslos"
+    ]
+  },
+  {
+    "word": "Wirrwarr",
+    "lemma": "Wirrwarr",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "混乱，杂乱",
+        "en": "chaos, mess"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Zimmer herrschte ein großes Wirrwarr.",
+        "zh": "房间里一片混乱。"
+      },
+      {
+        "de": "Das Wirrwarr der vielen Regeln verwirrte die Schüler.",
+        "zh": "众多规则的混乱让学生们感到困惑。"
+      }
+    ],
+    "collocations": [
+      "ein Wirrwarr von",
+      "im Wirrwarr"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "描述",
+      "状态",
+      "生活"
+    ],
+    "synonyms": [
+      "Chaos",
+      "Durcheinander"
+    ],
+    "antonyms": [
+      "Ordnung",
+      "Klarheit"
+    ]
+  },
+  {
+    "word": "Wissen",
+    "lemma": "Wissen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "知识，学识",
+        "en": "knowledge"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sein Wissen über Geschichte ist beeindruckend.",
+        "zh": "他对历史的知识令人印象深刻。"
+      },
+      {
+        "de": "Das Wissen wird von Generation zu Generation weitergegeben.",
+        "zh": "知识代代相传。"
+      }
+    ],
+    "collocations": [
+      "Wissen vermitteln",
+      "Wissen erwerben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "教育",
+      "认知",
+      "社会"
+    ],
+    "synonyms": [
+      "Kenntnis",
+      "Bildung"
+    ],
+    "antonyms": [
+      "Unwissenheit",
+      "Ignoranz"
+    ]
+  },
+  {
+    "word": "wochenlang",
+    "lemma": "wochenlang",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "持续数周地",
+        "en": "for weeks"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie wartete wochenlang auf eine Antwort.",
+        "zh": "她等了数周才得到回复。"
+      },
+      {
+        "de": "Der Regen hielt wochenlang an.",
+        "zh": "雨持续下了数周。"
+      }
+    ],
+    "collocations": [
+      "wochenlang warten",
+      "wochenlang dauern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "时间",
+      "描述",
+      "生活"
+    ],
+    "synonyms": [
+      "tagelang",
+      "monatelang"
+    ],
+    "antonyms": [
+      "kurzzeitig",
+      "sofort"
+    ]
+  },
+  {
+    "word": "Wohlstand",
+    "lemma": "Wohlstand",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "富裕，繁荣",
+        "en": "prosperity, wealth"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Wohlstand des Landes hat in den letzten Jahren zugenommen.",
+        "zh": "这个国家的富裕程度近年来有所增加。"
+      },
+      {
+        "de": "Viele Menschen streben nach materiellem Wohlstand.",
+        "zh": "许多人追求物质上的富裕。"
+      }
+    ],
+    "collocations": [
+      "Wohlstand schaffen",
+      "im Wohlstand leben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "社会",
+      "生活"
+    ],
+    "synonyms": [
+      "Reichtum",
+      "Wohlfahrt"
+    ],
+    "antonyms": [
+      "Armut",
+      "Not"
+    ]
+  },
+  {
+    "word": "Wolke",
+    "lemma": "Wolke",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Wolken",
+    "meaning": [
+      {
+        "zh": "云",
+        "en": "cloud"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Am Himmel ziehen weiße Wolken vorbei.",
+        "zh": "天空中飘过白云。"
+      },
+      {
+        "de": "Eine dunkle Wolke kündigte ein Gewitter an.",
+        "zh": "一朵乌云预示着雷雨的到来。"
+      }
+    ],
+    "collocations": [
+      "eine Wolke am Himmel",
+      "Wolken ziehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "自然",
+      "天气",
+      "生活"
+    ],
+    "synonyms": [
+      "Nebel",
+      "Dunst"
+    ],
+    "antonyms": [
+      "Sonne",
+      "Himmel"
+    ]
+  },
+  {
+    "word": "Zeichen",
+    "lemma": "Zeichen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Zeichen",
+    "meaning": [
+      {
+        "zh": "符号，标志，迹象",
+        "en": "sign, symbol, mark"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ein rotes Zeichen bedeutet Gefahr.",
+        "zh": "红色标志表示危险。"
+      },
+      {
+        "de": "Das ist ein gutes Zeichen für die Zukunft.",
+        "zh": "这对未来是一个好迹象。"
+      }
+    ],
+    "collocations": [
+      "ein Zeichen setzen",
+      "ein Zeichen geben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "沟通",
+      "符号",
+      "生活"
+    ],
+    "synonyms": [
+      "Symbol",
+      "Signal",
+      "Hinweis"
+    ],
+    "antonyms": [
+      "Nichts",
+      "Leere"
+    ]
+  },
+  {
+    "word": "zeitgemäß",
+    "lemma": "zeitgemäß",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "符合时代的，现代的",
+        "en": "up-to-date, contemporary"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Methode ist nicht mehr zeitgemäß.",
+        "zh": "这种方法已经过时了。"
+      },
+      {
+        "de": "Wir brauchen eine zeitgemäße Lösung für das Problem.",
+        "zh": "我们需要一个符合时代的解决方案。"
+      }
+    ],
+    "collocations": [
+      "zeitgemäße Technologie",
+      "zeitgemäßes Design"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "科技",
+      "B2"
+    ],
+    "synonyms": [
+      "modern",
+      "aktuell"
+    ],
+    "antonyms": [
+      "veraltet",
+      "altmodisch"
+    ]
+  },
+  {
+    "word": "Zeitpunkt",
+    "lemma": "Zeitpunkt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Zeitpunkte",
+    "meaning": [
+      {
+        "zh": "时间点，时刻",
+        "en": "point in time, moment"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der genaue Zeitpunkt der Ankunft ist noch unbekannt.",
+        "zh": "到达的确切时间点还不知道。"
+      },
+      {
+        "de": "Zu diesem Zeitpunkt war ich noch im Büro.",
+        "zh": "在这个时间点，我还在办公室。"
+      }
+    ],
+    "collocations": [
+      "zum richtigen Zeitpunkt",
+      "zu einem späteren Zeitpunkt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "时间",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Moment",
+      "Augenblick"
+    ],
+    "antonyms": [
+      "Zeitraum"
+    ]
+  },
+  {
+    "word": "zerrütten",
+    "lemma": "zerrütten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "破坏，使瓦解",
+        "en": "to ruin, to disrupt"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Streit hat die Familie zerrüttet.",
+        "zh": "争吵毁了这个家庭。"
+      },
+      {
+        "de": "Die Wirtschaftskrise zerrüttete das Land.",
+        "zh": "经济危机破坏了国家。"
+      }
+    ],
+    "collocations": [
+      "eine Ehe zerrütten",
+      "die Beziehung zerrütten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "zerrüttet"
+    },
+    "level": "C1",
+    "tags": [
+      "情感",
+      "社会",
+      "C1"
+    ],
+    "synonyms": [
+      "zerstören",
+      "ruinieren"
+    ],
+    "antonyms": [
+      "stärken",
+      "festigen"
+    ]
+  },
+  {
+    "word": "Zettel",
+    "lemma": "Zettel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Zettel",
+    "meaning": [
+      {
+        "zh": "纸条，便条",
+        "en": "note, slip of paper"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe einen Zettel auf dem Schreibtisch hinterlassen.",
+        "zh": "我在桌子上留了一张纸条。"
+      },
+      {
+        "de": "Kannst du mir einen Zettel schreiben?",
+        "zh": "你能给我写张便条吗？"
+      }
+    ],
+    "collocations": [
+      "einen Zettel schreiben",
+      "einen Zettel hinterlassen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "Notiz",
+      "Memo"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "zugehen",
+    "lemma": "zugehen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "走向；关上；发生",
+        "en": "to approach; to close; to happen"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ging auf das Haus zu.",
+        "zh": "他走向那栋房子。"
+      },
+      {
+        "de": "Die Tür geht nicht zu.",
+        "zh": "门关不上。"
+      },
+      {
+        "de": "Hier geht es turbulent zu.",
+        "zh": "这里很热闹。"
+      }
+    ],
+    "collocations": [
+      "auf jemanden zugehen",
+      "es geht zu wie"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "zugegangen"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "运动",
+      "B1"
+    ],
+    "synonyms": [
+      "sich nähern",
+      "schließen"
+    ],
+    "antonyms": [
+      "weggehen",
+      "aufgehen"
+    ]
+  },
+  {
+    "word": "zuschreien",
+    "lemma": "zuschreien",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "朝...喊叫",
+        "en": "to shout at someone"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er schrie mir wütend zu.",
+        "zh": "他愤怒地朝我喊叫。"
+      },
+      {
+        "de": "Sie schrie dem Kind zu, vorsichtig zu sein.",
+        "zh": "她朝孩子喊叫，要小心。"
+      }
+    ],
+    "collocations": [
+      "jemandem etwas zuschreien",
+      "wütend zuschreien"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "zugeschrien"
+    },
+    "level": "B2",
+    "tags": [
+      "情感",
+      "交流",
+      "B2"
+    ],
+    "synonyms": [
+      "anbrüllen",
+      "anschreien"
+    ],
+    "antonyms": [
+      "zuflüstern",
+      "leise sprechen"
+    ]
+  },
+  {
+    "word": "zuweisen",
+    "lemma": "zuweisen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "分配，指派",
+        "en": "to assign, to allocate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Lehrer wies jedem Schüler eine Aufgabe zu.",
+        "zh": "老师给每个学生分配了一个任务。"
+      },
+      {
+        "de": "Ihm wurde ein neuer Arbeitsplatz zugewiesen.",
+        "zh": "他被分配了一个新的工作岗位。"
+      }
+    ],
+    "collocations": [
+      "jemandem eine Aufgabe zuweisen",
+      "einen Platz zuweisen"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "zugewiesen"
+    },
+    "level": "B2",
+    "tags": [
+      "工作",
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "zuteilen",
+      "übertragen"
+    ],
+    "antonyms": [
+      "entziehen",
+      "wegnehmen"
+    ]
+  },
+  {
+    "word": "Zufall",
+    "lemma": "Zufall",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Zufälle",
+    "meaning": [
+      {
+        "zh": "偶然，巧合",
+        "en": "coincidence, chance"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das war ein reiner Zufall.",
+        "zh": "这纯属巧合。"
+      },
+      {
+        "de": "Durch Zufall traf ich meinen alten Freund.",
+        "zh": "我偶然遇到了我的老朋友。"
+      }
+    ],
+    "collocations": [
+      "reiner Zufall",
+      "durch Zufall"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "抽象",
+      "B1"
+    ],
+    "synonyms": [
+      "Koinzidenz",
+      "Glücksfall"
+    ],
+    "antonyms": [
+      "Absicht",
+      "Plan"
+    ]
+  },
+  {
+    "word": "zufolge",
+    "lemma": "zufolge",
+    "pos": [
+      "preposition"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "根据，按照",
+        "en": "according to"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dem Bericht zufolge ist die Wirtschaft gewachsen.",
+        "zh": "根据报告，经济增长了。"
+      },
+      {
+        "de": "Seinen Aussagen zufolge war er nicht da.",
+        "zh": "按照他的说法，他当时不在场。"
+      }
+    ],
+    "collocations": [
+      "dem Bericht zufolge",
+      "den Angaben zufolge"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语言",
+      "B1"
+    ],
+    "synonyms": [
+      "nach",
+      "gemäß"
+    ],
+    "antonyms": [
+      "entgegen"
+    ]
+  },
+  {
+    "word": "Zufuhr",
+    "lemma": "Zufuhr",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Zufuhren",
+    "meaning": [
+      {
+        "zh": "供应，供给",
+        "en": "supply, intake"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Zufuhr von Vitaminen ist wichtig für die Gesundheit.",
+        "zh": "维生素的摄入对健康很重要。"
+      },
+      {
+        "de": "Die Zufuhr von Rohstoffen wurde unterbrochen.",
+        "zh": "原材料的供应被中断了。"
+      }
+    ],
+    "collocations": [
+      "die Zufuhr von etwas",
+      "die tägliche Zufuhr"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "医学",
+      "经济",
+      "B2"
+    ],
+    "synonyms": [
+      "Versorgung",
+      "Lieferung"
+    ],
+    "antonyms": [
+      "Entzug",
+      "Mangel"
+    ]
+  },
+  {
+    "word": "Zugang",
+    "lemma": "Zugang",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Zugänge",
+    "meaning": [
+      {
+        "zh": "入口，通道；访问权限",
+        "en": "access, entrance"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Zugang zum Gebäude ist nur mit einem Schlüssel möglich.",
+        "zh": "进入大楼只能用钥匙。"
+      },
+      {
+        "de": "Er hat Zugang zu den geheimen Daten.",
+        "zh": "他有访问机密数据的权限。"
+      }
+    ],
+    "collocations": [
+      "Zugang zu etwas haben",
+      "der freie Zugang"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Eingang",
+      "Zutritt"
+    ],
+    "antonyms": [
+      "Ausgang",
+      "Sperrung"
+    ]
+  },
+  {
+    "word": "zuletzt",
+    "lemma": "zuletzt",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "最后，最近一次",
+        "en": "lastly, most recently"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Zuletzt möchte ich mich bei allen bedanken.",
+        "zh": "最后，我想感谢所有人。"
+      },
+      {
+        "de": "Wann hast du ihn zuletzt gesehen?",
+        "zh": "你最后一次见到他是什么时候？"
+      }
+    ],
+    "collocations": [
+      "zuletzt gesehen",
+      "zuletzt erwähnt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "时间",
+      "A2"
+    ],
+    "synonyms": [
+      "schließlich",
+      "letztens"
+    ],
+    "antonyms": [
+      "zuerst",
+      "anfangs"
+    ]
+  },
+  {
+    "word": "Zunahme",
+    "lemma": "Zunahme",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Zunahmen",
+    "meaning": [
+      {
+        "zh": "增加，增长",
+        "en": "increase, growth"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Zunahme der Bevölkerung führt zu mehr Verkehr.",
+        "zh": "人口增长导致交通增多。"
+      },
+      {
+        "de": "Eine Zunahme der Temperatur ist im Sommer normal.",
+        "zh": "温度升高在夏天是正常的。"
+      }
+    ],
+    "collocations": [
+      "eine Zunahme von etwas",
+      "die stetige Zunahme"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "环境",
+      "B1"
+    ],
+    "synonyms": [
+      "Anstieg",
+      "Wachstum"
+    ],
+    "antonyms": [
+      "Abnahme",
+      "Rückgang"
+    ]
+  },
+  {
+    "word": "Zunge",
+    "lemma": "Zunge",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Zungen",
+    "meaning": [
+      {
+        "zh": "舌头",
+        "en": "tongue"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Arzt bat ihn, die Zunge herauszustrecken.",
+        "zh": "医生让他伸出舌头。"
+      },
+      {
+        "de": "Sie hat sich auf die Zunge gebissen.",
+        "zh": "她咬到了舌头。"
+      }
+    ],
+    "collocations": [
+      "die Zunge herausstrecken",
+      "auf der Zunge liegen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "身体",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "zurückführen",
+    "lemma": "zurückführen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "归因于；带回",
+        "en": "to attribute, to trace back"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Man führt den Erfolg auf harte Arbeit zurück.",
+        "zh": "人们把成功归因于努力工作。"
+      },
+      {
+        "de": "Der Unfall wurde auf einen technischen Fehler zurückgeführt.",
+        "zh": "事故被归因于技术故障。"
+      }
+    ],
+    "collocations": [
+      "etwas auf etwas zurückführen",
+      "zurückführen auf"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "zurückgeführt"
+    },
+    "level": "B2",
+    "tags": [
+      "语言",
+      "科学",
+      "B2"
+    ],
+    "synonyms": [
+      "zuschreiben",
+      "erklären"
+    ],
+    "antonyms": [
+      "ignorieren",
+      "ablenken"
+    ]
+  },
+  {
+    "word": "Zusammenbruch",
+    "lemma": "Zusammenbruch",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Zusammenbrüche",
+    "meaning": [
+      {
+        "zh": "崩溃，倒塌",
+        "en": "collapse, breakdown"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Zusammenbruch der Firma überraschte alle.",
+        "zh": "公司的崩溃让所有人惊讶。"
+      },
+      {
+        "de": "Nach dem Zusammenbruch der Brücke wurde die Straße gesperrt.",
+        "zh": "桥梁倒塌后，道路被封锁了。"
+      }
+    ],
+    "collocations": [
+      "der wirtschaftliche Zusammenbruch",
+      "der Zusammenbruch des Systems"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "经济",
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "Kollaps",
+      "Niedergang"
+    ],
+    "antonyms": [
+      "Aufschwung",
+      "Stabilität"
+    ]
+  },
+  {
+    "word": "Zusammenhang",
+    "lemma": "Zusammenhang",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Zusammenhänge",
+    "meaning": [
+      {
+        "zh": "关联，联系，上下文",
+        "en": "connection, context, relation"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In diesem Zusammenhang möchte ich auf ein wichtiges Problem hinweisen.",
+        "zh": "在此背景下，我想指出一个重要问题。"
+      },
+      {
+        "de": "Es besteht ein enger Zusammenhang zwischen Rauchen und Lungenkrebs.",
+        "zh": "吸烟和肺癌之间有密切关联。"
+      }
+    ],
+    "collocations": [
+      "im Zusammenhang mit",
+      "in diesem Zusammenhang",
+      "einen Zusammenhang herstellen",
+      "in einem bestimmten Zusammenhang"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "抽象概念",
+      "学术",
+      "B1"
+    ],
+    "synonyms": [
+      "Beziehung",
+      "Verbindung",
+      "Kontext"
+    ],
+    "antonyms": [
+      "Unabhängigkeit",
+      "Isolation"
+    ]
+  },
+  {
+    "word": "Zuschrift",
+    "lemma": "Zuschrift",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Zuschriften",
+    "meaning": [
+      {
+        "zh": "来信，书面回复",
+        "en": "letter, written reply, correspondence"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir haben viele Zuschriften von unseren Lesern erhalten.",
+        "zh": "我们收到了许多读者的来信。"
+      },
+      {
+        "de": "Bitte senden Sie Ihre Zuschrift an die angegebene Adresse.",
+        "zh": "请将您的书面回复寄到指定地址。"
+      }
+    ],
+    "collocations": [
+      "eine Zuschrift erhalten",
+      "auf eine Zuschrift antworten",
+      "Zuschriften von Lesern",
+      "schriftliche Zuschrift"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "通信",
+      "书面",
+      "B2"
+    ],
+    "synonyms": [
+      "Brief",
+      "Antwort",
+      "Schreiben"
+    ],
+    "antonyms": [
+      "Anruf",
+      "mündliche Mitteilung"
+    ]
+  },
+  {
+    "word": "zuständig",
+    "lemma": "zuständig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "负责的，主管的",
+        "en": "responsible, competent, in charge"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wer ist für die Bearbeitung dieses Antrags zuständig?",
+        "zh": "谁负责处理这份申请？"
+      },
+      {
+        "de": "Das zuständige Amt wird sich um Ihr Anliegen kümmern.",
+        "zh": "主管机构会处理您的事务。"
+      }
+    ],
+    "collocations": [
+      "zuständig für",
+      "die zuständige Behörde",
+      "der zuständige Mitarbeiter",
+      "nicht zuständig sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "行政",
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "verantwortlich",
+      "kompetent",
+      "befugt"
+    ],
+    "antonyms": [
+      "unzuständig",
+      "inkompetent"
+    ]
+  },
+  {
+    "word": "Zweig",
+    "lemma": "Zweig",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Zweige",
+    "meaning": [
+      {
+        "zh": "树枝；分支，部门",
+        "en": "branch; branch, division"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Vogel sitzt auf einem dünnen Zweig.",
+        "zh": "鸟停在一根细树枝上。"
+      },
+      {
+        "de": "Die Firma hat einen neuen Zweig in Asien eröffnet.",
+        "zh": "该公司在亚洲开设了一个新的分支机构。"
+      }
+    ],
+    "collocations": [
+      "einen Zweig abbrechen",
+      "ein Zweig der Wissenschaft",
+      "der wirtschaftliche Zweig",
+      "auf einem Zweig sitzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "自然",
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "Ast",
+      "Abteilung",
+      "Sparte"
+    ],
+    "antonyms": [
+      "Stamm",
+      "Hauptsitz"
+    ]
+  },
+  {
+    "word": "zwingen",
+    "lemma": "zwingen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "强迫，迫使",
+        "en": "to force, to compel"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Umstände zwingen uns zu einer schnellen Entscheidung.",
+        "zh": "情况迫使我们迅速做出决定。"
+      },
+      {
+        "de": "Niemand kann dich dazu zwingen, das zu tun.",
+        "zh": "没人能强迫你这么做。"
+      }
+    ],
+    "collocations": [
+      "jdn zu etwas zwingen",
+      "sich gezwungen sehen",
+      "zwingende Gründe",
+      "unter Zwang handeln"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gezwungen"
+    },
+    "level": "B1",
+    "tags": [
+      "行为",
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "nötigen",
+      "drängen",
+      "erzwingen"
+    ],
+    "antonyms": [
+      "freiwillig tun",
+      "überlassen"
+    ]
+  }
+]

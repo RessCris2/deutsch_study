@@ -1,0 +1,2000 @@
+[
+  {
+    "word": "Anmeldung",
+    "lemma": "Anmeldung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Anmeldungen",
+    "meaning": [
+      {
+        "zh": "登记，注册，报名",
+        "en": "registration, enrollment"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Anmeldung für den Kurs endet morgen.",
+        "zh": "课程报名明天截止。"
+      },
+      {
+        "de": "Bitte füllen Sie das Formular zur Anmeldung aus.",
+        "zh": "请填写登记表。"
+      }
+    ],
+    "collocations": [
+      "Anmeldung zum Kurs",
+      "Anmeldung beim Amt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "行政",
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "Registrierung",
+      "Einschreibung"
+    ],
+    "antonyms": [
+      "Abmeldung"
+    ]
+  },
+  {
+    "word": "Ansehen",
+    "lemma": "Ansehen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "声望，名誉，外观",
+        "en": "reputation, prestige, appearance"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er genießt großes Ansehen in der Firma.",
+        "zh": "他在公司里享有很高的声望。"
+      },
+      {
+        "de": "Das Ansehen des Politikers hat gelitten.",
+        "zh": "这位政治家的声誉受到了损害。"
+      }
+    ],
+    "collocations": [
+      "Ansehen genießen",
+      "Ansehen verlieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "情感",
+      "B2"
+    ],
+    "synonyms": [
+      "Ruf",
+      "Prestige"
+    ],
+    "antonyms": [
+      "Schande",
+      "Missachtung"
+    ]
+  },
+  {
+    "word": "anstrengend",
+    "lemma": "anstrengend",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "累人的，费力的",
+        "en": "tiring, exhausting"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Umzug war sehr anstrengend.",
+        "zh": "搬家非常累人。"
+      },
+      {
+        "de": "Diese Arbeit ist körperlich anstrengend.",
+        "zh": "这项工作对身体很费力。"
+      }
+    ],
+    "collocations": [
+      "anstrengende Arbeit",
+      "anstrengender Tag"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "ermüdend",
+      "strapaziös"
+    ],
+    "antonyms": [
+      "entspannend",
+      "leicht"
+    ]
+  },
+  {
+    "word": "Anzahl",
+    "lemma": "Anzahl",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "数量，数目",
+        "en": "number, quantity"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Anzahl der Teilnehmer ist gestiegen.",
+        "zh": "参与者数量增加了。"
+      },
+      {
+        "de": "Eine große Anzahl von Menschen war anwesend.",
+        "zh": "大量的人在场。"
+      }
+    ],
+    "collocations": [
+      "Anzahl der",
+      "große Anzahl"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "数学",
+      "统计",
+      "B1"
+    ],
+    "synonyms": [
+      "Menge",
+      "Zahl"
+    ],
+    "antonyms": [
+      "Mangel",
+      "Wenigkeit"
+    ]
+  },
+  {
+    "word": "Anzug",
+    "lemma": "Anzug",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Anzüge",
+    "meaning": [
+      {
+        "zh": "西装，套装",
+        "en": "suit"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er trug einen eleganten Anzug zur Hochzeit.",
+        "zh": "他穿了一套优雅的西装去参加婚礼。"
+      },
+      {
+        "de": "Der Anzug muss gereinigt werden.",
+        "zh": "这套西装需要清洗。"
+      }
+    ],
+    "collocations": [
+      "Anzug tragen",
+      "Anzug kaufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "时尚",
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Kostüm",
+      "Outfit"
+    ],
+    "antonyms": [
+      "Freizeitkleidung"
+    ]
+  },
+  {
+    "word": "anzünden",
+    "lemma": "anzünden",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "点燃，点火",
+        "en": "to light, to ignite"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er zündete die Kerze an.",
+        "zh": "他点燃了蜡烛。"
+      },
+      {
+        "de": "Das Feuerzeug ist kaputt, ich kann nichts anzünden.",
+        "zh": "打火机坏了，我点不了任何东西。"
+      }
+    ],
+    "collocations": [
+      "eine Kerze anzünden",
+      "ein Feuer anzünden"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "angezündet"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "动作",
+      "B1"
+    ],
+    "synonyms": [
+      "entzünden",
+      "anmachen"
+    ],
+    "antonyms": [
+      "ausmachen",
+      "löschen"
+    ]
+  },
+  {
+    "word": "Apparat",
+    "lemma": "Apparat",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Apparate",
+    "meaning": [
+      {
+        "zh": "仪器，设备，装置",
+        "en": "apparatus, device"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Apparat misst den Blutdruck.",
+        "zh": "这台仪器测量血压。"
+      },
+      {
+        "de": "Bitte schalten Sie den Apparat aus.",
+        "zh": "请关闭设备。"
+      }
+    ],
+    "collocations": [
+      "medizinischer Apparat",
+      "Apparat einschalten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "医疗",
+      "B1"
+    ],
+    "synonyms": [
+      "Gerät",
+      "Maschine"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Arbeitsamt",
+    "lemma": "Arbeitsamt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Arbeitsämter",
+    "meaning": [
+      {
+        "zh": "劳动局，就业局",
+        "en": "employment office, job center"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat sich beim Arbeitsamt arbeitslos gemeldet.",
+        "zh": "他在劳动局登记失业。"
+      },
+      {
+        "de": "Das Arbeitsamt vermittelt Stellenangebote.",
+        "zh": "劳动局介绍职位空缺。"
+      }
+    ],
+    "collocations": [
+      "beim Arbeitsamt melden",
+      "Arbeitsamt besuchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "行政",
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "Jobcenter",
+      "Agentur für Arbeit"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Arbeitsklima",
+    "lemma": "Arbeitsklima",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "工作氛围",
+        "en": "working atmosphere"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ein gutes Arbeitsklima ist wichtig für die Produktivität.",
+        "zh": "良好的工作氛围对生产力很重要。"
+      },
+      {
+        "de": "Das Arbeitsklima in dieser Firma ist sehr angespannt.",
+        "zh": "这家公司的工作氛围非常紧张。"
+      }
+    ],
+    "collocations": [
+      "gutes Arbeitsklima",
+      "schlechtes Arbeitsklima",
+      "Arbeitsklima verbessern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "工作",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Betriebsklima"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Arbeitslose",
+    "lemma": "Arbeitslose",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Arbeitslosen",
+    "meaning": [
+      {
+        "zh": "失业者",
+        "en": "unemployed person"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Zahl der Arbeitslosen ist gesunken.",
+        "zh": "失业人数下降了。"
+      },
+      {
+        "de": "Viele Arbeitslose suchen eine neue Stelle.",
+        "zh": "许多失业者在寻找新工作。"
+      }
+    ],
+    "collocations": [
+      "Arbeitslose unterstützen",
+      "Arbeitslosenquote",
+      "Langzeitarbeitslose"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "工作",
+      "社会",
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "Erwerbslose"
+    ],
+    "antonyms": [
+      "Arbeitnehmer"
+    ]
+  },
+  {
+    "word": "Arbeitsstelle",
+    "lemma": "Arbeitsstelle",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Arbeitsstellen",
+    "meaning": [
+      {
+        "zh": "工作岗位",
+        "en": "job position"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat eine neue Arbeitsstelle gefunden.",
+        "zh": "他找到了一个新的工作岗位。"
+      },
+      {
+        "de": "Die Arbeitsstelle ist in der Stadtmitte.",
+        "zh": "这个工作岗位在市中心。"
+      }
+    ],
+    "collocations": [
+      "eine Arbeitsstelle suchen",
+      "eine Arbeitsstelle wechseln",
+      "befristete Arbeitsstelle"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "工作",
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Arbeitsplatz",
+      "Stelle"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Architekturdenkmal",
+    "lemma": "Architekturdenkmal",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Architekturdenkmäler",
+    "meaning": [
+      {
+        "zh": "建筑纪念碑",
+        "en": "architectural monument"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieses Gebäude ist ein bedeutendes Architekturdenkmal.",
+        "zh": "这座建筑是一个重要的建筑纪念碑。"
+      },
+      {
+        "de": "Viele Architekturdenkmäler stehen unter Denkmalschutz.",
+        "zh": "许多建筑纪念碑受到文物保护。"
+      }
+    ],
+    "collocations": [
+      "ein Architekturdenkmal besichtigen",
+      "Architekturdenkmal erhalten",
+      "historisches Architekturdenkmal"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "文化",
+      "建筑",
+      "历史",
+      "B2"
+    ],
+    "synonyms": [
+      "Baudenkmal"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Argumentationsstärke",
+    "lemma": "Argumentationsstärke",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "论证能力",
+        "en": "argumentative strength"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Seine Argumentationsstärke überzeugte das Publikum.",
+        "zh": "他的论证能力说服了观众。"
+      },
+      {
+        "de": "In der Debatte zeigte sie große Argumentationsstärke.",
+        "zh": "在辩论中，她展现了很强的论证能力。"
+      }
+    ],
+    "collocations": [
+      "Argumentationsstärke zeigen",
+      "mangelnde Argumentationsstärke",
+      "Argumentationsstärke entwickeln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "沟通",
+      "能力",
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "Überzeugungskraft"
+    ],
+    "antonyms": [
+      "Argumentationsschwäche"
+    ]
+  },
+  {
+    "word": "attraktiv",
+    "lemma": "attraktiv",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "有吸引力的",
+        "en": "attractive"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Angebot ist sehr attraktiv.",
+        "zh": "这个报价非常有吸引力。"
+      },
+      {
+        "de": "Sie findet ihn attraktiv.",
+        "zh": "她觉得他很有吸引力。"
+      }
+    ],
+    "collocations": [
+      "attraktiv aussehen",
+      "attraktives Angebot",
+      "attraktive Stadt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "描述",
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "reizvoll",
+      "anziehend"
+    ],
+    "antonyms": [
+      "unattraktiv",
+      "hässlich"
+    ]
+  },
+  {
+    "word": "aufbewahren",
+    "lemma": "aufbewahren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "保存，保管",
+        "en": "to keep, to store"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bewahren Sie die Dokumente an einem sicheren Ort auf.",
+        "zh": "请将文件保存在安全的地方。"
+      },
+      {
+        "de": "Ich bewahre alte Fotos in einer Kiste auf.",
+        "zh": "我把旧照片保存在一个箱子里。"
+      }
+    ],
+    "collocations": [
+      "etwas aufbewahren",
+      "sicher aufbewahren",
+      "zur Aufbewahrung geben"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "aufbewahrt"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "行动",
+      "B1"
+    ],
+    "synonyms": [
+      "verwahren",
+      "lagern"
+    ],
+    "antonyms": [
+      "wegwerfen",
+      "entsorgen"
+    ]
+  },
+  {
+    "word": "Aufenthalt",
+    "lemma": "Aufenthalt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Aufenthalte",
+    "meaning": [
+      {
+        "zh": "停留，逗留",
+        "en": "stay"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir hatten einen angenehmen Aufenthalt in Berlin.",
+        "zh": "我们在柏林度过了一段愉快的逗留。"
+      },
+      {
+        "de": "Der Aufenthalt im Ausland war sehr lehrreich.",
+        "zh": "在国外逗留非常有教育意义。"
+      }
+    ],
+    "collocations": [
+      "kurzer Aufenthalt",
+      "längerer Aufenthalt",
+      "Aufenthalt verlängern",
+      "Aufenthaltsgenehmigung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "旅行",
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Besuch",
+      "Stay"
+    ],
+    "antonyms": [
+      "Abreise"
+    ]
+  },
+  {
+    "word": "auffallen",
+    "lemma": "auffallen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "引人注目，突出",
+        "en": "to stand out, to be noticeable"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Seine rote Jacke fällt sofort auf.",
+        "zh": "他的红色夹克立刻引人注目。"
+      },
+      {
+        "de": "Mir ist aufgefallen, dass er heute nicht da war.",
+        "zh": "我注意到他今天没来。"
+      }
+    ],
+    "collocations": [
+      "jemandem auffallen",
+      "sofort auffallen",
+      "angenehm auffallen"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "aufgefallen"
+    },
+    "level": "B1",
+    "tags": [
+      "感知",
+      "B1"
+    ],
+    "synonyms": [
+      "ins Auge fallen",
+      "bemerkt werden"
+    ],
+    "antonyms": [
+      "übersehen werden",
+      "unbemerkt bleiben"
+    ]
+  },
+  {
+    "word": "dre",
+    "lemma": "dre",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Dre",
+    "meaning": [
+      {
+        "zh": "（口语）无聊的人或事",
+        "en": "bore, dull person or thing"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Film war ein totaler Dre.",
+        "zh": "这部电影真无聊。"
+      },
+      {
+        "de": "Er ist so ein Dre, mit dem kann man nichts anfangen.",
+        "zh": "他真是个无聊的人，和他没法相处。"
+      }
+    ],
+    "collocations": [
+      "ein totaler Dre",
+      "so ein Dre"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "口语",
+      "情感",
+      "B2"
+    ],
+    "synonyms": [
+      "Langweiler",
+      "Nervensäge"
+    ],
+    "antonyms": [
+      "Spaßvogel",
+      "interessante Person"
+    ]
+  },
+  {
+    "word": "aufgeben",
+    "lemma": "aufgeben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "放弃；提交（任务、行李等）",
+        "en": "to give up; to submit, to check in"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat das Rauchen aufgegeben.",
+        "zh": "他戒烟了。"
+      },
+      {
+        "de": "Ich muss mein Gepäck am Schalter aufgeben.",
+        "zh": "我必须在柜台托运行李。"
+      }
+    ],
+    "collocations": [
+      "eine Aufgabe aufgeben",
+      "das Rauchen aufgeben",
+      "Gepäck aufgeben"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "aufgegeben"
+    },
+    "level": "B1",
+    "tags": [
+      "行为",
+      "B1"
+    ],
+    "synonyms": [
+      "verzichten auf",
+      "resignieren"
+    ],
+    "antonyms": [
+      "weitermachen",
+      "beibehalten"
+    ]
+  },
+  {
+    "word": "aufgrund",
+    "lemma": "aufgrund",
+    "pos": [
+      "preposition"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "由于，基于",
+        "en": "due to, because of"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Aufgrund des Regens fällt das Konzert aus.",
+        "zh": "由于下雨，音乐会取消了。"
+      },
+      {
+        "de": "Aufgrund seiner Erfahrung wurde er befördert.",
+        "zh": "由于他的经验，他得到了晋升。"
+      }
+    ],
+    "collocations": [
+      "aufgrund von",
+      "aufgrund dessen",
+      "aufgrund der Tatsache"
+    ],
+    "grammar": {
+      "case": "Genitiv",
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "连接",
+      "B1"
+    ],
+    "synonyms": [
+      "wegen",
+      "dank"
+    ],
+    "antonyms": [
+      "trotz",
+      "ungeachtet"
+    ]
+  },
+  {
+    "word": "aufpassen",
+    "lemma": "aufpassen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "注意，小心",
+        "en": "to pay attention, to be careful"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Pass auf, wenn du die Straße überquerst!",
+        "zh": "过马路时要小心！"
+      },
+      {
+        "de": "Er hat im Unterricht nicht aufgepasst.",
+        "zh": "他上课没注意听。"
+      }
+    ],
+    "collocations": [
+      "aufpassen auf",
+      "gut aufpassen",
+      "nicht aufpassen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "aufgepasst"
+    },
+    "level": "A2",
+    "tags": [
+      "行为",
+      "A2"
+    ],
+    "synonyms": [
+      "achten",
+      "achtgeben"
+    ],
+    "antonyms": [
+      "ignorieren",
+      "vernachlässigen"
+    ]
+  },
+  {
+    "word": "aufräumen",
+    "lemma": "aufräumen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "整理，收拾",
+        "en": "to tidy up, to clean up"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich muss mein Zimmer aufräumen.",
+        "zh": "我必须整理我的房间。"
+      },
+      {
+        "de": "Nach der Party haben wir alles aufgeräumt.",
+        "zh": "派对后我们把一切都收拾好了。"
+      }
+    ],
+    "collocations": [
+      "das Zimmer aufräumen",
+      "den Schreibtisch aufräumen",
+      "gründlich aufräumen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "aufgeräumt"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "ordnen",
+      "säubern"
+    ],
+    "antonyms": [
+      "durcheinanderbringen",
+      "verwüsten"
+    ]
+  },
+  {
+    "word": "aufschneiden",
+    "lemma": "aufschneiden",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "切开；吹嘘",
+        "en": "to cut open; to boast"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er schnitt das Brot auf.",
+        "zh": "他把面包切开了。"
+      },
+      {
+        "de": "Er schneidet immer so auf, aber er kann nichts.",
+        "zh": "他总是吹嘘，但什么都不会。"
+      }
+    ],
+    "collocations": [
+      "Brot aufschneiden",
+      "eine Melone aufschneiden",
+      "groß aufschneiden"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "aufgeschnitten"
+    },
+    "level": "B1",
+    "tags": [
+      "行为",
+      "B1"
+    ],
+    "synonyms": [
+      "öffnen",
+      "prahlen"
+    ],
+    "antonyms": [
+      "zusammenkleben",
+      "bescheiden sein"
+    ]
+  },
+  {
+    "word": "Augenblick",
+    "lemma": "Augenblick",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Augenblicke",
+    "meaning": [
+      {
+        "zh": "瞬间，片刻",
+        "en": "moment, instant"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Einen Augenblick, bitte!",
+        "zh": "请稍等片刻！"
+      },
+      {
+        "de": "In diesem Augenblick klingelte das Telefon.",
+        "zh": "就在那一刻，电话铃响了。"
+      }
+    ],
+    "collocations": [
+      "im Augenblick",
+      "einen Augenblick",
+      "der richtige Augenblick"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "时间",
+      "A2"
+    ],
+    "synonyms": [
+      "Moment",
+      "Sekunde"
+    ],
+    "antonyms": [
+      "Ewigkeit",
+      "lange Zeit"
+    ]
+  },
+  {
+    "word": "aufräumen",
+    "lemma": "aufräumen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "整理，收拾",
+        "en": "to tidy up, to clean up"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich muss mein Zimmer aufräumen, bevor die Gäste kommen.",
+        "zh": "在客人来之前，我必须整理我的房间。"
+      },
+      {
+        "de": "Hilfst du mir, die Küche aufzuräumen?",
+        "zh": "你帮我收拾厨房吗？"
+      }
+    ],
+    "collocations": [
+      "das Zimmer aufräumen",
+      "die Wohnung aufräumen",
+      "mit etwas aufräumen",
+      "gründlich aufräumen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "aufgeräumt"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "家务",
+      "A2"
+    ],
+    "synonyms": [
+      "ordnen",
+      "säubern",
+      "putzen"
+    ],
+    "antonyms": [
+      "verunreinigen",
+      "durcheinanderbringen"
+    ]
+  },
+  {
+    "word": "aufräumen",
+    "lemma": "aufräumen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "整理，收拾",
+        "en": "to tidy up, to clean up"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich muss mein Zimmer aufräumen, bevor die Gäste kommen.",
+        "zh": "在客人来之前，我必须整理我的房间。"
+      },
+      {
+        "de": "Hilfst du mir, die Küche aufzuräumen?",
+        "zh": "你能帮我收拾厨房吗？"
+      }
+    ],
+    "collocations": [
+      "das Zimmer aufräumen",
+      "den Schreibtisch aufräumen",
+      "mit etwas aufräumen",
+      "gründlich aufräumen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "aufgeräumt"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "家务",
+      "A2"
+    ],
+    "synonyms": [
+      "ordnen",
+      "sauber machen",
+      "in Ordnung bringen"
+    ],
+    "antonyms": [
+      "verunstalten",
+      "durcheinanderbringen",
+      "vermüllen"
+    ]
+  },
+  {
+    "word": "ausbilden",
+    "lemma": "ausbilden",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "培训，教育",
+        "en": "to train, to educate"
+      },
+      {
+        "zh": "形成，发展",
+        "en": "to form, to develop"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Firma bildet junge Leute zu Facharbeitern aus.",
+        "zh": "这家公司培训年轻人成为技术工人。"
+      },
+      {
+        "de": "Im Laufe der Zeit hat sich eine neue Tradition ausgebildet.",
+        "zh": "随着时间的推移，形成了一种新的传统。"
+      }
+    ],
+    "collocations": [
+      "jemanden zu etwas ausbilden",
+      "sich ausbilden"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "ausgebildet"
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "schulen",
+      "trainieren",
+      "entwickeln"
+    ],
+    "antonyms": [
+      "vernachlässigen",
+      "verkümmern lassen"
+    ]
+  },
+  {
+    "word": "Ausbildungsvertrag",
+    "lemma": "Ausbildungsvertrag",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Ausbildungsverträge",
+    "meaning": [
+      {
+        "zh": "培训合同",
+        "en": "training contract"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat den Ausbildungsvertrag unterschrieben.",
+        "zh": "他签署了培训合同。"
+      },
+      {
+        "de": "Der Ausbildungsvertrag regelt die Rechte und Pflichten beider Parteien.",
+        "zh": "培训合同规定了双方的权利和义务。"
+      }
+    ],
+    "collocations": [
+      "einen Ausbildungsvertrag unterschreiben",
+      "den Ausbildungsvertrag kündigen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "法律",
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "Lehrvertrag",
+      "Ausbildungsvereinbarung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Ausdehnung",
+    "lemma": "Ausdehnung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Ausdehnungen",
+    "meaning": [
+      {
+        "zh": "扩展，延伸",
+        "en": "expansion, extension"
+      },
+      {
+        "zh": "范围，规模",
+        "en": "extent, size"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Ausdehnung der Stadt ist in den letzten Jahren gewachsen.",
+        "zh": "近年来城市的扩展有所增长。"
+      },
+      {
+        "de": "Die Ausdehnung des Universums ist ein faszinierendes Thema.",
+        "zh": "宇宙的扩展是一个迷人的话题。"
+      }
+    ],
+    "collocations": [
+      "die Ausdehnung von etwas",
+      "räumliche Ausdehnung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "地理",
+      "物理",
+      "B2"
+    ],
+    "synonyms": [
+      "Erweiterung",
+      "Expansion",
+      "Umfang"
+    ],
+    "antonyms": [
+      "Schrumpfung",
+      "Verkleinerung"
+    ]
+  },
+  {
+    "word": "ausdrucken",
+    "lemma": "ausdrucken",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "打印出来",
+        "en": "to print out"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du bitte das Dokument ausdrucken?",
+        "zh": "你能把这份文件打印出来吗？"
+      },
+      {
+        "de": "Ich habe die E-Mail ausgedruckt und mitgenommen.",
+        "zh": "我把邮件打印出来并带走了。"
+      }
+    ],
+    "collocations": [
+      "ein Dokument ausdrucken",
+      "etwas in Farbe ausdrucken"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "ausgedruckt"
+    },
+    "level": "A2",
+    "tags": [
+      "科技",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "drucken",
+      "ausgeben"
+    ],
+    "antonyms": [
+      "einscannen",
+      "digitalisieren"
+    ]
+  },
+  {
+    "word": "ausdrücken",
+    "lemma": "ausdrücken",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "表达",
+        "en": "to express"
+      },
+      {
+        "zh": "挤出",
+        "en": "to squeeze out"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie kann ihre Gefühle gut ausdrücken.",
+        "zh": "她能很好地表达自己的感受。"
+      },
+      {
+        "de": "Er drückte die Zitrone aus, um Saft zu gewinnen.",
+        "zh": "他挤出柠檬来获取果汁。"
+      }
+    ],
+    "collocations": [
+      "seine Meinung ausdrücken",
+      "etwas in Worten ausdrücken"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "ausgedrückt"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "äußern",
+      "formulieren",
+      "pressen"
+    ],
+    "antonyms": [
+      "verschweigen",
+      "unterdrücken"
+    ]
+  },
+  {
+    "word": "ausgeben",
+    "lemma": "ausgeben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "支出，花费",
+        "en": "to spend, to expend"
+      },
+      {
+        "zh": "分发，发出",
+        "en": "to issue, to hand out"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe viel Geld für das neue Auto ausgegeben.",
+        "zh": "我花了很多钱买这辆新车。"
+      },
+      {
+        "de": "Die Firma gibt neue Uniformen an die Mitarbeiter aus.",
+        "zh": "公司向员工分发新制服。"
+      }
+    ],
+    "collocations": [
+      "Geld für etwas ausgeben",
+      "etwas an jemanden ausgeben"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "ausgegeben"
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "verbrauchen",
+      "verteilen",
+      "aushändigen"
+    ],
+    "antonyms": [
+      "sparen",
+      "einsammeln"
+    ]
+  },
+  {
+    "word": "ausgeschlossen",
+    "lemma": "ausschließen",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "被排除的，不可能的",
+        "en": "excluded, impossible"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Eine Teilnahme ist ausgeschlossen.",
+        "zh": "参与是不可能的。"
+      },
+      {
+        "de": "Er fühlte sich von der Gruppe ausgeschlossen.",
+        "zh": "他感到被群体排除在外。"
+      }
+    ],
+    "collocations": [
+      "von etwas ausgeschlossen sein",
+      "nicht ausgeschlossen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "unmöglich",
+      "ausgegrenzt"
+    ],
+    "antonyms": [
+      "möglich",
+      "eingeschlossen"
+    ]
+  },
+  {
+    "word": "ausgestattet",
+    "lemma": "ausstatten",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "装备的，配备的",
+        "en": "equipped, furnished"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Labor ist mit modernen Geräten ausgestattet.",
+        "zh": "实验室配备了现代化的设备。"
+      },
+      {
+        "de": "Die Wohnung ist voll möbliert ausgestattet.",
+        "zh": "公寓配备了全套家具。"
+      }
+    ],
+    "collocations": [
+      "mit etwas ausgestattet sein",
+      "gut ausgestattet"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "eingerichtet",
+      "versehen"
+    ],
+    "antonyms": [
+      "unausgestattet",
+      "leer"
+    ]
+  },
+  {
+    "word": "ausgezeichnet",
+    "lemma": "ausgezeichnet",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "出色的，优秀的",
+        "en": "excellent, outstanding"
+      },
+      {
+        "zh": "极好地",
+        "en": "excellently"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Essen war ausgezeichnet.",
+        "zh": "这顿饭非常出色。"
+      },
+      {
+        "de": "Sie hat die Prüfung ausgezeichnet bestanden.",
+        "zh": "她以优异的成绩通过了考试。"
+      }
+    ],
+    "collocations": [
+      "ausgezeichnete Leistung",
+      "ausgezeichnete Qualität"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "评价",
+      "B1"
+    ],
+    "synonyms": [
+      "hervorragend",
+      "exzellent"
+    ],
+    "antonyms": [
+      "schlecht",
+      "mangelhaft"
+    ]
+  },
+  {
+    "word": "auskommen",
+    "lemma": "auskommen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "应付，凑合，够用",
+        "en": "to get along, to manage, to suffice"
+      },
+      {
+        "zh": "相处",
+        "en": "to get along with someone"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mit dem Geld komme ich gerade so aus.",
+        "zh": "这些钱我刚好够用。"
+      },
+      {
+        "de": "Die beiden kommen gut miteinander aus.",
+        "zh": "他们俩相处得很好。"
+      }
+    ],
+    "collocations": [
+      "mit etwas auskommen",
+      "mit jemandem gut auskommen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "ausgekommen"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "社交",
+      "B1"
+    ],
+    "synonyms": [
+      "zurechtkommen",
+      "sich vertragen"
+    ],
+    "antonyms": [
+      "nicht reichen",
+      "sich streiten"
+    ]
+  },
+  {
+    "word": "ausländerfeindlich",
+    "lemma": "ausländerfeindlich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "排外的，仇外的",
+        "en": "xenophobic, hostile to foreigners"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ausländerfeindliche Äußerungen sind in Deutschland strafbar.",
+        "zh": "在德国，仇外言论是违法的。"
+      },
+      {
+        "de": "Die ausländerfeindliche Stimmung in der Stadt hat zugenommen.",
+        "zh": "这个城市的排外情绪有所增加。"
+      }
+    ],
+    "collocations": [
+      "ausländerfeindliche Gewalt",
+      "ausländerfeindliche Einstellung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "政治",
+      "B2"
+    ],
+    "synonyms": [
+      "fremdenfeindlich",
+      "rassistisch"
+    ],
+    "antonyms": [
+      "tolerant",
+      "weltoffen"
+    ]
+  },
+  {
+    "word": "Auslandsamt",
+    "lemma": "Auslandsamt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Auslandsämter",
+    "meaning": [
+      {
+        "zh": "外事办公室，国际事务办公室",
+        "en": "international office, foreign affairs office"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Auslandsamt der Universität hilft Studierenden bei Auslandsaufenthalten.",
+        "zh": "大学的外事办公室帮助学生安排海外学习。"
+      },
+      {
+        "de": "Ich muss einen Termin im Auslandsamt machen.",
+        "zh": "我必须在国际事务办公室预约一个时间。"
+      }
+    ],
+    "collocations": [
+      "im Auslandsamt anmelden",
+      "das Auslandsamt kontaktieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "行政",
+      "B1"
+    ],
+    "synonyms": [
+      "International Office",
+      "Akademisches Auslandsamt"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "ausmachen",
+    "lemma": "ausmachen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "关掉（电器等）",
+        "en": "to turn off"
+      },
+      {
+        "zh": "约定，商定",
+        "en": "to agree on, to arrange"
+      },
+      {
+        "zh": "构成，占（比例）",
+        "en": "to constitute, to account for"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du bitte das Licht ausmachen?",
+        "zh": "你能把灯关掉吗？"
+      },
+      {
+        "de": "Wir haben ausgemacht, uns um acht zu treffen.",
+        "zh": "我们约好八点见面。"
+      },
+      {
+        "de": "Die Ausgaben machen einen großen Teil des Budgets aus.",
+        "zh": "支出占预算的很大一部分。"
+      }
+    ],
+    "collocations": [
+      "das Licht ausmachen",
+      "einen Termin ausmachen",
+      "einen Unterschied ausmachen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "ausgemacht"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "社交",
+      "B1"
+    ],
+    "synonyms": [
+      "abschalten",
+      "vereinbaren",
+      "bilden"
+    ],
+    "antonyms": [
+      "anmachen",
+      "aufheben"
+    ]
+  },
+  {
+    "word": "ausschalten",
+    "lemma": "ausschalten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "关掉，关闭（设备）",
+        "en": "to switch off, to turn off"
+      },
+      {
+        "zh": "排除，消除",
+        "en": "to eliminate, to rule out"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Schalte den Computer aus, bevor du gehst.",
+        "zh": "走之前把电脑关掉。"
+      },
+      {
+        "de": "Wir müssen alle Fehlerquellen ausschalten.",
+        "zh": "我们必须排除所有错误来源。"
+      }
+    ],
+    "collocations": [
+      "das Gerät ausschalten",
+      "den Gegner ausschalten",
+      "Risiken ausschalten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "ausgeschaltet"
+    },
+    "level": "B1",
+    "tags": [
+      "技术",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "abschalten",
+      "ausmachen",
+      "beseitigen"
+    ],
+    "antonyms": [
+      "einschalten",
+      "anmachen",
+      "einbeziehen"
+    ]
+  }
+]

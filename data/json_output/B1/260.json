@@ -1,0 +1,1499 @@
+[
+  {
+    "word": "Oberschule",
+    "lemma": "Oberschule",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Oberschulen",
+    "meaning": [
+      {
+        "zh": "高级中学",
+        "en": "secondary school / high school"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er besucht die Oberschule in der Stadtmitte.",
+        "zh": "他在市中心的高级中学上学。"
+      },
+      {
+        "de": "Die Oberschule bereitet die Schüler auf das Abitur vor.",
+        "zh": "高级中学为学生准备高中毕业考试。"
+      }
+    ],
+    "collocations": [
+      "die Oberschule besuchen",
+      "die Oberschule abschließen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "Gymnasium",
+      "weiterführende Schule"
+    ],
+    "antonyms": [
+      "Grundschule"
+    ]
+  },
+  {
+    "word": "Oberstufe",
+    "lemma": "Oberstufe",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Oberstufen",
+    "meaning": [
+      {
+        "zh": "高中阶段",
+        "en": "upper school / senior high school level"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In der Oberstufe wählen die Schüler ihre Kurse selbst.",
+        "zh": "在高中阶段，学生自己选择课程。"
+      },
+      {
+        "de": "Die Oberstufe endet mit dem Abitur.",
+        "zh": "高中阶段以高中毕业考试结束。"
+      }
+    ],
+    "collocations": [
+      "in die Oberstufe kommen",
+      "die Oberstufe besuchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "Sekundarstufe II"
+    ],
+    "antonyms": [
+      "Unterstufe"
+    ]
+  },
+  {
+    "word": "Öffentlichkeit",
+    "lemma": "Öffentlichkeit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "公众；公开场合",
+        "en": "public / the public"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Entscheidung wurde in der Öffentlichkeit diskutiert.",
+        "zh": "这个决定在公众中引起了讨论。"
+      },
+      {
+        "de": "Der Skandal erregte große Aufmerksamkeit in der Öffentlichkeit.",
+        "zh": "这起丑闻在公众中引起了极大关注。"
+      }
+    ],
+    "collocations": [
+      "in der Öffentlichkeit",
+      "die Öffentlichkeit informieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Publikum",
+      "Allgemeinheit"
+    ],
+    "antonyms": [
+      "Privatsphäre"
+    ]
+  },
+  {
+    "word": "Öffnungspolitik",
+    "lemma": "Öffnungspolitik",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "开放政策",
+        "en": "opening-up policy"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Öffnungspolitik Chinas begann in den 1970er Jahren.",
+        "zh": "中国的开放政策始于20世纪70年代。"
+      },
+      {
+        "de": "Die Öffnungspolitik förderte den internationalen Handel.",
+        "zh": "开放政策促进了国际贸易。"
+      }
+    ],
+    "collocations": [
+      "die Öffnungspolitik umsetzen",
+      "die Öffnungspolitik unterstützen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "政治",
+      "经济",
+      "B2"
+    ],
+    "synonyms": [
+      "Reform- und Öffnungspolitik"
+    ],
+    "antonyms": [
+      "Abschottungspolitik"
+    ]
+  },
+  {
+    "word": "ökonomisch",
+    "lemma": "ökonomisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "经济的；经济学的",
+        "en": "economic / economical"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die ökonomische Lage des Landes hat sich verbessert.",
+        "zh": "该国的经济状况有所改善。"
+      },
+      {
+        "de": "Er hat ein ökonomisches Studium absolviert.",
+        "zh": "他完成了经济学学业。"
+      }
+    ],
+    "collocations": [
+      "ökonomische Entwicklung",
+      "ökonomische Krise"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "wirtschaftlich"
+    ],
+    "antonyms": [
+      "unwirtschaftlich"
+    ]
+  },
+  {
+    "word": "Olive",
+    "lemma": "Olive",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Oliven",
+    "meaning": [
+      {
+        "zh": "橄榄",
+        "en": "olive"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie isst gerne Oliven im Salat.",
+        "zh": "她喜欢吃沙拉里的橄榄。"
+      },
+      {
+        "de": "Oliven werden zu Olivenöl verarbeitet.",
+        "zh": "橄榄被加工成橄榄油。"
+      }
+    ],
+    "collocations": [
+      "grüne Oliven",
+      "schwarze Oliven",
+      "Olivenöl"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "食物",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Opiumkrieg",
+    "lemma": "Opiumkrieg",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Opiumkriege",
+    "meaning": [
+      {
+        "zh": "鸦片战争",
+        "en": "Opium War"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der erste Opiumkrieg fand zwischen 1839 und 1842 statt.",
+        "zh": "第一次鸦片战争发生在1839年至1842年间。"
+      },
+      {
+        "de": "Der Opiumkrieg führte zur Öffnung chinesischer Häfen.",
+        "zh": "鸦片战争导致中国港口的开放。"
+      }
+    ],
+    "collocations": [
+      "der erste Opiumkrieg",
+      "der zweite Opiumkrieg"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "历史",
+      "B2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "optimal",
+    "lemma": "optimal",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "最佳的；最优的",
+        "en": "optimal / optimum"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir suchen nach der optimalen Lösung für das Problem.",
+        "zh": "我们正在寻找问题的最佳解决方案。"
+      },
+      {
+        "de": "Die Bedingungen für das Wachstum sind optimal.",
+        "zh": "生长的条件是最佳的。"
+      }
+    ],
+    "collocations": [
+      "optimale Bedingungen",
+      "optimale Lösung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "通用",
+      "B1"
+    ],
+    "synonyms": [
+      "bestmöglich",
+      "ideal"
+    ],
+    "antonyms": [
+      "suboptimal",
+      "schlecht"
+    ]
+  },
+  {
+    "word": "Offentlichkeit",
+    "lemma": "Öffentlichkeit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "公众；公开场合",
+        "en": "the public; publicity; public sphere"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Öffentlichkeit hat ein Recht auf Information.",
+        "zh": "公众有权获取信息。"
+      },
+      {
+        "de": "Der Skandal wurde in der Öffentlichkeit breit diskutiert.",
+        "zh": "这起丑闻在公众中引起了广泛讨论。"
+      }
+    ],
+    "collocations": [
+      "in der Öffentlichkeit",
+      "die Öffentlichkeit informieren",
+      "die Öffentlichkeit suchen",
+      "die Öffentlichkeit scheuen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "媒体",
+      "B1"
+    ],
+    "synonyms": [
+      "Publikum",
+      "Allgemeinheit",
+      "Öffentlichkeitssphäre"
+    ],
+    "antonyms": [
+      "Privatsphäre",
+      "Geheimnis"
+    ]
+  },
+  {
+    "word": "Organisation",
+    "lemma": "Organisation",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Organisationen",
+    "meaning": [
+      {
+        "zh": "组织，机构",
+        "en": "organization"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Organisation hilft Menschen in Not.",
+        "zh": "这个组织帮助有困难的人。"
+      },
+      {
+        "de": "Er arbeitet für eine internationale Organisation.",
+        "zh": "他在一家国际组织工作。"
+      }
+    ],
+    "collocations": [
+      "eine Organisation gründen",
+      "in einer Organisation tätig sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Verein",
+      "Institution"
+    ],
+    "antonyms": [
+      "Chaos"
+    ]
+  },
+  {
+    "word": "organisieren",
+    "lemma": "organisieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "组织，安排",
+        "en": "to organize"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir müssen die Party organisieren.",
+        "zh": "我们必须组织派对。"
+      },
+      {
+        "de": "Sie organisiert das Treffen für nächste Woche.",
+        "zh": "她为下周安排会议。"
+      }
+    ],
+    "collocations": [
+      "etwas organisieren",
+      "sich organisieren"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "organisiert"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "planen",
+      "arrangieren"
+    ],
+    "antonyms": [
+      "durcheinanderbringen"
+    ]
+  },
+  {
+    "word": "Organismus",
+    "lemma": "Organismus",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Organismen",
+    "meaning": [
+      {
+        "zh": "有机体，生物体",
+        "en": "organism"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ein Organismus besteht aus vielen Zellen.",
+        "zh": "一个有机体由许多细胞组成。"
+      },
+      {
+        "de": "Der menschliche Organismus ist komplex.",
+        "zh": "人体有机体很复杂。"
+      }
+    ],
+    "collocations": [
+      "lebender Organismus",
+      "menschlicher Organismus"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "科技",
+      "B2"
+    ],
+    "synonyms": [
+      "Lebewesen",
+      "Körper"
+    ],
+    "antonyms": [
+      "Maschine"
+    ]
+  },
+  {
+    "word": "Ort",
+    "lemma": "Ort",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Orte",
+    "meaning": [
+      {
+        "zh": "地点，地方",
+        "en": "place, location"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieser Ort ist sehr schön.",
+        "zh": "这个地方很美。"
+      },
+      {
+        "de": "Wir treffen uns an einem bekannten Ort.",
+        "zh": "我们在一个知名地点见面。"
+      }
+    ],
+    "collocations": [
+      "am Ort des Geschehens",
+      "an einem Ort sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Stelle",
+      "Platz"
+    ],
+    "antonyms": [
+      "Nirgendwo"
+    ]
+  },
+  {
+    "word": "Pädagogik",
+    "lemma": "Pädagogik",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "教育学",
+        "en": "pedagogy, education"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie studiert Pädagogik an der Universität.",
+        "zh": "她在大学学习教育学。"
+      },
+      {
+        "de": "Die moderne Pädagogik betont die Selbstständigkeit.",
+        "zh": "现代教育学强调自主性。"
+      }
+    ],
+    "collocations": [
+      "Pädagogik studieren",
+      "Theorien der Pädagogik"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "教育",
+      "B2"
+    ],
+    "synonyms": [
+      "Erziehungswissenschaft",
+      "Didaktik"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Paddel",
+    "lemma": "Paddel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Paddel",
+    "meaning": [
+      {
+        "zh": "桨",
+        "en": "paddle"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er benutzt ein Paddel, um das Boot zu steuern.",
+        "zh": "他用桨来划船。"
+      },
+      {
+        "de": "Das Paddel liegt im Kanu.",
+        "zh": "桨放在独木舟里。"
+      }
+    ],
+    "collocations": [
+      "ein Paddel benutzen",
+      "mit dem Paddel rudern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "运动",
+      "B1"
+    ],
+    "synonyms": [
+      "Ruder"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Papier",
+    "lemma": "Papier",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Papiere",
+    "meaning": [
+      {
+        "zh": "纸",
+        "en": "paper"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich brauche ein Blatt Papier.",
+        "zh": "我需要一张纸。"
+      },
+      {
+        "de": "Das Papier ist aus Holz gemacht.",
+        "zh": "纸是由木头制成的。"
+      }
+    ],
+    "collocations": [
+      "ein Blatt Papier",
+      "auf Papier schreiben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "A1"
+    ],
+    "synonyms": [
+      "Blatt",
+      "Schreibmaterial"
+    ],
+    "antonyms": [
+      "digital"
+    ]
+  },
+  {
+    "word": "Parlament",
+    "lemma": "Parlament",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Parlamente",
+    "meaning": [
+      {
+        "zh": "议会，国会",
+        "en": "parliament"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Parlament stimmt über das Gesetz ab.",
+        "zh": "议会对法律进行投票。"
+      },
+      {
+        "de": "Er ist Mitglied des Parlaments.",
+        "zh": "他是议会的成员。"
+      }
+    ],
+    "collocations": [
+      "im Parlament sitzen",
+      "das Parlament wählen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "政治",
+      "B1"
+    ],
+    "synonyms": [
+      "Abgeordnetenhaus",
+      "Legislative"
+    ],
+    "antonyms": [
+      "Diktatur"
+    ]
+  },
+  {
+    "word": "Partner",
+    "lemma": "Partner",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Partner",
+    "meaning": [
+      {
+        "zh": "伙伴，搭档，伴侣",
+        "en": "partner, companion, spouse"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mein Partner und ich arbeiten im selben Team.",
+        "zh": "我的搭档和我在同一个团队工作。"
+      },
+      {
+        "de": "Sie sucht einen Partner für das Tennisspiel.",
+        "zh": "她正在找一个网球搭档。"
+      }
+    ],
+    "collocations": [
+      "Geschäftspartner",
+      "Lebenspartner",
+      "Partner suchen",
+      "Partner finden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "社会",
+      "人际关系",
+      "A2"
+    ],
+    "synonyms": [
+      "Gefährte",
+      "Kollege",
+      "Begleiter"
+    ],
+    "antonyms": [
+      "Gegner",
+      "Feind"
+    ]
+  },
+  {
+    "word": "Partnerschaft",
+    "lemma": "Partnerschaft",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Partnerschaften",
+    "meaning": [
+      {
+        "zh": "伙伴关系，伴侣关系",
+        "en": "partnership, relationship"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Eine gute Partnerschaft basiert auf Vertrauen.",
+        "zh": "良好的伙伴关系建立在信任之上。"
+      },
+      {
+        "de": "Die beiden Unternehmen gingen eine Partnerschaft ein.",
+        "zh": "这两家公司建立了合作关系。"
+      }
+    ],
+    "collocations": [
+      "Partnerschaft eingehen",
+      "Partnerschaft beenden",
+      "Partnerschaft pflegen",
+      "Partnerschaft aufbauen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "经济",
+      "人际关系",
+      "B1"
+    ],
+    "synonyms": [
+      "Beziehung",
+      "Allianz",
+      "Bündnis"
+    ],
+    "antonyms": [
+      "Feindschaft",
+      "Konkurrenz"
+    ]
+  },
+  {
+    "word": "passen",
+    "lemma": "passen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "适合，合适；传球",
+        "en": "to fit, to suit; to pass (ball)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Jacke passt mir perfekt.",
+        "zh": "这件夹克非常适合我。"
+      },
+      {
+        "de": "Er passt den Ball zu seinem Mitspieler.",
+        "zh": "他把球传给了队友。"
+      }
+    ],
+    "collocations": [
+      "gut passen",
+      "nicht passen",
+      "passen zu",
+      "den Ball passen"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gepasst"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "运动",
+      "A2"
+    ],
+    "synonyms": [
+      "geeignet sein",
+      "entsprechen",
+      "übergeben"
+    ],
+    "antonyms": [
+      "nicht passen",
+      "stören"
+    ]
+  },
+  {
+    "word": "Perle",
+    "lemma": "Perle",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Perlen",
+    "meaning": [
+      {
+        "zh": "珍珠",
+        "en": "pearl"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie trägt eine Kette aus echten Perlen.",
+        "zh": "她戴着一条真珍珠项链。"
+      },
+      {
+        "de": "Die Perle ist ein Symbol für Reinheit.",
+        "zh": "珍珠是纯洁的象征。"
+      }
+    ],
+    "collocations": [
+      "echte Perle",
+      "Perlenkette",
+      "Perle finden",
+      "Perle schenken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "自然",
+      "珠宝",
+      "B1"
+    ],
+    "synonyms": [
+      "Edelstein",
+      "Schmuckstück"
+    ],
+    "antonyms": [
+      "Stein",
+      "Kiesel"
+    ]
+  },
+  {
+    "word": "Personal",
+    "lemma": "Personal",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "员工，人员",
+        "en": "staff, personnel"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Personal in diesem Hotel ist sehr freundlich.",
+        "zh": "这家酒店的员工非常友好。"
+      },
+      {
+        "de": "Wir müssen neues Personal einstellen.",
+        "zh": "我们必须招聘新员工。"
+      }
+    ],
+    "collocations": [
+      "Personal einstellen",
+      "Personal abbauen",
+      "Personalabteilung",
+      "Personalchef"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "工作",
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "Belegschaft",
+      "Mitarbeiter",
+      "Angestellte"
+    ],
+    "antonyms": [
+      "Führungskraft",
+      "Chef"
+    ]
+  },
+  {
+    "word": "persönlich",
+    "lemma": "persönlich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "个人的，亲自的",
+        "en": "personal, in person"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist meine persönliche Meinung.",
+        "zh": "这是我个人的意见。"
+      },
+      {
+        "de": "Er kam persönlich vorbei, um sich zu bedanken.",
+        "zh": "他亲自过来道谢。"
+      }
+    ],
+    "collocations": [
+      "persönliche Daten",
+      "persönliche Erfahrung",
+      "persönlich treffen",
+      "persönlich bekannt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "individuell",
+      "privat",
+      "eigen"
+    ],
+    "antonyms": [
+      "allgemein",
+      "öffentlich",
+      "unpersönlich"
+    ]
+  },
+  {
+    "word": "Perspektive",
+    "lemma": "Perspektive",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Perspektiven",
+    "meaning": [
+      {
+        "zh": "视角，观点；前景",
+        "en": "perspective, viewpoint; prospect"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Aus meiner Perspektive ist die Situation anders.",
+        "zh": "从我的角度来看，情况不同。"
+      },
+      {
+        "de": "Die Firma hat gute Perspektiven für die Zukunft.",
+        "zh": "这家公司未来前景很好。"
+      }
+    ],
+    "collocations": [
+      "Perspektive wechseln",
+      "berufliche Perspektive",
+      "aus der Perspektive",
+      "Perspektive haben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "心理",
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "Sichtweise",
+      "Aussicht",
+      "Blickwinkel"
+    ],
+    "antonyms": [
+      "Rückblick",
+      "Vergangenheit"
+    ]
+  },
+  {
+    "word": "pessimistisch",
+    "lemma": "pessimistisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "悲观的",
+        "en": "pessimistic"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist sehr pessimistisch, was die Zukunft betrifft.",
+        "zh": "他对未来非常悲观。"
+      },
+      {
+        "de": "Eine pessimistische Einstellung kann das Leben schwer machen.",
+        "zh": "悲观的态度会让生活变得困难。"
+      }
+    ],
+    "collocations": [
+      "pessimistisch sein",
+      "pessimistische Ansicht",
+      "pessimistisch denken",
+      "pessimistische Prognose"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "心理",
+      "B1"
+    ],
+    "synonyms": [
+      "negativ",
+      "hoffnungslos",
+      "schwarzseherisch"
+    ],
+    "antonyms": [
+      "optimistisch",
+      "positiv",
+      "zuversichtlich"
+    ]
+  },
+  {
+    "word": "Pfand",
+    "lemma": "Pfand",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Pfänder",
+    "meaning": [
+      {
+        "zh": "押金；抵押品",
+        "en": "deposit; pledge"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Auf der Flasche ist ein Pfand von 25 Cent.",
+        "zh": "这个瓶子上有25欧分的押金。"
+      },
+      {
+        "de": "Er hinterließ sein Handy als Pfand.",
+        "zh": "他把手机留下作为抵押品。"
+      }
+    ],
+    "collocations": [
+      "Pfand einlösen",
+      "Pfand zurückbekommen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "Sicherheit",
+      "Kaution"
+    ],
+    "antonyms": [
+      "Geschenk"
+    ]
+  },
+  {
+    "word": "Pflege",
+    "lemma": "Pflege",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "护理；保养",
+        "en": "care; maintenance"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Pflege alter Menschen ist anspruchsvoll.",
+        "zh": "照顾老人要求很高。"
+      },
+      {
+        "de": "Zur Pflege der Haut gehört regelmäßiges Eincremen.",
+        "zh": "皮肤保养包括定期涂抹润肤霜。"
+      }
+    ],
+    "collocations": [
+      "Pflege brauchen",
+      "in Pflege nehmen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "医疗",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "Betreuung",
+      "Versorgung"
+    ],
+    "antonyms": [
+      "Vernachlässigung"
+    ]
+  },
+  {
+    "word": "Politik",
+    "lemma": "Politik",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "政治；政策",
+        "en": "politics; policy"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Politik der Regierung stößt auf Kritik.",
+        "zh": "政府的政策遭到批评。"
+      },
+      {
+        "de": "Er interessiert sich sehr für Politik.",
+        "zh": "他对政治非常感兴趣。"
+      }
+    ],
+    "collocations": [
+      "Politik betreiben",
+      "in der Politik tätig sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "政治",
+      "B1"
+    ],
+    "synonyms": [
+      "Staatskunst",
+      "Regierungsarbeit"
+    ],
+    "antonyms": [
+      "Anarchie"
+    ]
+  },
+  {
+    "word": "politisch",
+    "lemma": "politisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "政治的",
+        "en": "political"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist eine politische Entscheidung.",
+        "zh": "这是一个政治决定。"
+      },
+      {
+        "de": "Er engagiert sich politisch in seiner Gemeinde.",
+        "zh": "他在自己的社区里积极参与政治活动。"
+      }
+    ],
+    "collocations": [
+      "politische Lage",
+      "politisch aktiv sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "政治",
+      "B1"
+    ],
+    "synonyms": [
+      "staatspolitisch",
+      "regierungsbezogen"
+    ],
+    "antonyms": [
+      "unpolitisch"
+    ]
+  },
+  {
+    "word": "positiv",
+    "lemma": "positiv",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "积极的；正面的",
+        "en": "positive"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Rückmeldung war überwiegend positiv.",
+        "zh": "反馈主要是正面的。"
+      },
+      {
+        "de": "Er hat eine positive Einstellung zum Leben.",
+        "zh": "他对生活持积极态度。"
+      }
+    ],
+    "collocations": [
+      "positive Erfahrung",
+      "positiv denken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "评价",
+      "A2"
+    ],
+    "synonyms": [
+      "optimistisch",
+      "günstig"
+    ],
+    "antonyms": [
+      "negativ"
+    ]
+  },
+  {
+    "word": "prägen",
+    "lemma": "prägen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "塑造；给……打上烙印",
+        "en": "to shape; to imprint"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kindheit prägt den Charakter eines Menschen.",
+        "zh": "童年塑造一个人的性格。"
+      },
+      {
+        "de": "Diese Erfahrung hat ihn tief geprägt.",
+        "zh": "这段经历深深地影响了他。"
+      }
+    ],
+    "collocations": [
+      "den Charakter prägen",
+      "geprägt sein von"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geprägt"
+    },
+    "level": "B2",
+    "tags": [
+      "心理",
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "formen",
+      "beeinflussen"
+    ],
+    "antonyms": [
+      "verwischen",
+      "auslöschen"
+    ]
+  }
+]

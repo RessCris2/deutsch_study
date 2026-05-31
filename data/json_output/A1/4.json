@@ -1,0 +1,1296 @@
+[
+  {
+    "word": "Blume",
+    "lemma": "Blume",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Blumen",
+    "meaning": [
+      {
+        "zh": "花",
+        "en": "flower"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Garten blühen viele bunte Blumen.",
+        "zh": "花园里盛开着许多五颜六色的花。"
+      },
+      {
+        "de": "Er schenkte seiner Freundin einen Strauß Blumen.",
+        "zh": "他送给女朋友一束花。"
+      }
+    ],
+    "collocations": [
+      "Blumen gießen",
+      "Blumen pflücken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "自然",
+      "A2"
+    ],
+    "synonyms": [
+      "Pflanze"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Boot",
+    "lemma": "Boot",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Boote",
+    "meaning": [
+      {
+        "zh": "船",
+        "en": "boat"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir fahren mit dem Boot über den See.",
+        "zh": "我们乘船过湖。"
+      },
+      {
+        "de": "Das Boot ist aus Holz gebaut.",
+        "zh": "这艘船是木头做的。"
+      }
+    ],
+    "collocations": [
+      "Boot fahren",
+      "ein Boot mieten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "交通",
+      "A2"
+    ],
+    "synonyms": [
+      "Schiff"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "brauchen",
+    "lemma": "brauchen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "需要",
+        "en": "need"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich brauche Hilfe bei der Arbeit.",
+        "zh": "我在工作中需要帮助。"
+      },
+      {
+        "de": "Du brauchst nicht so früh aufzustehen.",
+        "zh": "你不需要这么早起床。"
+      }
+    ],
+    "collocations": [
+      "Hilfe brauchen",
+      "Zeit brauchen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gebraucht"
+    },
+    "level": "A2",
+    "tags": [
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "benötigen"
+    ],
+    "antonyms": [
+      "entbehren"
+    ]
+  },
+  {
+    "word": "Bratkartoffeln",
+    "lemma": "Bratkartoffel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Bratkartoffeln",
+    "meaning": [
+      {
+        "zh": "煎土豆",
+        "en": "fried potatoes"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Zum Abendessen gibt es Bratkartoffeln mit Spiegelei.",
+        "zh": "晚餐有煎土豆和煎蛋。"
+      },
+      {
+        "de": "Die Bratkartoffeln sind schön knusprig.",
+        "zh": "煎土豆很酥脆。"
+      }
+    ],
+    "collocations": [
+      "Bratkartoffeln braten",
+      "Bratkartoffeln essen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "饮食",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Brief",
+    "lemma": "Brief",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Briefe",
+    "meaning": [
+      {
+        "zh": "信",
+        "en": "letter"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe einen Brief von meiner Mutter bekommen.",
+        "zh": "我收到了妈妈的一封信。"
+      },
+      {
+        "de": "Er schreibt einen Brief an seinen Freund.",
+        "zh": "他给朋友写了一封信。"
+      }
+    ],
+    "collocations": [
+      "einen Brief schreiben",
+      "einen Brief bekommen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "沟通",
+      "A2"
+    ],
+    "synonyms": [
+      "Schreiben"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Brot",
+    "lemma": "Brot",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Brote",
+    "meaning": [
+      {
+        "zh": "面包",
+        "en": "bread"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Zum Frühstück esse ich ein Brot mit Marmelade.",
+        "zh": "早餐我吃一个涂果酱的面包。"
+      },
+      {
+        "de": "Das Brot ist frisch gebacken.",
+        "zh": "面包是新鲜烤的。"
+      }
+    ],
+    "collocations": [
+      "Brot backen",
+      "Brot kaufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "饮食",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Brötchen",
+    "lemma": "Brötchen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Brötchen",
+    "meaning": [
+      {
+        "zh": "小面包",
+        "en": "roll"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich hole frische Brötchen vom Bäcker.",
+        "zh": "我去面包店买新鲜的小面包。"
+      },
+      {
+        "de": "Zum Frühstück gibt es Brötchen mit Butter.",
+        "zh": "早餐有小面包配黄油。"
+      }
+    ],
+    "collocations": [
+      "Brötchen kaufen",
+      "Brötchen essen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "饮食",
+      "A1"
+    ],
+    "synonyms": [
+      "Semmel"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Brücke",
+    "lemma": "Brücke",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Brücken",
+    "meaning": [
+      {
+        "zh": "桥",
+        "en": "bridge"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Brücke über den Fluss ist sehr alt.",
+        "zh": "河上的桥很古老。"
+      },
+      {
+        "de": "Wir gehen über die Brücke zum anderen Ufer.",
+        "zh": "我们走过桥到对岸。"
+      }
+    ],
+    "collocations": [
+      "eine Brücke bauen",
+      "über eine Brücke gehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "建筑",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Bruder",
+    "lemma": "Bruder",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Brüder",
+    "meaning": [
+      {
+        "zh": "兄弟",
+        "en": "brother"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mein Bruder wohnt in Berlin.",
+        "zh": "我的兄弟住在柏林。"
+      },
+      {
+        "de": "Sie hat zwei Brüder.",
+        "zh": "她有两个兄弟。"
+      }
+    ],
+    "collocations": [
+      "älterer Bruder",
+      "jüngerer Bruder",
+      "Bruder und Schwester"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "家庭",
+      "A1"
+    ],
+    "synonyms": [
+      "Geschwister"
+    ],
+    "antonyms": [
+      "Schwester"
+    ]
+  },
+  {
+    "word": "Buch",
+    "lemma": "Buch",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Bücher",
+    "meaning": [
+      {
+        "zh": "书",
+        "en": "book"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich lese ein interessantes Buch.",
+        "zh": "我在读一本有趣的书。"
+      },
+      {
+        "de": "Das Buch liegt auf dem Tisch.",
+        "zh": "书在桌子上。"
+      }
+    ],
+    "collocations": [
+      "ein Buch lesen",
+      "ein Buch schreiben",
+      "Buchhandlung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "文化",
+      "A1"
+    ],
+    "synonyms": [
+      "Band",
+      "Werk"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "buchstabieren",
+    "lemma": "buchstabieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "拼写",
+        "en": "to spell"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du deinen Namen buchstabieren?",
+        "zh": "你能拼写你的名字吗？"
+      },
+      {
+        "de": "Er buchstabierte das Wort langsam.",
+        "zh": "他慢慢地拼写了这个词。"
+      }
+    ],
+    "collocations": [
+      "ein Wort buchstabieren",
+      "den Namen buchstabieren"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "buchstabiert"
+    },
+    "level": "A2",
+    "tags": [
+      "语言",
+      "A2"
+    ],
+    "synonyms": [
+      "aussprechen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Bummel",
+    "lemma": "Bummel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Bummel",
+    "meaning": [
+      {
+        "zh": "闲逛",
+        "en": "stroll, leisurely walk"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir machen einen Bummel durch die Stadt.",
+        "zh": "我们在城里闲逛。"
+      },
+      {
+        "de": "Der Bummel am Sonntag war sehr entspannend.",
+        "zh": "周日的闲逛非常放松。"
+      }
+    ],
+    "collocations": [
+      "einen Bummel machen",
+      "Bummel durch die Stadt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "休闲",
+      "B1"
+    ],
+    "synonyms": [
+      "Spaziergang",
+      "Schlendern"
+    ],
+    "antonyms": [
+      "Hetze"
+    ]
+  },
+  {
+    "word": "Bus",
+    "lemma": "Bus",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Busse",
+    "meaning": [
+      {
+        "zh": "公交车",
+        "en": "bus"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Bus kommt um 8 Uhr.",
+        "zh": "公交车8点来。"
+      },
+      {
+        "de": "Wir fahren mit dem Bus zur Schule.",
+        "zh": "我们坐公交车去学校。"
+      }
+    ],
+    "collocations": [
+      "mit dem Bus fahren",
+      "Busfahrer",
+      "Bushaltestelle"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "交通",
+      "A1"
+    ],
+    "synonyms": [
+      "Omnibus"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Cafeteria",
+    "lemma": "Cafeteria",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Cafeterias",
+    "meaning": [
+      {
+        "zh": "自助餐厅",
+        "en": "cafeteria"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In der Cafeteria gibt es günstiges Essen.",
+        "zh": "自助餐厅里有便宜的食物。"
+      },
+      {
+        "de": "Wir treffen uns in der Cafeteria.",
+        "zh": "我们在自助餐厅见面。"
+      }
+    ],
+    "collocations": [
+      "in der Cafeteria essen",
+      "Cafeteria der Universität"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "饮食",
+      "A2"
+    ],
+    "synonyms": [
+      "Mensa",
+      "Kantine"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Campingplatz",
+    "lemma": "Campingplatz",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Campingplätze",
+    "meaning": [
+      {
+        "zh": "露营地",
+        "en": "campsite"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir haben einen Stellplatz auf dem Campingplatz.",
+        "zh": "我们在露营地有一个停车位。"
+      },
+      {
+        "de": "Der Campingplatz liegt am See.",
+        "zh": "露营地坐落在湖边。"
+      }
+    ],
+    "collocations": [
+      "auf dem Campingplatz campen",
+      "Campingplatz buchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "旅行",
+      "A2"
+    ],
+    "synonyms": [
+      "Zeltplatz"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Cappuccino",
+    "lemma": "Cappuccino",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Cappuccinos",
+    "meaning": [
+      {
+        "zh": "卡布奇诺咖啡",
+        "en": "cappuccino"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich bestelle einen Cappuccino.",
+        "zh": "我点了一杯卡布奇诺。"
+      },
+      {
+        "de": "Der Cappuccino schmeckt sehr gut.",
+        "zh": "这杯卡布奇诺味道很好。"
+      }
+    ],
+    "collocations": [
+      "einen Cappuccino trinken",
+      "Cappuccino bestellen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "饮食",
+      "A1"
+    ],
+    "synonyms": [
+      "Kaffee"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Cent",
+    "lemma": "Cent",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Cents",
+    "meaning": [
+      {
+        "zh": "分（货币单位）",
+        "en": "cent"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Kaffee kostet nur 50 Cent.",
+        "zh": "这杯咖啡只要50分。"
+      },
+      {
+        "de": "Ich habe noch ein paar Cent in der Tasche.",
+        "zh": "我口袋里还有几分钱。"
+      }
+    ],
+    "collocations": [
+      "ein paar Cent",
+      "Cent-Stücke"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "货币",
+      "日常"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Champagner",
+    "lemma": "Champagner",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "香槟酒",
+        "en": "champagne"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Zum Geburtstag haben wir Champagner getrunken.",
+        "zh": "生日那天我们喝了香槟。"
+      },
+      {
+        "de": "Champagner wird oft bei Feierlichkeiten serviert.",
+        "zh": "香槟常在庆祝场合供应。"
+      }
+    ],
+    "collocations": [
+      "eine Flasche Champagner",
+      "Champagner trinken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "饮食",
+      "社交"
+    ],
+    "synonyms": [
+      "Sekt"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "chatten",
+    "lemma": "chatten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "聊天（在线）",
+        "en": "to chat"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir chatten jeden Abend über WhatsApp.",
+        "zh": "我们每晚通过WhatsApp聊天。"
+      },
+      {
+        "de": "Er chattet gern mit seinen Freunden.",
+        "zh": "他喜欢和朋友聊天。"
+      }
+    ],
+    "collocations": [
+      "im Internet chatten",
+      "mit jemandem chatten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gechattet"
+    },
+    "level": "A2",
+    "tags": [
+      "科技",
+      "交流"
+    ],
+    "synonyms": [
+      "plaudern",
+      "kommunizieren"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Chemie",
+    "lemma": "Chemie",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "化学",
+        "en": "chemistry"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In der Schule mag ich Chemie am liebsten.",
+        "zh": "在学校里我最喜欢化学。"
+      },
+      {
+        "de": "Die Chemie zwischen den beiden stimmt einfach.",
+        "zh": "两人之间的化学反应很合拍。"
+      }
+    ],
+    "collocations": [
+      "Chemie studieren",
+      "organische Chemie"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "科学",
+      "教育"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Chinesisch",
+    "lemma": "Chinesisch",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "中文（语言）",
+        "en": "Chinese (language)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie lernt seit einem Jahr Chinesisch.",
+        "zh": "她学中文已经一年了。"
+      },
+      {
+        "de": "Chinesisch zu sprechen ist nicht einfach.",
+        "zh": "说中文不容易。"
+      }
+    ],
+    "collocations": [
+      "Chinesisch lernen",
+      "auf Chinesisch sprechen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语言",
+      "教育"
+    ],
+    "synonyms": [
+      "Mandarin"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Cola",
+    "lemma": "Cola",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Colas",
+    "meaning": [
+      {
+        "zh": "可乐（饮料）",
+        "en": "cola"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich möchte eine Cola, bitte.",
+        "zh": "请给我一杯可乐。"
+      },
+      {
+        "de": "Cola ist ein beliebtes Erfrischungsgetränk.",
+        "zh": "可乐是一种受欢迎的清凉饮料。"
+      }
+    ],
+    "collocations": [
+      "eine Dose Cola",
+      "Cola trinken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "饮食",
+      "日常"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Computer",
+    "lemma": "Computer",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Computer",
+    "meaning": [
+      {
+        "zh": "电脑",
+        "en": "computer"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Computer ist kaputt.",
+        "zh": "电脑坏了。"
+      },
+      {
+        "de": "Sie arbeitet den ganzen Tag am Computer.",
+        "zh": "她整天在电脑前工作。"
+      }
+    ],
+    "collocations": [
+      "am Computer arbeiten",
+      "Computer benutzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "科技",
+      "日常"
+    ],
+    "synonyms": [
+      "Rechner"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "cool",
+    "lemma": "cool",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "酷的，棒的",
+        "en": "cool"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist ein cooles Auto!",
+        "zh": "这是一辆酷车！"
+      },
+      {
+        "de": "Er ist ein cooler Typ.",
+        "zh": "他是个酷家伙。"
+      }
+    ],
+    "collocations": [
+      "cool sein",
+      "cool finden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "情感",
+      "日常"
+    ],
+    "synonyms": [
+      "toll",
+      "super"
+    ],
+    "antonyms": [
+      "uncool",
+      "langweilig"
+    ]
+  },
+  {
+    "word": "Couch",
+    "lemma": "Couch",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Couches",
+    "meaning": [
+      {
+        "zh": "沙发",
+        "en": "couch"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich liege auf der Couch und lese ein Buch.",
+        "zh": "我躺在沙发上看书。"
+      },
+      {
+        "de": "Die Gäste sitzen auf der Couch im Wohnzimmer.",
+        "zh": "客人们坐在客厅的沙发上。"
+      }
+    ],
+    "collocations": [
+      "auf der Couch liegen",
+      "sich auf die Couch setzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "家具",
+      "A2"
+    ],
+    "synonyms": [
+      "Sofa"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Cyberdoktor",
+    "lemma": "Cyberdoktor",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Cyberdoktoren",
+    "meaning": [
+      {
+        "zh": "网络医生",
+        "en": "cyber doctor"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Cyberdoktor berät Patienten online.",
+        "zh": "网络医生在线为患者提供咨询。"
+      },
+      {
+        "de": "Viele vertrauen dem Cyberdoktor bei einfachen Beschwerden.",
+        "zh": "许多人在小病小痛上信任网络医生。"
+      }
+    ],
+    "collocations": [
+      "den Cyberdoktor konsultieren",
+      "beim Cyberdoktor einen Termin buchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "医疗",
+      "B1"
+    ],
+    "synonyms": [
+      "Online-Arzt"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "damals",
+    "lemma": "damals",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "当时",
+        "en": "at that time"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Damals war ich noch ein Kind.",
+        "zh": "当时我还是个孩子。"
+      },
+      {
+        "de": "Die Technologie war damals noch nicht so weit.",
+        "zh": "当时技术还没有那么先进。"
+      }
+    ],
+    "collocations": [
+      "damals und heute",
+      "damals in der Schule"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "时间",
+      "A2"
+    ],
+    "synonyms": [
+      "früher",
+      "einst"
+    ],
+    "antonyms": [
+      "heute",
+      "jetzt"
+    ]
+  },
+  {
+    "word": "Dame",
+    "lemma": "Dame",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Damen",
+    "meaning": [
+      {
+        "zh": "女士",
+        "en": "lady"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Eine ältere Dame sitzt im Park auf der Bank.",
+        "zh": "一位年长的女士坐在公园的长椅上。"
+      },
+      {
+        "de": "Die Dame an der Rezeption war sehr freundlich.",
+        "zh": "前台的那位女士非常友好。"
+      }
+    ],
+    "collocations": [
+      "eine vornehme Dame",
+      "die Dame des Hauses"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "人物",
+      "A1"
+    ],
+    "synonyms": [
+      "Frau"
+    ],
+    "antonyms": [
+      "Herr"
+    ]
+  },
+  {
+    "word": "danach",
+    "lemma": "danach",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "之后",
+        "en": "afterwards"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir essen zu Abend, und danach gehen wir spazieren.",
+        "zh": "我们吃晚饭，之后去散步。"
+      },
+      {
+        "de": "Danach habe ich ihn nie wieder gesehen.",
+        "zh": "之后我再也没见过他。"
+      }
+    ],
+    "collocations": [
+      "kurz danach",
+      "danach fragen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "时间",
+      "顺序",
+      "A2"
+    ],
+    "synonyms": [
+      "anschließend",
+      "später"
+    ],
+    "antonyms": [
+      "davor",
+      "vorher"
+    ]
+  }
+]

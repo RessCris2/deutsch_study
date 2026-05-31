@@ -1,0 +1,1819 @@
+[
+  {
+    "word": "Stärke",
+    "lemma": "Stärke",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Stärken",
+    "meaning": [
+      {
+        "zh": "力量；强度；优势",
+        "en": "strength; intensity; advantage"
+      },
+      {
+        "zh": "淀粉",
+        "en": "starch"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Stärke des Teams liegt in der Zusammenarbeit.",
+        "zh": "这个团队的优势在于合作。"
+      },
+      {
+        "de": "Kartoffeln enthalten viel Stärke.",
+        "zh": "土豆含有大量淀粉。"
+      }
+    ],
+    "collocations": [
+      "innere Stärke",
+      "körperliche Stärke",
+      "Stärke zeigen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "抽象概念",
+      "食物",
+      "B1"
+    ],
+    "synonyms": [
+      "Kraft",
+      "Vorteil"
+    ],
+    "antonyms": [
+      "Schwäche"
+    ]
+  },
+  {
+    "word": "stattfinden",
+    "lemma": "stattfinden",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "举行；发生",
+        "en": "to take place; to occur"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Konferenz findet nächste Woche statt.",
+        "zh": "会议下周举行。"
+      },
+      {
+        "de": "Das Konzert findet im Park statt.",
+        "zh": "音乐会在公园举行。"
+      }
+    ],
+    "collocations": [
+      "eine Veranstaltung findet statt",
+      "ein Treffen findet statt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "stattgefunden"
+    },
+    "level": "B1",
+    "tags": [
+      "事件",
+      "组织",
+      "B1"
+    ],
+    "synonyms": [
+      "geschehen",
+      "ablaufen"
+    ],
+    "antonyms": [
+      "ausfallen"
+    ]
+  },
+  {
+    "word": "Stein",
+    "lemma": "Stein",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Steine",
+    "meaning": [
+      {
+        "zh": "石头；石块",
+        "en": "stone; rock"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er warf einen Stein ins Wasser.",
+        "zh": "他把一块石头扔进水里。"
+      },
+      {
+        "de": "Das Gebäude ist aus Stein gebaut.",
+        "zh": "这座建筑是用石头建造的。"
+      }
+    ],
+    "collocations": [
+      "ein Stein fällt",
+      "aus Stein",
+      "Stein auf Stein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "自然",
+      "材料",
+      "A2"
+    ],
+    "synonyms": [
+      "Fels",
+      "Gestein"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Stimme",
+    "lemma": "Stimme",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Stimmen",
+    "meaning": [
+      {
+        "zh": "声音；嗓音",
+        "en": "voice"
+      },
+      {
+        "zh": "投票；选票",
+        "en": "vote"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat eine sehr schöne Stimme.",
+        "zh": "她有一副非常动听的嗓音。"
+      },
+      {
+        "de": "Die Stimmen wurden ausgezählt.",
+        "zh": "选票被清点了。"
+      }
+    ],
+    "collocations": [
+      "mit lauter Stimme",
+      "seine Stimme abgeben",
+      "die Stimme erheben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "感官",
+      "政治",
+      "B1"
+    ],
+    "synonyms": [
+      "Klang",
+      "Ton",
+      "Votum"
+    ],
+    "antonyms": [
+      "Schweigen"
+    ]
+  },
+  {
+    "word": "Stimmung",
+    "lemma": "Stimmung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Stimmungen",
+    "meaning": [
+      {
+        "zh": "情绪；气氛",
+        "en": "mood; atmosphere"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Stimmung auf der Party war ausgelassen.",
+        "zh": "派对上的气氛很欢快。"
+      },
+      {
+        "de": "Er ist heute in schlechter Stimmung.",
+        "zh": "他今天情绪不好。"
+      }
+    ],
+    "collocations": [
+      "gute Stimmung",
+      "schlechte Stimmung",
+      "die Stimmung heben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Atmosphäre",
+      "Laune"
+    ],
+    "antonyms": [
+      "Missstimmung"
+    ]
+  },
+  {
+    "word": "Stipendium",
+    "lemma": "Stipendium",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Stipendien",
+    "meaning": [
+      {
+        "zh": "奖学金；助学金",
+        "en": "scholarship; grant"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat ein Stipendium für ihr Studium bekommen.",
+        "zh": "她获得了一份大学奖学金。"
+      },
+      {
+        "de": "Das Stipendium deckt die Lebenshaltungskosten.",
+        "zh": "这份奖学金覆盖了生活费用。"
+      }
+    ],
+    "collocations": [
+      "ein Stipendium erhalten",
+      "sich um ein Stipendium bewerben",
+      "Stipendium vergeben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "教育",
+      "经济",
+      "B2"
+    ],
+    "synonyms": [
+      "Förderung",
+      "Unterstützung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "stolz",
+    "lemma": "stolz",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "骄傲的；自豪的",
+        "en": "proud"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie ist stolz auf ihre Leistung.",
+        "zh": "她为自己的成就感到自豪。"
+      },
+      {
+        "de": "Er zeigte stolz sein neues Auto.",
+        "zh": "他自豪地展示了他的新车。"
+      }
+    ],
+    "collocations": [
+      "stolz auf etwas sein",
+      "stolz wie ein Pfau",
+      "mit stolzem Blick"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "性格",
+      "A2"
+    ],
+    "synonyms": [
+      "selbstbewusst",
+      "erhaben"
+    ],
+    "antonyms": [
+      "bescheiden",
+      "demütig"
+    ]
+  },
+  {
+    "word": "Straßburg",
+    "lemma": "Straßburg",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "斯特拉斯堡（法国城市）",
+        "en": "Strasbourg (city in France)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Straßburg ist Sitz des Europäischen Parlaments.",
+        "zh": "斯特拉斯堡是欧洲议会的所在地。"
+      },
+      {
+        "de": "Wir fahren nächste Woche nach Straßburg.",
+        "zh": "我们下周去斯特拉斯堡。"
+      }
+    ],
+    "collocations": [
+      "nach Straßburg reisen",
+      "in Straßburg leben",
+      "Straßburg besuchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "地理",
+      "城市",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Straßburg",
+    "lemma": "Straßburg",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "斯特拉斯堡",
+        "en": "Strasbourg"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Straßburg ist eine Stadt im Osten Frankreichs.",
+        "zh": "斯特拉斯堡是法国东部的一座城市。"
+      },
+      {
+        "de": "Ich möchte nächstes Jahr nach Straßburg reisen.",
+        "zh": "我明年想去斯特拉斯堡旅行。"
+      }
+    ],
+    "collocations": [
+      "nach Straßburg fahren",
+      "in Straßburg leben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "地理",
+      "城市",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Straßburg",
+    "lemma": "Straßburg",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "斯特拉斯堡",
+        "en": "Strasbourg"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Straßburg ist eine Stadt im Osten Frankreichs.",
+        "zh": "斯特拉斯堡是法国东部的一座城市。"
+      },
+      {
+        "de": "Ich möchte nächstes Jahr nach Straßburg reisen.",
+        "zh": "我明年想去斯特拉斯堡旅行。"
+      }
+    ],
+    "collocations": [
+      "nach Straßburg fahren",
+      "in Straßburg wohnen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "地理",
+      "城市",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Streit",
+    "lemma": "Streit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Streite",
+    "meaning": [
+      {
+        "zh": "争吵，争论",
+        "en": "quarrel, dispute"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hatten einen heftigen Streit um das Geld.",
+        "zh": "他们为钱大吵了一架。"
+      },
+      {
+        "de": "Der Streit zwischen den Nachbarn eskalierte schnell.",
+        "zh": "邻居之间的争吵迅速升级。"
+      }
+    ],
+    "collocations": [
+      "einen Streit haben",
+      "Streit vermeiden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Auseinandersetzung",
+      "Konflikt"
+    ],
+    "antonyms": [
+      "Frieden",
+      "Eintracht"
+    ]
+  },
+  {
+    "word": "Strom",
+    "lemma": "Strom",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Ströme",
+    "meaning": [
+      {
+        "zh": "电流；河流",
+        "en": "electric current; stream"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Strom fiel gestern Abend für zwei Stunden aus.",
+        "zh": "昨晚停电了两个小时。"
+      },
+      {
+        "de": "Der Fluss ist ein breiter Strom.",
+        "zh": "这条河是一条宽阔的河流。"
+      }
+    ],
+    "collocations": [
+      "Strom sparen",
+      "Strom verbrauchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "自然",
+      "B1"
+    ],
+    "synonyms": [
+      "Elektrizität",
+      "Fluss"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Studentenwerk",
+    "lemma": "Studentenwerk",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Studentenwerke",
+    "meaning": [
+      {
+        "zh": "大学生服务中心",
+        "en": "student services organization"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Studentenwerk bietet günstige Mensen und Wohnheime an.",
+        "zh": "大学生服务中心提供廉价食堂和宿舍。"
+      },
+      {
+        "de": "Ich habe mich beim Studentenwerk um einen Studienkredit beworben.",
+        "zh": "我向大学生服务中心申请了助学贷款。"
+      }
+    ],
+    "collocations": [
+      "beim Studentenwerk beantragen",
+      "Studentenwerk kontaktieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Studiengebühr",
+    "lemma": "Studiengebühr",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Studiengebühren",
+    "meaning": [
+      {
+        "zh": "学费",
+        "en": "tuition fee"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In vielen Bundesländern wurden die Studiengebühren abgeschafft.",
+        "zh": "许多联邦州已经取消了学费。"
+      },
+      {
+        "de": "Die Studiengebühren betragen 500 Euro pro Semester.",
+        "zh": "学费每学期500欧元。"
+      }
+    ],
+    "collocations": [
+      "Studiengebühren zahlen",
+      "Studiengebühren erlassen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "Semesterbeitrag"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Studienjahr",
+    "lemma": "Studienjahr",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Studienjahre",
+    "meaning": [
+      {
+        "zh": "学年",
+        "en": "academic year"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Studienjahr beginnt im Oktober.",
+        "zh": "学年从十月开始。"
+      },
+      {
+        "de": "Im dritten Studienjahr absolvieren die Studenten ein Praktikum.",
+        "zh": "在第三学年，学生们进行实习。"
+      }
+    ],
+    "collocations": [
+      "im ersten Studienjahr",
+      "Studienjahr abschließen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "教育",
+      "时间",
+      "A2"
+    ],
+    "synonyms": [
+      "akademisches Jahr"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Studienplan",
+    "lemma": "Studienplan",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Studienpläne",
+    "meaning": [
+      {
+        "zh": "学习计划；课程表",
+        "en": "study plan; curriculum"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Studienplan sieht zwei Pflichtmodule vor.",
+        "zh": "学习计划规定了两门必修模块。"
+      },
+      {
+        "de": "Ich muss meinen Studienplan noch anpassen.",
+        "zh": "我还得调整我的学习计划。"
+      }
+    ],
+    "collocations": [
+      "Studienplan erstellen",
+      "Studienplan ändern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "规划",
+      "B1"
+    ],
+    "synonyms": [
+      "Curriculum",
+      "Stundenplan"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Studio",
+    "lemma": "Studio",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Studios",
+    "meaning": [
+      {
+        "zh": "工作室；录音室；演播室",
+        "en": "studio"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Musikstudio ist mit modernster Technik ausgestattet.",
+        "zh": "这个音乐工作室配备了最先进的技术。"
+      },
+      {
+        "de": "Sie arbeitet in einem kleinen Tanzstudio.",
+        "zh": "她在一个小舞蹈工作室工作。"
+      }
+    ],
+    "collocations": [
+      "im Studio aufnehmen",
+      "Studio mieten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "艺术",
+      "科技",
+      "A2"
+    ],
+    "synonyms": [
+      "Atelier",
+      "Aufnahmeraum"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "stundenlang",
+    "lemma": "stundenlang",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "几个小时地，长时间地",
+        "en": "for hours"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir haben stundenlang auf den Bus gewartet.",
+        "zh": "我们等公交车等了好几个小时。"
+      },
+      {
+        "de": "Sie saß stundenlang am Schreibtisch und lernte.",
+        "zh": "她在书桌前坐了好几个小时学习。"
+      }
+    ],
+    "collocations": [
+      "stundenlang warten",
+      "stundenlang arbeiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "时间",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "langwierig",
+      "stundenweise"
+    ],
+    "antonyms": [
+      "kurz",
+      "minutenlang"
+    ]
+  },
+  {
+    "word": "Suchfunktion",
+    "lemma": "Suchfunktion",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Suchfunktionen",
+    "meaning": [
+      {
+        "zh": "搜索功能",
+        "en": "search function"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Suchfunktion auf dieser Webseite ist sehr benutzerfreundlich.",
+        "zh": "这个网站上的搜索功能非常用户友好。"
+      },
+      {
+        "de": "Mit der erweiterten Suchfunktion findest du schnell die gewünschten Ergebnisse.",
+        "zh": "使用高级搜索功能，你可以快速找到想要的结果。"
+      }
+    ],
+    "collocations": [
+      "eine Suchfunktion nutzen",
+      "die Suchfunktion aktivieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "Suchoption",
+      "Suchwerkzeug"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Südamerikaner",
+    "lemma": "Südamerikaner",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Südamerikaner",
+    "meaning": [
+      {
+        "zh": "南美洲人",
+        "en": "South American"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Viele Südamerikaner sprechen Spanisch oder Portugiesisch.",
+        "zh": "许多南美洲人说西班牙语或葡萄牙语。"
+      },
+      {
+        "de": "Der Südamerikaner reiste nach Europa, um seine Familie zu besuchen.",
+        "zh": "这位南美洲人前往欧洲探亲。"
+      }
+    ],
+    "collocations": [
+      "ein Südamerikaner sein",
+      "Südamerikaner treffen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "地理",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "Europäer",
+      "Asiate"
+    ]
+  },
+  {
+    "word": "Süßigkeiten",
+    "lemma": "Süßigkeit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Süßigkeiten",
+    "meaning": [
+      {
+        "zh": "糖果，甜食",
+        "en": "sweets, candy"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kinder lieben Süßigkeiten, aber zu viel Zucker ist ungesund.",
+        "zh": "孩子们喜欢糖果，但太多糖不健康。"
+      },
+      {
+        "de": "Zum Geburtstag bekam sie eine Tüte voller Süßigkeiten.",
+        "zh": "生日那天，她得到了一袋满满的糖果。"
+      }
+    ],
+    "collocations": [
+      "Süßigkeiten essen",
+      "Süßigkeiten kaufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "饮食",
+      "A2"
+    ],
+    "synonyms": [
+      "Bonbons",
+      "Naschereien"
+    ],
+    "antonyms": [
+      "gesundes Essen"
+    ]
+  },
+  {
+    "word": "symbolisieren",
+    "lemma": "symbolisieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "象征，代表",
+        "en": "symbolize, represent"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Taube symbolisiert den Frieden.",
+        "zh": "鸽子象征和平。"
+      },
+      {
+        "de": "Die Farbe Rot symbolisiert in vielen Kulturen die Liebe.",
+        "zh": "红色在许多文化中象征爱情。"
+      }
+    ],
+    "collocations": [
+      "etwas symbolisiert etwas",
+      "symbolisiert werden durch"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "symbolisiert"
+    },
+    "level": "B2",
+    "tags": [
+      "情感",
+      "文化",
+      "B2"
+    ],
+    "synonyms": [
+      "darstellen",
+      "verkörpern"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Tannenbaum",
+    "lemma": "Tannenbaum",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Tannenbäume",
+    "meaning": [
+      {
+        "zh": "圣诞树，冷杉树",
+        "en": "Christmas tree, fir tree"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir schmücken den Tannenbaum jedes Jahr mit bunten Kugeln.",
+        "zh": "我们每年用彩色球装饰圣诞树。"
+      },
+      {
+        "de": "Im Wald stehen viele hohe Tannenbäume.",
+        "zh": "森林里有许多高大的冷杉树。"
+      }
+    ],
+    "collocations": [
+      "einen Tannenbaum schmücken",
+      "einen Tannenbaum kaufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "节日",
+      "A2"
+    ],
+    "synonyms": [
+      "Weihnachtsbaum",
+      "Nadelbaum"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Taschenbuch",
+    "lemma": "Taschenbuch",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Taschenbücher",
+    "meaning": [
+      {
+        "zh": "平装书，口袋书",
+        "en": "paperback book"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieses Taschenbuch ist günstiger als die gebundene Ausgabe.",
+        "zh": "这本平装书比精装版便宜。"
+      },
+      {
+        "de": "Sie liest gerne Taschenbücher, weil sie leicht zu transportieren sind.",
+        "zh": "她喜欢读平装书，因为它们便于携带。"
+      }
+    ],
+    "collocations": [
+      "ein Taschenbuch lesen",
+      "ein Taschenbuch veröffentlichen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "文化",
+      "B1"
+    ],
+    "synonyms": [
+      "Paperback"
+    ],
+    "antonyms": [
+      "Hardcover",
+      "gebundene Ausgabe"
+    ]
+  },
+  {
+    "word": "Tätigkeit",
+    "lemma": "Tätigkeit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Tätigkeiten",
+    "meaning": [
+      {
+        "zh": "活动，工作，职业",
+        "en": "activity, occupation"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Seine berufliche Tätigkeit als Arzt erfordert viel Verantwortung.",
+        "zh": "他作为医生的职业活动需要很多责任。"
+      },
+      {
+        "de": "Regelmäßige körperliche Tätigkeit ist gut für die Gesundheit.",
+        "zh": "定期的身体活动对健康有益。"
+      }
+    ],
+    "collocations": [
+      "eine Tätigkeit ausüben",
+      "berufliche Tätigkeit"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "Arbeit",
+      "Beschäftigung",
+      "Aktivität"
+    ],
+    "antonyms": [
+      "Untätigkeit",
+      "Ruhe"
+    ]
+  },
+  {
+    "word": "taub",
+    "lemma": "taub",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "聋的，麻木的",
+        "en": "deaf, numb"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der alte Mann ist auf einem Ohr taub.",
+        "zh": "这位老人一只耳朵聋了。"
+      },
+      {
+        "de": "Nach der Kälte waren meine Finger ganz taub.",
+        "zh": "寒冷过后，我的手指完全麻木了。"
+      }
+    ],
+    "collocations": [
+      "taub sein",
+      "taub werden",
+      "sich taub stellen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "健康",
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "hörgeschädigt",
+      "gefühllos"
+    ],
+    "antonyms": [
+      "hörend",
+      "empfindlich"
+    ]
+  },
+  {
+    "word": "Teil",
+    "lemma": "Teil",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Teile",
+    "meaning": [
+      {
+        "zh": "部分",
+        "en": "part"
+      },
+      {
+        "zh": "份额",
+        "en": "share"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ein großer Teil der Bevölkerung ist geimpft.",
+        "zh": "大部分人口已接种疫苗。"
+      },
+      {
+        "de": "Ich habe meinen Teil der Arbeit erledigt.",
+        "zh": "我完成了我的那部分工作。"
+      }
+    ],
+    "collocations": [
+      "zum Teil",
+      "ein Teil von",
+      "den größten Teil",
+      "sich seinen Teil denken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "社会",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "Anteil",
+      "Stück",
+      "Bereich"
+    ],
+    "antonyms": [
+      "Ganzes",
+      "Gesamtheit"
+    ]
+  },
+  {
+    "word": "teilen",
+    "lemma": "teilen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "分享",
+        "en": "share"
+      },
+      {
+        "zh": "分开",
+        "en": "divide"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir teilen uns die Kosten für das Geschenk.",
+        "zh": "我们分摊礼物的费用。"
+      },
+      {
+        "de": "Die Meinungen zu diesem Thema teilen sich.",
+        "zh": "关于这个话题的意见有分歧。"
+      }
+    ],
+    "collocations": [
+      "sich teilen",
+      "teilen mit",
+      "die Meinung teilen",
+      "in zwei Teile teilen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geteilt"
+    },
+    "level": "A2",
+    "tags": [
+      "日常",
+      "社交",
+      "A2"
+    ],
+    "synonyms": [
+      "aufteilen",
+      "verteilen",
+      "mitteilen"
+    ],
+    "antonyms": [
+      "vereinen",
+      "sammeln"
+    ]
+  },
+  {
+    "word": "Teilnehmer",
+    "lemma": "Teilnehmer",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Teilnehmer",
+    "meaning": [
+      {
+        "zh": "参与者",
+        "en": "participant"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Teilnehmer des Kurses kommen aus verschiedenen Ländern.",
+        "zh": "课程的参与者来自不同国家。"
+      },
+      {
+        "de": "Alle Teilnehmer erhalten eine Teilnahmebescheinigung.",
+        "zh": "所有参与者都会获得参与证明。"
+      }
+    ],
+    "collocations": [
+      "Teilnehmer an",
+      "aktiver Teilnehmer",
+      "Teilnehmerzahl",
+      "Teilnehmerliste"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "Mitglied",
+      "Beteiligter",
+      "Anwesender"
+    ],
+    "antonyms": [
+      "Außenstehender",
+      "Zuschauer"
+    ]
+  },
+  {
+    "word": "telefonieren",
+    "lemma": "telefonieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "打电话",
+        "en": "to phone"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich telefoniere jeden Abend mit meiner Familie.",
+        "zh": "我每天晚上和家人通电话。"
+      },
+      {
+        "de": "Kannst du bitte leiser sein? Ich telefoniere gerade.",
+        "zh": "你能小声点吗？我正在打电话。"
+      }
+    ],
+    "collocations": [
+      "mit jemandem telefonieren",
+      "telefonieren über",
+      "stundenlang telefonieren",
+      "telefonieren müssen"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "telefoniert"
+    },
+    "level": "A1",
+    "tags": [
+      "日常",
+      "通信",
+      "A1"
+    ],
+    "synonyms": [
+      "anrufen",
+      "durchklingeln"
+    ],
+    "antonyms": [
+      "schweigen",
+      "auflegen"
+    ]
+  },
+  {
+    "word": "telefonisch",
+    "lemma": "telefonisch",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "电话的",
+        "en": "by phone"
+      },
+      {
+        "zh": "通过电话",
+        "en": "telephone"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bitte bestätigen Sie Ihre Anmeldung telefonisch.",
+        "zh": "请通过电话确认您的报名。"
+      },
+      {
+        "de": "Der telefonische Kontakt ist oft schneller als eine E-Mail.",
+        "zh": "电话联系通常比电子邮件更快。"
+      }
+    ],
+    "collocations": [
+      "telefonische Auskunft",
+      "telefonisch erreichen",
+      "telefonische Bestellung",
+      "telefonisch kontaktieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "日常",
+      "通信",
+      "B1"
+    ],
+    "synonyms": [
+      "per Telefon",
+      "mündlich"
+    ],
+    "antonyms": [
+      "schriftlich",
+      "persönlich"
+    ]
+  },
+  {
+    "word": "Temperatur",
+    "lemma": "Temperatur",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Temperaturen",
+    "meaning": [
+      {
+        "zh": "温度",
+        "en": "temperature"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Temperatur steigt im Sommer oft über 30 Grad.",
+        "zh": "夏天温度经常超过30度。"
+      },
+      {
+        "de": "Bitte überprüfen Sie die Temperatur des Backofens.",
+        "zh": "请检查烤箱的温度。"
+      }
+    ],
+    "collocations": [
+      "hohe Temperatur",
+      "niedrige Temperatur",
+      "Temperatur messen",
+      "Zimmertemperatur"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "自然",
+      "科技",
+      "A2"
+    ],
+    "synonyms": [
+      "Wärme",
+      "Hitze",
+      "Kältegrad"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Thema",
+    "lemma": "Thema",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Themen",
+    "meaning": [
+      {
+        "zh": "主题",
+        "en": "topic"
+      },
+      {
+        "zh": "话题",
+        "en": "subject"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Thema der Diskussion war die Umweltpolitik.",
+        "zh": "讨论的主题是环境政策。"
+      },
+      {
+        "de": "Können wir bitte das Thema wechseln?",
+        "zh": "我们能换个话题吗？"
+      }
+    ],
+    "collocations": [
+      "ein Thema ansprechen",
+      "zum Thema haben",
+      "vom Thema abkommen",
+      "aktuelles Thema"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "日常",
+      "教育",
+      "A2"
+    ],
+    "synonyms": [
+      "Gegenstand",
+      "Themenbereich",
+      "Diskussionspunkt"
+    ],
+    "antonyms": [
+      "Nebensache",
+      "Randthema"
+    ]
+  },
+  {
+    "word": "theoretisch",
+    "lemma": "theoretisch",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "理论的",
+        "en": "theoretical"
+      },
+      {
+        "zh": "理论上",
+        "en": "theoretically"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die theoretische Physik beschäftigt sich mit abstrakten Modellen.",
+        "zh": "理论物理学研究抽象模型。"
+      },
+      {
+        "de": "Theoretisch ist das möglich, aber praktisch schwierig.",
+        "zh": "理论上这是可能的，但实践上很困难。"
+      }
+    ],
+    "collocations": [
+      "theoretische Grundlage",
+      "theoretisch möglich",
+      "theoretisches Wissen",
+      "theoretisch betrachtet"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "学术",
+      "科技",
+      "B2"
+    ],
+    "synonyms": [
+      "abstrakt",
+      "konzeptionell",
+      "gedanklich"
+    ],
+    "antonyms": [
+      "praktisch",
+      "empirisch",
+      "angewandt"
+    ]
+  },
+  {
+    "word": "Theorie",
+    "lemma": "Theorie",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Theorien",
+    "meaning": [
+      {
+        "zh": "理论",
+        "en": "theory"
+      },
+      {
+        "zh": "学说",
+        "en": "doctrine"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Theorie der Relativität wurde von Einstein entwickelt.",
+        "zh": "相对论是由爱因斯坦提出的。"
+      },
+      {
+        "de": "In der Praxis funktioniert die Theorie oft anders.",
+        "zh": "在实践中，理论往往行不通。"
+      }
+    ],
+    "collocations": [
+      "eine Theorie aufstellen",
+      "eine Theorie widerlegen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科学",
+      "学术",
+      "B1"
+    ],
+    "synonyms": [
+      "Lehre",
+      "Modell"
+    ],
+    "antonyms": [
+      "Praxis"
+    ]
+  },
+  {
+    "word": "Tiefland",
+    "lemma": "Tiefland",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Tiefländer",
+    "meaning": [
+      {
+        "zh": "低地",
+        "en": "lowland"
+      },
+      {
+        "zh": "平原",
+        "en": "plain"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Tiefland ist ideal für die Landwirtschaft.",
+        "zh": "低地非常适合农业。"
+      },
+      {
+        "de": "Im Tiefland herrscht ein milderes Klima als im Gebirge.",
+        "zh": "低地的气候比山区温和。"
+      }
+    ],
+    "collocations": [
+      "im Tiefland leben",
+      "das Tiefland bewirtschaften"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "地理",
+      "自然",
+      "B1"
+    ],
+    "synonyms": [
+      "Flachland",
+      "Niederung"
+    ],
+    "antonyms": [
+      "Hochland",
+      "Gebirge"
+    ]
+  },
+  {
+    "word": "Tierart",
+    "lemma": "Tierart",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Tierarten",
+    "meaning": [
+      {
+        "zh": "动物物种",
+        "en": "animal species"
+      },
+      {
+        "zh": "动物种类",
+        "en": "animal type"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Viele Tierarten sind vom Aussterben bedroht.",
+        "zh": "许多动物物种濒临灭绝。"
+      },
+      {
+        "de": "Diese Tierart kommt nur in Australien vor.",
+        "zh": "这种动物只出现在澳大利亚。"
+      }
+    ],
+    "collocations": [
+      "eine Tierart schützen",
+      "eine Tierart erforschen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生物",
+      "自然",
+      "B1"
+    ],
+    "synonyms": [
+      "Spezies",
+      "Gattung"
+    ],
+    "antonyms": [
+      "Pflanzenart"
+    ]
+  }
+]

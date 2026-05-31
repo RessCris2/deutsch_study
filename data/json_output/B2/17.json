@@ -1,0 +1,1591 @@
+[
+  {
+    "word": "Untersuchung",
+    "lemma": "Untersuchung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Untersuchungen",
+    "meaning": [
+      {
+        "zh": "调查，检查，研究",
+        "en": "investigation, examination, study"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die polizeiliche Untersuchung des Unfalls dauert noch an.",
+        "zh": "警方对事故的调查仍在进行中。"
+      },
+      {
+        "de": "Eine medizinische Untersuchung ist notwendig.",
+        "zh": "一次医学检查是必要的。"
+      }
+    ],
+    "collocations": [
+      "eine Untersuchung durchführen",
+      "unter ärztlicher Untersuchung stehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "科学",
+      "B1"
+    ],
+    "synonyms": [
+      "Analyse",
+      "Prüfung",
+      "Forschung"
+    ],
+    "antonyms": [
+      "Vernachlässigung"
+    ]
+  },
+  {
+    "word": "Untergang",
+    "lemma": "Untergang",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Untergänge",
+    "meaning": [
+      {
+        "zh": "沉没，灭亡，衰落",
+        "en": "sinking, downfall, decline"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Untergang der Titanic war eine Tragödie.",
+        "zh": "泰坦尼克号的沉没是一场悲剧。"
+      },
+      {
+        "de": "Der Untergang des Römischen Reiches dauerte Jahrhunderte.",
+        "zh": "罗马帝国的衰落持续了几个世纪。"
+      }
+    ],
+    "collocations": [
+      "der Untergang einer Zivilisation",
+      "dem Untergang geweiht sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "历史",
+      "情感",
+      "B2"
+    ],
+    "synonyms": [
+      "Niedergang",
+      "Zusammenbruch"
+    ],
+    "antonyms": [
+      "Aufstieg",
+      "Erfolg"
+    ]
+  },
+  {
+    "word": "unterzeichnen",
+    "lemma": "unterzeichnen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "签署，签字",
+        "en": "to sign"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Vertrag wurde gestern von beiden Parteien unterzeichnet.",
+        "zh": "该合同昨天由双方签署。"
+      },
+      {
+        "de": "Bitte unterzeichnen Sie hier.",
+        "zh": "请在这里签字。"
+      }
+    ],
+    "collocations": [
+      "einen Vertrag unterzeichnen",
+      "ein Dokument unterzeichnen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "unterzeichnet"
+    },
+    "level": "B1",
+    "tags": [
+      "法律",
+      "商业",
+      "B1"
+    ],
+    "synonyms": [
+      "unterschreiben",
+      "signieren"
+    ],
+    "antonyms": [
+      "ablehnen",
+      "verweigern"
+    ]
+  },
+  {
+    "word": "ursprünglich",
+    "lemma": "ursprünglich",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "原始的，最初的，原先的",
+        "en": "original, initial, formerly"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der ursprüngliche Plan wurde geändert.",
+        "zh": "最初的计划被改变了。"
+      },
+      {
+        "de": "Ursprünglich wollte ich Arzt werden.",
+        "zh": "我原先想成为医生。"
+      }
+    ],
+    "collocations": [
+      "ursprüngliche Absicht",
+      "ursprünglicher Zustand"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语言",
+      "时间",
+      "B1"
+    ],
+    "synonyms": [
+      "anfänglich",
+      "initial"
+    ],
+    "antonyms": [
+      "später",
+      "verändert"
+    ]
+  },
+  {
+    "word": "utopisch",
+    "lemma": "utopisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "乌托邦的，空想的，不切实际的",
+        "en": "utopian, idealistic, unrealistic"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Seine utopischen Vorstellungen sind nicht realisierbar.",
+        "zh": "他的乌托邦想法无法实现。"
+      },
+      {
+        "de": "Ein utopischer Roman beschreibt eine perfekte Gesellschaft.",
+        "zh": "一部乌托邦小说描述了一个完美的社会。"
+      }
+    ],
+    "collocations": [
+      "utopische Idee",
+      "utopische Gesellschaft"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "文学",
+      "哲学",
+      "B2"
+    ],
+    "synonyms": [
+      "idealistisch",
+      "visionär"
+    ],
+    "antonyms": [
+      "realistisch",
+      "pragmatisch"
+    ]
+  },
+  {
+    "word": "Vene",
+    "lemma": "Vene",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Venen",
+    "meaning": [
+      {
+        "zh": "静脉",
+        "en": "vein"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Vene transportiert sauerstoffarmes Blut zum Herzen.",
+        "zh": "静脉将缺氧的血液输送到心脏。"
+      },
+      {
+        "de": "Der Arzt suchte nach einer geeigneten Vene für die Injektion.",
+        "zh": "医生寻找适合注射的静脉。"
+      }
+    ],
+    "collocations": [
+      "eine Vene punktieren",
+      "tiefe Venen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "医学",
+      "生物",
+      "B2"
+    ],
+    "synonyms": [
+      "Blutader"
+    ],
+    "antonyms": [
+      "Arterie"
+    ]
+  },
+  {
+    "word": "veraltet",
+    "lemma": "veraltet",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "过时的，陈旧的",
+        "en": "outdated, obsolete"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Technologie ist längst veraltet.",
+        "zh": "这项技术早已过时。"
+      },
+      {
+        "de": "Das Wort ist veraltet und wird kaum noch verwendet.",
+        "zh": "这个词已经过时，几乎不再使用。"
+      }
+    ],
+    "collocations": [
+      "veraltete Ansichten",
+      "veraltete Ausrüstung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "语言",
+      "B1"
+    ],
+    "synonyms": [
+      "altmodisch",
+      "überholt"
+    ],
+    "antonyms": [
+      "modern",
+      "aktuell"
+    ]
+  },
+  {
+    "word": "verantwortlich",
+    "lemma": "verantwortlich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "负责的，有责任的",
+        "en": "responsible, accountable"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wer ist für diesen Fehler verantwortlich?",
+        "zh": "谁对这个错误负责？"
+      },
+      {
+        "de": "Er ist verantwortlich für die Organisation der Veranstaltung.",
+        "zh": "他负责活动的组织。"
+      }
+    ],
+    "collocations": [
+      "verantwortlich sein für",
+      "sich verantwortlich fühlen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "法律",
+      "B1"
+    ],
+    "synonyms": [
+      "zuständig",
+      "haftbar"
+    ],
+    "antonyms": [
+      "unverantwortlich",
+      "gleichgültig"
+    ]
+  },
+  {
+    "word": "Untergang",
+    "lemma": "Untergang",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Untergänge",
+    "meaning": [
+      {
+        "zh": "沉没；毁灭；没落",
+        "en": "downfall; sinking; decline"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Untergang der Titanic war eine der größten Schiffskatastrophen.",
+        "zh": "泰坦尼克号的沉没是最大的海难之一。"
+      },
+      {
+        "de": "Der Untergang des Römischen Reiches dauerte Jahrhunderte.",
+        "zh": "罗马帝国的衰亡持续了几个世纪。"
+      }
+    ],
+    "collocations": [
+      "der Untergang der Sonne",
+      "der Untergang einer Zivilisation"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "历史",
+      "灾难",
+      "B2"
+    ],
+    "synonyms": [
+      "Niedergang",
+      "Zusammenbruch"
+    ],
+    "antonyms": [
+      "Aufstieg",
+      "Blütezeit"
+    ]
+  },
+  {
+    "word": "Untergang",
+    "lemma": "Untergang",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Untergänge",
+    "meaning": [
+      {
+        "zh": "沉没；毁灭；没落",
+        "en": "downfall; sinking; decline"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Untergang der Titanic war eine der größten Schiffskatastrophen.",
+        "zh": "泰坦尼克号的沉没是最大的海难之一。"
+      },
+      {
+        "de": "Viele Kulturen erlebten ihren Untergang durch innere Konflikte.",
+        "zh": "许多文化因内部冲突而走向没落。"
+      }
+    ],
+    "collocations": [
+      "der Untergang des Römischen Reiches",
+      "den Untergang verhindern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "历史",
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "Niedergang",
+      "Zusammenbruch"
+    ],
+    "antonyms": [
+      "Aufstieg",
+      "Blütezeit"
+    ]
+  },
+  {
+    "word": "Verband",
+    "lemma": "Verband",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Verbände",
+    "meaning": [
+      {
+        "zh": "绷带；协会，联盟",
+        "en": "bandage; association, union"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Arzt legte einen Verband um die Wunde.",
+        "zh": "医生在伤口上缠了绷带。"
+      },
+      {
+        "de": "Der Verband der Automobilindustrie tagt heute.",
+        "zh": "汽车工业协会今天开会。"
+      }
+    ],
+    "collocations": [
+      "einen Verband anlegen",
+      "einem Verband beitreten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "医学",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Binde",
+      "Organisation"
+    ],
+    "antonyms": [
+      "Trennung"
+    ]
+  },
+  {
+    "word": "verbergen",
+    "lemma": "verbergen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "隐藏，隐瞒",
+        "en": "to hide, to conceal"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie konnte ihre Tränen nicht verbergen.",
+        "zh": "她无法隐藏她的眼泪。"
+      },
+      {
+        "de": "Die Wahrheit lässt sich nicht lange verbergen.",
+        "zh": "真相无法长久隐瞒。"
+      }
+    ],
+    "collocations": [
+      "etwas vor jemandem verbergen",
+      "sich hinter etwas verbergen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verborgen"
+    },
+    "level": "B2",
+    "tags": [
+      "情感",
+      "行为",
+      "B2"
+    ],
+    "synonyms": [
+      "verstecken",
+      "verheimlichen"
+    ],
+    "antonyms": [
+      "zeigen",
+      "offenbaren"
+    ]
+  },
+  {
+    "word": "verderben",
+    "lemma": "verderben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "破坏，使变质；堕落",
+        "en": "to spoil, to ruin; to corrupt"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Hitze hat das Essen verdorben.",
+        "zh": "高温使食物变质了。"
+      },
+      {
+        "de": "Schlechte Gesellschaft kann einen Menschen verderben.",
+        "zh": "坏朋友会毁掉一个人。"
+      }
+    ],
+    "collocations": [
+      "jemandem den Spaß verderben",
+      "die Stimmung verderben"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verdorben"
+    },
+    "level": "B2",
+    "tags": [
+      "生活",
+      "情感",
+      "B2"
+    ],
+    "synonyms": [
+      "ruinieren",
+      "verunstalten"
+    ],
+    "antonyms": [
+      "verbessern",
+      "erhalten"
+    ]
+  },
+  {
+    "word": "vereinsamen",
+    "lemma": "vereinsamen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "变得孤独，孤立",
+        "en": "to become lonely, to become isolated"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Nach dem Tod seiner Frau vereinsamte er zunehmend.",
+        "zh": "妻子去世后，他越来越孤独。"
+      },
+      {
+        "de": "Viele alte Menschen vereinsamen in der Großstadt.",
+        "zh": "许多老人在大城市里变得孤独。"
+      }
+    ],
+    "collocations": [
+      "vereinsamen lassen",
+      "zunehmend vereinsamen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "partizip2": "vereinsamt"
+    },
+    "level": "B2",
+    "tags": [
+      "情感",
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "isoliert werden",
+      "einsam werden"
+    ],
+    "antonyms": [
+      "gesellig sein",
+      "sich integrieren"
+    ]
+  },
+  {
+    "word": "Vergangenheit",
+    "lemma": "Vergangenheit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "过去，往事",
+        "en": "past, the past"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Man sollte aus der Vergangenheit lernen.",
+        "zh": "人应该从过去中学习。"
+      },
+      {
+        "de": "Die Vergangenheit lässt sich nicht ändern.",
+        "zh": "过去无法改变。"
+      }
+    ],
+    "collocations": [
+      "in der Vergangenheit",
+      "die Vergangenheit aufarbeiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "时间",
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "frühere Zeit",
+      "Geschichte"
+    ],
+    "antonyms": [
+      "Zukunft",
+      "Gegenwart"
+    ]
+  },
+  {
+    "word": "vergeben",
+    "lemma": "vergeben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "原谅；分配，给予",
+        "en": "to forgive; to assign, to give"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du mir meinen Fehler vergeben?",
+        "zh": "你能原谅我的错误吗？"
+      },
+      {
+        "de": "Die Stelle wurde bereits an einen anderen Bewerber vergeben.",
+        "zh": "这个职位已经给了另一位申请人。"
+      }
+    ],
+    "collocations": [
+      "jemandem etwas vergeben",
+      "einen Auftrag vergeben"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "vergeben"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "entschuldigen",
+      "zuweisen"
+    ],
+    "antonyms": [
+      "bestrafen",
+      "zurückhalten"
+    ]
+  },
+  {
+    "word": "vergesslich",
+    "lemma": "vergesslich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "健忘的",
+        "en": "forgetful"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Alter wird man oft vergesslich.",
+        "zh": "人老了常常变得健忘。"
+      },
+      {
+        "de": "Er ist so vergesslich, dass er ständig seinen Schlüssel verlegt.",
+        "zh": "他太健忘了，总是把钥匙放错地方。"
+      }
+    ],
+    "collocations": [
+      "vergesslich werden",
+      "ein vergesslicher Mensch"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "性格",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "gedächtnisschwach",
+      "zerstreut"
+    ],
+    "antonyms": [
+      "aufmerksam",
+      "erinnerungsstark"
+    ]
+  },
+  {
+    "word": "Verhältnis",
+    "lemma": "Verhältnis",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Verhältnisse",
+    "meaning": [
+      {
+        "zh": "关系，比例；情况",
+        "en": "relationship, proportion; circumstances"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Verhältnis zwischen den beiden Ländern hat sich verbessert.",
+        "zh": "两国之间的关系改善了。"
+      },
+      {
+        "de": "Im Verhältnis zu seinem Gehalt ist die Miete zu hoch.",
+        "zh": "与他的收入相比，房租太高了。"
+      }
+    ],
+    "collocations": [
+      "ein gutes Verhältnis haben",
+      "im Verhältnis zu"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "数学",
+      "B1"
+    ],
+    "synonyms": [
+      "Beziehung",
+      "Proportion"
+    ],
+    "antonyms": [
+      "Missverhältnis",
+      "Disharmonie"
+    ]
+  },
+  {
+    "word": "verhindern",
+    "lemma": "verhindern",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "阻止，防止",
+        "en": "to prevent, to hinder"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Maßnahmen sollen einen Unfall verhindern.",
+        "zh": "这些措施旨在防止事故。"
+      },
+      {
+        "de": "Er konnte nicht verhindern, dass der Fehler passierte.",
+        "zh": "他无法阻止错误的发生。"
+      }
+    ],
+    "collocations": [
+      "einen Unfall verhindern",
+      "das Schlimmste verhindern"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verhindert"
+    },
+    "level": "B1",
+    "tags": [
+      "行为",
+      "B1"
+    ],
+    "synonyms": [
+      "abwenden",
+      "unterbinden"
+    ],
+    "antonyms": [
+      "ermöglichen",
+      "fördern"
+    ]
+  },
+  {
+    "word": "Verkehr",
+    "lemma": "Verkehr",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "交通，往来",
+        "en": "traffic, transportation"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Verkehr in der Stadt ist sehr dicht.",
+        "zh": "城市的交通非常拥挤。"
+      },
+      {
+        "de": "Wegen des starken Verkehrs kam ich zu spät.",
+        "zh": "由于交通繁忙，我迟到了。"
+      }
+    ],
+    "collocations": [
+      "im Verkehr",
+      "öffentlicher Verkehr"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "交通",
+      "A2"
+    ],
+    "synonyms": [
+      "Fahrverkehr",
+      "Straßenverkehr"
+    ],
+    "antonyms": [
+      "Stillstand"
+    ]
+  },
+  {
+    "word": "verknüpfen",
+    "lemma": "verknüpfen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "连接，关联",
+        "en": "to link, to connect"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Man kann die beiden Ideen miteinander verknüpfen.",
+        "zh": "可以将这两个想法相互关联。"
+      },
+      {
+        "de": "Die Daten werden mit einer Datenbank verknüpft.",
+        "zh": "数据与数据库连接。"
+      }
+    ],
+    "collocations": [
+      "miteinander verknüpfen",
+      "mit etwas verknüpfen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verknüpft"
+    },
+    "level": "B1",
+    "tags": [
+      "技术",
+      "B1"
+    ],
+    "synonyms": [
+      "verbinden",
+      "koppeln"
+    ],
+    "antonyms": [
+      "trennen",
+      "lösen"
+    ]
+  },
+  {
+    "word": "verkünden",
+    "lemma": "verkünden",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "宣布，宣告",
+        "en": "to announce, to proclaim"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Präsident verkündete die neuen Gesetze.",
+        "zh": "总统宣布了新法律。"
+      },
+      {
+        "de": "Die Ergebnisse wurden offiziell verkündet.",
+        "zh": "结果被正式宣布。"
+      }
+    ],
+    "collocations": [
+      "eine Entscheidung verkünden",
+      "die Ergebnisse verkünden"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verkündet"
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "bekanntgeben",
+      "proklamieren"
+    ],
+    "antonyms": [
+      "verheimlichen",
+      "verschweigen"
+    ]
+  },
+  {
+    "word": "verlassen",
+    "lemma": "verlassen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "离开，抛弃",
+        "en": "to leave, to abandon"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er verließ das Haus früh am Morgen.",
+        "zh": "他一大早离开了房子。"
+      },
+      {
+        "de": "Sie hat ihren Freund verlassen.",
+        "zh": "她抛弃了她的男朋友。"
+      }
+    ],
+    "collocations": [
+      "das Haus verlassen",
+      "den Ort verlassen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verlassen"
+    },
+    "level": "A2",
+    "tags": [
+      "行为",
+      "A2"
+    ],
+    "synonyms": [
+      "weggehen",
+      "aufgeben"
+    ],
+    "antonyms": [
+      "bleiben",
+      "betreten"
+    ]
+  },
+  {
+    "word": "Verlaufe",
+    "lemma": "Verlauf",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Verläufe",
+    "meaning": [
+      {
+        "zh": "过程，经过",
+        "en": "course, progression"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Verlaufe des Gesprächs wurde alles klar.",
+        "zh": "在谈话过程中，一切都清楚了。"
+      },
+      {
+        "de": "Der Verlauf der Krankheit war unerwartet.",
+        "zh": "疾病的进程出乎意料。"
+      }
+    ],
+    "collocations": [
+      "im Verlaufe von",
+      "der Verlauf der Dinge"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "抽象",
+      "B1"
+    ],
+    "synonyms": [
+      "Ablauf",
+      "Entwicklung"
+    ],
+    "antonyms": [
+      "Stillstand",
+      "Unterbrechung"
+    ]
+  },
+  {
+    "word": "vermarkten",
+    "lemma": "vermarkten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "营销，推销",
+        "en": "to market, to commercialize"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Unternehmen vermarktet seine Produkte weltweit.",
+        "zh": "该公司在全球营销其产品。"
+      },
+      {
+        "de": "Die Idee wurde erfolgreich vermarktet.",
+        "zh": "这个想法被成功推销。"
+      }
+    ],
+    "collocations": [
+      "ein Produkt vermarkten",
+      "erfolgreich vermarkten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "vermarktet"
+    },
+    "level": "B2",
+    "tags": [
+      "经济",
+      "B2"
+    ],
+    "synonyms": [
+      "bewerben",
+      "verkaufen"
+    ],
+    "antonyms": [
+      "ignorieren",
+      "vernachlässigen"
+    ]
+  },
+  {
+    "word": "vernetzen",
+    "lemma": "vernetzen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "联网，连接",
+        "en": "to network, to interconnect"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Computer im Büro sind alle miteinander vernetzt.",
+        "zh": "办公室的电脑都相互联网。"
+      },
+      {
+        "de": "Wir müssen die verschiedenen Abteilungen besser vernetzen.",
+        "zh": "我们必须更好地连接各个部门。"
+      }
+    ],
+    "collocations": [
+      "miteinander vernetzen",
+      "ein Netzwerk vernetzen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "vernetzt"
+    },
+    "level": "B1",
+    "tags": [
+      "技术",
+      "B1"
+    ],
+    "synonyms": [
+      "verbinden",
+      "verknüpfen"
+    ],
+    "antonyms": [
+      "trennen",
+      "isolieren"
+    ]
+  },
+  {
+    "word": "vernichten",
+    "lemma": "vernichten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "消灭，摧毁，毁灭",
+        "en": "to annihilate, to destroy"
+      },
+      {
+        "zh": "（证据、文件）销毁",
+        "en": "to destroy (evidence, documents)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Armee vernichtete die feindlichen Truppen.",
+        "zh": "军队消灭了敌军。"
+      },
+      {
+        "de": "Er vernichtete alle Beweise vor der Polizei.",
+        "zh": "他在警察到来前销毁了所有证据。"
+      }
+    ],
+    "collocations": [
+      "den Feind vernichten",
+      "Beweise vernichten",
+      "Hoffnungen vernichten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "vernichtet"
+    },
+    "level": "B2",
+    "tags": [
+      "军事",
+      "法律",
+      "情感",
+      "B2"
+    ],
+    "synonyms": [
+      "zerstören",
+      "auslöschen",
+      "beseitigen"
+    ],
+    "antonyms": [
+      "erschaffen",
+      "aufbauen",
+      "retten"
+    ]
+  },
+  {
+    "word": "Verrichten",
+    "lemma": "verrichten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "执行，完成（工作、任务）",
+        "en": "to perform, to carry out (work, task)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er verrichtete seine Arbeit gewissenhaft.",
+        "zh": "他认真地完成了他的工作。"
+      },
+      {
+        "de": "Die Maschine verrichtet schwere körperliche Arbeit.",
+        "zh": "这台机器执行繁重的体力劳动。"
+      }
+    ],
+    "collocations": [
+      "Arbeit verrichten",
+      "Dienst verrichten",
+      "Hausarbeit verrichten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verrichtet"
+    },
+    "level": "B1",
+    "tags": [
+      "工作",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "ausführen",
+      "erledigen",
+      "tun"
+    ],
+    "antonyms": [
+      "unterlassen",
+      "vernachlässigen"
+    ]
+  },
+  {
+    "word": "Versenden",
+    "lemma": "versenden",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "发送，寄出（邮件、包裹等）",
+        "en": "to send, to dispatch (mail, packages)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe das Paket gestern versendet.",
+        "zh": "我昨天寄出了包裹。"
+      },
+      {
+        "de": "Die Firma versendet ihre Produkte weltweit.",
+        "zh": "这家公司向全球发送其产品。"
+      }
+    ],
+    "collocations": [
+      "eine E-Mail versenden",
+      "Waren versenden",
+      "per Post versenden"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "versendet"
+    },
+    "level": "B1",
+    "tags": [
+      "通信",
+      "物流",
+      "B1"
+    ],
+    "synonyms": [
+      "schicken",
+      "absenden",
+      "verschicken"
+    ],
+    "antonyms": [
+      "empfangen",
+      "erhalten"
+    ]
+  },
+  {
+    "word": "versinken",
+    "lemma": "versinken",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "沉没，下沉",
+        "en": "to sink, to go under"
+      },
+      {
+        "zh": "陷入（某种状态）",
+        "en": "to sink into (a state)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Schiff versank im Meer.",
+        "zh": "船沉入了大海。"
+      },
+      {
+        "de": "Er versank in tiefe Gedanken.",
+        "zh": "他陷入了深深的沉思。"
+      }
+    ],
+    "collocations": [
+      "im Wasser versinken",
+      "in Gedanken versinken",
+      "in Trauer versinken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "partizip2": "versunken"
+    },
+    "level": "B2",
+    "tags": [
+      "自然",
+      "情感",
+      "B2"
+    ],
+    "synonyms": [
+      "untergehen",
+      "absinken",
+      "eintauchen"
+    ],
+    "antonyms": [
+      "auftauchen",
+      "schwimmen",
+      "erheben"
+    ]
+  },
+  {
+    "word": "Version",
+    "lemma": "Version",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Versionen",
+    "meaning": [
+      {
+        "zh": "版本，变体",
+        "en": "version, variant"
+      },
+      {
+        "zh": "说法，描述",
+        "en": "account, version (of events)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die neueste Version der Software ist verfügbar.",
+        "zh": "最新版本的软件已可用。"
+      },
+      {
+        "de": "Seine Version der Geschichte ist ganz anders.",
+        "zh": "他对这件事的说法完全不同。"
+      }
+    ],
+    "collocations": [
+      "eine neue Version",
+      "die offizielle Version",
+      "Version 2.0"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "语言",
+      "B1"
+    ],
+    "synonyms": [
+      "Ausgabe",
+      "Fassung",
+      "Variante"
+    ],
+    "antonyms": [
+      "Original",
+      "Urfassung"
+    ]
+  },
+  {
+    "word": "verspannt",
+    "lemma": "verspannt",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "紧张的，僵硬的（肌肉、身体）",
+        "en": "tense, strained (muscles, body)"
+      },
+      {
+        "zh": "（关系）紧张的",
+        "en": "tense (relationship)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Nach dem langen Sitzen war mein Nacken völlig verspannt.",
+        "zh": "长时间坐着后，我的脖子完全僵硬了。"
+      },
+      {
+        "de": "Die Atmosphäre im Raum war merkwürdig verspannt.",
+        "zh": "房间里的气氛异常紧张。"
+      }
+    ],
+    "collocations": [
+      "verspannte Muskeln",
+      "sich verspannt fühlen",
+      "eine verspannte Beziehung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "健康",
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "angespannt",
+      "verkrampft",
+      "nervös"
+    ],
+    "antonyms": [
+      "entspannt",
+      "locker",
+      "ruhig"
+    ]
+  }
+]

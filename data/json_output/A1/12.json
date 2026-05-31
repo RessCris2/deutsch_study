@@ -1,0 +1,1440 @@
+[
+  {
+    "word": "Kaufhaus",
+    "lemma": "Kaufhaus",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Kaufhäuser",
+    "meaning": [
+      {
+        "zh": "百货商店",
+        "en": "department store"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Kaufhaus hat heute bis 20 Uhr geöffnet.",
+        "zh": "这家百货商店今天营业到晚上8点。"
+      },
+      {
+        "de": "Im Kaufhaus gibt es viele verschiedene Abteilungen.",
+        "zh": "百货商店里有很多不同的部门。"
+      }
+    ],
+    "collocations": [
+      "im Kaufhaus einkaufen",
+      "ein großes Kaufhaus"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "购物",
+      "地点",
+      "A2"
+    ],
+    "synonyms": [
+      "Warenhaus"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Kaufmann",
+    "lemma": "Kaufmann",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Kaufleute",
+    "meaning": [
+      {
+        "zh": "商人",
+        "en": "merchant, businessman"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Kaufmann führt ein erfolgreiches Geschäft.",
+        "zh": "这位商人经营着一家成功的店铺。"
+      },
+      {
+        "de": "Als Kaufmann muss man viel über den Markt wissen.",
+        "zh": "作为商人，必须对市场了解很多。"
+      }
+    ],
+    "collocations": [
+      "als Kaufmann arbeiten",
+      "ein erfahrener Kaufmann"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "职业",
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "Händler",
+      "Geschäftsmann"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "kein",
+    "lemma": "kein",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "没有，无",
+        "en": "no, not a"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe kein Geld dabei.",
+        "zh": "我身上没有钱。"
+      },
+      {
+        "de": "Er hat keine Zeit für Hobbys.",
+        "zh": "他没有时间做爱好。"
+      }
+    ],
+    "collocations": [
+      "kein Problem",
+      "keine Ahnung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "否定",
+      "语法",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "ein",
+      "irgendein"
+    ]
+  },
+  {
+    "word": "Kellner",
+    "lemma": "Kellner",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Kellner",
+    "meaning": [
+      {
+        "zh": "服务员",
+        "en": "waiter"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Kellner bringt die Speisekarte.",
+        "zh": "服务员拿来菜单。"
+      },
+      {
+        "de": "Kann ich bitte den Kellner rufen?",
+        "zh": "我可以叫服务员吗？"
+      }
+    ],
+    "collocations": [
+      "den Kellner rufen",
+      "beim Kellner bestellen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "职业",
+      "餐饮",
+      "A2"
+    ],
+    "synonyms": [
+      "Ober",
+      "Servierer"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "kennen",
+    "lemma": "kennen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "认识，知道",
+        "en": "to know (a person or thing)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kennst du den neuen Kollegen?",
+        "zh": "你认识新同事吗？"
+      },
+      {
+        "de": "Ich kenne dieses Restaurant schon lange.",
+        "zh": "我早就知道这家餐厅了。"
+      }
+    ],
+    "collocations": [
+      "jemanden kennen",
+      "sich gut kennen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gekannt"
+    },
+    "level": "A2",
+    "tags": [
+      "认知",
+      "社交",
+      "A2"
+    ],
+    "synonyms": [
+      "wissen",
+      "bekannt sein mit"
+    ],
+    "antonyms": [
+      "vergessen",
+      "nicht kennen"
+    ]
+  },
+  {
+    "word": "Kennenlernen",
+    "lemma": "Kennenlernen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "认识，相识",
+        "en": "getting to know (someone or something)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Kennenlernen der neuen Kollegen war sehr angenehm.",
+        "zh": "认识新同事非常愉快。"
+      },
+      {
+        "de": "Beim ersten Kennenlernen war er sehr schüchtern.",
+        "zh": "第一次见面时他很害羞。"
+      }
+    ],
+    "collocations": [
+      "beim Kennenlernen",
+      "zum Kennenlernen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社交",
+      "过程",
+      "B1"
+    ],
+    "synonyms": [
+      "Bekanntschaft"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Ketchup",
+    "lemma": "Ketchup",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Ketchups",
+    "meaning": [
+      {
+        "zh": "番茄酱",
+        "en": "ketchup"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Magst du Ketchup zu Pommes?",
+        "zh": "你喜欢薯条配番茄酱吗？"
+      },
+      {
+        "de": "Er hat zu viel Ketchup auf den Teller gegeben.",
+        "zh": "他在盘子里放了太多番茄酱。"
+      }
+    ],
+    "collocations": [
+      "Ketchup auf die Pommes machen",
+      "eine Flasche Ketchup"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "食物",
+      "调味品",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Kind",
+    "lemma": "Kind",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Kinder",
+    "meaning": [
+      {
+        "zh": "孩子",
+        "en": "child"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Kind spielt im Garten.",
+        "zh": "孩子在花园里玩。"
+      },
+      {
+        "de": "Sie hat zwei Kinder.",
+        "zh": "她有两个孩子。"
+      }
+    ],
+    "collocations": [
+      "ein Kind bekommen",
+      "mit Kindern spielen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "家庭",
+      "人",
+      "A1"
+    ],
+    "synonyms": [
+      "Sohn",
+      "Tochter"
+    ],
+    "antonyms": [
+      "Erwachsener"
+    ]
+  },
+  {
+    "word": "Kino",
+    "lemma": "Kino",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Kinos",
+    "meaning": [
+      {
+        "zh": "电影院",
+        "en": "cinema"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir gehen heute Abend ins Kino.",
+        "zh": "我们今晚去电影院。"
+      },
+      {
+        "de": "Das neue Kino hat zehn Säle.",
+        "zh": "这家新电影院有十个厅。"
+      }
+    ],
+    "collocations": [
+      "ins Kino gehen",
+      "im Kino laufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "娱乐",
+      "A1"
+    ],
+    "synonyms": [
+      "Filmtheater"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Kirche",
+    "lemma": "Kirche",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Kirchen",
+    "meaning": [
+      {
+        "zh": "教堂",
+        "en": "church"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kirche ist sehr alt.",
+        "zh": "这座教堂很古老。"
+      },
+      {
+        "de": "Am Sonntag gehen viele Leute in die Kirche.",
+        "zh": "星期天很多人去教堂。"
+      }
+    ],
+    "collocations": [
+      "in die Kirche gehen",
+      "die Kirche besuchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "宗教",
+      "A2"
+    ],
+    "synonyms": [
+      "Gotteshaus"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "lasse",
+    "lemma": "lassen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "让；留下；放弃",
+        "en": "let; leave; stop"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Lass mich in Ruhe!",
+        "zh": "让我安静一下！"
+      },
+      {
+        "de": "Ich lasse das Buch auf dem Tisch.",
+        "zh": "我把书留在桌子上。"
+      }
+    ],
+    "collocations": [
+      "etwas sein lassen",
+      "jemanden in Ruhe lassen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gelassen"
+    },
+    "level": "A2",
+    "tags": [
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "erlauben",
+      "verlassen"
+    ],
+    "antonyms": [
+      "nehmen",
+      "behalten"
+    ]
+  },
+  {
+    "word": "Kleidung",
+    "lemma": "Kleidung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "衣服，服装",
+        "en": "clothing"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie kauft neue Kleidung.",
+        "zh": "她买新衣服。"
+      },
+      {
+        "de": "Warme Kleidung ist im Winter wichtig.",
+        "zh": "冬天保暖的衣服很重要。"
+      }
+    ],
+    "collocations": [
+      "Kleidung tragen",
+      "Kleidung kaufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "A1"
+    ],
+    "synonyms": [
+      "Bekleidung",
+      "Mode"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Klößchen",
+    "lemma": "Klößchen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Klößchen",
+    "meaning": [
+      {
+        "zh": "小丸子；小团子（常指食物）",
+        "en": "small dumpling; small ball (often food)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Klößchen in der Suppe schmecken gut.",
+        "zh": "汤里的小丸子味道很好。"
+      },
+      {
+        "de": "Sie formt Klößchen aus dem Teig.",
+        "zh": "她用面团捏成小团子。"
+      }
+    ],
+    "collocations": [
+      "Klößchen machen",
+      "Klößchen essen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "食物",
+      "B1"
+    ],
+    "synonyms": [
+      "Knödel",
+      "Bällchen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "ochen",
+    "lemma": "ochen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "（非标准词，可能为拼写错误，常见于方言或口语）",
+        "en": "(non-standard word, possibly a misspelling, used in dialect or colloquial speech)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ocht nicht.",
+        "zh": "这不行。"
+      },
+      {
+        "de": "Er ocht sich nicht.",
+        "zh": "他不关心。"
+      }
+    ],
+    "collocations": [],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geocht"
+    },
+    "level": "C1",
+    "tags": [
+      "方言",
+      "C1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Koffer",
+    "lemma": "Koffer",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Koffer",
+    "meaning": [
+      {
+        "zh": "行李箱",
+        "en": "suitcase"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich packe meinen Koffer.",
+        "zh": "我在收拾行李箱。"
+      },
+      {
+        "de": "Der Koffer ist sehr schwer.",
+        "zh": "这个行李箱很重。"
+      }
+    ],
+    "collocations": [
+      "Koffer packen",
+      "den Koffer tragen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "旅行",
+      "A1"
+    ],
+    "synonyms": [
+      "Gepäckstück",
+      "Tasche"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "ommen",
+    "lemma": "ommen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "（非标准词，可能为拼写错误或方言变体，类似'kommen'）",
+        "en": "(non-standard word, possibly a misspelling or dialect variant, similar to 'kommen')"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kommst du mit?",
+        "zh": "你来吗？"
+      },
+      {
+        "de": "Er ommt später.",
+        "zh": "他晚点到。"
+      }
+    ],
+    "collocations": [],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "partizip2": "geommen"
+    },
+    "level": "C1",
+    "tags": [
+      "方言",
+      "C1"
+    ],
+    "synonyms": [
+      "kommen"
+    ],
+    "antonyms": [
+      "gehen"
+    ]
+  },
+  {
+    "word": "ompliziert",
+    "lemma": "ompliziert",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "复杂的",
+        "en": "complicated"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Aufgabe ist sehr ompliziert.",
+        "zh": "这个任务非常复杂。"
+      },
+      {
+        "de": "Er erklärte die omplizierte Situation.",
+        "zh": "他解释了复杂的情况。"
+      }
+    ],
+    "collocations": [
+      "omplizierte Frage",
+      "ompliziertes Problem"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语言/抽象",
+      "B1"
+    ],
+    "synonyms": [
+      "schwierig",
+      "komplex"
+    ],
+    "antonyms": [
+      "einfach",
+      "leicht"
+    ]
+  },
+  {
+    "word": "Kopf",
+    "lemma": "Kopf",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Köpfe",
+    "meaning": [
+      {
+        "zh": "头",
+        "en": "head"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat einen großen Kopf.",
+        "zh": "他有一个大脑袋。"
+      },
+      {
+        "de": "Sie schüttelte den Kopf.",
+        "zh": "她摇了摇头。"
+      }
+    ],
+    "collocations": [
+      "Kopfschmerzen haben",
+      "den Kopf heben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "身体",
+      "A1"
+    ],
+    "synonyms": [
+      "Haupt",
+      "Schädel"
+    ],
+    "antonyms": [
+      "Fuß"
+    ]
+  },
+  {
+    "word": "Körper",
+    "lemma": "Körper",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Körper",
+    "meaning": [
+      {
+        "zh": "身体",
+        "en": "body"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der menschliche Körper besteht aus vielen Zellen.",
+        "zh": "人体由许多细胞组成。"
+      },
+      {
+        "de": "Sie trainiert ihren Körper jeden Tag.",
+        "zh": "她每天锻炼身体。"
+      }
+    ],
+    "collocations": [
+      "Körperpflege",
+      "Körpertemperatur"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "身体",
+      "A2"
+    ],
+    "synonyms": [
+      "Leib",
+      "Organismus"
+    ],
+    "antonyms": [
+      "Geist"
+    ]
+  },
+  {
+    "word": "rank",
+    "lemma": "rank",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "苗条的",
+        "en": "slender"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie ist rank und schlank.",
+        "zh": "她身材苗条。"
+      },
+      {
+        "de": "Der ranke Baum steht im Garten.",
+        "zh": "那棵细长的树在花园里。"
+      }
+    ],
+    "collocations": [
+      "ranke Gestalt",
+      "ranke Figur"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "身体/描述",
+      "B1"
+    ],
+    "synonyms": [
+      "schlank",
+      "zierlich"
+    ],
+    "antonyms": [
+      "dick",
+      "fett"
+    ]
+  },
+  {
+    "word": "Krankenhaus",
+    "lemma": "Krankenhaus",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Krankenhäuser",
+    "meaning": [
+      {
+        "zh": "医院",
+        "en": "hospital"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er wurde ins Krankenhaus eingeliefert.",
+        "zh": "他被送进了医院。"
+      },
+      {
+        "de": "Das Krankenhaus hat eine neue Abteilung.",
+        "zh": "这家医院有一个新科室。"
+      }
+    ],
+    "collocations": [
+      "ins Krankenhaus gehen",
+      "Krankenhausaufenthalt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "健康/场所",
+      "A2"
+    ],
+    "synonyms": [
+      "Klinik",
+      "Spital"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Krankheit",
+    "lemma": "Krankheit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Krankheiten",
+    "meaning": [
+      {
+        "zh": "疾病",
+        "en": "illness"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Krankheit breitet sich schnell aus.",
+        "zh": "这种疾病传播很快。"
+      },
+      {
+        "de": "Er leidet an einer schweren Krankheit.",
+        "zh": "他患有一种严重的疾病。"
+      }
+    ],
+    "collocations": [
+      "eine Krankheit haben",
+      "Krankheit behandeln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "健康",
+      "A2"
+    ],
+    "synonyms": [
+      "Erkrankung",
+      "Leiden"
+    ],
+    "antonyms": [
+      "Gesundheit"
+    ]
+  },
+  {
+    "word": "Kreidefelsen",
+    "lemma": "Kreidefelsen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Kreidefelsen",
+    "meaning": [
+      {
+        "zh": "白垩岩",
+        "en": "chalk cliff"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kreidefelsen auf Rügen sind berühmt.",
+        "zh": "吕根岛的白垩岩很著名。"
+      },
+      {
+        "de": "Wir wanderten entlang der Kreidefelsen.",
+        "zh": "我们沿着白垩岩徒步。"
+      }
+    ],
+    "collocations": [
+      "weiße Kreidefelsen",
+      "Kreidefelsen an der Küste"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "地理/自然",
+      "B1"
+    ],
+    "synonyms": [
+      "Kalkfelsen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Kreuzung",
+    "lemma": "Kreuzung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Kreuzungen",
+    "meaning": [
+      {
+        "zh": "十字路口",
+        "en": "crossroads"
+      }
+    ],
+    "examples": [
+      {
+        "de": "An der Kreuzung musst du links abbiegen.",
+        "zh": "在十字路口你必须左转。"
+      },
+      {
+        "de": "Die Kreuzung ist stark befahren.",
+        "zh": "这个十字路口交通繁忙。"
+      }
+    ],
+    "collocations": [
+      "an der Kreuzung stehen",
+      "Kreuzung überqueren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "交通",
+      "A2"
+    ],
+    "synonyms": [
+      "Kreuzungspunkt",
+      "Einmündung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Küche",
+    "lemma": "Küche",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Küchen",
+    "meaning": [
+      {
+        "zh": "厨房",
+        "en": "kitchen"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich koche in der Küche.",
+        "zh": "我在厨房做饭。"
+      },
+      {
+        "de": "Die Küche ist sehr modern eingerichtet.",
+        "zh": "厨房装修得很现代化。"
+      }
+    ],
+    "collocations": [
+      "in der Küche arbeiten",
+      "die Küche putzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Kuchen",
+    "lemma": "Kuchen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Kuchen",
+    "meaning": [
+      {
+        "zh": "蛋糕",
+        "en": "cake"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Kuchen schmeckt sehr gut.",
+        "zh": "这个蛋糕很好吃。"
+      },
+      {
+        "de": "Sie backt einen Kuchen zum Geburtstag.",
+        "zh": "她为生日烤了一个蛋糕。"
+      }
+    ],
+    "collocations": [
+      "einen Kuchen backen",
+      "ein Stück Kuchen essen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Kühlschrank",
+    "lemma": "Kühlschrank",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Kühlschränke",
+    "meaning": [
+      {
+        "zh": "冰箱",
+        "en": "refrigerator"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Stell die Milch in den Kühlschrank.",
+        "zh": "把牛奶放进冰箱。"
+      },
+      {
+        "de": "Der Kühlschrank ist fast leer.",
+        "zh": "冰箱几乎空了。"
+      }
+    ],
+    "collocations": [
+      "den Kühlschrank öffnen",
+      "im Kühlschrank aufbewahren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ümmern",
+    "lemma": "ümmern",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "关心，照顾",
+        "en": "to care for, to look after"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie kümmert sich um ihre kranke Mutter.",
+        "zh": "她照顾她生病的母亲。"
+      },
+      {
+        "de": "Er kümmert sich um die Organisation der Party.",
+        "zh": "他负责派对的组织工作。"
+      }
+    ],
+    "collocations": [
+      "sich um jemanden kümmern",
+      "sich um etwas kümmern"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gekümmert"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "sorgen",
+      "betreuen"
+    ],
+    "antonyms": [
+      "vernachlässigen"
+    ]
+  },
+  {
+    "word": "Kunst",
+    "lemma": "Kunst",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Künste",
+    "meaning": [
+      {
+        "zh": "艺术",
+        "en": "art"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie studiert Kunst an der Universität.",
+        "zh": "她在大学学习艺术。"
+      },
+      {
+        "de": "Diese Ausstellung zeigt moderne Kunst.",
+        "zh": "这个展览展示现代艺术。"
+      }
+    ],
+    "collocations": [
+      "moderne Kunst",
+      "ein Kunstwerk betrachten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "文化",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Kurs",
+    "lemma": "Kurs",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Kurse",
+    "meaning": [
+      {
+        "zh": "课程；汇率",
+        "en": "course; exchange rate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich besuche einen Deutschkurs.",
+        "zh": "我参加一个德语课程。"
+      },
+      {
+        "de": "Der Kurs des Euro ist gestiegen.",
+        "zh": "欧元汇率上升了。"
+      }
+    ],
+    "collocations": [
+      "einen Kurs belegen",
+      "der Wechselkurs"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "教育",
+      "经济",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Lage",
+    "lemma": "Lage",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Lagen",
+    "meaning": [
+      {
+        "zh": "位置；情况",
+        "en": "location; situation"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Lage des Hotels ist sehr zentral.",
+        "zh": "酒店的位置非常中心。"
+      },
+      {
+        "de": "In dieser Lage müssen wir schnell handeln.",
+        "zh": "在这种情况下我们必须迅速行动。"
+      }
+    ],
+    "collocations": [
+      "in einer schwierigen Lage sein",
+      "die geografische Lage"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "地理",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Position",
+      "Situation"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Lampe",
+    "lemma": "Lampe",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Lampen",
+    "meaning": [
+      {
+        "zh": "灯",
+        "en": "lamp"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mach bitte die Lampe an.",
+        "zh": "请把灯打开。"
+      },
+      {
+        "de": "Die Lampe hängt an der Decke.",
+        "zh": "灯挂在天花板上。"
+      }
+    ],
+    "collocations": [
+      "eine Lampe einschalten",
+      "die Lampe ausschalten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  }
+]

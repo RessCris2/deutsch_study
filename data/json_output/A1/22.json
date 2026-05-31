@@ -1,0 +1,1376 @@
+[
+  {
+    "word": "Übergabe",
+    "lemma": "Übergabe",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Übergaben",
+    "meaning": [
+      {
+        "zh": "移交，交接",
+        "en": "handover, transfer"
+      },
+      {
+        "zh": "交付（物品或职责）",
+        "en": "delivery (of items or responsibilities)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Übergabe des Projekts an den neuen Manager erfolgte reibungslos.",
+        "zh": "项目移交给新经理进行得很顺利。"
+      },
+      {
+        "de": "Bei der Übergabe der Schlüssel unterschrieb der Mieter den Vertrag.",
+        "zh": "在交付钥匙时，租户签署了合同。"
+      }
+    ],
+    "collocations": [
+      "Übergabe der Verantwortung",
+      "Übergabe von Dokumenten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "Abgabe",
+      "Überlassung"
+    ],
+    "antonyms": [
+      "Übernahme"
+    ]
+  },
+  {
+    "word": "Übung",
+    "lemma": "Übung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Übungen",
+    "meaning": [
+      {
+        "zh": "练习，训练",
+        "en": "exercise, practice"
+      },
+      {
+        "zh": "演习（如消防演习）",
+        "en": "drill (e.g., fire drill)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Übung im Sprachkurs war sehr hilfreich.",
+        "zh": "语言课上的练习非常有帮助。"
+      },
+      {
+        "de": "Regelmäßige Übung verbessert die Fähigkeiten.",
+        "zh": "定期练习能提高技能。"
+      }
+    ],
+    "collocations": [
+      "Übung machen",
+      "eine Übung durchführen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "教育",
+      "学习",
+      "A2"
+    ],
+    "synonyms": [
+      "Training",
+      "Praxis"
+    ],
+    "antonyms": [
+      "Theorie"
+    ]
+  },
+  {
+    "word": "Ufer",
+    "lemma": "Ufer",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Ufer",
+    "meaning": [
+      {
+        "zh": "河岸，湖岸，海岸",
+        "en": "bank, shore, coast"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir gingen am Ufer des Sees spazieren.",
+        "zh": "我们在湖边散步。"
+      },
+      {
+        "de": "Das Boot legte am Ufer an.",
+        "zh": "船靠岸了。"
+      }
+    ],
+    "collocations": [
+      "am Ufer",
+      "das Ufer erreichen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "自然",
+      "地理",
+      "A2"
+    ],
+    "synonyms": [
+      "Küste",
+      "Strand"
+    ],
+    "antonyms": [
+      "Meer"
+    ]
+  },
+  {
+    "word": "Uhr",
+    "lemma": "Uhr",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Uhren",
+    "meaning": [
+      {
+        "zh": "钟，表",
+        "en": "clock, watch"
+      },
+      {
+        "zh": "小时（时间表达）",
+        "en": "o'clock (in time expressions)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Uhr zeigt zehn Uhr an.",
+        "zh": "钟显示十点。"
+      },
+      {
+        "de": "Ich habe eine neue Uhr gekauft.",
+        "zh": "我买了一块新手表。"
+      }
+    ],
+    "collocations": [
+      "auf die Uhr schauen",
+      "die Uhr stellen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "时间",
+      "A1"
+    ],
+    "synonyms": [
+      "Zeitmesser",
+      "Armbanduhr"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "umsteigen",
+    "lemma": "umsteigen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "换乘（交通工具）",
+        "en": "to change (trains, buses, etc.)"
+      },
+      {
+        "zh": "转行，改变（职业或系统）",
+        "en": "to switch (career or system)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie müssen in Frankfurt umsteigen.",
+        "zh": "您必须在法兰克福换乘。"
+      },
+      {
+        "de": "Er ist von der Softwareentwicklung auf das Marketing umgestiegen.",
+        "zh": "他从软件开发转行到了市场营销。"
+      }
+    ],
+    "collocations": [
+      "umsteigen in",
+      "umsteigen auf"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "umgestiegen"
+    },
+    "level": "A2",
+    "tags": [
+      "交通",
+      "职业",
+      "A2"
+    ],
+    "synonyms": [
+      "wechseln",
+      "übergehen"
+    ],
+    "antonyms": [
+      "bleiben"
+    ]
+  },
+  {
+    "word": "umziehen",
+    "lemma": "umziehen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "搬家",
+        "en": "to move (house)"
+      },
+      {
+        "zh": "换衣服",
+        "en": "to change clothes"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir ziehen nächste Woche um.",
+        "zh": "我们下周搬家。"
+      },
+      {
+        "de": "Sie zog sich schnell um, bevor sie ausging.",
+        "zh": "她出门前迅速换了衣服。"
+      }
+    ],
+    "collocations": [
+      "umziehen in",
+      "sich umziehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "umgezogen"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "übersiedeln",
+      "wechseln"
+    ],
+    "antonyms": [
+      "bleiben"
+    ]
+  },
+  {
+    "word": "Umzug",
+    "lemma": "Umzug",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Umzüge",
+    "meaning": [
+      {
+        "zh": "搬家",
+        "en": "move, relocation"
+      },
+      {
+        "zh": "游行，队列",
+        "en": "procession, parade"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Umzug in die neue Wohnung war anstrengend.",
+        "zh": "搬到新公寓很累人。"
+      },
+      {
+        "de": "Am Karneval gab es einen großen Umzug durch die Stadt.",
+        "zh": "狂欢节期间，城里举行了一场大型游行。"
+      }
+    ],
+    "collocations": [
+      "einen Umzug organisieren",
+      "beim Umzug helfen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Übersiedlung",
+      "Prozession"
+    ],
+    "antonyms": [
+      "Bleiben"
+    ]
+  },
+  {
+    "word": "unbedingt",
+    "lemma": "unbedingt",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "绝对地，务必",
+        "en": "absolutely, definitely, by all means"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Du musst unbedingt dieses Buch lesen.",
+        "zh": "你一定要读这本书。"
+      },
+      {
+        "de": "Ich möchte unbedingt nach Deutschland reisen.",
+        "zh": "我绝对想去德国旅行。"
+      }
+    ],
+    "collocations": [
+      "unbedingt wollen",
+      "unbedingt müssen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "强调",
+      "A2"
+    ],
+    "synonyms": [
+      "absolut",
+      "auf jeden Fall"
+    ],
+    "antonyms": [
+      "keineswegs",
+      "nicht unbedingt"
+    ]
+  },
+  {
+    "word": "Universität",
+    "lemma": "Universität",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Universitäten",
+    "meaning": [
+      {
+        "zh": "大学",
+        "en": "university"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie studiert an der Universität München.",
+        "zh": "她在慕尼黑大学学习。"
+      },
+      {
+        "de": "Die Universität bietet viele Studiengänge an.",
+        "zh": "这所大学提供许多专业。"
+      }
+    ],
+    "collocations": [
+      "an der Universität studieren",
+      "Universität besuchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "教育",
+      "A2"
+    ],
+    "synonyms": [
+      "Hochschule"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "unterhalten",
+    "lemma": "unterhalten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "交谈；娱乐；维持",
+        "en": "to converse; to entertain; to maintain"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir haben uns lange unterhalten.",
+        "zh": "我们聊了很久。"
+      },
+      {
+        "de": "Er unterhält die Gäste mit lustigen Geschichten.",
+        "zh": "他用有趣的故事招待客人。"
+      }
+    ],
+    "collocations": [
+      "sich mit jemandem unterhalten",
+      "eine Familie unterhalten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "unterhalten"
+    },
+    "level": "B1",
+    "tags": [
+      "社交",
+      "B1"
+    ],
+    "synonyms": [
+      "reden",
+      "sprechen",
+      "amüsieren"
+    ],
+    "antonyms": [
+      "schweigen"
+    ]
+  },
+  {
+    "word": "Unterricht",
+    "lemma": "Unterricht",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "课；教学",
+        "en": "lesson; teaching"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Unterricht beginnt um acht Uhr.",
+        "zh": "课在八点开始。"
+      },
+      {
+        "de": "Sie nimmt am Deutschunterricht teil.",
+        "zh": "她参加德语课。"
+      }
+    ],
+    "collocations": [
+      "Unterricht haben",
+      "im Unterricht sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "教育",
+      "A2"
+    ],
+    "synonyms": [
+      "Stunde",
+      "Kurs"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "unterschiedlich",
+    "lemma": "unterschiedlich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "不同的；有差异的",
+        "en": "different; varying"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Meinungen sind sehr unterschiedlich.",
+        "zh": "意见非常不同。"
+      },
+      {
+        "de": "Sie haben unterschiedliche Interessen.",
+        "zh": "他们有不同兴趣。"
+      }
+    ],
+    "collocations": [
+      "unterschiedliche Meinungen",
+      "unterschiedlich groß"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "描述",
+      "B1"
+    ],
+    "synonyms": [
+      "verschieden",
+      "divers"
+    ],
+    "antonyms": [
+      "gleich",
+      "identisch"
+    ]
+  },
+  {
+    "word": "untersuchen",
+    "lemma": "untersuchen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "检查；调查；研究",
+        "en": "to examine; to investigate; to research"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Arzt untersucht den Patienten.",
+        "zh": "医生检查病人。"
+      },
+      {
+        "de": "Die Polizei untersucht den Unfall.",
+        "zh": "警方调查事故。"
+      }
+    ],
+    "collocations": [
+      "etwas genau untersuchen",
+      "einen Fall untersuchen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "untersucht"
+    },
+    "level": "B1",
+    "tags": [
+      "科学",
+      "B1"
+    ],
+    "synonyms": [
+      "prüfen",
+      "analysieren"
+    ],
+    "antonyms": [
+      "ignorieren"
+    ]
+  },
+  {
+    "word": "unterwegs",
+    "lemma": "unterwegs",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "在路上；途中",
+        "en": "on the way; en route"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich bin schon unterwegs.",
+        "zh": "我已经在路上了。"
+      },
+      {
+        "de": "Wir haben unterwegs eine Pause gemacht.",
+        "zh": "我们在途中休息了一下。"
+      }
+    ],
+    "collocations": [
+      "unterwegs sein",
+      "viel unterwegs"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "旅行",
+      "A2"
+    ],
+    "synonyms": [
+      "auf dem Weg"
+    ],
+    "antonyms": [
+      "zu Hause"
+    ]
+  },
+  {
+    "word": "Urlaub",
+    "lemma": "Urlaub",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Urlaube",
+    "meaning": [
+      {
+        "zh": "假期；休假",
+        "en": "vacation; holiday"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir fahren im Sommer in den Urlaub.",
+        "zh": "我们夏天去度假。"
+      },
+      {
+        "de": "Er hat drei Wochen Urlaub.",
+        "zh": "他有三个星期的假期。"
+      }
+    ],
+    "collocations": [
+      "Urlaub machen",
+      "im Urlaub sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "旅行",
+      "A1"
+    ],
+    "synonyms": [
+      "Ferien"
+    ],
+    "antonyms": [
+      "Arbeit"
+    ]
+  },
+  {
+    "word": "Vase",
+    "lemma": "Vase",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Vasen",
+    "meaning": [
+      {
+        "zh": "花瓶",
+        "en": "vase"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Vase steht auf dem Tisch.",
+        "zh": "花瓶在桌子上。"
+      },
+      {
+        "de": "Sie hat Blumen in die Vase gestellt.",
+        "zh": "她把花插进花瓶里。"
+      }
+    ],
+    "collocations": [
+      "eine Vase kaufen",
+      "Blumen in die Vase stellen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "家居",
+      "A2"
+    ],
+    "synonyms": [
+      "Gefäß"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Vater",
+    "lemma": "Vater",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Väter",
+    "meaning": [
+      {
+        "zh": "父亲",
+        "en": "father"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mein Vater arbeitet als Ingenieur.",
+        "zh": "我的父亲是一名工程师。"
+      },
+      {
+        "de": "Der Vater bringt seine Kinder zur Schule.",
+        "zh": "父亲送他的孩子们去学校。"
+      }
+    ],
+    "collocations": [
+      "Vater und Mutter",
+      "wie der Vater, so der Sohn"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "家庭",
+      "A1"
+    ],
+    "synonyms": [
+      "Papa",
+      "Erzeuger"
+    ],
+    "antonyms": [
+      "Mutter"
+    ]
+  },
+  {
+    "word": "Verabredung",
+    "lemma": "Verabredung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Verabredungen",
+    "meaning": [
+      {
+        "zh": "约会；约定",
+        "en": "appointment; arrangement"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe eine Verabredung mit meinem Freund.",
+        "zh": "我和我的朋友有个约会。"
+      },
+      {
+        "de": "Die Verabredung wurde auf morgen verschoben.",
+        "zh": "约定被推迟到明天。"
+      }
+    ],
+    "collocations": [
+      "eine Verabredung treffen",
+      "zur Verabredung kommen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "社交",
+      "A2"
+    ],
+    "synonyms": [
+      "Treffen",
+      "Termin"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "verabschieden",
+    "lemma": "verabschieden",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "告别；送别",
+        "en": "to say goodbye; to see off"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir verabschieden uns von unseren Gästen.",
+        "zh": "我们向客人告别。"
+      },
+      {
+        "de": "Er verabschiedete sich mit einem Lächeln.",
+        "zh": "他微笑着告别。"
+      }
+    ],
+    "collocations": [
+      "sich von jemandem verabschieden",
+      "jemanden verabschieden"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verabschiedet"
+    },
+    "level": "B1",
+    "tags": [
+      "社交",
+      "B1"
+    ],
+    "synonyms": [
+      "Abschied nehmen",
+      "sich trennen"
+    ],
+    "antonyms": [
+      "begrüßen"
+    ]
+  },
+  {
+    "word": "verbringen",
+    "lemma": "verbringen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "度过（时间）",
+        "en": "to spend (time)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich verbringe den Urlaub am Meer.",
+        "zh": "我在海边度过假期。"
+      },
+      {
+        "de": "Sie verbringt viel Zeit mit Lesen.",
+        "zh": "她花很多时间阅读。"
+      }
+    ],
+    "collocations": [
+      "Zeit verbringen",
+      "den Urlaub verbringen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verbracht"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "zubringen",
+      "durchleben"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "verdienen",
+    "lemma": "verdienen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "赚（钱）；值得",
+        "en": "to earn; to deserve"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er verdient 3000 Euro im Monat.",
+        "zh": "他每月赚3000欧元。"
+      },
+      {
+        "de": "Sie hat eine Belohnung verdient.",
+        "zh": "她值得一份奖励。"
+      }
+    ],
+    "collocations": [
+      "Geld verdienen",
+      "eine Chance verdienen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verdient"
+    },
+    "level": "A2",
+    "tags": [
+      "经济",
+      "A2"
+    ],
+    "synonyms": [
+      "erwerben",
+      "bekommen"
+    ],
+    "antonyms": [
+      "ausgeben",
+      "verlieren"
+    ]
+  },
+  {
+    "word": "vergessen",
+    "lemma": "vergessen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "忘记",
+        "en": "to forget"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe meinen Schlüssel vergessen.",
+        "zh": "我忘了我的钥匙。"
+      },
+      {
+        "de": "Vergiss nicht, das Licht auszuschalten.",
+        "zh": "别忘了关灯。"
+      }
+    ],
+    "collocations": [
+      "etwas vergessen",
+      "nicht vergessen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "vergessen"
+    },
+    "level": "A1",
+    "tags": [
+      "认知",
+      "A1"
+    ],
+    "synonyms": [
+      "verpassen",
+      "aus dem Gedächtnis verlieren"
+    ],
+    "antonyms": [
+      "erinnern",
+      "behalten"
+    ]
+  },
+  {
+    "word": "Vergnügen",
+    "lemma": "Vergnügen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Vergnügen",
+    "meaning": [
+      {
+        "zh": "乐趣；愉快",
+        "en": "pleasure; enjoyment"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das macht mir großes Vergnügen.",
+        "zh": "这给我带来很大的乐趣。"
+      },
+      {
+        "de": "Viel Vergnügen bei der Reise!",
+        "zh": "旅途愉快！"
+      }
+    ],
+    "collocations": [
+      "mit Vergnügen",
+      "ein Vergnügen sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "Freude",
+      "Spaß"
+    ],
+    "antonyms": [
+      "Langeweile",
+      "Leid"
+    ]
+  },
+  {
+    "word": "verheiratet",
+    "lemma": "verheiratet",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "已婚的",
+        "en": "married"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie ist seit fünf Jahren verheiratet.",
+        "zh": "她已婚五年了。"
+      },
+      {
+        "de": "Ein verheirateter Mann hat mehr Verantwortung.",
+        "zh": "一个已婚男人有更多责任。"
+      }
+    ],
+    "collocations": [
+      "verheiratet sein",
+      "glücklich verheiratet"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "家庭",
+      "A2"
+    ],
+    "synonyms": [
+      "ehelich",
+      "vermählt"
+    ],
+    "antonyms": [
+      "ledig",
+      "geschieden"
+    ]
+  },
+  {
+    "word": "die",
+    "lemma": "der",
+    "pos": [
+      "article"
+    ],
+    "gender": "feminine",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "定冠词（阴性单数/复数）",
+        "en": "the (feminine singular/plural)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Frau geht nach Hause.",
+        "zh": "那位女士回家。"
+      },
+      {
+        "de": "Die Bücher sind interessant.",
+        "zh": "这些书很有趣。"
+      }
+    ],
+    "collocations": [
+      "die Frau",
+      "die Kinder"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语法",
+      "冠词",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "verschieden",
+    "lemma": "verschieden",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "不同的，各种各样的",
+        "en": "different, various"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Es gibt verschiedene Meinungen zu diesem Thema.",
+        "zh": "关于这个话题有不同的意见。"
+      },
+      {
+        "de": "Die beiden Brüder sind sehr verschieden.",
+        "zh": "这两个兄弟非常不同。"
+      }
+    ],
+    "collocations": [
+      "verschiedene Arten",
+      "völlig verschieden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "形容词",
+      "差异",
+      "A2"
+    ],
+    "synonyms": [
+      "unterschiedlich",
+      "anders"
+    ],
+    "antonyms": [
+      "gleich",
+      "identisch"
+    ]
+  },
+  {
+    "word": "Versichertenkarte",
+    "lemma": "Versichertenkarte",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Versichertenkarten",
+    "meaning": [
+      {
+        "zh": "（德国）医疗保险卡",
+        "en": "health insurance card (Germany)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bitte zeigen Sie Ihre Versichertenkarte vor.",
+        "zh": "请出示您的医疗保险卡。"
+      },
+      {
+        "de": "Die Versichertenkarte wird alle zwei Jahre erneuert.",
+        "zh": "医疗保险卡每两年更新一次。"
+      }
+    ],
+    "collocations": [
+      "die Versichertenkarte vorlegen",
+      "die Versichertenkarte beantragen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "医疗",
+      "保险",
+      "B1"
+    ],
+    "synonyms": [
+      "Krankenversicherungskarte"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "die",
+    "lemma": "der",
+    "pos": [
+      "article"
+    ],
+    "gender": "feminine",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "定冠词（阴性单数/复数）",
+        "en": "the (feminine singular/plural)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Frau geht nach Hause.",
+        "zh": "那个女人回家了。"
+      },
+      {
+        "de": "Die Kinder spielen im Park.",
+        "zh": "孩子们在公园里玩。"
+      }
+    ],
+    "collocations": [
+      "die Frau",
+      "die Kinder"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语法",
+      "冠词",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "die",
+    "lemma": "der",
+    "pos": [
+      "article"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "定冠词（阴性单数/复数）",
+        "en": "the (feminine singular/plural)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Frau geht nach Hause.",
+        "zh": "那个女人回家了。"
+      },
+      {
+        "de": "Die Kinder spielen im Garten.",
+        "zh": "孩子们在花园里玩。"
+      }
+    ],
+    "collocations": [
+      "die Frau",
+      "die Kinder"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语法",
+      "冠词",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  }
+]

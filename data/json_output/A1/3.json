@@ -1,0 +1,1899 @@
+[
+  {
+    "word": "Bayern",
+    "lemma": "Bayern",
+    "pos": [
+      "noun"
+    ],
+    "gender": "null",
+    "plural": "null",
+    "meaning": [
+      {
+        "zh": "巴伐利亚（德国联邦州）",
+        "en": "Bavaria (German federal state)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bayern ist das größte Bundesland Deutschlands.",
+        "zh": "巴伐利亚是德国最大的联邦州。"
+      },
+      {
+        "de": "Ich fahre im Sommer nach Bayern.",
+        "zh": "我夏天去巴伐利亚。"
+      }
+    ],
+    "collocations": [
+      "in Bayern leben",
+      "nach Bayern reisen"
+    ],
+    "grammar": {
+      "case": "null",
+      "separable": null,
+      "auxiliary": "null",
+      "partizip2": "null"
+    },
+    "level": "A2",
+    "tags": [
+      "地理",
+      "A2"
+    ],
+    "synonyms": [
+      "Freistaat Bayern"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "beantworten",
+    "lemma": "beantworten",
+    "pos": [
+      "verb"
+    ],
+    "gender": "null",
+    "plural": "null",
+    "meaning": [
+      {
+        "zh": "回答",
+        "en": "to answer"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du meine Frage beantworten?",
+        "zh": "你能回答我的问题吗？"
+      },
+      {
+        "de": "Er hat den Brief nicht beantwortet.",
+        "zh": "他没有回信。"
+      }
+    ],
+    "collocations": [
+      "eine Frage beantworten",
+      "einen Brief beantworten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "beantwortet"
+    },
+    "level": "B1",
+    "tags": [
+      "交流",
+      "B1"
+    ],
+    "synonyms": [
+      "antworten",
+      "erwidern"
+    ],
+    "antonyms": [
+      "fragen"
+    ]
+  },
+  {
+    "word": "beginnen",
+    "lemma": "beginnen",
+    "pos": [
+      "verb"
+    ],
+    "gender": "null",
+    "plural": "null",
+    "meaning": [
+      {
+        "zh": "开始",
+        "en": "to begin"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Unterricht beginnt um acht Uhr.",
+        "zh": "课程八点开始。"
+      },
+      {
+        "de": "Wir beginnen mit der Arbeit.",
+        "zh": "我们开始工作。"
+      }
+    ],
+    "collocations": [
+      "mit etwas beginnen",
+      "den Tag beginnen"
+    ],
+    "grammar": {
+      "case": "null",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "begonnen"
+    },
+    "level": "A2",
+    "tags": [
+      "时间",
+      "A2"
+    ],
+    "synonyms": [
+      "anfangen",
+      "starten"
+    ],
+    "antonyms": [
+      "enden",
+      "aufhören"
+    ]
+  },
+  {
+    "word": "begleiten",
+    "lemma": "begleiten",
+    "pos": [
+      "verb"
+    ],
+    "gender": "null",
+    "plural": "null",
+    "meaning": [
+      {
+        "zh": "陪伴",
+        "en": "to accompany"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich begleite dich zum Bahnhof.",
+        "zh": "我陪你去火车站。"
+      },
+      {
+        "de": "Die Musik begleitet den Film.",
+        "zh": "音乐伴随着电影。"
+      }
+    ],
+    "collocations": [
+      "jemanden begleiten",
+      "von etwas begleitet werden"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "begleitet"
+    },
+    "level": "B1",
+    "tags": [
+      "社交",
+      "B1"
+    ],
+    "synonyms": [
+      "mitgehen",
+      "eskortieren"
+    ],
+    "antonyms": [
+      "allein lassen"
+    ]
+  },
+  {
+    "word": "Begrüßung",
+    "lemma": "Begrüßung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Begrüßungen",
+    "meaning": [
+      {
+        "zh": "问候，欢迎",
+        "en": "greeting, welcome"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Zur Begrüßung gab es einen Händedruck.",
+        "zh": "作为问候，握了手。"
+      },
+      {
+        "de": "Die Begrüßung der Gäste dauerte eine Stunde.",
+        "zh": "欢迎客人花了一个小时。"
+      }
+    ],
+    "collocations": [
+      "zur Begrüßung",
+      "eine herzliche Begrüßung"
+    ],
+    "grammar": {
+      "case": "null",
+      "separable": null,
+      "auxiliary": "null",
+      "partizip2": "null"
+    },
+    "level": "A2",
+    "tags": [
+      "社交",
+      "A2"
+    ],
+    "synonyms": [
+      "Willkommen",
+      "Empfang"
+    ],
+    "antonyms": [
+      "Verabschiedung"
+    ]
+  },
+  {
+    "word": "bei",
+    "lemma": "bei",
+    "pos": [
+      "preposition"
+    ],
+    "gender": "null",
+    "plural": "null",
+    "meaning": [
+      {
+        "zh": "在...附近；在...时候；在...情况下",
+        "en": "at, near, by, during"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich wohne bei meinen Eltern.",
+        "zh": "我住在父母家。"
+      },
+      {
+        "de": "Bei Regen bleibt er zu Hause.",
+        "zh": "下雨时他待在家里。"
+      }
+    ],
+    "collocations": [
+      "bei der Arbeit",
+      "bei Tisch"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": null,
+      "auxiliary": "null",
+      "partizip2": "null"
+    },
+    "level": "A1",
+    "tags": [
+      "介词",
+      "A1"
+    ],
+    "synonyms": [
+      "neben",
+      "während"
+    ],
+    "antonyms": [
+      "ohne"
+    ]
+  },
+  {
+    "word": "Fern",
+    "lemma": "fern",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": "null",
+    "plural": "null",
+    "meaning": [
+      {
+        "zh": "远的，遥远的",
+        "en": "far, distant"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Ziel ist noch fern.",
+        "zh": "目标还很遥远。"
+      },
+      {
+        "de": "Sie wohnt fern von der Stadt.",
+        "zh": "她住在远离城市的地方。"
+      }
+    ],
+    "collocations": [
+      "fern von",
+      "in ferner Zukunft"
+    ],
+    "grammar": {
+      "case": "null",
+      "separable": null,
+      "auxiliary": "null",
+      "partizip2": "null"
+    },
+    "level": "B1",
+    "tags": [
+      "空间",
+      "B1"
+    ],
+    "synonyms": [
+      "weit",
+      "entfernt"
+    ],
+    "antonyms": [
+      "nah"
+    ]
+  },
+  {
+    "word": "beide",
+    "lemma": "beide",
+    "pos": [
+      "adjective",
+      "conjunction"
+    ],
+    "gender": "null",
+    "plural": "null",
+    "meaning": [
+      {
+        "zh": "两者，两个",
+        "en": "both"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Beide Kinder spielen im Garten.",
+        "zh": "两个孩子都在花园里玩。"
+      },
+      {
+        "de": "Ich mag beide Filme.",
+        "zh": "我喜欢这两部电影。"
+      }
+    ],
+    "collocations": [
+      "beide Seiten",
+      "beide Male"
+    ],
+    "grammar": {
+      "case": "null",
+      "separable": null,
+      "auxiliary": "null",
+      "partizip2": "null"
+    },
+    "level": "A2",
+    "tags": [
+      "数量",
+      "A2"
+    ],
+    "synonyms": [
+      "zwei",
+      "beide zusammen"
+    ],
+    "antonyms": [
+      "keiner"
+    ]
+  },
+  {
+    "word": "Bein",
+    "lemma": "Bein",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Beine",
+    "meaning": [
+      {
+        "zh": "腿",
+        "en": "leg"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe mir das Bein gebrochen.",
+        "zh": "我摔断了腿。"
+      },
+      {
+        "de": "Sie sitzt mit übergeschlagenen Beinen auf dem Sofa.",
+        "zh": "她翘着腿坐在沙发上。"
+      }
+    ],
+    "collocations": [
+      "sich das Bein brechen",
+      "auf den Beinen sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "身体",
+      "A2"
+    ],
+    "synonyms": [
+      "Gliedmaße"
+    ],
+    "antonyms": [
+      "Arm"
+    ]
+  },
+  {
+    "word": "bekannt",
+    "lemma": "bekannt",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "著名的；熟悉的",
+        "en": "known; famous"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieser Schauspieler ist weltweit bekannt.",
+        "zh": "这位演员全球闻名。"
+      },
+      {
+        "de": "Mir ist das Problem bekannt.",
+        "zh": "我对这个问题很熟悉。"
+      }
+    ],
+    "collocations": [
+      "bekannt sein",
+      "bekannt geben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "描述",
+      "A2"
+    ],
+    "synonyms": [
+      "berühmt",
+      "populär"
+    ],
+    "antonyms": [
+      "unbekannt"
+    ]
+  },
+  {
+    "word": "bekommen",
+    "lemma": "bekommen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "得到；收到",
+        "en": "to get; to receive"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe gestern einen Brief bekommen.",
+        "zh": "我昨天收到了一封信。"
+      },
+      {
+        "de": "Bekommt ihr genug zu essen?",
+        "zh": "你们得到足够的食物吗？"
+      }
+    ],
+    "collocations": [
+      "einen Brief bekommen",
+      "Kinder bekommen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "bekommen"
+    },
+    "level": "A1",
+    "tags": [
+      "日常",
+      "A1"
+    ],
+    "synonyms": [
+      "erhalten",
+      "kriegen"
+    ],
+    "antonyms": [
+      "geben",
+      "verlieren"
+    ]
+  },
+  {
+    "word": "beliebt",
+    "lemma": "beliebt",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "受欢迎的",
+        "en": "popular"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieses Restaurant ist bei den Einheimischen sehr beliebt.",
+        "zh": "这家餐厅在当地人中很受欢迎。"
+      },
+      {
+        "de": "Er ist bei seinen Kollegen beliebt.",
+        "zh": "他在同事中很受欢迎。"
+      }
+    ],
+    "collocations": [
+      "beliebt sein",
+      "beliebt machen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "populär",
+      "geschätzt"
+    ],
+    "antonyms": [
+      "unbeliebt",
+      "verhasst"
+    ]
+  },
+  {
+    "word": "bemerken",
+    "lemma": "bemerken",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "注意到；察觉",
+        "en": "to notice; to remark"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Hast du den Fehler bemerkt?",
+        "zh": "你注意到这个错误了吗？"
+      },
+      {
+        "de": "Er bemerkte, dass sie traurig war.",
+        "zh": "他察觉到她很难过。"
+      }
+    ],
+    "collocations": [
+      "einen Fehler bemerken",
+      "etwas bemerken"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "bemerkt"
+    },
+    "level": "B1",
+    "tags": [
+      "感知",
+      "B1"
+    ],
+    "synonyms": [
+      "erkennen",
+      "wahrnehmen"
+    ],
+    "antonyms": [
+      "übersehen",
+      "ignorieren"
+    ]
+  },
+  {
+    "word": "Benzin",
+    "lemma": "Benzin",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "汽油",
+        "en": "gasoline; petrol"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Auto braucht Benzin.",
+        "zh": "这辆车需要汽油。"
+      },
+      {
+        "de": "Der Preis für Benzin ist gestiegen.",
+        "zh": "汽油价格上涨了。"
+      }
+    ],
+    "collocations": [
+      "Benzin tanken",
+      "Benzin verbrauchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "交通",
+      "B1"
+    ],
+    "synonyms": [
+      "Kraftstoff",
+      "Sprit"
+    ],
+    "antonyms": [
+      "Diesel"
+    ]
+  },
+  {
+    "word": "Bericht",
+    "lemma": "Bericht",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Berichte",
+    "meaning": [
+      {
+        "zh": "报告；报道",
+        "en": "report; account"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat einen Bericht über die Konferenz geschrieben.",
+        "zh": "他写了一篇关于会议的报告。"
+      },
+      {
+        "de": "Der Bericht in der Zeitung war sehr ausführlich.",
+        "zh": "报纸上的报道非常详细。"
+      }
+    ],
+    "collocations": [
+      "einen Bericht schreiben",
+      "einen Bericht veröffentlichen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "媒体",
+      "B1"
+    ],
+    "synonyms": [
+      "Meldung",
+      "Darstellung"
+    ],
+    "antonyms": [
+      "Schweigen"
+    ]
+  },
+  {
+    "word": "berichten",
+    "lemma": "berichten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "报道；报告",
+        "en": "to report; to tell"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Journalist berichtet über die Wahl.",
+        "zh": "记者报道了选举。"
+      },
+      {
+        "de": "Kannst du mir von deiner Reise berichten?",
+        "zh": "你能给我讲讲你的旅行吗？"
+      }
+    ],
+    "collocations": [
+      "über etwas berichten",
+      "von etwas berichten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "berichtet"
+    },
+    "level": "B1",
+    "tags": [
+      "媒体",
+      "B1"
+    ],
+    "synonyms": [
+      "melden",
+      "erzählen"
+    ],
+    "antonyms": [
+      "verschweigen"
+    ]
+  },
+  {
+    "word": "Berlin",
+    "lemma": "Berlin",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "柏林",
+        "en": "Berlin"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Berlin ist die Hauptstadt von Deutschland.",
+        "zh": "柏林是德国的首都。"
+      },
+      {
+        "de": "Ich fahre nächste Woche nach Berlin.",
+        "zh": "我下周去柏林。"
+      }
+    ],
+    "collocations": [
+      "in Berlin leben",
+      "nach Berlin reisen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "地理",
+      "城市",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Beruf",
+    "lemma": "Beruf",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Berufe",
+    "meaning": [
+      {
+        "zh": "职业",
+        "en": "profession, occupation"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Was ist dein Beruf?",
+        "zh": "你的职业是什么？"
+      },
+      {
+        "de": "Sie übt ihren Beruf mit Leidenschaft aus.",
+        "zh": "她充满热情地从事她的职业。"
+      }
+    ],
+    "collocations": [
+      "einen Beruf ausüben",
+      "im Beruf arbeiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "职业",
+      "工作",
+      "A2"
+    ],
+    "synonyms": [
+      "Job",
+      "Tätigkeit"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Berufsleben",
+    "lemma": "Berufsleben",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "职业生涯",
+        "en": "professional life, career"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Berufsleben beginnt nach der Ausbildung.",
+        "zh": "职业生涯在培训后开始。"
+      },
+      {
+        "de": "Sie hat ein erfülltes Berufsleben.",
+        "zh": "她有一个充实的职业生涯。"
+      }
+    ],
+    "collocations": [
+      "ins Berufsleben eintreten",
+      "das Berufsleben genießen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "职业",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Karriere"
+    ],
+    "antonyms": [
+      "Privatleben"
+    ]
+  },
+  {
+    "word": "Beschwerde",
+    "lemma": "Beschwerde",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Beschwerden",
+    "meaning": [
+      {
+        "zh": "投诉；抱怨",
+        "en": "complaint"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat eine Beschwerde beim Kundenservice eingereicht.",
+        "zh": "他向客服提交了投诉。"
+      },
+      {
+        "de": "Die Beschwerde wurde schnell bearbeitet.",
+        "zh": "投诉很快被处理了。"
+      }
+    ],
+    "collocations": [
+      "eine Beschwerde einreichen",
+      "Beschwerde führen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "沟通",
+      "B1"
+    ],
+    "synonyms": [
+      "Reklamation",
+      "Beanstandung"
+    ],
+    "antonyms": [
+      "Lob"
+    ]
+  },
+  {
+    "word": "besichtigen",
+    "lemma": "besichtigen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "参观，游览",
+        "en": "to visit, to tour"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir möchten das Museum besichtigen.",
+        "zh": "我们想参观博物馆。"
+      },
+      {
+        "de": "Er hat die alte Burg besichtigt.",
+        "zh": "他参观了古老的城堡。"
+      }
+    ],
+    "collocations": [
+      "eine Sehenswürdigkeit besichtigen",
+      "das Gebäude besichtigen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "besichtigt"
+    },
+    "level": "B1",
+    "tags": [
+      "旅游",
+      "活动",
+      "B1"
+    ],
+    "synonyms": [
+      "ansehen",
+      "betrachten"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "besser",
+    "lemma": "gut",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "更好的",
+        "en": "better"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieses Buch ist besser als das andere.",
+        "zh": "这本书比那本更好。"
+      },
+      {
+        "de": "Es geht mir heute besser.",
+        "zh": "我今天感觉好多了。"
+      }
+    ],
+    "collocations": [
+      "besser werden",
+      "besser als"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "比较",
+      "评价",
+      "A2"
+    ],
+    "synonyms": [
+      "optimaler",
+      "vorteilhafter"
+    ],
+    "antonyms": [
+      "schlechter"
+    ]
+  },
+  {
+    "word": "Besserung",
+    "lemma": "Besserung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "改善，好转",
+        "en": "improvement, recovery"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich wünsche dir gute Besserung!",
+        "zh": "祝你早日康复！"
+      },
+      {
+        "de": "Die Besserung der Wirtschaft dauert an.",
+        "zh": "经济改善持续进行。"
+      }
+    ],
+    "collocations": [
+      "gute Besserung wünschen",
+      "Besserung zeigen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "健康",
+      "变化",
+      "B1"
+    ],
+    "synonyms": [
+      "Verbesserung",
+      "Erholung"
+    ],
+    "antonyms": [
+      "Verschlechterung"
+    ]
+  },
+  {
+    "word": "bestellen",
+    "lemma": "bestellen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "订购；预订",
+        "en": "to order, to book"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich möchte ein Bier bestellen.",
+        "zh": "我想点一杯啤酒。"
+      },
+      {
+        "de": "Sie hat ein Taxi bestellt.",
+        "zh": "她预订了一辆出租车。"
+      }
+    ],
+    "collocations": [
+      "etwas bestellen",
+      "ein Ticket bestellen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "bestellt"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "服务",
+      "A2"
+    ],
+    "synonyms": [
+      "reservieren",
+      "buchen"
+    ],
+    "antonyms": [
+      "stornieren",
+      "abbestellen"
+    ]
+  },
+  {
+    "word": "bestimmt",
+    "lemma": "bestimmen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "确定，决定",
+        "en": "to determine, to decide"
+      },
+      {
+        "zh": "规定，指定",
+        "en": "to specify, to define"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Chef bestimmt die Arbeitszeiten.",
+        "zh": "老板决定工作时间。"
+      },
+      {
+        "de": "Wir haben den Termin für das Treffen bestimmt.",
+        "zh": "我们确定了会议的日期。"
+      }
+    ],
+    "collocations": [
+      "einen Termin bestimmen",
+      "die Regeln bestimmen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "bestimmt"
+    },
+    "level": "B1",
+    "tags": [
+      "动词",
+      "B1",
+      "日常"
+    ],
+    "synonyms": [
+      "festlegen",
+      "entscheiden"
+    ],
+    "antonyms": [
+      "unbestimmt lassen"
+    ]
+  },
+  {
+    "word": "besuchen",
+    "lemma": "besuchen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "拜访，访问",
+        "en": "to visit"
+      },
+      {
+        "zh": "参加（课程、活动）",
+        "en": "to attend"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich besuche meine Großeltern am Wochenende.",
+        "zh": "我周末去看望我的祖父母。"
+      },
+      {
+        "de": "Er besucht einen Deutschkurs.",
+        "zh": "他参加一个德语课程。"
+      }
+    ],
+    "collocations": [
+      "jemanden besuchen",
+      "eine Schule besuchen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "besucht"
+    },
+    "level": "A2",
+    "tags": [
+      "动词",
+      "A2",
+      "社交"
+    ],
+    "synonyms": [
+      "aufsuchen",
+      "teilnehmen an"
+    ],
+    "antonyms": [
+      "verlassen",
+      "fernbleiben"
+    ]
+  },
+  {
+    "word": "betrachten",
+    "lemma": "betrachten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "观察，注视",
+        "en": "to observe, to look at"
+      },
+      {
+        "zh": "视为，认为",
+        "en": "to consider, to regard"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie betrachtet das Gemälde genau.",
+        "zh": "她仔细地观察这幅画。"
+      },
+      {
+        "de": "Wir betrachten ihn als einen Experten.",
+        "zh": "我们把他视为专家。"
+      }
+    ],
+    "collocations": [
+      "etwas genau betrachten",
+      "jemanden als etwas betrachten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "betrachtet"
+    },
+    "level": "B1",
+    "tags": [
+      "动词",
+      "B1",
+      "认知"
+    ],
+    "synonyms": [
+      "ansehen",
+      "beobachten",
+      "einschätzen"
+    ],
+    "antonyms": [
+      "übersehen",
+      "ignorieren"
+    ]
+  },
+  {
+    "word": "Bett",
+    "lemma": "Bett",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Betten",
+    "meaning": [
+      {
+        "zh": "床",
+        "en": "bed"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich gehe um zehn Uhr ins Bett.",
+        "zh": "我十点上床睡觉。"
+      },
+      {
+        "de": "Das Bett ist sehr bequem.",
+        "zh": "这张床非常舒服。"
+      }
+    ],
+    "collocations": [
+      "ins Bett gehen",
+      "das Bett machen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "名词",
+      "A1",
+      "家居"
+    ],
+    "synonyms": [
+      "Schlafstätte",
+      "Lager"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "bezahlen",
+    "lemma": "bezahlen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "支付，付款",
+        "en": "to pay"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich bezahle die Rechnung mit Karte.",
+        "zh": "我用卡支付账单。"
+      },
+      {
+        "de": "Kannst du bitte das Essen bezahlen?",
+        "zh": "你能付一下饭钱吗？"
+      }
+    ],
+    "collocations": [
+      "eine Rechnung bezahlen",
+      "bar bezahlen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "bezahlt"
+    },
+    "level": "A2",
+    "tags": [
+      "动词",
+      "A2",
+      "经济"
+    ],
+    "synonyms": [
+      "zahlen",
+      "begleichen"
+    ],
+    "antonyms": [
+      "schulden",
+      "kostenlos erhalten"
+    ]
+  },
+  {
+    "word": "Bibliothek",
+    "lemma": "Bibliothek",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Bibliotheken",
+    "meaning": [
+      {
+        "zh": "图书馆",
+        "en": "library"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich gehe oft in die Bibliothek, um zu lernen.",
+        "zh": "我经常去图书馆学习。"
+      },
+      {
+        "de": "Die Bibliothek hat viele Bücher.",
+        "zh": "图书馆有很多书。"
+      }
+    ],
+    "collocations": [
+      "in die Bibliothek gehen",
+      "eine Bibliothek benutzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "名词",
+      "A2",
+      "教育"
+    ],
+    "synonyms": [
+      "Bücherei"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Bier",
+    "lemma": "Bier",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Biere",
+    "meaning": [
+      {
+        "zh": "啤酒",
+        "en": "beer"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Möchtest du ein Bier trinken?",
+        "zh": "你想喝杯啤酒吗？"
+      },
+      {
+        "de": "In Deutschland gibt es viele verschiedene Biere.",
+        "zh": "德国有很多种不同的啤酒。"
+      }
+    ],
+    "collocations": [
+      "ein Bier bestellen",
+      "Bier trinken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "名词",
+      "A1",
+      "饮食"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Bild",
+    "lemma": "Bild",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Bilder",
+    "meaning": [
+      {
+        "zh": "图片，图像",
+        "en": "picture, image"
+      },
+      {
+        "zh": "画作",
+        "en": "painting"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Bild hängt an der Wand.",
+        "zh": "这幅画挂在墙上。"
+      },
+      {
+        "de": "Kannst du ein Bild von uns machen?",
+        "zh": "你能给我们拍张照片吗？"
+      }
+    ],
+    "collocations": [
+      "ein Bild malen",
+      "ein Bild machen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "名词",
+      "A1",
+      "艺术"
+    ],
+    "synonyms": [
+      "Foto",
+      "Gemälde"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "billig",
+    "lemma": "billig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "便宜的",
+        "en": "cheap"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieses Hotel ist sehr billig.",
+        "zh": "这家酒店非常便宜。"
+      },
+      {
+        "de": "Billige Produkte sind oft von schlechter Qualität.",
+        "zh": "便宜的产品通常质量差。"
+      }
+    ],
+    "collocations": [
+      "billige Preise",
+      "billig kaufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "经济",
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "günstig",
+      "preiswert"
+    ],
+    "antonyms": [
+      "teuer"
+    ]
+  },
+  {
+    "word": "bis",
+    "lemma": "bis",
+    "pos": [
+      "preposition",
+      "conjunction"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "直到",
+        "en": "until, till"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich arbeite bis 18 Uhr.",
+        "zh": "我工作到下午6点。"
+      },
+      {
+        "de": "Bis morgen!",
+        "zh": "明天见！"
+      }
+    ],
+    "collocations": [
+      "bis zu",
+      "von ... bis"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "时间",
+      "介词",
+      "A1"
+    ],
+    "synonyms": [
+      "bis zu"
+    ],
+    "antonyms": [
+      "ab"
+    ]
+  },
+  {
+    "word": "bitte",
+    "lemma": "bitte",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "请",
+        "en": "please"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bitte geben Sie mir das Buch.",
+        "zh": "请把书给我。"
+      },
+      {
+        "de": "Kann ich bitte ein Glas Wasser haben?",
+        "zh": "请给我一杯水好吗？"
+      }
+    ],
+    "collocations": [
+      "bitte schön",
+      "bitte sehr"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "礼貌",
+      "日常",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "blass",
+    "lemma": "blass",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "苍白的",
+        "en": "pale"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie sieht heute sehr blass aus.",
+        "zh": "她今天看起来很苍白。"
+      },
+      {
+        "de": "Sein Gesicht wurde blass vor Schreck.",
+        "zh": "他的脸因惊吓而变得苍白。"
+      }
+    ],
+    "collocations": [
+      "blass werden",
+      "blass aussehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "外貌",
+      "健康",
+      "B1"
+    ],
+    "synonyms": [
+      "bleich",
+      "farblos"
+    ],
+    "antonyms": [
+      "rot",
+      "gesund"
+    ]
+  },
+  {
+    "word": "blau",
+    "lemma": "blau",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "蓝色的",
+        "en": "blue"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Himmel ist heute blau.",
+        "zh": "今天天空是蓝色的。"
+      },
+      {
+        "de": "Sie trägt ein blaues Kleid.",
+        "zh": "她穿着一件蓝色的连衣裙。"
+      }
+    ],
+    "collocations": [
+      "blau machen",
+      "blauäugig"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "颜色",
+      "日常",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bleiben",
+    "lemma": "bleiben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "停留，保持",
+        "en": "stay, remain"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich bleibe heute zu Hause.",
+        "zh": "我今天待在家里。"
+      },
+      {
+        "de": "Bleib ruhig!",
+        "zh": "保持冷静！"
+      }
+    ],
+    "collocations": [
+      "bleiben lassen",
+      "in Kontakt bleiben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "partizip2": "geblieben"
+    },
+    "level": "A2",
+    "tags": [
+      "动作",
+      "状态",
+      "A2"
+    ],
+    "synonyms": [
+      "verbleiben",
+      "verharren"
+    ],
+    "antonyms": [
+      "gehen",
+      "verlassen"
+    ]
+  },
+  {
+    "word": "bloß",
+    "lemma": "bloß",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "仅仅，赤裸的",
+        "en": "only, bare"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist bloß ein Test.",
+        "zh": "这仅仅是一个测试。"
+      },
+      {
+        "de": "Er trug bloße Füße.",
+        "zh": "他光着脚。"
+      }
+    ],
+    "collocations": [
+      "bloß nicht",
+      "bloß stellen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "程度",
+      "强调",
+      "B1"
+    ],
+    "synonyms": [
+      "nur",
+      "lediglich"
+    ],
+    "antonyms": [
+      "viel",
+      "reichlich"
+    ]
+  },
+  {
+    "word": "Klick",
+    "lemma": "Klick",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Klicks",
+    "meaning": [
+      {
+        "zh": "点击",
+        "en": "click"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ein Klick auf den Link öffnet die Seite.",
+        "zh": "点击链接打开页面。"
+      },
+      {
+        "de": "Die Website hat viele Klicks bekommen.",
+        "zh": "这个网站获得了许多点击。"
+      }
+    ],
+    "collocations": [
+      "ein Klick genügt",
+      "per Klick"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "互联网",
+      "B1"
+    ],
+    "synonyms": [
+      "Mausklick"
+    ],
+    "antonyms": []
+  }
+]

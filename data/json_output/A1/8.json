@@ -1,0 +1,1739 @@
+[
+  {
+    "word": "fühlen",
+    "lemma": "fühlen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "感觉，感受",
+        "en": "to feel"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich fühle mich heute sehr müde.",
+        "zh": "我今天感觉很累。"
+      },
+      {
+        "de": "Sie fühlt den Schmerz in ihrem Bein.",
+        "zh": "她感觉到腿上的疼痛。"
+      }
+    ],
+    "collocations": [
+      "sich wohl fühlen",
+      "Mitgefühl fühlen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gefühlt"
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "spüren",
+      "empfinden"
+    ],
+    "antonyms": [
+      "ignorieren"
+    ]
+  },
+  {
+    "word": "für",
+    "lemma": "für",
+    "pos": [
+      "preposition"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "为了，对于",
+        "en": "for"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Geschenk ist für dich.",
+        "zh": "这个礼物是给你的。"
+      },
+      {
+        "de": "Er arbeitet für eine große Firma.",
+        "zh": "他为一家大公司工作。"
+      }
+    ],
+    "collocations": [
+      "für immer",
+      "sich interessieren für"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语法",
+      "A1"
+    ],
+    "synonyms": [
+      "zugunsten von"
+    ],
+    "antonyms": [
+      "gegen"
+    ]
+  },
+  {
+    "word": "FuB",
+    "lemma": "Fuß",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Füße",
+    "meaning": [
+      {
+        "zh": "脚",
+        "en": "foot"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mein Fuß tut weh.",
+        "zh": "我的脚疼。"
+      },
+      {
+        "de": "Sie steht auf einem Bein und hebt den anderen Fuß.",
+        "zh": "她单脚站立，抬起另一只脚。"
+      }
+    ],
+    "collocations": [
+      "zu Fuß gehen",
+      "sich den Fuß verletzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "身体",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Fußball",
+    "lemma": "Fußball",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Fußbälle",
+    "meaning": [
+      {
+        "zh": "足球",
+        "en": "football/soccer"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er spielt jeden Samstag Fußball.",
+        "zh": "他每个星期六踢足球。"
+      },
+      {
+        "de": "Das Fußballspiel war sehr spannend.",
+        "zh": "这场足球比赛非常激动人心。"
+      }
+    ],
+    "collocations": [
+      "Fußball spielen",
+      "Fußballmannschaft"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "体育",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ganz",
+    "lemma": "ganz",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "整个的，完全的；相当",
+        "en": "whole, entire; quite"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ganze Haus war sauber.",
+        "zh": "整个房子都很干净。"
+      },
+      {
+        "de": "Das ist ganz einfach.",
+        "zh": "这相当简单。"
+      }
+    ],
+    "collocations": [
+      "ganz und gar",
+      "im Ganzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "程度",
+      "A2"
+    ],
+    "synonyms": [
+      "völlig",
+      "komplett"
+    ],
+    "antonyms": [
+      "teilweise"
+    ]
+  },
+  {
+    "word": "gar",
+    "lemma": "gar",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "甚至，根本（用于否定）",
+        "en": "even, at all (used in negation)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist gar nicht schwer.",
+        "zh": "这根本不难。"
+      },
+      {
+        "de": "Er hat gar nichts gesagt.",
+        "zh": "他什么也没说。"
+      }
+    ],
+    "collocations": [
+      "gar nicht",
+      "gar nichts"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语气",
+      "B1"
+    ],
+    "synonyms": [
+      "überhaupt"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Garten",
+    "lemma": "Garten",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Gärten",
+    "meaning": [
+      {
+        "zh": "花园",
+        "en": "garden"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Garten blühen viele Blumen.",
+        "zh": "花园里盛开着许多花。"
+      },
+      {
+        "de": "Wir haben einen kleinen Garten hinter dem Haus.",
+        "zh": "我们在房子后面有一个小花园。"
+      }
+    ],
+    "collocations": [
+      "im Garten arbeiten",
+      "Gartenparty"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "自然",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Gas",
+    "lemma": "Gas",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Gase",
+    "meaning": [
+      {
+        "zh": "气体；煤气",
+        "en": "gas"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Herd läuft mit Gas.",
+        "zh": "这个炉子用煤气。"
+      },
+      {
+        "de": "Gas ist ein wichtiger Energieträger.",
+        "zh": "气体是一种重要的能源载体。"
+      }
+    ],
+    "collocations": [
+      "Gas geben",
+      "Gasheizung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "能源",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Gastgeber",
+    "lemma": "Gastgeber",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Gastgeber",
+    "meaning": [
+      {
+        "zh": "主人，东道主",
+        "en": "host"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Gastgeber begrüßte seine Gäste herzlich.",
+        "zh": "主人热情地欢迎了他的客人。"
+      },
+      {
+        "de": "Als Gastgeber muss man sich um alles kümmern.",
+        "zh": "作为东道主，必须照顾一切。"
+      }
+    ],
+    "collocations": [
+      "der perfekte Gastgeber",
+      "als Gastgeber auftreten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Gastgeberin"
+    ],
+    "antonyms": [
+      "Gast"
+    ]
+  },
+  {
+    "word": "geben",
+    "lemma": "geben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "给，给予",
+        "en": "to give"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du mir bitte das Buch geben?",
+        "zh": "你能把这本书给我吗？"
+      },
+      {
+        "de": "Es gibt viele Möglichkeiten.",
+        "zh": "有很多可能性。"
+      }
+    ],
+    "collocations": [
+      "etwas geben",
+      "es gibt"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gegeben"
+    },
+    "level": "A1",
+    "tags": [
+      "日常",
+      "A1"
+    ],
+    "synonyms": [
+      "reichen",
+      "überreichen"
+    ],
+    "antonyms": [
+      "nehmen"
+    ]
+  },
+  {
+    "word": "Geburtstag",
+    "lemma": "Geburtstag",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Geburtstage",
+    "meaning": [
+      {
+        "zh": "生日",
+        "en": "birthday"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich feiere meinen Geburtstag am Samstag.",
+        "zh": "我周六庆祝我的生日。"
+      },
+      {
+        "de": "Alles Gute zum Geburtstag!",
+        "zh": "生日快乐！"
+      }
+    ],
+    "collocations": [
+      "Geburtstag haben",
+      "zum Geburtstag gratulieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "日常",
+      "A1"
+    ],
+    "synonyms": [
+      "Wiegenfest"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "Geburtstagskind",
+    "lemma": "Geburtstagskind",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Geburtstagskinder",
+    "meaning": [
+      {
+        "zh": "寿星，过生日的人",
+        "en": "birthday child/person"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Geburtstagskind bekam viele Geschenke.",
+        "zh": "寿星收到了很多礼物。"
+      },
+      {
+        "de": "Wir haben das Geburtstagskind überrascht.",
+        "zh": "我们给了寿星一个惊喜。"
+      }
+    ],
+    "collocations": [
+      "das Geburtstagskind feiern",
+      "dem Geburtstagskind gratulieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "Jubilar",
+      "Jubilarin"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "Gedächtniskirche",
+    "lemma": "Gedächtniskirche",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Gedächtniskirchen",
+    "meaning": [
+      {
+        "zh": "纪念教堂",
+        "en": "memorial church"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kaiser-Wilhelm-Gedächtniskirche ist ein Wahrzeichen Berlins.",
+        "zh": "威廉皇帝纪念教堂是柏林的一个标志性建筑。"
+      },
+      {
+        "de": "Viele Touristen besuchen die Gedächtniskirche.",
+        "zh": "许多游客参观纪念教堂。"
+      }
+    ],
+    "collocations": [
+      "die Gedächtniskirche besichtigen",
+      "die Gedächtniskirche in Berlin"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "文化",
+      "B1"
+    ],
+    "synonyms": null,
+    "antonyms": null
+  },
+  {
+    "word": "Gefährte",
+    "lemma": "Gefährte",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Gefährten",
+    "meaning": [
+      {
+        "zh": "伴侣，同伴",
+        "en": "companion"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mein Hund ist mein treuer Gefährte.",
+        "zh": "我的狗是我忠实的伴侣。"
+      },
+      {
+        "de": "Er war ein Gefährte auf meiner Reise.",
+        "zh": "他是我旅途中的同伴。"
+      }
+    ],
+    "collocations": [
+      "ein treuer Gefährte",
+      "der Gefährte auf dem Weg"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "Begleiter",
+      "Kamerad"
+    ],
+    "antonyms": [
+      "Gegner"
+    ]
+  },
+  {
+    "word": "gefallen",
+    "lemma": "gefallen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "使喜欢，使满意",
+        "en": "to please, to like"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Buch gefällt mir sehr gut.",
+        "zh": "这本书我很喜欢。"
+      },
+      {
+        "de": "Wie gefällt dir die neue Wohnung?",
+        "zh": "你觉得新公寓怎么样？"
+      }
+    ],
+    "collocations": [
+      "jemandem gefallen",
+      "sich gefallen lassen"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gefallen"
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "mögen",
+      "zusagen"
+    ],
+    "antonyms": [
+      "missfallen"
+    ]
+  },
+  {
+    "word": "gegen",
+    "lemma": "gegen",
+    "pos": [
+      "preposition"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "反对，朝着，大约",
+        "en": "against, towards, around"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist gegen den Vorschlag.",
+        "zh": "他反对这个建议。"
+      },
+      {
+        "de": "Wir fahren gegen Norden.",
+        "zh": "我们朝北行驶。"
+      }
+    ],
+    "collocations": [
+      "gegen etwas sein",
+      "gegen jemanden kämpfen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "wider",
+      "entgegen"
+    ],
+    "antonyms": [
+      "für"
+    ]
+  },
+  {
+    "word": "gegenüber",
+    "lemma": "gegenüber",
+    "pos": [
+      "preposition",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "对面；相对于",
+        "en": "opposite; compared to"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Restaurant ist gegenüber dem Bahnhof.",
+        "zh": "餐厅在火车站对面。"
+      },
+      {
+        "de": "Gegenüber dem letzten Jahr hat sich viel verändert.",
+        "zh": "与去年相比，变化很大。"
+      }
+    ],
+    "collocations": [
+      "gegenüber jemandem sitzen",
+      "gegenüber etwas sein"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "介词",
+      "副词",
+      "空间",
+      "比较"
+    ],
+    "synonyms": [
+      "entgegen",
+      "im Vergleich zu"
+    ],
+    "antonyms": [
+      "neben",
+      "hinter"
+    ]
+  },
+  {
+    "word": "gehen",
+    "lemma": "gehen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "走；去；进行",
+        "en": "to go; to walk; to proceed"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich gehe heute ins Kino.",
+        "zh": "我今天去电影院。"
+      },
+      {
+        "de": "Wie geht es dir?",
+        "zh": "你好吗？"
+      }
+    ],
+    "collocations": [
+      "gehen nach",
+      "gehen zu Fuß",
+      "es geht um"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "partizip2": "gegangen"
+    },
+    "level": "A1",
+    "tags": [
+      "动词",
+      "运动",
+      "日常"
+    ],
+    "synonyms": [
+      "laufen",
+      "sich begeben"
+    ],
+    "antonyms": [
+      "stehen",
+      "bleiben"
+    ]
+  },
+  {
+    "word": "gehören",
+    "lemma": "gehören",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "属于；应该",
+        "en": "to belong; to be appropriate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Buch gehört mir.",
+        "zh": "这本书属于我。"
+      },
+      {
+        "de": "Das gehört nicht hierher.",
+        "zh": "这不属于这里。"
+      }
+    ],
+    "collocations": [
+      "gehören zu",
+      "gehören in",
+      "gehören jemandem"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gehört"
+    },
+    "level": "A2",
+    "tags": [
+      "动词",
+      "所有",
+      "关系"
+    ],
+    "synonyms": [
+      "zustehen",
+      "angehören"
+    ],
+    "antonyms": [
+      "fremd sein",
+      "ausgeschlossen sein"
+    ]
+  },
+  {
+    "word": "Geld",
+    "lemma": "Geld",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Gelder",
+    "meaning": [
+      {
+        "zh": "钱；货币",
+        "en": "money; currency"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe nicht genug Geld dabei.",
+        "zh": "我没带够钱。"
+      },
+      {
+        "de": "Geld allein macht nicht glücklich.",
+        "zh": "金钱不能带来幸福。"
+      }
+    ],
+    "collocations": [
+      "Geld ausgeben",
+      "Geld sparen",
+      "Geld verdienen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "名词",
+      "经济",
+      "日常"
+    ],
+    "synonyms": [
+      "Bargeld",
+      "Währung"
+    ],
+    "antonyms": [
+      "Armut",
+      "Schulden"
+    ]
+  },
+  {
+    "word": "Geldtasche",
+    "lemma": "Geldtasche",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Geldtaschen",
+    "meaning": [
+      {
+        "zh": "钱包；钱袋",
+        "en": "wallet; money pouch"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat seine Geldtasche im Bus verloren.",
+        "zh": "他在公交车上丢了钱包。"
+      },
+      {
+        "de": "Sie zog die Geldtasche aus der Jackentasche.",
+        "zh": "她从夹克口袋里掏出钱包。"
+      }
+    ],
+    "collocations": [
+      "Geldtasche stehlen",
+      "Geldtasche verlieren",
+      "Geldtasche öffnen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "名词",
+      "物品",
+      "日常"
+    ],
+    "synonyms": [
+      "Portemonnaie",
+      "Brieftasche"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Gelegenheit",
+    "lemma": "Gelegenheit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Gelegenheiten",
+    "meaning": [
+      {
+        "zh": "机会；场合",
+        "en": "opportunity; occasion"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich hatte keine Gelegenheit, mit ihm zu sprechen.",
+        "zh": "我没有机会和他说话。"
+      },
+      {
+        "de": "Bei dieser Gelegenheit möchte ich mich bedanken.",
+        "zh": "借此机会，我想表示感谢。"
+      }
+    ],
+    "collocations": [
+      "eine Gelegenheit nutzen",
+      "bei Gelegenheit",
+      "die Gelegenheit ergreifen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "名词",
+      "抽象",
+      "社交"
+    ],
+    "synonyms": [
+      "Chance",
+      "Möglichkeit"
+    ],
+    "antonyms": [
+      "Hindernis",
+      "Unmöglichkeit"
+    ]
+  },
+  {
+    "word": "Gemeinschaftspraxis",
+    "lemma": "Gemeinschaftspraxis",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Gemeinschaftspraxen",
+    "meaning": [
+      {
+        "zh": "联合诊所；共同执业",
+        "en": "group practice; shared medical practice"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Ärzte arbeiten in einer Gemeinschaftspraxis.",
+        "zh": "这些医生在一家联合诊所工作。"
+      },
+      {
+        "de": "Die Gemeinschaftspraxis bietet flexible Sprechzeiten an.",
+        "zh": "联合诊所提供灵活的门诊时间。"
+      }
+    ],
+    "collocations": [
+      "in einer Gemeinschaftspraxis arbeiten",
+      "eine Gemeinschaftspraxis gründen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "名词",
+      "医疗",
+      "职业"
+    ],
+    "synonyms": [
+      "Praxisgemeinschaft",
+      "Ärztehaus"
+    ],
+    "antonyms": [
+      "Einzelpraxis"
+    ]
+  },
+  {
+    "word": "genau",
+    "lemma": "genau",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "精确的；准确的",
+        "en": "exact; precise; accurate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du mir die genaue Uhrzeit sagen?",
+        "zh": "你能告诉我准确的时间吗？"
+      },
+      {
+        "de": "Das ist genau das, was ich brauche.",
+        "zh": "这正是我需要的。"
+      }
+    ],
+    "collocations": [
+      "genau wissen",
+      "genau nehmen",
+      "genau so"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "形容词",
+      "副词",
+      "描述",
+      "精确"
+    ],
+    "synonyms": [
+      "präzise",
+      "exakt"
+    ],
+    "antonyms": [
+      "ungefähr",
+      "ungenau"
+    ]
+  },
+  {
+    "word": "Generation",
+    "lemma": "Generation",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Generationen",
+    "meaning": [
+      {
+        "zh": "一代人，世代",
+        "en": "generation"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die junge Generation hat andere Werte.",
+        "zh": "年轻一代有不同的价值观。"
+      },
+      {
+        "de": "Diese Tradition wird von Generation zu Generation weitergegeben.",
+        "zh": "这个传统代代相传。"
+      }
+    ],
+    "collocations": [
+      "die nächste Generation",
+      "eine Generation von Künstlern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Altersgruppe",
+      "Geschlecht (veraltet)"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "gerade",
+    "lemma": "gerade",
+    "pos": [
+      "adverb",
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "正好，刚刚；直的",
+        "en": "just, exactly; straight"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich bin gerade nach Hause gekommen.",
+        "zh": "我刚到家。"
+      },
+      {
+        "de": "Die Straße ist gerade.",
+        "zh": "这条路是直的。"
+      }
+    ],
+    "collocations": [
+      "gerade jetzt",
+      "gerade noch"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "时间",
+      "A2"
+    ],
+    "synonyms": [
+      "eben",
+      "soeben",
+      "direkt"
+    ],
+    "antonyms": [
+      "schief",
+      "krumm"
+    ]
+  },
+  {
+    "word": "geradeaus",
+    "lemma": "geradeaus",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "笔直地，一直向前",
+        "en": "straight ahead"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Gehen Sie bitte geradeaus.",
+        "zh": "请一直往前走。"
+      },
+      {
+        "de": "Das Auto fuhr geradeaus weiter.",
+        "zh": "汽车继续直行。"
+      }
+    ],
+    "collocations": [
+      "geradeaus gehen",
+      "geradeaus fahren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "方向",
+      "A1"
+    ],
+    "synonyms": [
+      "direkt",
+      "geradewegs"
+    ],
+    "antonyms": [
+      "links",
+      "rechts",
+      "rückwärts"
+    ]
+  },
+  {
+    "word": "Gerät",
+    "lemma": "Gerät",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Geräte",
+    "meaning": [
+      {
+        "zh": "设备，器具，装置",
+        "en": "device, appliance, apparatus"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieses Gerät funktioniert nicht mehr.",
+        "zh": "这个设备不再工作了。"
+      },
+      {
+        "de": "Er repariert das elektrische Gerät.",
+        "zh": "他在修理电器。"
+      }
+    ],
+    "collocations": [
+      "elektrisches Gerät",
+      "medizinisches Gerät"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "Apparat",
+      "Maschine",
+      "Instrument"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Gericht",
+    "lemma": "Gericht",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Gerichte",
+    "meaning": [
+      {
+        "zh": "法院；菜肴",
+        "en": "court; dish (food)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Gericht hat das Urteil gesprochen.",
+        "zh": "法院宣布了判决。"
+      },
+      {
+        "de": "Das Gericht schmeckt ausgezeichnet.",
+        "zh": "这道菜味道好极了。"
+      }
+    ],
+    "collocations": [
+      "vor Gericht stehen",
+      "ein Gericht bestellen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "法律",
+      "饮食",
+      "B1"
+    ],
+    "synonyms": [
+      "Speise",
+      "Mahlzeit",
+      "Tribunal"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "gern",
+    "lemma": "gern",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "喜欢，乐意",
+        "en": "gladly, with pleasure"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich lese gern Bücher.",
+        "zh": "我喜欢读书。"
+      },
+      {
+        "de": "Er hilft gern anderen.",
+        "zh": "他乐意帮助别人。"
+      }
+    ],
+    "collocations": [
+      "gern haben",
+      "gern tun"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "情感",
+      "A1"
+    ],
+    "synonyms": [
+      "gerne",
+      "freudig"
+    ],
+    "antonyms": [
+      "ungern",
+      "widerwillig"
+    ]
+  },
+  {
+    "word": "Geschenk",
+    "lemma": "Geschenk",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Geschenke",
+    "meaning": [
+      {
+        "zh": "礼物",
+        "en": "gift, present"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Zum Geburtstag habe ich ein Geschenk bekommen.",
+        "zh": "生日时我收到了一份礼物。"
+      },
+      {
+        "de": "Sie hat ihm ein teures Geschenk gemacht.",
+        "zh": "她送了他一份昂贵的礼物。"
+      }
+    ],
+    "collocations": [
+      "ein Geschenk kaufen",
+      "ein Geschenk einpacken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Präsent",
+      "Gabe"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Geschirrspülmaschine",
+    "lemma": "Geschirrspülmaschine",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Geschirrspülmaschinen",
+    "meaning": [
+      {
+        "zh": "洗碗机",
+        "en": "dishwasher"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Geschirrspülmaschine ist kaputt.",
+        "zh": "洗碗机坏了。"
+      },
+      {
+        "de": "Ich habe das Geschirr in die Geschirrspülmaschine geräumt.",
+        "zh": "我把餐具放进洗碗机里了。"
+      }
+    ],
+    "collocations": [
+      "die Geschirrspülmaschine einschalten",
+      "das Geschirr in die Geschirrspülmaschine stellen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Spülmaschine",
+      "Geschirrspüler"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Gerat",
+    "lemma": "Gerät",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Geräte",
+    "meaning": [
+      {
+        "zh": "设备，器具，装置",
+        "en": "device, apparatus, appliance"
+      },
+      {
+        "zh": "器械，工具",
+        "en": "instrument, tool"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das elektronische Gerät funktioniert einwandfrei.",
+        "zh": "这个电子设备运行正常。"
+      },
+      {
+        "de": "Er reparierte das defekte Gerät in der Werkstatt.",
+        "zh": "他在车间修理了故障设备。"
+      }
+    ],
+    "collocations": [
+      "elektronisches Gerät",
+      "medizinisches Gerät",
+      "Gerät einschalten",
+      "Gerät reparieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "技术",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Apparat",
+      "Maschine",
+      "Instrument"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "gem",
+    "lemma": "gem",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "（瑞士德语）按照，根据",
+        "en": "according to, per"
+      },
+      {
+        "zh": "（瑞士德语）与……一致",
+        "en": "in accordance with"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Gemäss den Vorschriften muss das Formular ausgefüllt werden.",
+        "zh": "按照规定，必须填写表格。"
+      },
+      {
+        "de": "Die Arbeit wurde gemäss den Anforderungen erledigt.",
+        "zh": "工作按照要求完成了。"
+      }
+    ],
+    "collocations": [
+      "gemäss den Regeln",
+      "gemäss der Anweisung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "语言",
+      "正式",
+      "B2"
+    ],
+    "synonyms": [
+      "laut",
+      "nach",
+      "entsprechend"
+    ],
+    "antonyms": [
+      "entgegen"
+    ]
+  },
+  {
+    "word": "Geschwister",
+    "lemma": "Geschwister",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Geschwister",
+    "meaning": [
+      {
+        "zh": "兄弟姐妹",
+        "en": "siblings"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe zwei Geschwister, einen Bruder und eine Schwester.",
+        "zh": "我有两个兄弟姐妹，一个哥哥和一个妹妹。"
+      },
+      {
+        "de": "Meine Geschwister und ich verbringen die Ferien zusammen.",
+        "zh": "我和我的兄弟姐妹一起度假。"
+      }
+    ],
+    "collocations": [
+      "keine Geschwister haben",
+      "mit den Geschwistern spielen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "家庭",
+      "A2"
+    ],
+    "synonyms": [
+      "Bruder und Schwester"
+    ],
+    "antonyms": [
+      "Einzelkind"
+    ]
+  },
+  {
+    "word": "Gespräch",
+    "lemma": "Gespräch",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Gespräche",
+    "meaning": [
+      {
+        "zh": "谈话，对话",
+        "en": "conversation, talk"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir hatten ein langes Gespräch über die Zukunft.",
+        "zh": "我们就未来进行了一次长谈。"
+      },
+      {
+        "de": "Das Gespräch mit dem Chef war sehr hilfreich.",
+        "zh": "和老板的谈话非常有帮助。"
+      }
+    ],
+    "collocations": [
+      "ein Gespräch führen",
+      "im Gespräch sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "交流",
+      "B1"
+    ],
+    "synonyms": [
+      "Unterhaltung",
+      "Diskussion"
+    ],
+    "antonyms": [
+      "Schweigen"
+    ]
+  },
+  {
+    "word": "Gesundheit",
+    "lemma": "Gesundheit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "健康",
+        "en": "health"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Regelmäßiger Sport ist gut für die Gesundheit.",
+        "zh": "定期运动对健康有益。"
+      },
+      {
+        "de": "Sie kümmert sich um ihre Gesundheit.",
+        "zh": "她关心自己的健康。"
+      }
+    ],
+    "collocations": [
+      "auf die Gesundheit achten",
+      "die Gesundheit fördern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "健康",
+      "A2"
+    ],
+    "synonyms": [
+      "Wohlbefinden"
+    ],
+    "antonyms": [
+      "Krankheit"
+    ]
+  }
+]

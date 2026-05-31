@@ -1,0 +1,1732 @@
+[
+  {
+    "word": "grün",
+    "lemma": "grün",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "绿色的",
+        "en": "green"
+      },
+      {
+        "zh": "环保的",
+        "en": "environmentally friendly"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Gras ist im Frühling grün.",
+        "zh": "春天草是绿色的。"
+      },
+      {
+        "de": "Wir kaufen nur grüne Produkte.",
+        "zh": "我们只买环保产品。"
+      }
+    ],
+    "collocations": [
+      "grüne Welle",
+      "grüner Daumen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "颜色",
+      "环保",
+      "A2"
+    ],
+    "synonyms": [
+      "umweltfreundlich"
+    ],
+    "antonyms": [
+      "rot",
+      "umweltschädlich"
+    ]
+  },
+  {
+    "word": "Grünanlage",
+    "lemma": "Grünanlage",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Grünanlagen",
+    "meaning": [
+      {
+        "zh": "绿地，公园",
+        "en": "green space, park"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kinder spielen in der Grünanlage.",
+        "zh": "孩子们在绿地上玩耍。"
+      },
+      {
+        "de": "Die Stadt hat viele Grünanlagen.",
+        "zh": "这个城市有很多绿地。"
+      }
+    ],
+    "collocations": [
+      "öffentliche Grünanlage",
+      "Grünanlage pflegen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "城市",
+      "环境",
+      "B1"
+    ],
+    "synonyms": [
+      "Park",
+      "Gartenanlage"
+    ],
+    "antonyms": [
+      "Bebauung"
+    ]
+  },
+  {
+    "word": "Grund",
+    "lemma": "Grund",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Gründe",
+    "meaning": [
+      {
+        "zh": "原因，理由",
+        "en": "reason, cause"
+      },
+      {
+        "zh": "土地，地基",
+        "en": "ground, land"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Aus welchem Grund hast du das gemacht?",
+        "zh": "你出于什么原因做了这件事？"
+      },
+      {
+        "de": "Das Haus steht auf festem Grund.",
+        "zh": "房子建在坚实的地基上。"
+      }
+    ],
+    "collocations": [
+      "aus diesem Grund",
+      "Grund und Boden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "抽象概念",
+      "土地",
+      "B1"
+    ],
+    "synonyms": [
+      "Ursache",
+      "Boden"
+    ],
+    "antonyms": [
+      "Folge",
+      "Luft"
+    ]
+  },
+  {
+    "word": "gründen",
+    "lemma": "gründen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "建立，创立",
+        "en": "to found, to establish"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie gründete eine eigene Firma.",
+        "zh": "她创立了自己的公司。"
+      },
+      {
+        "de": "Die Universität wurde im 19. Jahrhundert gegründet.",
+        "zh": "这所大学建于19世纪。"
+      }
+    ],
+    "collocations": [
+      "ein Unternehmen gründen",
+      "eine Familie gründen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gegründet"
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "errichten",
+      "aufbauen"
+    ],
+    "antonyms": [
+      "auflösen",
+      "schließen"
+    ]
+  },
+  {
+    "word": "Gymnasium",
+    "lemma": "Gymnasium",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Gymnasien",
+    "meaning": [
+      {
+        "zh": "文理中学",
+        "en": "grammar school, high school (academic track)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er geht auf ein Gymnasium.",
+        "zh": "他上的是文理中学。"
+      },
+      {
+        "de": "Das Gymnasium bereitet auf das Studium vor.",
+        "zh": "文理中学为大学学习做准备。"
+      }
+    ],
+    "collocations": [
+      "auf dem Gymnasium",
+      "Gymnasium besuchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "教育",
+      "学校",
+      "A2"
+    ],
+    "synonyms": [
+      "Oberschule"
+    ],
+    "antonyms": [
+      "Grundschule",
+      "Hauptschule"
+    ]
+  },
+  {
+    "word": "Hafen",
+    "lemma": "Hafen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Häfen",
+    "meaning": [
+      {
+        "zh": "港口",
+        "en": "harbor, port"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Schiff legt im Hafen an.",
+        "zh": "船在港口靠岸。"
+      },
+      {
+        "de": "Der Hafen ist für den Handel wichtig.",
+        "zh": "港口对贸易很重要。"
+      }
+    ],
+    "collocations": [
+      "im Hafen",
+      "Hafenstadt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "交通",
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "Anlegestelle",
+      "Hafenbecken"
+    ],
+    "antonyms": [
+      "Land",
+      "Binnenland"
+    ]
+  },
+  {
+    "word": "halten",
+    "lemma": "halten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "拿着，握住",
+        "en": "to hold"
+      },
+      {
+        "zh": "停止，停住",
+        "en": "to stop"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du bitte die Tasche halten?",
+        "zh": "你能拿着包吗？"
+      },
+      {
+        "de": "Der Bus hält an der Haltestelle.",
+        "zh": "公交车在车站停下。"
+      }
+    ],
+    "collocations": [
+      "eine Rede halten",
+      "den Atem halten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gehalten"
+    },
+    "level": "A2",
+    "tags": [
+      "动作",
+      "交通",
+      "A2"
+    ],
+    "synonyms": [
+      "festhalten",
+      "anhalten"
+    ],
+    "antonyms": [
+      "loslassen",
+      "weiterfahren"
+    ]
+  },
+  {
+    "word": "Handelsfirma",
+    "lemma": "Handelsfirma",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Handelsfirmen",
+    "meaning": [
+      {
+        "zh": "贸易公司",
+        "en": "trading company, commercial firm"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Handelsfirma exportiert Waren nach Asien.",
+        "zh": "这家贸易公司向亚洲出口商品。"
+      },
+      {
+        "de": "Er arbeitet bei einer internationalen Handelsfirma.",
+        "zh": "他在一家国际贸易公司工作。"
+      }
+    ],
+    "collocations": [
+      "eine Handelsfirma gründen",
+      "bei einer Handelsfirma arbeiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "商业",
+      "B1"
+    ],
+    "synonyms": [
+      "Handelsunternehmen",
+      "Handelsgesellschaft"
+    ],
+    "antonyms": [
+      "Produktionsfirma"
+    ]
+  },
+  {
+    "word": "Handschuh",
+    "lemma": "Handschuh",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Handschuhe",
+    "meaning": [
+      {
+        "zh": "手套",
+        "en": "glove"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Winter trage ich immer warme Handschuhe.",
+        "zh": "冬天我总是戴暖和的手套。"
+      },
+      {
+        "de": "Er hat seine Handschuhe im Bus vergessen.",
+        "zh": "他把手套忘在公交车上了。"
+      }
+    ],
+    "collocations": [
+      "Handschuhe anziehen",
+      "Handschuhe ausziehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "衣物",
+      "A2"
+    ],
+    "synonyms": [
+      "Fausthandschuh",
+      "Fingerhandschuh"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Hass",
+    "lemma": "Hass",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "仇恨",
+        "en": "hatred"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sein Hass auf die Ungerechtigkeit trieb ihn zum Handeln.",
+        "zh": "他对不公的仇恨驱使他行动。"
+      },
+      {
+        "de": "Hass kann Beziehungen zerstören.",
+        "zh": "仇恨会摧毁关系。"
+      }
+    ],
+    "collocations": [
+      "Hass empfinden",
+      "Hass schüren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Feindseligkeit",
+      "Abneigung"
+    ],
+    "antonyms": [
+      "Liebe",
+      "Zuneigung"
+    ]
+  },
+  {
+    "word": "Hauptthema",
+    "lemma": "Hauptthema",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Hauptthemen",
+    "meaning": [
+      {
+        "zh": "主题",
+        "en": "main topic"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Hauptthema der Konferenz war der Klimawandel.",
+        "zh": "会议的主题是气候变化。"
+      },
+      {
+        "de": "In seinem Vortrag kehrte er immer wieder zum Hauptthema zurück.",
+        "zh": "在他的演讲中，他不断回到主题上。"
+      }
+    ],
+    "collocations": [
+      "das Hauptthema behandeln",
+      "vom Hauptthema abweichen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "学术",
+      "B1"
+    ],
+    "synonyms": [
+      "Kernthema",
+      "Schwerpunkt"
+    ],
+    "antonyms": [
+      "Nebenthema",
+      "Randthema"
+    ]
+  },
+  {
+    "word": "heilig",
+    "lemma": "heilig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "神圣的",
+        "en": "holy"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieser Ort gilt als heilig.",
+        "zh": "这个地方被认为是神圣的。"
+      },
+      {
+        "de": "Für ihn ist die Familie heilig.",
+        "zh": "对他来说，家庭是神圣的。"
+      }
+    ],
+    "collocations": [
+      "heiliger Ort",
+      "heilige Pflicht"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "宗教",
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "geweiht",
+      "unantastbar"
+    ],
+    "antonyms": [
+      "profan",
+      "unheilig"
+    ]
+  },
+  {
+    "word": "Heimweh",
+    "lemma": "Heimweh",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "思乡",
+        "en": "homesickness"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Nach einer Woche im Ausland bekam sie starkes Heimweh.",
+        "zh": "在国外一周后，她非常想家。"
+      },
+      {
+        "de": "Heimweh ist ein häufiges Problem bei Austauschschülern.",
+        "zh": "思乡是交换生常见的问题。"
+      }
+    ],
+    "collocations": [
+      "Heimweh haben",
+      "unter Heimweh leiden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Sehnsucht",
+      "Nostalgie"
+    ],
+    "antonyms": [
+      "Fernweh",
+      "Abenteuerlust"
+    ]
+  },
+  {
+    "word": "heiraten",
+    "lemma": "heiraten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "结婚",
+        "en": "to marry"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie wollen im nächsten Sommer heiraten.",
+        "zh": "他们打算明年夏天结婚。"
+      },
+      {
+        "de": "Er hat seine Jugendliebe geheiratet.",
+        "zh": "他娶了他的初恋。"
+      }
+    ],
+    "collocations": [
+      "jemanden heiraten",
+      "standesamtlich heiraten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geheiratet"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "sich vermählen",
+      "den Bund fürs Leben schließen"
+    ],
+    "antonyms": [
+      "sich scheiden lassen",
+      "getrennt leben"
+    ]
+  },
+  {
+    "word": "herauskommen",
+    "lemma": "herauskommen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "出来；出版",
+        "en": "to come out; to be published"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das neue Buch kommt nächste Woche heraus.",
+        "zh": "这本新书下周出版。"
+      },
+      {
+        "de": "Die Wahrheit wird irgendwann herauskommen.",
+        "zh": "真相总有一天会水落石出。"
+      }
+    ],
+    "collocations": [
+      "ein Buch kommt heraus",
+      "die Wahrheit kommt heraus"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "herausgekommen"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "媒体",
+      "B1"
+    ],
+    "synonyms": [
+      "erscheinen",
+      "veröffentlicht werden"
+    ],
+    "antonyms": [
+      "verschwinden",
+      "untergehen"
+    ]
+  },
+  {
+    "word": "hereinspringen",
+    "lemma": "hereinspringen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "跳进来",
+        "en": "to jump in"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Hund ist durch das offene Fenster hereingesprungen.",
+        "zh": "狗从开着的窗户跳了进来。"
+      },
+      {
+        "de": "Er sprang schnell herein, bevor die Tür zufiel.",
+        "zh": "他在门关上之前迅速跳了进来。"
+      }
+    ],
+    "collocations": [
+      "ins Haus hereinspringen",
+      "durch die Tür hereinspringen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "hereingesprungen"
+    },
+    "level": "B2",
+    "tags": [
+      "动作",
+      "生活",
+      "B2"
+    ],
+    "synonyms": [
+      "hineinspringen",
+      "eintreten"
+    ],
+    "antonyms": [
+      "hinausspringen",
+      "herausspringen"
+    ]
+  },
+  {
+    "word": "herstellen",
+    "lemma": "herstellen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "生产，制造",
+        "en": "to produce, to manufacture"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Unternehmen stellt hochwertige Möbel her.",
+        "zh": "这家公司生产高品质家具。"
+      },
+      {
+        "de": "In dieser Fabrik werden Autoteile hergestellt.",
+        "zh": "这家工厂制造汽车零件。"
+      }
+    ],
+    "collocations": [
+      "ein Produkt herstellen",
+      "in Serie herstellen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "hergestellt"
+    },
+    "level": "B1",
+    "tags": [
+      "生产",
+      "工业",
+      "B1"
+    ],
+    "synonyms": [
+      "produzieren",
+      "fertigen"
+    ],
+    "antonyms": [
+      "zerstören",
+      "abbauen"
+    ]
+  },
+  {
+    "word": "Hersteller",
+    "lemma": "Hersteller",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Hersteller",
+    "meaning": [
+      {
+        "zh": "制造商，生产商",
+        "en": "manufacturer, producer"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Hersteller gibt eine Garantie von zwei Jahren.",
+        "zh": "制造商提供两年保修。"
+      },
+      {
+        "de": "Viele Hersteller setzen auf nachhaltige Produktion.",
+        "zh": "许多制造商注重可持续生产。"
+      }
+    ],
+    "collocations": [
+      "der Hersteller des Produkts",
+      "vom Hersteller empfohlen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "商业",
+      "工业",
+      "B1"
+    ],
+    "synonyms": [
+      "Produzent",
+      "Fabrikant"
+    ],
+    "antonyms": [
+      "Kunde",
+      "Verbraucher"
+    ]
+  },
+  {
+    "word": "herumtanzen",
+    "lemma": "herumtanzen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "四处跳舞，蹦跳",
+        "en": "to dance around, to frolic"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kinder tanzen fröhlich auf der Wiese herum.",
+        "zh": "孩子们在草地上快乐地蹦跳。"
+      },
+      {
+        "de": "Er tanzte vor Freude im Zimmer herum.",
+        "zh": "他高兴地在房间里跳来跳去。"
+      }
+    ],
+    "collocations": [
+      "auf der Bühne herumtanzen",
+      "vor Freude herumtanzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "herumgetanzt"
+    },
+    "level": "B2",
+    "tags": [
+      "动作",
+      "情感",
+      "B2"
+    ],
+    "synonyms": [
+      "umhertanzen",
+      "springen"
+    ],
+    "antonyms": [
+      "stillstehen",
+      "sitzen"
+    ]
+  },
+  {
+    "word": "herunterladen",
+    "lemma": "herunterladen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "下载",
+        "en": "to download"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich lade das Update von der Website herunter.",
+        "zh": "我从网站下载更新。"
+      },
+      {
+        "de": "Kannst du das Dokument für mich herunterladen?",
+        "zh": "你能帮我下载这个文件吗？"
+      }
+    ],
+    "collocations": [
+      "eine Datei herunterladen",
+      "Software herunterladen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "heruntergeladen"
+    },
+    "level": "A2",
+    "tags": [
+      "科技",
+      "互联网",
+      "A2"
+    ],
+    "synonyms": [
+      "downloaden",
+      "runterladen"
+    ],
+    "antonyms": [
+      "hochladen",
+      "uploaden"
+    ]
+  },
+  {
+    "word": "Herz",
+    "lemma": "Herz",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Herzen",
+    "meaning": [
+      {
+        "zh": "心脏；心",
+        "en": "heart"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Herz schlägt etwa 70 Mal pro Minute.",
+        "zh": "心脏每分钟跳动约70次。"
+      },
+      {
+        "de": "Sie hat ein gutes Herz und hilft immer anderen.",
+        "zh": "她有一颗善良的心，总是帮助别人。"
+      }
+    ],
+    "collocations": [
+      "das Herz schlägt",
+      "von ganzem Herzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "身体",
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "Puls",
+      "Gemüt"
+    ],
+    "antonyms": [
+      "Verstand",
+      "Kopf"
+    ]
+  },
+  {
+    "word": "Hilfe",
+    "lemma": "Hilfe",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Hilfen",
+    "meaning": [
+      {
+        "zh": "帮助，援助",
+        "en": "help, assistance"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du mir bitte Hilfe leisten?",
+        "zh": "你能给我提供帮助吗？"
+      },
+      {
+        "de": "Bei Problemen können Sie Hilfe von einem Experten holen.",
+        "zh": "遇到问题时，您可以寻求专家的帮助。"
+      }
+    ],
+    "collocations": [
+      "Hilfe leisten",
+      "um Hilfe bitten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "社会",
+      "日常",
+      "A1"
+    ],
+    "synonyms": [
+      "Unterstützung",
+      "Beistand"
+    ],
+    "antonyms": [
+      "Hindernis",
+      "Störung"
+    ]
+  },
+  {
+    "word": "hilfreich",
+    "lemma": "hilfreich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "有帮助的，有用的",
+        "en": "helpful, useful"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Deine Tipps waren sehr hilfreich für mich.",
+        "zh": "你的建议对我非常有帮助。"
+      },
+      {
+        "de": "Ein hilfreicher Hinweis kann viel Zeit sparen.",
+        "zh": "一个有用的提示可以节省很多时间。"
+      }
+    ],
+    "collocations": [
+      "hilfreiche Informationen",
+      "hilfreiche Ratschläge"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "评价",
+      "B1"
+    ],
+    "synonyms": [
+      "nützlich",
+      "förderlich"
+    ],
+    "antonyms": [
+      "unnütz",
+      "schädlich"
+    ]
+  },
+  {
+    "word": "hilfsbereit",
+    "lemma": "hilfsbereit",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "乐于助人的",
+        "en": "helpful, willing to help"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Meine Nachbarn sind sehr hilfsbereit.",
+        "zh": "我的邻居们非常乐于助人。"
+      },
+      {
+        "de": "Ein hilfsbereiter Mensch wird immer gebraucht.",
+        "zh": "一个乐于助人的人总是被需要的。"
+      }
+    ],
+    "collocations": [
+      "hilfsbereite Person",
+      "sich hilfsbereit zeigen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "性格",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "dienstbereit",
+      "entgegenkommend"
+    ],
+    "antonyms": [
+      "egoistisch",
+      "gleichgültig"
+    ]
+  },
+  {
+    "word": "hinwegfliegen",
+    "lemma": "hinwegfliegen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "飞过去",
+        "en": "fly over/away"
+      },
+      {
+        "zh": "飞越",
+        "en": "fly across"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Vogel flog über das Dach hinweg.",
+        "zh": "那只鸟飞过了屋顶。"
+      },
+      {
+        "de": "Die Zeit fliegt einfach hinweg.",
+        "zh": "时间就这样飞逝而过。"
+      }
+    ],
+    "collocations": [
+      "über etwas hinwegfliegen",
+      "hinwegfliegen über"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "hinweggeflogen"
+    },
+    "level": "B2",
+    "tags": [
+      "运动",
+      "空间",
+      "B2"
+    ],
+    "synonyms": [
+      "überfliegen",
+      "vorbeifliegen"
+    ],
+    "antonyms": [
+      "landen",
+      "anhalten"
+    ]
+  },
+  {
+    "word": "hinzu",
+    "lemma": "hinzu",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "此外，另外",
+        "en": "in addition, additionally"
+      },
+      {
+        "zh": "加上",
+        "en": "plus"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Hinzu kommt, dass das Wetter schlecht ist.",
+        "zh": "此外，天气也不好。"
+      },
+      {
+        "de": "Die Kosten kommen noch hinzu.",
+        "zh": "费用还要加上。"
+      }
+    ],
+    "collocations": [
+      "hinzu kommen",
+      "hinzu fügen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "连接词",
+      "逻辑",
+      "B1"
+    ],
+    "synonyms": [
+      "zusätzlich",
+      "außerdem"
+    ],
+    "antonyms": [
+      "abzüglich",
+      "ohne"
+    ]
+  },
+  {
+    "word": "historisch",
+    "lemma": "historisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "历史的，历史上的",
+        "en": "historical"
+      },
+      {
+        "zh": "具有历史意义的",
+        "en": "historic"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist ein historischer Moment.",
+        "zh": "这是一个历史性的时刻。"
+      },
+      {
+        "de": "Das Museum zeigt historische Gegenstände.",
+        "zh": "博物馆展示历史物品。"
+      }
+    ],
+    "collocations": [
+      "historisches Ereignis",
+      "historische Bedeutung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "历史",
+      "学术",
+      "B1"
+    ],
+    "synonyms": [
+      "geschichtlich",
+      "vergangen"
+    ],
+    "antonyms": [
+      "aktuell",
+      "modern"
+    ]
+  },
+  {
+    "word": "Hochwasser",
+    "lemma": "Hochwasser",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Hochwasser",
+    "meaning": [
+      {
+        "zh": "洪水，涨潮",
+        "en": "flood, high water"
+      },
+      {
+        "zh": "高水位",
+        "en": "high water level"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Nach dem Regen gab es Hochwasser im Tal.",
+        "zh": "雨后山谷里发生了洪水。"
+      },
+      {
+        "de": "Das Hochwasser hat viele Häuser beschädigt.",
+        "zh": "洪水损坏了许多房屋。"
+      }
+    ],
+    "collocations": [
+      "Hochwasser haben",
+      "vor Hochwasser warnen",
+      "Hochwasser bekämpfen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "自然",
+      "灾害",
+      "B1"
+    ],
+    "synonyms": [
+      "Überschwemmung",
+      "Flut"
+    ],
+    "antonyms": [
+      "Niedrigwasser",
+      "Dürre"
+    ]
+  },
+  {
+    "word": "hoffentlich",
+    "lemma": "hoffentlich",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "希望，但愿",
+        "en": "hopefully"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Hoffentlich wird das Wetter morgen besser.",
+        "zh": "希望明天天气会好一些。"
+      },
+      {
+        "de": "Hoffentlich hast du dich nicht verletzt.",
+        "zh": "希望你没有受伤。"
+      }
+    ],
+    "collocations": [
+      "hoffentlich nicht",
+      "hoffentlich bald"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "vielleicht",
+      "wünschenswert"
+    ],
+    "antonyms": [
+      "leider",
+      "bedauerlicherweise"
+    ]
+  },
+  {
+    "word": "Hoffnung",
+    "lemma": "Hoffnung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Hoffnungen",
+    "meaning": [
+      {
+        "zh": "希望，期望",
+        "en": "hope, expectation"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe die Hoffnung nicht aufgegeben.",
+        "zh": "我没有放弃希望。"
+      },
+      {
+        "de": "Sie lebt in der Hoffnung auf eine bessere Zukunft.",
+        "zh": "她怀着对更美好未来的希望生活。"
+      }
+    ],
+    "collocations": [
+      "Hoffnung haben",
+      "Hoffnung machen",
+      "Hoffnung verlieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "心理",
+      "A2"
+    ],
+    "synonyms": [
+      "Erwartung",
+      "Zuversicht"
+    ],
+    "antonyms": [
+      "Verzweiflung",
+      "Hoffnungslosigkeit"
+    ]
+  },
+  {
+    "word": "Höhepunkt",
+    "lemma": "Höhepunkt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Höhepunkte",
+    "meaning": [
+      {
+        "zh": "高潮，顶点",
+        "en": "climax, peak, highlight"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Höhepunkt des Films war sehr spannend.",
+        "zh": "电影的高潮非常紧张刺激。"
+      },
+      {
+        "de": "Das Konzert war der Höhepunkt des Festivals.",
+        "zh": "这场音乐会是节日的亮点。"
+      }
+    ],
+    "collocations": [
+      "den Höhepunkt erreichen",
+      "Höhepunkt des Abends"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "事件",
+      "评价",
+      "B1"
+    ],
+    "synonyms": [
+      "Gipfel",
+      "Kulmination"
+    ],
+    "antonyms": [
+      "Tiefpunkt",
+      "Niedrigpunkt"
+    ]
+  },
+  {
+    "word": "Holz",
+    "lemma": "Holz",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Hölzer",
+    "meaning": [
+      {
+        "zh": "木头，木材",
+        "en": "wood, timber"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Tisch ist aus Holz.",
+        "zh": "这张桌子是木头做的。"
+      },
+      {
+        "de": "Wir brauchen mehr Holz für den Kamin.",
+        "zh": "我们需要更多木柴给壁炉。"
+      }
+    ],
+    "collocations": [
+      "aus Holz",
+      "Holz verarbeiten",
+      "Holz schneiden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "材料",
+      "自然",
+      "A2"
+    ],
+    "synonyms": [
+      "Bauholz",
+      "Brennholz"
+    ],
+    "antonyms": [
+      "Metall",
+      "Stein"
+    ]
+  },
+  {
+    "word": "Harer",
+    "lemma": "Harer",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Harer",
+    "meaning": [
+      {
+        "zh": "哈雷尔（姓氏）",
+        "en": "Harer (surname)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Herr Harer ist unser neuer Nachbar.",
+        "zh": "哈雷尔先生是我们的新邻居。"
+      },
+      {
+        "de": "Frau Harer arbeitet in der Bibliothek.",
+        "zh": "哈雷尔女士在图书馆工作。"
+      }
+    ],
+    "collocations": [
+      "der Harer",
+      "Herr Harer"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "人名",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Hörsaal",
+    "lemma": "Hörsaal",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Hörsäle",
+    "meaning": [
+      {
+        "zh": "讲堂，阶梯教室",
+        "en": "lecture hall, auditorium"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Hörsaal ist für die Vorlesung reserviert.",
+        "zh": "这个讲堂是为讲座预留的。"
+      },
+      {
+        "de": "Die Studenten versammeln sich im Hörsaal.",
+        "zh": "学生们聚集在阶梯教室里。"
+      }
+    ],
+    "collocations": [
+      "im Hörsaal",
+      "den Hörsaal betreten",
+      "der Hörsaal ist voll"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "教育",
+      "建筑",
+      "A2"
+    ],
+    "synonyms": [
+      "Vorlesungssaal",
+      "Auditorium"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Hörschwäche",
+    "lemma": "Hörschwäche",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Hörschwächen",
+    "meaning": [
+      {
+        "zh": "听力减退，听力障碍",
+        "en": "hearing impairment, hearing loss"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mit zunehmendem Alter kann eine Hörschwäche auftreten.",
+        "zh": "随着年龄增长，可能会出现听力减退。"
+      },
+      {
+        "de": "Die Hörschwäche wird mit einem Hörgerät behandelt.",
+        "zh": "听力障碍用助听器治疗。"
+      }
+    ],
+    "collocations": [
+      "eine Hörschwäche haben",
+      "unter Hörschwäche leiden",
+      "die Hörschwäche behandeln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "医学",
+      "健康",
+      "B1"
+    ],
+    "synonyms": [
+      "Schwerhörigkeit",
+      "Hörverlust"
+    ],
+    "antonyms": [
+      "gutes Gehör"
+    ]
+  }
+]

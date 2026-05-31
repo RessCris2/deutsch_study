@@ -1,0 +1,1470 @@
+[
+  {
+    "word": "solide",
+    "lemma": "solide",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "坚实的，可靠的，扎实的",
+        "en": "solid, reliable, thorough"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat eine solide Ausbildung genossen.",
+        "zh": "他接受了扎实的教育。"
+      },
+      {
+        "de": "Das Fundament des Hauses ist sehr solide.",
+        "zh": "房子的地基非常坚固。"
+      }
+    ],
+    "collocations": [
+      "solide Arbeit",
+      "solide Kenntnisse"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "品质",
+      "B1"
+    ],
+    "synonyms": [
+      "stabil",
+      "zuverlässig",
+      "gediegen"
+    ],
+    "antonyms": [
+      "unsolide",
+      "schwach",
+      "oberflächlich"
+    ]
+  },
+  {
+    "word": "Sorgfalt",
+    "lemma": "Sorgfalt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "细心，谨慎，认真",
+        "en": "care, diligence, thoroughness"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mit großer Sorgfalt hat sie den Vertrag geprüft.",
+        "zh": "她非常仔细地检查了合同。"
+      },
+      {
+        "de": "Bei der Arbeit ist Sorgfalt unerlässlich.",
+        "zh": "在工作中细心是必不可少的。"
+      }
+    ],
+    "collocations": [
+      "mit Sorgfalt",
+      "große Sorgfalt",
+      "Sorgfalt walten lassen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "品质",
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "Genauigkeit",
+      "Gründlichkeit",
+      "Achtsamkeit"
+    ],
+    "antonyms": [
+      "Nachlässigkeit",
+      "Fahrlässigkeit",
+      "Schlamperei"
+    ]
+  },
+  {
+    "word": "sortieren",
+    "lemma": "sortieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "整理，分类，排序",
+        "en": "to sort, to arrange, to categorize"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich muss meine Unterlagen sortieren.",
+        "zh": "我必须整理我的文件。"
+      },
+      {
+        "de": "Die Müllabfuhr sortiert den Abfall nach Materialien.",
+        "zh": "垃圾回收公司按材料分类垃圾。"
+      }
+    ],
+    "collocations": [
+      "etwas sortieren",
+      "nach etwas sortieren",
+      "sortiert sein"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "sortiert"
+    },
+    "level": "B1",
+    "tags": [
+      "日常",
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "ordnen",
+      "einteilen",
+      "klassifizieren"
+    ],
+    "antonyms": [
+      "durcheinanderbringen",
+      "vermischen",
+      "chaotisieren"
+    ]
+  },
+  {
+    "word": "sparsam",
+    "lemma": "sparsam",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "节俭的，节约的，节省的",
+        "en": "frugal, economical, thrifty"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie ist sehr sparsam und gibt wenig Geld aus.",
+        "zh": "她很节俭，很少花钱。"
+      },
+      {
+        "de": "Dieses Auto ist besonders sparsam im Verbrauch.",
+        "zh": "这辆车特别省油。"
+      }
+    ],
+    "collocations": [
+      "sparsam sein",
+      "sparsam umgehen",
+      "sparsam leben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "品质",
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "genügsam",
+      "wirtschaftlich",
+      "haushälterisch"
+    ],
+    "antonyms": [
+      "verschwenderisch",
+      "großzügig",
+      "extravagant"
+    ]
+  },
+  {
+    "word": "speisen",
+    "lemma": "speisen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "用餐，进餐；供给（能源等）",
+        "en": "to dine, to eat; to supply (energy, etc.)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir speisen heute Abend im Restaurant.",
+        "zh": "我们今晚在餐厅用餐。"
+      },
+      {
+        "de": "Die Solaranlage speist Strom ins Netz.",
+        "zh": "太阳能设备向电网供电。"
+      }
+    ],
+    "collocations": [
+      "zu Abend speisen",
+      "ins Netz speisen",
+      "mit etwas speisen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gespeist"
+    },
+    "level": "B2",
+    "tags": [
+      "日常",
+      "技术",
+      "B2"
+    ],
+    "synonyms": [
+      "essen",
+      "verköstigen",
+      "einspeisen"
+    ],
+    "antonyms": [
+      "fasten",
+      "hungern",
+      "entziehen"
+    ]
+  },
+  {
+    "word": "Spezialist",
+    "lemma": "Spezialist",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Spezialisten",
+    "meaning": [
+      {
+        "zh": "专家，专业人员",
+        "en": "specialist, expert"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist ein Spezialist für Herzchirurgie.",
+        "zh": "他是心脏外科专家。"
+      },
+      {
+        "de": "Wir brauchen einen Spezialisten für IT-Sicherheit.",
+        "zh": "我们需要一位IT安全专家。"
+      }
+    ],
+    "collocations": [
+      "ein Spezialist für",
+      "als Spezialist arbeiten",
+      "Spezialist auf dem Gebiet"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "职业",
+      "专业",
+      "B1"
+    ],
+    "synonyms": [
+      "Experte",
+      "Fachmann",
+      "Kenner"
+    ],
+    "antonyms": [
+      "Laie",
+      "Amateur",
+      "Anfänger"
+    ]
+  },
+  {
+    "word": "spülen",
+    "lemma": "spülen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "冲洗，洗涤；冲刷",
+        "en": "to rinse, to wash, to flush"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich spüle das Geschirr nach dem Essen.",
+        "zh": "饭后我洗碗。"
+      },
+      {
+        "de": "Die Wellen spülen den Sand an den Strand.",
+        "zh": "海浪把沙子冲到海滩上。"
+      }
+    ],
+    "collocations": [
+      "Geschirr spülen",
+      "die Toilette spülen",
+      "etwas mit Wasser spülen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gespült"
+    },
+    "level": "A2",
+    "tags": [
+      "日常",
+      "家务",
+      "A2"
+    ],
+    "synonyms": [
+      "waschen",
+      "reinigen",
+      "abspülen"
+    ],
+    "antonyms": [
+      "verschmutzen",
+      "beschmutzen",
+      "eintrocknen"
+    ]
+  },
+  {
+    "word": "Stamm",
+    "lemma": "Stamm",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Stämme",
+    "meaning": [
+      {
+        "zh": "树干；部落；词干；主干",
+        "en": "trunk; tribe; stem; main body"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Stamm des Baumes ist sehr dick.",
+        "zh": "这棵树的树干很粗。"
+      },
+      {
+        "de": "Der Stamm der Germanen lebte in Mitteleuropa.",
+        "zh": "日耳曼部落曾居住在中欧。"
+      }
+    ],
+    "collocations": [
+      "der Stamm eines Baumes",
+      "ein germanischer Stamm",
+      "der Wortstamm"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "自然",
+      "历史",
+      "语言",
+      "B1"
+    ],
+    "synonyms": [
+      "Baumstamm",
+      "Volksstamm",
+      "Wortstamm"
+    ],
+    "antonyms": [
+      "Ast",
+      "Zweig",
+      "Blatt"
+    ]
+  },
+  {
+    "word": "stationar",
+    "lemma": "stationär",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "住院的；固定的",
+        "en": "inpatient; stationary"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Patient wird stationär behandelt.",
+        "zh": "这位病人正在接受住院治疗。"
+      },
+      {
+        "de": "Die stationäre Versorgung ist gut organisiert.",
+        "zh": "住院护理组织得很好。"
+      }
+    ],
+    "collocations": [
+      "stationäre Behandlung",
+      "stationärer Aufenthalt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "医疗",
+      "B1"
+    ],
+    "synonyms": [
+      "klinisch",
+      "fest"
+    ],
+    "antonyms": [
+      "ambulant",
+      "mobil"
+    ]
+  },
+  {
+    "word": "steigern",
+    "lemma": "steigern",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "提高；增加",
+        "en": "to increase; to enhance"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir müssen die Produktivität steigern.",
+        "zh": "我们必须提高生产力。"
+      },
+      {
+        "de": "Die Nachfrage hat sich gesteigert.",
+        "zh": "需求增加了。"
+      }
+    ],
+    "collocations": [
+      "die Leistung steigern",
+      "den Umsatz steigern"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gesteigert"
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "erhöhen",
+      "verbessern"
+    ],
+    "antonyms": [
+      "senken",
+      "verringern"
+    ]
+  },
+  {
+    "word": "Stiftung",
+    "lemma": "Stiftung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Stiftungen",
+    "meaning": [
+      {
+        "zh": "基金会；捐赠",
+        "en": "foundation; endowment"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Stiftung unterstützt Bildungsprojekte.",
+        "zh": "该基金会支持教育项目。"
+      },
+      {
+        "de": "Er hat eine Stiftung gegründet.",
+        "zh": "他成立了一个基金会。"
+      }
+    ],
+    "collocations": [
+      "eine Stiftung gründen",
+      "gemeinnützige Stiftung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Fonds",
+      "Institution"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Stoff",
+    "lemma": "Stoff",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Stoffe",
+    "meaning": [
+      {
+        "zh": "材料；布料；物质",
+        "en": "material; fabric; substance"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieser Stoff ist sehr weich.",
+        "zh": "这种布料很柔软。"
+      },
+      {
+        "de": "Chemische Stoffe können gefährlich sein.",
+        "zh": "化学物质可能很危险。"
+      }
+    ],
+    "collocations": [
+      "chemischer Stoff",
+      "Stoff wechseln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Material",
+      "Substanz"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Stöpsel",
+    "lemma": "Stöpsel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Stöpsel",
+    "meaning": [
+      {
+        "zh": "塞子；插头",
+        "en": "plug; stopper"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Zieh den Stöpsel aus der Badewanne.",
+        "zh": "把浴缸的塞子拔出来。"
+      },
+      {
+        "de": "Der Stöpsel passt nicht in die Steckdose.",
+        "zh": "这个插头不适合插座。"
+      }
+    ],
+    "collocations": [
+      "den Stöpsel ziehen",
+      "Stöpsel für die Flasche"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Verschluss",
+      "Stecker"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Strafraum",
+    "lemma": "Strafraum",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Strafräume",
+    "meaning": [
+      {
+        "zh": "罚球区；禁区",
+        "en": "penalty area"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Torwart darf den Ball im Strafraum mit der Hand berühren.",
+        "zh": "守门员可以在禁区内用手触球。"
+      },
+      {
+        "de": "Das Foul geschah im Strafraum.",
+        "zh": "犯规发生在禁区内。"
+      }
+    ],
+    "collocations": [
+      "im Strafraum foulen",
+      "Strafraum betreten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "体育",
+      "B1"
+    ],
+    "synonyms": [
+      "Sechzehnmeterraum"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Strategie",
+    "lemma": "Strategie",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Strategien",
+    "meaning": [
+      {
+        "zh": "策略；战略",
+        "en": "strategy"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir brauchen eine neue Strategie für den Markt.",
+        "zh": "我们需要一个新的市场策略。"
+      },
+      {
+        "de": "Die militärische Strategie wurde geändert.",
+        "zh": "军事战略被改变了。"
+      }
+    ],
+    "collocations": [
+      "eine Strategie entwickeln",
+      "langfristige Strategie"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "Plan",
+      "Taktik"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "streben",
+    "lemma": "streben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "追求；致力于",
+        "en": "to strive; to aspire"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er strebt nach Erfolg.",
+        "zh": "他追求成功。"
+      },
+      {
+        "de": "Wir streben eine bessere Zusammenarbeit an.",
+        "zh": "我们致力于更好的合作。"
+      }
+    ],
+    "collocations": [
+      "nach etwas streben",
+      "danach streben, ... zu tun"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gestrebt"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "anstreben",
+      "zielen"
+    ],
+    "antonyms": [
+      "vermeiden",
+      "aufgeben"
+    ]
+  },
+  {
+    "word": "Streifen",
+    "lemma": "Streifen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Streifen",
+    "meaning": [
+      {
+        "zh": "条纹，条带",
+        "en": "stripe, strip"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Kleid hat blaue und weiße Streifen.",
+        "zh": "这条裙子有蓝白条纹。"
+      },
+      {
+        "de": "Ein schmaler Streifen Land gehört ihm.",
+        "zh": "一小条土地属于他。"
+      }
+    ],
+    "collocations": [
+      "ein Streifen Papier",
+      "farbige Streifen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Linie",
+      "Band"
+    ],
+    "antonyms": [
+      "Fleck"
+    ]
+  },
+  {
+    "word": "Stress",
+    "lemma": "Stress",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "压力，紧张",
+        "en": "stress"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat viel Stress im Job.",
+        "zh": "他在工作中压力很大。"
+      },
+      {
+        "de": "Stress kann krank machen.",
+        "zh": "压力会让人生病。"
+      }
+    ],
+    "collocations": [
+      "unter Stress stehen",
+      "Stress abbauen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "Anspannung",
+      "Belastung"
+    ],
+    "antonyms": [
+      "Entspannung",
+      "Ruhe"
+    ]
+  },
+  {
+    "word": "stressig",
+    "lemma": "stressig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "紧张的，有压力的",
+        "en": "stressful"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Tag war sehr stressig.",
+        "zh": "这一天非常紧张。"
+      },
+      {
+        "de": "Eine stressige Arbeit macht müde.",
+        "zh": "有压力的工作让人疲惫。"
+      }
+    ],
+    "collocations": [
+      "stressige Situation",
+      "stressiger Alltag"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "anstrengend",
+      "hektisch"
+    ],
+    "antonyms": [
+      "entspannt",
+      "ruhig"
+    ]
+  },
+  {
+    "word": "Struktur",
+    "lemma": "Struktur",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Strukturen",
+    "meaning": [
+      {
+        "zh": "结构，构造",
+        "en": "structure"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Struktur des Satzes ist komplex.",
+        "zh": "这个句子的结构很复杂。"
+      },
+      {
+        "de": "Wir müssen die Organisationsstruktur verbessern.",
+        "zh": "我们必须改善组织结构。"
+      }
+    ],
+    "collocations": [
+      "die soziale Struktur",
+      "eine klare Struktur haben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Aufbau",
+      "Gefüge"
+    ],
+    "antonyms": [
+      "Chaos",
+      "Unordnung"
+    ]
+  },
+  {
+    "word": "Strumpf",
+    "lemma": "Strumpf",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Strümpfe",
+    "meaning": [
+      {
+        "zh": "袜子，长袜",
+        "en": "stocking, sock"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er trägt warme Strümpfe im Winter.",
+        "zh": "冬天他穿暖和的袜子。"
+      },
+      {
+        "de": "Ein Loch im Strumpf muss gestopft werden.",
+        "zh": "袜子上的洞需要补。"
+      }
+    ],
+    "collocations": [
+      "ein Paar Strümpfe",
+      "Strümpfe anziehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Socke"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "süchtig",
+    "lemma": "süchtig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "上瘾的，沉迷的",
+        "en": "addicted"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist süchtig nach Computerspielen.",
+        "zh": "他对电脑游戏上瘾。"
+      },
+      {
+        "de": "Süchtige Menschen brauchen Hilfe.",
+        "zh": "上瘾的人需要帮助。"
+      }
+    ],
+    "collocations": [
+      "süchtig nach etwas sein",
+      "süchtig machen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "abhängig",
+      "besessen"
+    ],
+    "antonyms": [
+      "unabhängig",
+      "frei"
+    ]
+  },
+  {
+    "word": "Symptom",
+    "lemma": "Symptom",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Symptome",
+    "meaning": [
+      {
+        "zh": "症状，征兆",
+        "en": "symptom"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Fieber ist ein Symptom der Grippe.",
+        "zh": "发烧是流感的症状。"
+      },
+      {
+        "de": "Die Symptome der Krankheit sind deutlich.",
+        "zh": "疾病的症状很明显。"
+      }
+    ],
+    "collocations": [
+      "ein Symptom erkennen",
+      "Symptome behandeln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "健康",
+      "B1"
+    ],
+    "synonyms": [
+      "Anzeichen",
+      "Merkmal"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "systematisieren",
+    "lemma": "systematisieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "系统化，使有条理",
+        "en": "systematize"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir müssen die Daten systematisieren.",
+        "zh": "我们必须将数据系统化。"
+      },
+      {
+        "de": "Er hat seine Arbeitsweise systematisiert.",
+        "zh": "他系统化了他的工作方式。"
+      }
+    ],
+    "collocations": [
+      "etwas systematisieren",
+      "systematisierte Vorgehensweise"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "systematisiert"
+    },
+    "level": "B2",
+    "tags": [
+      "科技",
+      "B2"
+    ],
+    "synonyms": [
+      "ordnen",
+      "strukturieren"
+    ],
+    "antonyms": [
+      "durcheinanderbringen",
+      "chaotisieren"
+    ]
+  },
+  {
+    "word": "Talent",
+    "lemma": "Talent",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Talente",
+    "meaning": [
+      {
+        "zh": "天赋，才能",
+        "en": "talent"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat ein großes Talent für Musik.",
+        "zh": "她在音乐方面有很大的天赋。"
+      },
+      {
+        "de": "Sein Talent wurde früh entdeckt.",
+        "zh": "他的才能很早就被发现了。"
+      }
+    ],
+    "collocations": [
+      "ein Talent haben",
+      "sein Talent entfalten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "能力",
+      "B1"
+    ],
+    "synonyms": [
+      "Begabung",
+      "Fähigkeit"
+    ],
+    "antonyms": [
+      "Unfähigkeit"
+    ]
+  },
+  {
+    "word": "Talkshow",
+    "lemma": "Talkshow",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Talkshows",
+    "meaning": [
+      {
+        "zh": "脱口秀，谈话节目",
+        "en": "talk show"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Talkshow gestern Abend war sehr unterhaltsam.",
+        "zh": "昨晚的脱口秀非常有趣。"
+      },
+      {
+        "de": "Er ist ein bekannter Gast in Talkshows.",
+        "zh": "他是脱口秀的知名嘉宾。"
+      }
+    ],
+    "collocations": [
+      "eine Talkshow moderieren",
+      "in einer Talkshow auftreten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "媒体",
+      "B1"
+    ],
+    "synonyms": [
+      "Gesprächsrunde",
+      "Diskussionssendung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Tausch",
+    "lemma": "Tausch",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Tausche",
+    "meaning": [
+      {
+        "zh": "交换，互换",
+        "en": "exchange"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Tausch der Geschenke war eine schöne Überraschung.",
+        "zh": "交换礼物是一个美好的惊喜。"
+      },
+      {
+        "de": "Wir haben einen Tausch von Dienstleistungen vereinbart.",
+        "zh": "我们商定了服务交换。"
+      }
+    ],
+    "collocations": [
+      "im Tausch gegen",
+      "einen Tausch durchführen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "Austausch",
+      "Wechsel"
+    ],
+    "antonyms": [
+      "Behalt"
+    ]
+  },
+  {
+    "word": "Als",
+    "lemma": "als",
+    "pos": [
+      "conjunction"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "作为；当……时；比（比较级）",
+        "en": "as; when; than"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Als ich jung war, reiste ich viel.",
+        "zh": "当我年轻时，我旅行了很多。"
+      },
+      {
+        "de": "Er arbeitet als Lehrer.",
+        "zh": "他作为老师工作。"
+      }
+    ],
+    "collocations": [
+      "als ob",
+      "als ... als"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "语法",
+      "A2"
+    ],
+    "synonyms": [
+      "wie",
+      "wenn"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "SHER",
+    "lemma": "SHER",
+    "pos": [
+      "noun"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "（可能为缩写或专有名词，无标准释义）",
+        "en": "unknown abbreviation or proper noun"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Kürzel SHER ist nicht geläufig.",
+        "zh": "缩写SHER并不常见。"
+      },
+      {
+        "de": "Bitte präzisieren Sie die Bedeutung von SHER.",
+        "zh": "请明确SHER的含义。"
+      }
+    ],
+    "collocations": [],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "C1",
+    "tags": [
+      "未知",
+      "C1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "MER",
+    "lemma": "MER",
+    "pos": [
+      "noun"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "（可能为缩写或专有名词，无标准释义）",
+        "en": "unknown abbreviation or proper noun"
+      }
+    ],
+    "examples": [
+      {
+        "de": "MER könnte eine Abkürzung sein.",
+        "zh": "MER可能是一个缩写。"
+      },
+      {
+        "de": "Die Bedeutung von MER ist unklar.",
+        "zh": "MER的含义不清楚。"
+      }
+    ],
+    "collocations": [],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "C1",
+    "tags": [
+      "未知",
+      "C1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Teamgeist",
+    "lemma": "Teamgeist",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "团队精神",
+        "en": "team spirit"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Teamgeist ist entscheidend für den Erfolg des Projekts.",
+        "zh": "团队精神对项目的成功至关重要。"
+      },
+      {
+        "de": "Sie fördern den Teamgeist durch gemeinsame Aktivitäten.",
+        "zh": "他们通过共同活动促进团队精神。"
+      }
+    ],
+    "collocations": [
+      "Teamgeist zeigen",
+      "den Teamgeist stärken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Gemeinschaftsgefühl",
+      "Zusammenhalt"
+    ],
+    "antonyms": [
+      "Egoismus"
+    ]
+  }
+]

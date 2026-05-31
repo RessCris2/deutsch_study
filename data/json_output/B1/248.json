@@ -1,0 +1,1564 @@
+[
+  {
+    "word": "Außendienst",
+    "lemma": "Außendienst",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "外勤服务，外勤工作",
+        "en": "field service, outside sales"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er arbeitet im Außendienst für eine Versicherung.",
+        "zh": "他在一家保险公司做外勤工作。"
+      },
+      {
+        "de": "Der Außendienst besucht regelmäßig Kunden vor Ort.",
+        "zh": "外勤人员定期拜访客户现场。"
+      }
+    ],
+    "collocations": [
+      "im Außendienst tätig sein",
+      "Außendienstmitarbeiter"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "职业",
+      "商业",
+      "B1"
+    ],
+    "synonyms": [
+      "Felddienst",
+      "Kundenbesuchsdienst"
+    ],
+    "antonyms": [
+      "Innendienst"
+    ]
+  },
+  {
+    "word": "äußer",
+    "lemma": "äußer",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "外部的，外在的",
+        "en": "outer, external"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die äußere Erscheinung ist nicht alles.",
+        "zh": "外表不是一切。"
+      },
+      {
+        "de": "Das äußere Ersatzteil muss ausgetauscht werden.",
+        "zh": "外部零件必须更换。"
+      }
+    ],
+    "collocations": [
+      "äußere Einflüsse",
+      "äußere Schicht"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "描述",
+      "空间",
+      "B1"
+    ],
+    "synonyms": [
+      "außen",
+      "extern"
+    ],
+    "antonyms": [
+      "inner"
+    ]
+  },
+  {
+    "word": "außerhalb",
+    "lemma": "außerhalb",
+    "pos": [
+      "preposition",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "在...之外",
+        "en": "outside of"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Hotel liegt außerhalb der Stadt.",
+        "zh": "这家酒店位于城外。"
+      },
+      {
+        "de": "Außerhalb der Öffnungszeiten ist der Zugang verboten.",
+        "zh": "营业时间之外禁止进入。"
+      }
+    ],
+    "collocations": [
+      "außerhalb des Hauses",
+      "außerhalb der Arbeitszeit"
+    ],
+    "grammar": {
+      "case": "Genitiv",
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "空间",
+      "位置",
+      "A2"
+    ],
+    "synonyms": [
+      "draußen",
+      "jenseits"
+    ],
+    "antonyms": [
+      "innerhalb"
+    ]
+  },
+  {
+    "word": "Ausstrahlung",
+    "lemma": "Ausstrahlung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Ausstrahlungen",
+    "meaning": [
+      {
+        "zh": "魅力，气质；发射，播送",
+        "en": "charisma, aura; broadcast, emission"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat eine positive Ausstrahlung.",
+        "zh": "她有一种积极的气质。"
+      },
+      {
+        "de": "Die Ausstrahlung des Films beginnt um 20 Uhr.",
+        "zh": "电影播送晚上8点开始。"
+      }
+    ],
+    "collocations": [
+      "eine starke Ausstrahlung haben",
+      "Ausstrahlung von Wärme"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "性格",
+      "媒体",
+      "B1"
+    ],
+    "synonyms": [
+      "Charisma",
+      "Sendung"
+    ],
+    "antonyms": [
+      "Abstrahlung",
+      "Langweiligkeit"
+    ]
+  },
+  {
+    "word": "ausüben",
+    "lemma": "ausüben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "从事，施加",
+        "en": "to practice, to exert"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er übt den Beruf des Arztes aus.",
+        "zh": "他从事医生职业。"
+      },
+      {
+        "de": "Der Druck übt einen negativen Einfluss auf ihn aus.",
+        "zh": "压力对他产生负面影响。"
+      }
+    ],
+    "collocations": [
+      "einen Beruf ausüben",
+      "Druck ausüben"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "ausgeübt"
+    },
+    "level": "B1",
+    "tags": [
+      "职业",
+      "影响",
+      "B1"
+    ],
+    "synonyms": [
+      "betreiben",
+      "praktizieren"
+    ],
+    "antonyms": [
+      "unterlassen",
+      "aufgeben"
+    ]
+  },
+  {
+    "word": "Auswahl",
+    "lemma": "Auswahl",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Auswahlen",
+    "meaning": [
+      {
+        "zh": "选择，挑选",
+        "en": "selection, choice"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Auswahl an Büchern ist riesig.",
+        "zh": "书籍的选择范围很大。"
+      },
+      {
+        "de": "Er traf eine gute Auswahl.",
+        "zh": "他做出了一个好的选择。"
+      }
+    ],
+    "collocations": [
+      "eine Auswahl treffen",
+      "große Auswahl"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "日常",
+      "决策",
+      "A2"
+    ],
+    "synonyms": [
+      "Wahl",
+      "Option"
+    ],
+    "antonyms": [
+      "Ausschluss",
+      "Einschränkung"
+    ]
+  },
+  {
+    "word": "Auswirkung",
+    "lemma": "Auswirkung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Auswirkungen",
+    "meaning": [
+      {
+        "zh": "影响，后果",
+        "en": "effect, impact"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Auswirkungen des Klimawandels sind spürbar.",
+        "zh": "气候变化的影响是显而易见的。"
+      },
+      {
+        "de": "Diese Entscheidung hat negative Auswirkungen auf die Wirtschaft.",
+        "zh": "这个决定对经济有负面影响。"
+      }
+    ],
+    "collocations": [
+      "Auswirkungen haben",
+      "negative Auswirkungen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "因果",
+      "环境",
+      "B1"
+    ],
+    "synonyms": [
+      "Folge",
+      "Konsequenz"
+    ],
+    "antonyms": [
+      "Ursache",
+      "Grund"
+    ]
+  },
+  {
+    "word": "Automat",
+    "lemma": "Automat",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Automaten",
+    "meaning": [
+      {
+        "zh": "自动售货机，自动装置",
+        "en": "vending machine, automaton"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Automat gibt Wechselgeld zurück.",
+        "zh": "自动售货机找零钱。"
+      },
+      {
+        "de": "Ich kaufe mir eine Flasche Wasser am Automaten.",
+        "zh": "我在自动售货机买了一瓶水。"
+      }
+    ],
+    "collocations": [
+      "am Automaten kaufen",
+      "Getränkeautomat"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "技术",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "Verkaufsautomat",
+      "Maschine"
+    ],
+    "antonyms": [
+      "Mensch",
+      "Handarbeit"
+    ]
+  },
+  {
+    "word": "Band",
+    "lemma": "Band",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Bänder",
+    "meaning": [
+      {
+        "zh": "带子，带状物",
+        "en": "ribbon, band"
+      },
+      {
+        "zh": "卷，册",
+        "en": "volume (of a book)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie trug ein rotes Band im Haar.",
+        "zh": "她头上系着一条红带子。"
+      },
+      {
+        "de": "Der dritte Band der Enzyklopädie ist erschienen.",
+        "zh": "百科全书的第三卷已经出版。"
+      }
+    ],
+    "collocations": [
+      "ein Band knüpfen",
+      "Band 1"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "物品",
+      "书籍",
+      "B1"
+    ],
+    "synonyms": [
+      "Streifen",
+      "Schnur"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Basis",
+    "lemma": "Basis",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Basen",
+    "meaning": [
+      {
+        "zh": "基础，基地",
+        "en": "base, basis"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Firma hat ihre Basis in Berlin.",
+        "zh": "这家公司的总部在柏林。"
+      },
+      {
+        "de": "Auf dieser Basis können wir weiterarbeiten.",
+        "zh": "在这个基础上我们可以继续工作。"
+      }
+    ],
+    "collocations": [
+      "auf der Basis von",
+      "als Basis dienen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "抽象概念",
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "Grundlage",
+      "Fundament"
+    ],
+    "antonyms": [
+      "Spitze"
+    ]
+  },
+  {
+    "word": "Batterie",
+    "lemma": "Batterie",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Batterien",
+    "meaning": [
+      {
+        "zh": "电池",
+        "en": "battery"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Batterie ist leer und muss ausgetauscht werden.",
+        "zh": "电池没电了，需要更换。"
+      },
+      {
+        "de": "Er kaufte neue Batterien für die Fernbedienung.",
+        "zh": "他为遥控器买了新电池。"
+      }
+    ],
+    "collocations": [
+      "eine Batterie aufladen",
+      "Batterien entsorgen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "科技",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "Akku"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Bauwerk",
+    "lemma": "Bauwerk",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Bauwerke",
+    "meaning": [
+      {
+        "zh": "建筑物，建筑结构",
+        "en": "building, structure"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieses historische Bauwerk stammt aus dem 18. Jahrhundert.",
+        "zh": "这座历史建筑建于18世纪。"
+      },
+      {
+        "de": "Die Brücke ist ein beeindruckendes Bauwerk.",
+        "zh": "这座桥是一座令人印象深刻的建筑。"
+      }
+    ],
+    "collocations": [
+      "ein Bauwerk errichten",
+      "historisches Bauwerk"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "建筑",
+      "文化",
+      "B1"
+    ],
+    "synonyms": [
+      "Gebäude",
+      "Konstruktion"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Becher",
+    "lemma": "Becher",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Becher",
+    "meaning": [
+      {
+        "zh": "杯子，杯状容器",
+        "en": "cup, beaker"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er trank einen Becher Kaffee.",
+        "zh": "他喝了一杯咖啡。"
+      },
+      {
+        "de": "Der Becher ist aus Plastik.",
+        "zh": "这个杯子是塑料的。"
+      }
+    ],
+    "collocations": [
+      "ein Becher Wasser",
+      "einen Becher füllen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "日常",
+      "物品",
+      "A1"
+    ],
+    "synonyms": [
+      "Tasse",
+      "Glas"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Bedingung",
+    "lemma": "Bedingung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Bedingungen",
+    "meaning": [
+      {
+        "zh": "条件，前提",
+        "en": "condition, requirement"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Unter diesen Bedingungen können wir nicht arbeiten.",
+        "zh": "在这些条件下我们无法工作。"
+      },
+      {
+        "de": "Er erfüllt alle Bedingungen für die Stelle.",
+        "zh": "他满足这个职位的所有条件。"
+      }
+    ],
+    "collocations": [
+      "unter der Bedingung",
+      "Bedingungen erfüllen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "抽象概念",
+      "法律",
+      "B1"
+    ],
+    "synonyms": [
+      "Voraussetzung",
+      "Klausel"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Bedürfnis",
+    "lemma": "Bedürfnis",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Bedürfnisse",
+    "meaning": [
+      {
+        "zh": "需求，需要",
+        "en": "need, requirement"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das menschliche Bedürfnis nach Sicherheit ist groß.",
+        "zh": "人类对安全的需求很大。"
+      },
+      {
+        "de": "Wir müssen die Bedürfnisse der Kunden verstehen.",
+        "zh": "我们必须理解客户的需求。"
+      }
+    ],
+    "collocations": [
+      "ein Bedürfnis haben",
+      "Bedürfnisse befriedigen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "心理",
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "Wunsch",
+      "Verlangen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "befassen",
+    "lemma": "befassen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "处理，从事，研究",
+        "en": "to deal with, to occupy oneself with"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Ausschuss befasst sich mit dem neuen Gesetz.",
+        "zh": "委员会正在处理这项新法律。"
+      },
+      {
+        "de": "Sie befasst sich seit Jahren mit der Geschichte Roms.",
+        "zh": "她多年来一直研究罗马历史。"
+      }
+    ],
+    "collocations": [
+      "sich mit etwas befassen",
+      "sich mit einem Thema befassen"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "befasst"
+    },
+    "level": "B2",
+    "tags": [
+      "抽象概念",
+      "工作",
+      "B2"
+    ],
+    "synonyms": [
+      "beschäftigen",
+      "auseinandersetzen"
+    ],
+    "antonyms": [
+      "ignorieren"
+    ]
+  },
+  {
+    "word": "begrenzen",
+    "lemma": "begrenzen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "限制，限定",
+        "en": "to limit, to restrict"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Regierung will die Einwanderung begrenzen.",
+        "zh": "政府想限制移民。"
+      },
+      {
+        "de": "Wir müssen unsere Ausgaben begrenzen.",
+        "zh": "我们必须限制我们的开支。"
+      }
+    ],
+    "collocations": [
+      "die Kosten begrenzen",
+      "die Anzahl begrenzen",
+      "begrenzt sein"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "begrenzt"
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "einschränken",
+      "beschränken"
+    ],
+    "antonyms": [
+      "erweitern",
+      "ausdehnen"
+    ]
+  },
+  {
+    "word": "beherrschen",
+    "lemma": "beherrschen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "掌握，控制",
+        "en": "to master, to control"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er beherrscht drei Sprachen fließend.",
+        "zh": "他流利掌握三种语言。"
+      },
+      {
+        "de": "Die Firma beherrscht den Markt.",
+        "zh": "这家公司控制着市场。"
+      }
+    ],
+    "collocations": [
+      "eine Sprache beherrschen",
+      "die Situation beherrschen",
+      "sich selbst beherrschen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "beherrscht"
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "können",
+      "kontrollieren"
+    ],
+    "antonyms": [
+      "nicht können",
+      "verlieren"
+    ]
+  },
+  {
+    "word": "beikommen",
+    "lemma": "beikommen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "对付，克服",
+        "en": "to cope with, to overcome"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dem Problem ist schwer beizukommen.",
+        "zh": "这个问题很难对付。"
+      },
+      {
+        "de": "Mit Geduld kann man der Krankheit beikommen.",
+        "zh": "耐心可以对付这种疾病。"
+      }
+    ],
+    "collocations": [
+      "einem Problem beikommen",
+      "einer Sache beikommen",
+      "schwer beizukommen"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "beigekommen"
+    },
+    "level": "B2",
+    "tags": [
+      "生活",
+      "情感",
+      "B2"
+    ],
+    "synonyms": [
+      "bewältigen",
+      "fertig werden mit"
+    ],
+    "antonyms": [
+      "scheitern an",
+      "aufgeben"
+    ]
+  },
+  {
+    "word": "Beilage",
+    "lemma": "Beilage",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Beilagen",
+    "meaning": [
+      {
+        "zh": "配菜；附件",
+        "en": "side dish; enclosure"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Als Beilage gibt es Kartoffeln und Gemüse.",
+        "zh": "配菜有土豆和蔬菜。"
+      },
+      {
+        "de": "Die Beilage zur Bewerbung fehlt noch.",
+        "zh": "申请材料中的附件还缺少。"
+      }
+    ],
+    "collocations": [
+      "eine Beilage bestellen",
+      "mit Beilage",
+      "als Beilage"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "饮食",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Garnitur",
+      "Anhang"
+    ],
+    "antonyms": [
+      "Hauptgericht",
+      "Hauptteil"
+    ]
+  },
+  {
+    "word": "beilegen",
+    "lemma": "beilegen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "附上；解决（争端）",
+        "en": "to enclose; to settle (a dispute)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich lege dem Brief ein Foto bei.",
+        "zh": "我在信里附上一张照片。"
+      },
+      {
+        "de": "Sie konnten den Streit friedlich beilegen.",
+        "zh": "他们能够和平解决争端。"
+      }
+    ],
+    "collocations": [
+      "einen Streit beilegen",
+      "einem Brief beilegen",
+      "etwas beilegen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "beigelegt"
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "hinzufügen",
+      "schlichten"
+    ],
+    "antonyms": [
+      "entfernen",
+      "verschärfen"
+    ]
+  },
+  {
+    "word": "Beitrag",
+    "lemma": "Beitrag",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Beiträge",
+    "meaning": [
+      {
+        "zh": "贡献；文章；会费",
+        "en": "contribution; article; fee"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Jeder kann einen Beitrag zum Umweltschutz leisten.",
+        "zh": "每个人都可以为环境保护做出贡献。"
+      },
+      {
+        "de": "Der Beitrag in der Zeitung war sehr interessant.",
+        "zh": "报纸上的那篇文章非常有趣。"
+      }
+    ],
+    "collocations": [
+      "einen Beitrag leisten",
+      "ein Beitrag zu",
+      "den Beitrag zahlen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "媒体",
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "Artikel",
+      "Mitgliedsbeitrag"
+    ],
+    "antonyms": [
+      "Schaden",
+      "Ablenkung"
+    ]
+  },
+  {
+    "word": "belasten",
+    "lemma": "belasten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "使负担，加重负担",
+        "en": "to burden, to strain"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die hohen Steuern belasten die Bürger.",
+        "zh": "高税收加重了公民的负担。"
+      },
+      {
+        "de": "Die Schulden belasten die Firma schwer.",
+        "zh": "债务严重拖累了公司。"
+      }
+    ],
+    "collocations": [
+      "das Budget belasten",
+      "die Umwelt belasten",
+      "jemanden belasten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "belastet"
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "社会",
+      "环境",
+      "B1"
+    ],
+    "synonyms": [
+      "beschweren",
+      "strapazieren"
+    ],
+    "antonyms": [
+      "entlasten",
+      "befreien"
+    ]
+  },
+  {
+    "word": "belästigen",
+    "lemma": "belästigen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "骚扰，烦扰",
+        "en": "to harass, to bother"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er wurde auf der Straße von einem Fremden belästigt.",
+        "zh": "他在街上被一个陌生人骚扰了。"
+      },
+      {
+        "de": "Bitte belästigen Sie mich nicht während der Arbeit.",
+        "zh": "请不要在工作时间打扰我。"
+      }
+    ],
+    "collocations": [
+      "jemanden belästigen",
+      "sexuell belästigen",
+      "sich belästigt fühlen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "belästigt"
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "法律",
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "stören",
+      "nerven"
+    ],
+    "antonyms": [
+      "respektieren",
+      "in Ruhe lassen"
+    ]
+  },
+  {
+    "word": "Belastung",
+    "lemma": "Belastung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Belastungen",
+    "meaning": [
+      {
+        "zh": "负担，压力，负荷",
+        "en": "burden, strain, load"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die finanzielle Belastung ist für viele Familien zu hoch.",
+        "zh": "经济负担对许多家庭来说太高了。"
+      },
+      {
+        "de": "Die psychische Belastung in der Prüfungszeit war enorm.",
+        "zh": "考试期间的心理压力巨大。"
+      }
+    ],
+    "collocations": [
+      "finanzielle Belastung",
+      "psychische Belastung",
+      "Belastung für die Umwelt",
+      "unter Belastung stehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "心理",
+      "B1"
+    ],
+    "synonyms": [
+      "Druck",
+      "Last",
+      "Stress"
+    ],
+    "antonyms": [
+      "Entlastung"
+    ]
+  },
+  {
+    "word": "belegbar",
+    "lemma": "belegbar",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "可证明的，可证实的",
+        "en": "provable, demonstrable"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Theorie ist durch mehrere Studien belegbar.",
+        "zh": "这个理论可以通过多项研究证明。"
+      },
+      {
+        "de": "Die Behauptung ist nicht belegbar.",
+        "zh": "这个说法无法证实。"
+      }
+    ],
+    "collocations": [
+      "wissenschaftlich belegbar",
+      "nicht belegbar",
+      "belegbare Fakten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "学术",
+      "科学",
+      "B2"
+    ],
+    "synonyms": [
+      "nachweisbar",
+      "beweisbar"
+    ],
+    "antonyms": [
+      "unbelegbar"
+    ]
+  },
+  {
+    "word": "belegen",
+    "lemma": "belegen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "证明，证实；占据；报名（课程）",
+        "en": "to prove, to occupy, to enroll in"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er konnte seine Aussage mit Dokumenten belegen.",
+        "zh": "他可以用文件证明他的陈述。"
+      },
+      {
+        "de": "Ich habe einen Kurs an der Universität belegt.",
+        "zh": "我在大学报了一门课程。"
+      }
+    ],
+    "collocations": [
+      "einen Kurs belegen",
+      "mit Beweisen belegen",
+      "einen Platz belegen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "belegt"
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "学术",
+      "B1"
+    ],
+    "synonyms": [
+      "nachweisen",
+      "beweisen",
+      "buchen"
+    ],
+    "antonyms": [
+      "widerlegen"
+    ]
+  },
+  {
+    "word": "beleidigt",
+    "lemma": "beleidigen",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "被冒犯的，生气的",
+        "en": "offended, insulted"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie war sehr beleidigt, weil er ihren Geburtstag vergessen hatte.",
+        "zh": "她非常生气，因为他忘了她的生日。"
+      },
+      {
+        "de": "Er fühlte sich durch die Bemerkung beleidigt.",
+        "zh": "他因为那句话感到被冒犯了。"
+      }
+    ],
+    "collocations": [
+      "tief beleidigt",
+      "beleidigt sein",
+      "sich beleidigt fühlen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "社交",
+      "B1"
+    ],
+    "synonyms": [
+      "gekränkt",
+      "verletzt"
+    ],
+    "antonyms": [
+      "zufrieden",
+      "versöhnt"
+    ]
+  },
+  {
+    "word": "Bemühung",
+    "lemma": "Bemühung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Bemühungen",
+    "meaning": [
+      {
+        "zh": "努力，尽力",
+        "en": "effort, endeavor"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Trotz aller Bemühungen konnte er das Ziel nicht erreichen.",
+        "zh": "尽管尽了所有努力，他还是没能达到目标。"
+      },
+      {
+        "de": "Ich danke Ihnen für Ihre freundlichen Bemühungen.",
+        "zh": "感谢您的友好努力。"
+      }
+    ],
+    "collocations": [
+      "alle Bemühungen",
+      "trotz aller Bemühungen",
+      "Bemühungen unternehmen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "Anstrengung",
+      "Mühe",
+      "Einsatz"
+    ],
+    "antonyms": [
+      "Nachlässigkeit"
+    ]
+  },
+  {
+    "word": "benötigen",
+    "lemma": "benötigen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "需要",
+        "en": "to need, to require"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Für dieses Projekt benötigen wir mehr Zeit.",
+        "zh": "这个项目我们需要更多时间。"
+      },
+      {
+        "de": "Sie benötigt dringend ärztliche Hilfe.",
+        "zh": "她急需医疗帮助。"
+      }
+    ],
+    "collocations": [
+      "dringend benötigen",
+      "etwas benötigen",
+      "benötigte Unterlagen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "benötigt"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "brauchen",
+      "erfordern"
+    ],
+    "antonyms": [
+      "entbehren"
+    ]
+  },
+  {
+    "word": "bequem",
+    "lemma": "bequem",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "舒适的，方便的",
+        "en": "comfortable, convenient"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieses Sofa ist sehr bequem.",
+        "zh": "这个沙发非常舒适。"
+      },
+      {
+        "de": "Die Lage des Hotels ist sehr bequem für Ausflüge.",
+        "zh": "酒店的位置对出游非常方便。"
+      }
+    ],
+    "collocations": [
+      "bequeme Kleidung",
+      "bequemer Sessel",
+      "sich bequem machen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "komfortabel",
+      "gemütlich"
+    ],
+    "antonyms": [
+      "unbequem"
+    ]
+  },
+  {
+    "word": "IUD",
+    "lemma": "IUD",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "IUDs",
+    "meaning": [
+      {
+        "zh": "宫内节育器",
+        "en": "intrauterine device"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Arzt hat ihr ein IUD eingesetzt.",
+        "zh": "医生给她放置了一个宫内节育器。"
+      },
+      {
+        "de": "Das IUD ist eine langfristige Verhütungsmethode.",
+        "zh": "宫内节育器是一种长期的避孕方法。"
+      }
+    ],
+    "collocations": [
+      "ein IUD einsetzen",
+      "IUD als Verhütungsmittel",
+      "IUD entfernen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "医学",
+      "健康",
+      "B2"
+    ],
+    "synonyms": [
+      "Spirale"
+    ],
+    "antonyms": []
+  }
+]

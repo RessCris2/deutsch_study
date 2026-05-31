@@ -1,0 +1,1680 @@
+[
+  {
+    "word": "Thunfisch",
+    "lemma": "Thunfisch",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Thunfische",
+    "meaning": [
+      {
+        "zh": "金枪鱼",
+        "en": "tuna"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe gestern einen Thunfischsalat gegessen.",
+        "zh": "我昨天吃了金枪鱼沙拉。"
+      },
+      {
+        "de": "Thunfisch wird oft in Dosen verkauft.",
+        "zh": "金枪鱼常以罐头形式出售。"
+      }
+    ],
+    "collocations": [
+      "Thunfisch fangen",
+      "Thunfisch in Dosen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "食物",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "tödlich",
+    "lemma": "tödlich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "致命的",
+        "en": "deadly"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Unfall hatte tödliche Folgen.",
+        "zh": "这场事故造成了致命的后果。"
+      },
+      {
+        "de": "Diese Krankheit ist tödlich.",
+        "zh": "这种疾病是致命的。"
+      }
+    ],
+    "collocations": [
+      "tödlicher Unfall",
+      "tödliche Waffe"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "tödlich",
+      "fatal"
+    ],
+    "antonyms": [
+      "harmlos",
+      "ungefährlich"
+    ]
+  },
+  {
+    "word": "Tonne",
+    "lemma": "Tonne",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Tonnen",
+    "meaning": [
+      {
+        "zh": "吨",
+        "en": "ton"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Auto wiegt zwei Tonnen.",
+        "zh": "这辆车重两吨。"
+      },
+      {
+        "de": "Die Firma produziert jährlich tausend Tonnen Stahl.",
+        "zh": "这家公司每年生产一千吨钢。"
+      }
+    ],
+    "collocations": [
+      "eine Tonne wiegen",
+      "Tonnen von Abfall"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Top",
+    "lemma": "Top",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Tops",
+    "meaning": [
+      {
+        "zh": "上衣（尤指短上衣）",
+        "en": "top (clothing)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie trägt ein rotes Top zur Party.",
+        "zh": "她穿了一件红色上衣去派对。"
+      },
+      {
+        "de": "Dieses Top ist aus Baumwolle.",
+        "zh": "这件上衣是棉质的。"
+      }
+    ],
+    "collocations": [
+      "ein Top tragen",
+      "ein Top kaufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Oberteil"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "oral",
+    "lemma": "oral",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "口服的；口头的",
+        "en": "oral"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Arzt verschrieb ihm orale Medikamente.",
+        "zh": "医生给他开了口服药。"
+      },
+      {
+        "de": "Die Prüfung besteht aus einem oralen Teil.",
+        "zh": "考试包括一个口头部分。"
+      }
+    ],
+    "collocations": [
+      "orale Einnahme",
+      "orale Prüfung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "科技",
+      "B2"
+    ],
+    "synonyms": [
+      "mündlich"
+    ],
+    "antonyms": [
+      "schriftlich",
+      "intravenös"
+    ]
+  },
+  {
+    "word": "Träne",
+    "lemma": "Träne",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Tränen",
+    "meaning": [
+      {
+        "zh": "眼泪",
+        "en": "tear"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie konnte ihre Tränen nicht zurückhalten.",
+        "zh": "她忍不住流下了眼泪。"
+      },
+      {
+        "de": "Er wischte sich die Tränen aus dem Gesicht.",
+        "zh": "他擦去脸上的泪水。"
+      }
+    ],
+    "collocations": [
+      "Tränen vergießen",
+      "vor Freude weinen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Transport",
+    "lemma": "Transport",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Transporte",
+    "meaning": [
+      {
+        "zh": "运输",
+        "en": "transport"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Transport der Waren dauert drei Tage.",
+        "zh": "货物的运输需要三天。"
+      },
+      {
+        "de": "Wir organisieren den Transport per LKW.",
+        "zh": "我们通过卡车组织运输。"
+      }
+    ],
+    "collocations": [
+      "Transport von Gütern",
+      "öffentlicher Transport"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "Beförderung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Treibhauseffekt",
+    "lemma": "Treibhauseffekt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "温室效应",
+        "en": "greenhouse effect"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Treibhauseffekt führt zur globalen Erwärmung.",
+        "zh": "温室效应导致全球变暖。"
+      },
+      {
+        "de": "Wissenschaftler warnen vor den Folgen des Treibhauseffekts.",
+        "zh": "科学家警告温室效应的后果。"
+      }
+    ],
+    "collocations": [
+      "Treibhauseffekt verstärken",
+      "Treibhauseffekt reduzieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "科技",
+      "B2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Trend",
+    "lemma": "Trend",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Trends",
+    "meaning": [
+      {
+        "zh": "趋势，潮流",
+        "en": "trend, tendency"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der aktuelle Trend in der Mode ist Nachhaltigkeit.",
+        "zh": "当前的时尚趋势是可持续性。"
+      },
+      {
+        "de": "Die Aktienkurse folgen einem positiven Trend.",
+        "zh": "股价呈上升趋势。"
+      }
+    ],
+    "collocations": [
+      "einem Trend folgen",
+      "einen Trend setzen",
+      "im Trend liegen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "Entwicklung",
+      "Strömung",
+      "Mode"
+    ],
+    "antonyms": [
+      "Gegentrend",
+      "Rückschritt"
+    ]
+  },
+  {
+    "word": "Treppe",
+    "lemma": "Treppe",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Treppen",
+    "meaning": [
+      {
+        "zh": "楼梯，阶梯",
+        "en": "stairs, staircase"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Treppe führt in den zweiten Stock.",
+        "zh": "楼梯通向二楼。"
+      },
+      {
+        "de": "Er fiel die Treppe hinunter und verletzte sich.",
+        "zh": "他从楼梯上摔下来受伤了。"
+      }
+    ],
+    "collocations": [
+      "die Treppe hinaufgehen",
+      "die Treppe hinunterfallen",
+      "auf der Treppe stehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "建筑",
+      "A2"
+    ],
+    "synonyms": [
+      "Stiege",
+      "Stufen"
+    ],
+    "antonyms": [
+      "Aufzug",
+      "Fahrstuhl"
+    ]
+  },
+  {
+    "word": "Treue",
+    "lemma": "Treue",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "忠诚，忠实",
+        "en": "loyalty, faithfulness"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Treue des Hundes zu seinem Herrn ist bemerkenswert.",
+        "zh": "狗对主人的忠诚令人惊叹。"
+      },
+      {
+        "de": "In einer Beziehung ist Treue sehr wichtig.",
+        "zh": "在一段关系中，忠诚非常重要。"
+      }
+    ],
+    "collocations": [
+      "Treue schwören",
+      "Treue halten",
+      "die Treue brechen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "道德",
+      "B1"
+    ],
+    "synonyms": [
+      "Loyalität",
+      "Ergebenheit"
+    ],
+    "antonyms": [
+      "Untreue",
+      "Verrat"
+    ]
+  },
+  {
+    "word": "tropfen",
+    "lemma": "tropfen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "滴落，滴下",
+        "en": "to drip, to drop"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Wasserhahn tropft die ganze Nacht.",
+        "zh": "水龙头整夜滴水。"
+      },
+      {
+        "de": "Es tropft von den Blättern nach dem Regen.",
+        "zh": "雨后树叶上滴水。"
+      }
+    ],
+    "collocations": [
+      "Wasser tropft",
+      "Blut tropft",
+      "tropfen lassen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "getropft"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "自然",
+      "B1"
+    ],
+    "synonyms": [
+      "träufeln",
+      "rieseln"
+    ],
+    "antonyms": [
+      "trocknen",
+      "verdunsten"
+    ]
+  },
+  {
+    "word": "Tuch",
+    "lemma": "Tuch",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Tücher",
+    "meaning": [
+      {
+        "zh": "布，手帕，毛巾",
+        "en": "cloth, handkerchief, towel"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie wischte sich mit einem Tuch den Schweiß von der Stirn.",
+        "zh": "她用一块布擦去额头上的汗水。"
+      },
+      {
+        "de": "Das Tuch ist aus weicher Baumwolle.",
+        "zh": "这块布是柔软的棉布做的。"
+      }
+    ],
+    "collocations": [
+      "ein Tuch umbinden",
+      "mit einem Tuch abwischen",
+      "ein feuchtes Tuch"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "日常用品",
+      "A2"
+    ],
+    "synonyms": [
+      "Lappen",
+      "Stoff",
+      "Handtuch"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Tunnel",
+    "lemma": "Tunnel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Tunnel",
+    "meaning": [
+      {
+        "zh": "隧道，地道",
+        "en": "tunnel"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Tunnel unter dem Fluss ist über 3 Kilometer lang.",
+        "zh": "河下的隧道超过3公里长。"
+      },
+      {
+        "de": "Im Tunnel herrscht oft dichter Verkehr.",
+        "zh": "隧道里经常交通拥堵。"
+      }
+    ],
+    "collocations": [
+      "einen Tunnel bauen",
+      "durch einen Tunnel fahren",
+      "der Tunnelausgang"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "交通",
+      "建筑",
+      "B1"
+    ],
+    "synonyms": [
+      "Unterführung",
+      "Stollen"
+    ],
+    "antonyms": [
+      "Brücke"
+    ]
+  },
+  {
+    "word": "Turm",
+    "lemma": "Turm",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Türme",
+    "meaning": [
+      {
+        "zh": "塔，塔楼",
+        "en": "tower"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Turm des Doms ist 150 Meter hoch.",
+        "zh": "大教堂的塔楼高150米。"
+      },
+      {
+        "de": "Vom Turm aus hat man eine tolle Aussicht.",
+        "zh": "从塔上可以看到极好的景色。"
+      }
+    ],
+    "collocations": [
+      "einen Turm besteigen",
+      "der schiefe Turm",
+      "der Turm der Burg"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "建筑",
+      "旅游",
+      "A2"
+    ],
+    "synonyms": [
+      "Türmchen",
+      "Wachturm"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Turnschuh",
+    "lemma": "Turnschuh",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Turnschuhe",
+    "meaning": [
+      {
+        "zh": "运动鞋",
+        "en": "sneaker, sports shoe"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er trägt weiße Turnschuhe zum Joggen.",
+        "zh": "他穿着白色运动鞋去慢跑。"
+      },
+      {
+        "de": "Diese Turnschuhe sind sehr bequem und leicht.",
+        "zh": "这双运动鞋非常舒适轻便。"
+      }
+    ],
+    "collocations": [
+      "Turnschuhe anziehen",
+      "neue Turnschuhe kaufen",
+      "in Turnschuhen laufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "运动",
+      "A1"
+    ],
+    "synonyms": [
+      "Sportschuh",
+      "Sneaker"
+    ],
+    "antonyms": [
+      "Stiefel",
+      "Schuh"
+    ]
+  },
+  {
+    "word": "übelnehmen",
+    "lemma": "übelnehmen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "对...生气，见怪",
+        "en": "to take offense at, to resent"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Nimm es mir nicht übel, aber ich habe keine Zeit.",
+        "zh": "别见怪，但我没有时间。"
+      },
+      {
+        "de": "Er nimmt ihr die Kritik übel.",
+        "zh": "他对她的批评感到生气。"
+      }
+    ],
+    "collocations": [
+      "jemandem etwas übelnehmen",
+      "nicht übelnehmen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "übelgenommen"
+    },
+    "level": "B2",
+    "tags": [
+      "情感",
+      "B2"
+    ],
+    "synonyms": [
+      "verübeln",
+      "böse sein"
+    ],
+    "antonyms": [
+      "verzeihen",
+      "akzeptieren"
+    ]
+  },
+  {
+    "word": "Überalterung",
+    "lemma": "Überalterung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "老龄化，人口老化",
+        "en": "aging, demographic aging"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Überalterung der Gesellschaft stellt eine große Herausforderung dar.",
+        "zh": "社会老龄化是一个巨大的挑战。"
+      },
+      {
+        "de": "In vielen Industrieländern ist die Überalterung ein ernstes Problem.",
+        "zh": "在许多工业国家，老龄化是一个严重的问题。"
+      }
+    ],
+    "collocations": [
+      "Überalterung der Gesellschaft",
+      "Überalterung der Bevölkerung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "Alterung",
+      "demografischer Wandel"
+    ],
+    "antonyms": [
+      "Verjüngung"
+    ]
+  },
+  {
+    "word": "überfordern",
+    "lemma": "überfordern",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "使负担过重，使力不从心",
+        "en": "to overburden, to overtax"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die vielen Aufgaben überfordern ihn.",
+        "zh": "这么多任务让他力不从心。"
+      },
+      {
+        "de": "Sie fühlt sich von der neuen Situation überfordert.",
+        "zh": "她觉得新情况让她应付不了。"
+      }
+    ],
+    "collocations": [
+      "jemanden überfordern",
+      "sich überfordert fühlen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "überfordert"
+    },
+    "level": "B2",
+    "tags": [
+      "情感",
+      "B2"
+    ],
+    "synonyms": [
+      "überlasten",
+      "strapazieren"
+    ],
+    "antonyms": [
+      "unterfordern",
+      "entlasten"
+    ]
+  },
+  {
+    "word": "überlegen",
+    "lemma": "überlegen",
+    "pos": [
+      "verb",
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "思考，考虑",
+        "en": "to think, to consider"
+      },
+      {
+        "zh": "优越的",
+        "en": "superior"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich muss mir das noch einmal überlegen.",
+        "zh": "我还得再考虑一下。"
+      },
+      {
+        "de": "Er ist ihr im Schachspiel überlegen.",
+        "zh": "他在国际象棋上比她强。"
+      }
+    ],
+    "collocations": [
+      "sich etwas überlegen",
+      "jemandem überlegen sein"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "überlegt"
+    },
+    "level": "B1",
+    "tags": [
+      "认知",
+      "B1"
+    ],
+    "synonyms": [
+      "nachdenken",
+      "erwägen",
+      "besser"
+    ],
+    "antonyms": [
+      "unterlegen",
+      "ignorieren"
+    ]
+  },
+  {
+    "word": "überqueren",
+    "lemma": "überqueren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "穿过，横跨",
+        "en": "to cross"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir müssen die Straße überqueren.",
+        "zh": "我们必须穿过马路。"
+      },
+      {
+        "de": "Das Flugzeug überquert den Atlantik.",
+        "zh": "飞机横跨大西洋。"
+      }
+    ],
+    "collocations": [
+      "die Straße überqueren",
+      "einen Fluss überqueren"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "überquert"
+    },
+    "level": "A2",
+    "tags": [
+      "交通",
+      "A2"
+    ],
+    "synonyms": [
+      "kreuzen",
+      "passieren"
+    ],
+    "antonyms": [
+      "umgehen",
+      "vermeiden"
+    ]
+  },
+  {
+    "word": "überstehen",
+    "lemma": "überstehen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "经受住，挺过",
+        "en": "to survive, to get through"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat die Operation gut überstanden.",
+        "zh": "他顺利度过了手术。"
+      },
+      {
+        "de": "Wir werden diese Krise überstehen.",
+        "zh": "我们会挺过这场危机。"
+      }
+    ],
+    "collocations": [
+      "eine Krise überstehen",
+      "eine Krankheit überstehen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "überstanden"
+    },
+    "level": "B2",
+    "tags": [
+      "生活",
+      "B2"
+    ],
+    "synonyms": [
+      "durchstehen",
+      "überleben"
+    ],
+    "antonyms": [
+      "unterliegen",
+      "scheitern"
+    ]
+  },
+  {
+    "word": "überweisen",
+    "lemma": "überweisen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "转账，汇款",
+        "en": "to transfer (money)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich überweise das Geld auf dein Konto.",
+        "zh": "我把钱转到你的账户上。"
+      },
+      {
+        "de": "Bitte überweisen Sie den Betrag bis morgen.",
+        "zh": "请明天之前汇出这笔款项。"
+      }
+    ],
+    "collocations": [
+      "Geld überweisen",
+      "eine Überweisung tätigen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "überwiesen"
+    },
+    "level": "B1",
+    "tags": [
+      "金融",
+      "B1"
+    ],
+    "synonyms": [
+      "transferieren",
+      "einzahlen"
+    ],
+    "antonyms": [
+      "abheben",
+      "auszahlen"
+    ]
+  },
+  {
+    "word": "überwiegend",
+    "lemma": "überwiegend",
+    "pos": [
+      "adverb",
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "主要地，大部分",
+        "en": "predominantly, mostly"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Bevölkerung ist überwiegend deutschsprachig.",
+        "zh": "居民主要讲德语。"
+      },
+      {
+        "de": "Er arbeitet überwiegend im Homeoffice.",
+        "zh": "他主要在家办公。"
+      }
+    ],
+    "collocations": [
+      "überwiegend zustimmen",
+      "überwiegend der Meinung sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语言",
+      "B1"
+    ],
+    "synonyms": [
+      "hauptsächlich",
+      "größtenteils"
+    ],
+    "antonyms": [
+      "selten",
+      "kaum"
+    ]
+  },
+  {
+    "word": "überwinden",
+    "lemma": "überwinden",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "克服，战胜",
+        "en": "to overcome, to conquer"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat seine Angst überwunden.",
+        "zh": "他克服了他的恐惧。"
+      },
+      {
+        "de": "Wir müssen die Schwierigkeiten gemeinsam überwinden.",
+        "zh": "我们必须共同克服困难。"
+      }
+    ],
+    "collocations": [
+      "ein Hindernis überwinden",
+      "die Angst überwinden"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "überwunden"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "bewältigen",
+      "besiegen"
+    ],
+    "antonyms": [
+      "scheitern",
+      "unterliegen"
+    ]
+  },
+  {
+    "word": "überzeugen",
+    "lemma": "überzeugen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "说服，使信服",
+        "en": "to convince, to persuade"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie konnte ihn von ihrer Idee überzeugen.",
+        "zh": "她能够说服他接受她的想法。"
+      },
+      {
+        "de": "Die Argumente haben mich überzeugt.",
+        "zh": "这些论点说服了我。"
+      }
+    ],
+    "collocations": [
+      "jemanden von etwas überzeugen",
+      "sich selbst überzeugen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "überzeugt"
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "überreden",
+      "gewinnen"
+    ],
+    "antonyms": [
+      "zweifeln",
+      "ablehnen"
+    ]
+  },
+  {
+    "word": "überzeugt",
+    "lemma": "überzeugt",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "确信的，坚定的",
+        "en": "convinced, convinced"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist von seiner Meinung überzeugt.",
+        "zh": "他坚信自己的观点。"
+      },
+      {
+        "de": "Sie ist eine überzeugte Verfechterin der Menschenrechte.",
+        "zh": "她是一位坚定的人权倡导者。"
+      }
+    ],
+    "collocations": [
+      "von etwas überzeugt sein",
+      "überzeugt von der Richtigkeit"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "sicher",
+      "gewiss"
+    ],
+    "antonyms": [
+      "unsicher",
+      "zweifelnd"
+    ]
+  },
+  {
+    "word": "umfassen",
+    "lemma": "umfassen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "包括，包含；环绕",
+        "en": "to include, to comprise; to surround"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Buch umfasst 300 Seiten.",
+        "zh": "这本书包括300页。"
+      },
+      {
+        "de": "Der Park umfasst mehrere Seen.",
+        "zh": "这个公园环绕着几个湖泊。"
+      }
+    ],
+    "collocations": [
+      "einen Bereich umfassen",
+      "das Programm umfasst"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "umfasst"
+    },
+    "level": "B2",
+    "tags": [
+      "科技",
+      "B2"
+    ],
+    "synonyms": [
+      "einschließen",
+      "enthalten"
+    ],
+    "antonyms": [
+      "ausschließen",
+      "fehlen"
+    ]
+  },
+  {
+    "word": "umgekehrt",
+    "lemma": "umgekehrt",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "相反的，颠倒的",
+        "en": "reverse, opposite"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die umgekehrte Reihenfolge ist besser.",
+        "zh": "颠倒的顺序更好。"
+      },
+      {
+        "de": "Umgekehrt funktioniert es auch.",
+        "zh": "反过来也行得通。"
+      }
+    ],
+    "collocations": [
+      "umgekehrt proportional",
+      "im umgekehrten Fall"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "entgegengesetzt",
+      "verkehrt"
+    ],
+    "antonyms": [
+      "gleich",
+      "identisch"
+    ]
+  },
+  {
+    "word": "umkippen",
+    "lemma": "umkippen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "翻倒，倾倒；昏倒",
+        "en": "to tip over, to fall over; to faint"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Glas ist umgekippt.",
+        "zh": "杯子翻倒了。"
+      },
+      {
+        "de": "Er ist vor Hitze umgekippt.",
+        "zh": "他因中暑昏倒了。"
+      }
+    ],
+    "collocations": [
+      "ein Glas umkippen",
+      "vor Erschöpfung umkippen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "umgekippt"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "umfallen",
+      "stürzen"
+    ],
+    "antonyms": [
+      "stehen bleiben",
+      "aufrecht bleiben"
+    ]
+  },
+  {
+    "word": "Umschlag",
+    "lemma": "Umschlag",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Umschläge",
+    "meaning": [
+      {
+        "zh": "信封；封面；周转",
+        "en": "envelope; cover; turnover"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Brief liegt im Umschlag.",
+        "zh": "信在信封里。"
+      },
+      {
+        "de": "Der Umschlag des Buches ist beschädigt.",
+        "zh": "书的封面损坏了。"
+      }
+    ],
+    "collocations": [
+      "einen Umschlag öffnen",
+      "der Umschlag des Buches"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Briefumschlag",
+      "Hülle"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Umschlagkapazität",
+    "lemma": "Umschlagkapazität",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Umschlagkapazitäten",
+    "meaning": [
+      {
+        "zh": "转运能力，吞吐量",
+        "en": "transshipment capacity, throughput"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Umschlagkapazität des Hafens wurde erhöht.",
+        "zh": "港口的转运能力得到了提高。"
+      },
+      {
+        "de": "Die neue Anlage verbessert die Umschlagkapazität.",
+        "zh": "新设施改善了吞吐量。"
+      }
+    ],
+    "collocations": [
+      "die Umschlagkapazität steigern",
+      "begrenzte Umschlagkapazität"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "科技",
+      "B2"
+    ],
+    "synonyms": [
+      "Durchsatz",
+      "Leistungsfähigkeit"
+    ],
+    "antonyms": [
+      "Engpass",
+      "Mangel"
+    ]
+  },
+  {
+    "word": "umsetzen",
+    "lemma": "umsetzen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "实施，实现",
+        "en": "implement, put into practice"
+      },
+      {
+        "zh": "转换，转化",
+        "en": "convert, transform"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir müssen den Plan jetzt in die Tat umsetzen.",
+        "zh": "我们现在必须将计划付诸实施。"
+      },
+      {
+        "de": "Die Firma setzt ihre Ideen in innovative Produkte um.",
+        "zh": "这家公司将想法转化为创新产品。"
+      },
+      {
+        "de": "Er hat seine Kenntnisse erfolgreich im Beruf umgesetzt.",
+        "zh": "他成功地将知识应用到了工作中。"
+      }
+    ],
+    "collocations": [
+      "einen Plan umsetzen",
+      "in die Praxis umsetzen",
+      "Ideen in Produkte umsetzen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "umgesetzt"
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "realisieren",
+      "verwirklichen",
+      "umwandeln"
+    ],
+    "antonyms": [
+      "verwerfen",
+      "aufgeben"
+    ]
+  },
+  {
+    "word": "umweltfreundlich",
+    "lemma": "umweltfreundlich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "环保的，对环境友好的",
+        "en": "environmentally friendly, eco-friendly"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieses Produkt ist besonders umweltfreundlich hergestellt.",
+        "zh": "这个产品是以特别环保的方式制造的。"
+      },
+      {
+        "de": "Wir sollten umweltfreundliche Verkehrsmittel wie Fahrrad oder Bus nutzen.",
+        "zh": "我们应该使用环保的交通工具，比如自行车或公交车。"
+      }
+    ],
+    "collocations": [
+      "umweltfreundliche Produkte",
+      "umweltfreundlich handeln",
+      "umweltfreundliche Energie"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "环境",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "ökologisch",
+      "nachhaltig",
+      "grün"
+    ],
+    "antonyms": [
+      "umweltschädlich",
+      "umweltbelastend"
+    ]
+  },
+  {
+    "word": "Umweltkiller",
+    "lemma": "Umweltkiller",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Umweltkiller",
+    "meaning": [
+      {
+        "zh": "环境杀手（指对环境有害的事物）",
+        "en": "environmental killer (something harmful to the environment)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Plastikmüll gilt als einer der größten Umweltkiller.",
+        "zh": "塑料垃圾被认为是最大的环境杀手之一。"
+      },
+      {
+        "de": "Der CO2-Ausstoß ist ein gefährlicher Umweltkiller.",
+        "zh": "二氧化碳排放是一个危险的环境杀手。"
+      }
+    ],
+    "collocations": [
+      "ein Umweltkiller sein",
+      "gegen Umweltkiller kämpfen",
+      "Umweltkiller vermeiden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "环境",
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "Umweltschädling",
+      "Umweltbelastung"
+    ],
+    "antonyms": [
+      "Umweltschützer",
+      "Umweltretter"
+    ]
+  }
+]

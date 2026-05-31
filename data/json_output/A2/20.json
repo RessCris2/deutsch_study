@@ -1,0 +1,1501 @@
+[
+  {
+    "word": "töten",
+    "lemma": "töten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "杀死，杀害",
+        "en": "to kill"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Jäger tötete den Hirsch mit einem Schuss.",
+        "zh": "猎人一枪杀死了那只鹿。"
+      },
+      {
+        "de": "Viele Tiere werden sinnlos getötet.",
+        "zh": "许多动物被无谓地杀害。"
+      }
+    ],
+    "collocations": [
+      "jemanden töten",
+      "Tiere töten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "getötet"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "暴力",
+      "B1"
+    ],
+    "synonyms": [
+      "umbringen",
+      "ermorden"
+    ],
+    "antonyms": [
+      "retten",
+      "leben lassen"
+    ]
+  },
+  {
+    "word": "traditionell",
+    "lemma": "traditionell",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "传统的",
+        "en": "traditional"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In Deutschland wird traditionell Weihnachten gefeiert.",
+        "zh": "在德国，人们传统上庆祝圣诞节。"
+      },
+      {
+        "de": "Das Gericht wird nach einem traditionellen Rezept zubereitet.",
+        "zh": "这道菜是按照传统食谱制作的。"
+      }
+    ],
+    "collocations": [
+      "traditionelle Kleidung",
+      "traditionelle Werte"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "文化",
+      "B1"
+    ],
+    "synonyms": [
+      "herkömmlich",
+      "altüberliefert"
+    ],
+    "antonyms": [
+      "modern",
+      "innovativ"
+    ]
+  },
+  {
+    "word": "Transitland",
+    "lemma": "Transitland",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Transitländer",
+    "meaning": [
+      {
+        "zh": "过境国，中转国",
+        "en": "transit country"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Schweiz ist ein wichtiges Transitland für den Güterverkehr.",
+        "zh": "瑞士是货物运输的重要过境国。"
+      },
+      {
+        "de": "Viele Flüchtlinge durchqueren das Transitland auf dem Weg nach Nordeuropa.",
+        "zh": "许多难民在前往北欧的途中穿越这个过境国。"
+      }
+    ],
+    "collocations": [
+      "als Transitland dienen",
+      "Transitland für Flüchtlinge"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "地理",
+      "B2"
+    ],
+    "synonyms": [
+      "Durchgangsland"
+    ],
+    "antonyms": [
+      "Zielland",
+      "Herkunftsland"
+    ]
+  },
+  {
+    "word": "träumen",
+    "lemma": "träumen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "做梦，梦想",
+        "en": "to dream"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Letzte Nacht habe ich von einem Urlaub am Meer geträumt.",
+        "zh": "昨晚我梦到在海边度假。"
+      },
+      {
+        "de": "Sie träumt davon, eines Tages ein eigenes Haus zu besitzen.",
+        "zh": "她梦想有一天拥有自己的房子。"
+      }
+    ],
+    "collocations": [
+      "von etwas träumen",
+      "träumen von"
+    ],
+    "grammar": {
+      "case": "von + Dativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geträumt"
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "phantasieren",
+      "sich erträumen"
+    ],
+    "antonyms": [
+      "realisieren",
+      "verwirklichen"
+    ]
+  },
+  {
+    "word": "traurig",
+    "lemma": "traurig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "悲伤的，伤心的",
+        "en": "sad"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er war sehr traurig, als sein Hund starb.",
+        "zh": "当他的狗去世时，他非常悲伤。"
+      },
+      {
+        "de": "Das traurige Ende des Films hat mich zum Weinen gebracht.",
+        "zh": "电影悲伤的结局让我哭了。"
+      }
+    ],
+    "collocations": [
+      "traurig sein",
+      "traurige Nachricht"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "betrübt",
+      "niedergeschlagen"
+    ],
+    "antonyms": [
+      "fröhlich",
+      "glücklich"
+    ]
+  },
+  {
+    "word": "trotz",
+    "lemma": "trotz",
+    "pos": [
+      "preposition"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "尽管，不顾",
+        "en": "despite, in spite of"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Trotz des Regens gingen wir spazieren.",
+        "zh": "尽管下雨，我们还是去散步了。"
+      },
+      {
+        "de": "Er bestand die Prüfung trotz seiner Nervosität.",
+        "zh": "尽管紧张，他还是通过了考试。"
+      }
+    ],
+    "collocations": [
+      "trotz + Genitiv",
+      "trotz allem"
+    ],
+    "grammar": {
+      "case": "Genitiv",
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语法",
+      "连接",
+      "B1"
+    ],
+    "synonyms": [
+      "ungeachtet"
+    ],
+    "antonyms": [
+      "wegen",
+      "aufgrund"
+    ]
+  },
+  {
+    "word": "trotzdem",
+    "lemma": "trotzdem",
+    "pos": [
+      "adverb",
+      "conjunction"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "尽管如此，仍然",
+        "en": "nevertheless, nonetheless"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Es hat geregnet, trotzdem sind wir spazieren gegangen.",
+        "zh": "下雨了，尽管如此我们还是去散步了。"
+      },
+      {
+        "de": "Er war müde, trotzdem arbeitete er weiter.",
+        "zh": "他累了，但仍然继续工作。"
+      }
+    ],
+    "collocations": [
+      "trotzdem noch",
+      "aber trotzdem"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "语法",
+      "连接",
+      "A2"
+    ],
+    "synonyms": [
+      "dennoch",
+      "trotz alledem"
+    ],
+    "antonyms": [
+      "deshalb",
+      "darum"
+    ]
+  },
+  {
+    "word": "tschechisch",
+    "lemma": "tschechisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "捷克的，捷克语的",
+        "en": "Czech"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich lerne tschechisch, weil ich nach Prag ziehen möchte.",
+        "zh": "我学捷克语，因为我想搬到布拉格。"
+      },
+      {
+        "de": "Das tschechische Bier ist weltweit bekannt.",
+        "zh": "捷克啤酒世界闻名。"
+      }
+    ],
+    "collocations": [
+      "tschechische Sprache",
+      "tschechische Kultur"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "文化",
+      "语言",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Türspalt",
+    "lemma": "Türspalt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Türspalte",
+    "meaning": [
+      {
+        "zh": "门缝",
+        "en": "door gap"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Durch den Türspalt konnte man das Licht sehen.",
+        "zh": "透过门缝可以看到光线。"
+      },
+      {
+        "de": "Er schaute durch den Türspalt in das Zimmer.",
+        "zh": "他通过门缝往房间里看。"
+      }
+    ],
+    "collocations": [
+      "durch den Türspalt schauen",
+      "einen Türspalt öffnen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Spalt"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Typ",
+    "lemma": "Typ",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Typen",
+    "meaning": [
+      {
+        "zh": "类型；家伙",
+        "en": "type; guy"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Welcher Typ von Auto gefällt dir am besten?",
+        "zh": "你最喜欢哪种类型的车？"
+      },
+      {
+        "de": "Er ist ein komischer Typ.",
+        "zh": "他是个古怪的家伙。"
+      }
+    ],
+    "collocations": [
+      "ein bestimmter Typ",
+      "Typ von Mensch"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Art",
+      "Sorte"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "überfüllt",
+    "lemma": "überfüllt",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "拥挤的，爆满的",
+        "en": "overcrowded, packed"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Zug war am Wochenende völlig überfüllt.",
+        "zh": "周末火车完全爆满。"
+      },
+      {
+        "de": "Das Restaurant ist oft überfüllt, besonders abends.",
+        "zh": "这家餐厅经常拥挤，尤其是晚上。"
+      }
+    ],
+    "collocations": [
+      "überfüllter Zug",
+      "überfüllter Raum"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "voll",
+      "gedrängt"
+    ],
+    "antonyms": [
+      "leer"
+    ]
+  },
+  {
+    "word": "überlegen",
+    "lemma": "überlegen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "思考，考虑",
+        "en": "to think, to consider"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich muss mir das noch einmal überlegen.",
+        "zh": "我还得再考虑一下。"
+      },
+      {
+        "de": "Hast du dir schon überlegt, was du studieren willst?",
+        "zh": "你已经考虑过想学什么了吗？"
+      }
+    ],
+    "collocations": [
+      "sich etwas überlegen",
+      "sich überlegen, ob"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "überlegt"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "nachdenken",
+      "erwägen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "übernehmen",
+    "lemma": "übernehmen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "承担；接管",
+        "en": "to take over, to assume"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er wird die Firma von seinem Vater übernehmen.",
+        "zh": "他将接管他父亲的公司。"
+      },
+      {
+        "de": "Sie hat die Verantwortung für das Projekt übernommen.",
+        "zh": "她承担了该项目的责任。"
+      }
+    ],
+    "collocations": [
+      "die Verantwortung übernehmen",
+      "ein Geschäft übernehmen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "übernommen"
+    },
+    "level": "B1",
+    "tags": [
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "übernehmen",
+      "annehmen"
+    ],
+    "antonyms": [
+      "ablehnen"
+    ]
+  },
+  {
+    "word": "überrascht",
+    "lemma": "überrascht",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "惊讶的",
+        "en": "surprised"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich war sehr überrascht, als ich ihn sah.",
+        "zh": "当我看到他时，我非常惊讶。"
+      },
+      {
+        "de": "Sie war überrascht von der guten Nachricht.",
+        "zh": "她对好消息感到惊讶。"
+      }
+    ],
+    "collocations": [
+      "überrascht sein",
+      "überrascht von etwas"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "erstaunt",
+      "verblüfft"
+    ],
+    "antonyms": [
+      "erwartet"
+    ]
+  },
+  {
+    "word": "tdie",
+    "lemma": "tdie",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "tdien",
+    "meaning": [
+      {
+        "zh": "（无意义词，可能是拼写错误）",
+        "en": "(nonsense word, likely a typo)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieses Wort ist nicht korrekt.",
+        "zh": "这个词不正确。"
+      },
+      {
+        "de": "Bitte überprüfen Sie die Eingabe.",
+        "zh": "请检查输入。"
+      }
+    ],
+    "collocations": [],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "错误",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "überspielen",
+    "lemma": "überspielen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "转移（数据）；掩饰",
+        "en": "to transfer (data); to cover up"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du die Musik auf den Computer überspielen?",
+        "zh": "你能把音乐传到电脑上吗？"
+      },
+      {
+        "de": "Er versuchte, seinen Fehler zu überspielen.",
+        "zh": "他试图掩饰自己的错误。"
+      }
+    ],
+    "collocations": [
+      "Daten überspielen",
+      "einen Fehler überspielen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "überspielt"
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "kopieren",
+      "verbergen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Überstunde",
+    "lemma": "Überstunde",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Überstunden",
+    "meaning": [
+      {
+        "zh": "加班时间",
+        "en": "overtime hour"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat diese Woche zehn Überstunden gemacht.",
+        "zh": "他这周加了十个小时的班。"
+      },
+      {
+        "de": "Die Überstunden werden mit einem Zuschlag bezahlt.",
+        "zh": "加班时间会支付额外补贴。"
+      }
+    ],
+    "collocations": [
+      "Überstunden machen",
+      "Überstunden abbauen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "Mehrarbeit"
+    ],
+    "antonyms": [
+      "Freizeit"
+    ]
+  },
+  {
+    "word": "üblich",
+    "lemma": "üblich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "通常的，常见的",
+        "en": "usual, common"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Es ist üblich, sich zu bedanken.",
+        "zh": "表示感谢是常见的。"
+      },
+      {
+        "de": "Die übliche Arbeitszeit beträgt acht Stunden.",
+        "zh": "通常的工作时间是八小时。"
+      }
+    ],
+    "collocations": [
+      "wie üblich",
+      "üblich sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "gewöhnlich",
+      "normal"
+    ],
+    "antonyms": [
+      "ungewöhnlich",
+      "selten"
+    ]
+  },
+  {
+    "word": "Umdrehung",
+    "lemma": "Umdrehung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Umdrehungen",
+    "meaning": [
+      {
+        "zh": "旋转，转数",
+        "en": "rotation, revolution"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Motor läuft mit 3000 Umdrehungen pro Minute.",
+        "zh": "发动机以每分钟3000转的速度运转。"
+      },
+      {
+        "de": "Eine volle Umdrehung des Rades dauert eine Sekunde.",
+        "zh": "轮子转一整圈需要一秒钟。"
+      }
+    ],
+    "collocations": [
+      "Umdrehungen pro Minute",
+      "eine Umdrehung machen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "技术",
+      "B2"
+    ],
+    "synonyms": [
+      "Rotation",
+      "Drehung"
+    ],
+    "antonyms": [
+      "Stillstand"
+    ]
+  },
+  {
+    "word": "Umfrage",
+    "lemma": "Umfrage",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Umfragen",
+    "meaning": [
+      {
+        "zh": "调查，民意调查",
+        "en": "survey, poll"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Umfrage ergab, dass die meisten Menschen zufrieden sind.",
+        "zh": "调查显示大多数人感到满意。"
+      },
+      {
+        "de": "Wir haben eine Umfrage zur Kundenzufriedenheit durchgeführt.",
+        "zh": "我们进行了一项关于客户满意度的调查。"
+      }
+    ],
+    "collocations": [
+      "eine Umfrage durchführen",
+      "an einer Umfrage teilnehmen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Befragung",
+      "Erhebung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Umgang",
+    "lemma": "Umgang",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "交往，处理方式",
+        "en": "interaction, handling"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Umgang mit Kindern erfordert Geduld.",
+        "zh": "与孩子相处需要耐心。"
+      },
+      {
+        "de": "Ein respektvoller Umgang ist wichtig im Team.",
+        "zh": "团队中尊重他人的交往很重要。"
+      }
+    ],
+    "collocations": [
+      "Umgang mit jemandem",
+      "im Umgang mit etwas"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Beziehung",
+      "Handhabung"
+    ],
+    "antonyms": [
+      "Vermeidung"
+    ]
+  },
+  {
+    "word": "Umgebung",
+    "lemma": "Umgebung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Umgebungen",
+    "meaning": [
+      {
+        "zh": "环境，周围",
+        "en": "environment, surroundings"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Umgebung des Hotels ist sehr ruhig.",
+        "zh": "酒店周围的环境非常安静。"
+      },
+      {
+        "de": "In dieser Umgebung fühle ich mich wohl.",
+        "zh": "在这个环境中我感到舒适。"
+      }
+    ],
+    "collocations": [
+      "in der Umgebung",
+      "die nähere Umgebung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Umfeld",
+      "Gegend"
+    ],
+    "antonyms": [
+      "Ferne"
+    ]
+  },
+  {
+    "word": "umgehen",
+    "lemma": "umgehen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "处理，对待；绕过",
+        "en": "to handle, to deal with; to bypass"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er kann gut mit Stress umgehen.",
+        "zh": "他善于应对压力。"
+      },
+      {
+        "de": "Wir müssen das Problem umgehen.",
+        "zh": "我们必须绕过这个问题。"
+      }
+    ],
+    "collocations": [
+      "mit etwas umgehen",
+      "umgehen mit"
+    ],
+    "grammar": {
+      "case": "mit + Dativ (处理时)",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "umgegangen"
+    },
+    "level": "B1",
+    "tags": [
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "behandeln",
+      "vermeiden"
+    ],
+    "antonyms": [
+      "konfrontieren"
+    ]
+  },
+  {
+    "word": "Umwandlung",
+    "lemma": "Umwandlung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Umwandlungen",
+    "meaning": [
+      {
+        "zh": "转换，转变",
+        "en": "conversion, transformation"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Umwandlung von Sonnenenergie in Strom ist effizient.",
+        "zh": "将太阳能转化为电能是高效的。"
+      },
+      {
+        "de": "Die Umwandlung des Unternehmens in eine GmbH dauerte Monate.",
+        "zh": "公司将转为有限责任公司花了几个月时间。"
+      }
+    ],
+    "collocations": [
+      "Umwandlung in etwas",
+      "eine Umwandlung durchführen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "技术",
+      "B2"
+    ],
+    "synonyms": [
+      "Verwandlung",
+      "Transformation"
+    ],
+    "antonyms": [
+      "Erhaltung"
+    ]
+  },
+  {
+    "word": "Umweg",
+    "lemma": "Umweg",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Umwege",
+    "meaning": [
+      {
+        "zh": "绕路，弯路",
+        "en": "detour, roundabout way"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir mussten einen großen Umweg fahren, weil die Brücke gesperrt war.",
+        "zh": "因为桥被封锁了，我们不得不绕了一大段路。"
+      },
+      {
+        "de": "Auf Umwegen erreichte er schließlich sein Ziel.",
+        "zh": "他最终通过迂回的方式达到了目的。"
+      }
+    ],
+    "collocations": [
+      "einen Umweg machen",
+      "auf Umwegen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "交通",
+      "B1"
+    ],
+    "synonyms": [
+      "Abkürzung (反义)"
+    ],
+    "antonyms": [
+      "direkter Weg"
+    ]
+  },
+  {
+    "word": "umweltbewusst",
+    "lemma": "umweltbewusst",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "环保意识的，环境意识的",
+        "en": "environmentally conscious"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Immer mehr Menschen leben umweltbewusst.",
+        "zh": "越来越多的人环保地生活。"
+      },
+      {
+        "de": "Sie kauft nur umweltbewusst hergestellte Produkte.",
+        "zh": "她只买环保生产的产品。"
+      }
+    ],
+    "collocations": [
+      "umweltbewusst handeln",
+      "umweltbewusst leben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "环境",
+      "B1"
+    ],
+    "synonyms": [
+      "ökologisch",
+      "nachhaltig"
+    ],
+    "antonyms": [
+      "umweltschädlich"
+    ]
+  },
+  {
+    "word": "Umweltverschmutzung",
+    "lemma": "Umweltverschmutzung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Umweltverschmutzungen",
+    "meaning": [
+      {
+        "zh": "环境污染",
+        "en": "environmental pollution"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Umweltverschmutzung in Großstädten nimmt ständig zu.",
+        "zh": "大城市的污染不断增加。"
+      },
+      {
+        "de": "Maßnahmen gegen die Umweltverschmutzung sind dringend notwendig.",
+        "zh": "对抗环境污染的措施迫在眉睫。"
+      }
+    ],
+    "collocations": [
+      "die Umweltverschmutzung bekämpfen",
+      "die Umweltverschmutzung reduzieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "环境",
+      "B1"
+    ],
+    "synonyms": [
+      "Verschmutzung",
+      "Umweltbelastung"
+    ],
+    "antonyms": [
+      "Umweltschutz"
+    ]
+  },
+  {
+    "word": "Umzug",
+    "lemma": "Umzug",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Umzüge",
+    "meaning": [
+      {
+        "zh": "搬家，迁移",
+        "en": "move, relocation"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Umzug in die neue Wohnung war sehr anstrengend.",
+        "zh": "搬到新公寓非常累人。"
+      },
+      {
+        "de": "Sie planten den Umzug für nächsten Monat.",
+        "zh": "他们计划下个月搬家。"
+      }
+    ],
+    "collocations": [
+      "einen Umzug organisieren",
+      "beim Umzug helfen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Umsiedlung",
+      "Wohnungswechsel"
+    ],
+    "antonyms": [
+      "Bleiben"
+    ]
+  },
+  {
+    "word": "ungefähr",
+    "lemma": "ungefähr",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "大约，大概",
+        "en": "approximately, roughly"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Es waren ungefähr zwanzig Leute auf der Party.",
+        "zh": "派对上大约有二十个人。"
+      },
+      {
+        "de": "Der Zug kommt ungefähr um drei Uhr an.",
+        "zh": "火车大约三点到达。"
+      }
+    ],
+    "collocations": [
+      "ungefähr gleich",
+      "ungefähr so viel"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "数量",
+      "A2"
+    ],
+    "synonyms": [
+      "circa",
+      "etwa",
+      "rund"
+    ],
+    "antonyms": [
+      "genau",
+      "exakt"
+    ]
+  },
+  {
+    "word": "unterbrechen",
+    "lemma": "unterbrechen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "打断，中断",
+        "en": "to interrupt, to break off"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Entschuldigung, ich möchte Sie kurz unterbrechen.",
+        "zh": "对不起，我想打断您一下。"
+      },
+      {
+        "de": "Der Strom wurde für zwei Stunden unterbrochen.",
+        "zh": "电力中断了两个小时。"
+      }
+    ],
+    "collocations": [
+      "jemanden unterbrechen",
+      "die Arbeit unterbrechen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "unterbrochen"
+    },
+    "level": "B1",
+    "tags": [
+      "沟通",
+      "B1"
+    ],
+    "synonyms": [
+      "stören",
+      "abbrechen"
+    ],
+    "antonyms": [
+      "fortsetzen",
+      "weiterführen"
+    ]
+  },
+  {
+    "word": "Unterkunft",
+    "lemma": "Unterkunft",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Unterkünfte",
+    "meaning": [
+      {
+        "zh": "住宿，住处",
+        "en": "accommodation, lodging"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir suchen noch eine günstige Unterkunft für den Urlaub.",
+        "zh": "我们还在为假期寻找便宜的住宿。"
+      },
+      {
+        "de": "Die Unterkunft war einfach, aber sauber.",
+        "zh": "住处很简单，但很干净。"
+      }
+    ],
+    "collocations": [
+      "eine Unterkunft buchen",
+      "eine Unterkunft finden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "旅行",
+      "A2"
+    ],
+    "synonyms": [
+      "Quartier",
+      "Herberge",
+      "Wohnung"
+    ],
+    "antonyms": [
+      "Obdachlosigkeit"
+    ]
+  },
+  {
+    "word": "unternehmen",
+    "lemma": "unternehmen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "进行，从事，采取（行动）",
+        "en": "to undertake, to do, to carry out"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Was möchtest du heute unternehmen?",
+        "zh": "你今天想做什么？"
+      },
+      {
+        "de": "Die Firma wird eine neue Marketingkampagne unternehmen.",
+        "zh": "公司将开展一项新的营销活动。"
+      }
+    ],
+    "collocations": [
+      "etwas unternehmen",
+      "einen Ausflug unternehmen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "unternommen"
+    },
+    "level": "B1",
+    "tags": [
+      "行动",
+      "B1"
+    ],
+    "synonyms": [
+      "machen",
+      "durchführen",
+      "starten"
+    ],
+    "antonyms": [
+      "unterlassen",
+      "vermeiden"
+    ]
+  }
+]

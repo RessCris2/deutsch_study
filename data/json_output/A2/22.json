@@ -1,0 +1,1688 @@
+[
+  {
+    "word": "vertreiben",
+    "lemma": "vertreiben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "驱赶，驱逐",
+        "en": "to drive away, to expel"
+      },
+      {
+        "zh": "打发（时间）",
+        "en": "to while away (time)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Polizei vertrieb die Demonstranten vom Platz.",
+        "zh": "警察把示威者从广场上驱散了。"
+      },
+      {
+        "de": "Er vertrieb sich die Zeit mit Lesen.",
+        "zh": "他靠读书来打发时间。"
+      }
+    ],
+    "collocations": [
+      "die Zeit vertreiben",
+      "jemanden aus dem Haus vertreiben"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "vertrieben"
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "情感",
+      "B2"
+    ],
+    "synonyms": [
+      "verjagen",
+      "verbannen",
+      "verscheuchen"
+    ],
+    "antonyms": [
+      "willkommen heißen",
+      "aufnehmen"
+    ]
+  },
+  {
+    "word": "verwandeln",
+    "lemma": "verwandeln",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "转变，改变",
+        "en": "to transform, to change"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Raupe verwandelt sich in einen Schmetterling.",
+        "zh": "毛毛虫变成了蝴蝶。"
+      },
+      {
+        "de": "Er verwandelte das alte Haus in ein Museum.",
+        "zh": "他把老房子改造成了博物馆。"
+      }
+    ],
+    "collocations": [
+      "sich in etwas verwandeln",
+      "etwas in etwas verwandeln"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verwandelt"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "自然",
+      "B1"
+    ],
+    "synonyms": [
+      "umwandeln",
+      "ändern",
+      "umformen"
+    ],
+    "antonyms": [
+      "bewahren",
+      "erhalten"
+    ]
+  },
+  {
+    "word": "Volksfest",
+    "lemma": "Volksfest",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Volksfeste",
+    "meaning": [
+      {
+        "zh": "民间节日，大众节庆",
+        "en": "folk festival, public festival"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Oktoberfest ist das bekannteste Volksfest der Welt.",
+        "zh": "十月节是世界上最著名的民间节日。"
+      },
+      {
+        "de": "Auf dem Volksfest gab es viele Fahrgeschäfte und Stände.",
+        "zh": "在民间节日上有很多游乐设施和摊位。"
+      }
+    ],
+    "collocations": [
+      "ein Volksfest besuchen",
+      "das traditionelle Volksfest"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "文化",
+      "B1"
+    ],
+    "synonyms": [
+      "Jahrmarkt",
+      "Kirchweih",
+      "Fest"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Volkshochschule",
+    "lemma": "Volkshochschule",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Volkshochschulen",
+    "meaning": [
+      {
+        "zh": "成人大学，民众高等学校",
+        "en": "adult education center, community college"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie besucht einen Sprachkurs an der Volkshochschule.",
+        "zh": "她在成人大学上语言课。"
+      },
+      {
+        "de": "Die Volkshochschule bietet viele Kurse für Erwachsene an.",
+        "zh": "成人大学为成年人提供很多课程。"
+      }
+    ],
+    "collocations": [
+      "an der Volkshochschule lernen",
+      "einen Kurs an der Volkshochschule belegen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Abendschule",
+      "Weiterbildungseinrichtung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Volkssage",
+    "lemma": "Volkssage",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Volkssagen",
+    "meaning": [
+      {
+        "zh": "民间传说",
+        "en": "folk legend, folk tale"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Brüder Grimm sammelten viele deutsche Volkssagen.",
+        "zh": "格林兄弟收集了许多德国民间传说。"
+      },
+      {
+        "de": "Diese Volkssage handelt von einem Drachen und einem tapferen Ritter.",
+        "zh": "这个民间传说讲的是龙和勇敢的骑士的故事。"
+      }
+    ],
+    "collocations": [
+      "eine alte Volkssage",
+      "Volkssagen erzählen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "文化",
+      "文学",
+      "B1"
+    ],
+    "synonyms": [
+      "Legende",
+      "Märchen",
+      "Erzählung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Vollmond",
+    "lemma": "Vollmond",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Vollmonde",
+    "meaning": [
+      {
+        "zh": "满月",
+        "en": "full moon"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bei Vollmond scheint es nachts fast so hell wie am Tag.",
+        "zh": "满月时，夜晚几乎和白天一样亮。"
+      },
+      {
+        "de": "Der Vollmond steht heute besonders groß am Himmel.",
+        "zh": "今晚的满月在天空中显得特别大。"
+      }
+    ],
+    "collocations": [
+      "bei Vollmond",
+      "Vollmondnacht"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "自然",
+      "天文",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "Neumond"
+    ]
+  },
+  {
+    "word": "Vorabend",
+    "lemma": "Vorabend",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Vorabende",
+    "meaning": [
+      {
+        "zh": "前夕，前夜",
+        "en": "eve, evening before"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Am Vorabend des Festes trafen sich alle im Dorf.",
+        "zh": "节日前夕，大家都在村里聚会。"
+      },
+      {
+        "de": "Sie bereitete am Vorabend alles für die Reise vor.",
+        "zh": "她在出发前夜为旅行做好了所有准备。"
+      }
+    ],
+    "collocations": [
+      "am Vorabend von etwas",
+      "der Vorabend des Festes"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "时间",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Abend vorher",
+      "Vortag"
+    ],
+    "antonyms": [
+      "Morgen",
+      "Folgetag"
+    ]
+  },
+  {
+    "word": "vorbereiten",
+    "lemma": "vorbereiten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "准备，预备",
+        "en": "to prepare"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich muss mich auf die Prüfung vorbereiten.",
+        "zh": "我必须为考试做准备。"
+      },
+      {
+        "de": "Sie bereitet das Abendessen vor.",
+        "zh": "她在准备晚餐。"
+      }
+    ],
+    "collocations": [
+      "sich auf etwas vorbereiten",
+      "etwas vorbereiten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "vorbereitet"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "学习",
+      "A2"
+    ],
+    "synonyms": [
+      "vorbereiten",
+      "einrichten",
+      "planen"
+    ],
+    "antonyms": [
+      "vernachlässigen",
+      "vergessen"
+    ]
+  },
+  {
+    "word": "vorlesungsfrei",
+    "lemma": "vorlesungsfrei",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "无课的，没有讲座的",
+        "en": "free of lectures, lecture-free"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Morgen ist der Tag vorlesungsfrei.",
+        "zh": "明天是无课日。"
+      },
+      {
+        "de": "In der vorlesungsfreien Zeit können Studierende reisen.",
+        "zh": "在无课期间，学生可以旅行。"
+      }
+    ],
+    "collocations": [
+      "vorlesungsfreie Zeit",
+      "vorlesungsfreier Tag"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "unterrichtsfrei"
+    ],
+    "antonyms": [
+      "vorlesungspflichtig"
+    ]
+  },
+  {
+    "word": "Vorlesungszeit",
+    "lemma": "Vorlesungszeit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Vorlesungszeiten",
+    "meaning": [
+      {
+        "zh": "授课时间，学期中的讲座期",
+        "en": "lecture period, term time"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Vorlesungszeit beginnt im Oktober.",
+        "zh": "授课时间从十月开始。"
+      },
+      {
+        "de": "Während der Vorlesungszeit haben die Studierenden viele Kurse.",
+        "zh": "在授课期间，学生有很多课程。"
+      }
+    ],
+    "collocations": [
+      "in der Vorlesungszeit",
+      "Vorlesungszeit und vorlesungsfreie Zeit"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "Semesterzeit"
+    ],
+    "antonyms": [
+      "vorlesungsfreie Zeit"
+    ]
+  },
+  {
+    "word": "Vorliebe",
+    "lemma": "Vorliebe",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Vorlieben",
+    "meaning": [
+      {
+        "zh": "偏爱，喜好",
+        "en": "preference, liking"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat eine Vorliebe für klassische Musik.",
+        "zh": "她偏爱古典音乐。"
+      },
+      {
+        "de": "Meine Vorliebe gilt italienischem Essen.",
+        "zh": "我偏爱意大利菜。"
+      }
+    ],
+    "collocations": [
+      "eine Vorliebe für etwas haben",
+      "persönliche Vorlieben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "Präferenz",
+      "Neigung"
+    ],
+    "antonyms": [
+      "Abneigung"
+    ]
+  },
+  {
+    "word": "vornehmen",
+    "lemma": "vornehmen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "进行，着手做；预定",
+        "en": "to undertake, to carry out; to schedule"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich nehme mir vor, mehr Sport zu treiben.",
+        "zh": "我打算多做运动。"
+      },
+      {
+        "de": "Der Arzt nimmt eine Untersuchung vor.",
+        "zh": "医生进行检查。"
+      }
+    ],
+    "collocations": [
+      "sich etwas vornehmen",
+      "eine Operation vornehmen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "vorgenommen"
+    },
+    "level": "B1",
+    "tags": [
+      "行为",
+      "B1"
+    ],
+    "synonyms": [
+      "durchführen",
+      "planen"
+    ],
+    "antonyms": [
+      "unterlassen"
+    ]
+  },
+  {
+    "word": "Vorschrift",
+    "lemma": "Vorschrift",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Vorschriften",
+    "meaning": [
+      {
+        "zh": "规定，规章",
+        "en": "regulation, rule"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Vorschrift verlangt das Tragen eines Helms.",
+        "zh": "规定要求戴头盔。"
+      },
+      {
+        "de": "Er hält sich nicht an die Vorschriften.",
+        "zh": "他不遵守规定。"
+      }
+    ],
+    "collocations": [
+      "gesetzliche Vorschrift",
+      "sich an Vorschriften halten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "法律",
+      "B1"
+    ],
+    "synonyms": [
+      "Regel",
+      "Bestimmung"
+    ],
+    "antonyms": [
+      "Anarchie"
+    ]
+  },
+  {
+    "word": "Vorstellung",
+    "lemma": "Vorstellung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Vorstellungen",
+    "meaning": [
+      {
+        "zh": "想象；介绍；演出",
+        "en": "imagination; introduction; performance"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe keine Vorstellung davon, wie das funktioniert.",
+        "zh": "我对此如何运作毫无概念。"
+      },
+      {
+        "de": "Die Vorstellung des neuen Produkts war ein Erfolg.",
+        "zh": "新产品的介绍很成功。"
+      }
+    ],
+    "collocations": [
+      "sich eine Vorstellung machen",
+      "öffentliche Vorstellung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "认知",
+      "B1"
+    ],
+    "synonyms": [
+      "Idee",
+      "Präsentation"
+    ],
+    "antonyms": [
+      "Realität"
+    ]
+  },
+  {
+    "word": "Vorteil",
+    "lemma": "Vorteil",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Vorteile",
+    "meaning": [
+      {
+        "zh": "优势，好处",
+        "en": "advantage, benefit"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieses Angebot hat viele Vorteile.",
+        "zh": "这个报价有很多好处。"
+      },
+      {
+        "de": "Er hat einen Vorteil gegenüber seinen Konkurrenten.",
+        "zh": "他比竞争对手有优势。"
+      }
+    ],
+    "collocations": [
+      "einen Vorteil haben",
+      "Vorteile nutzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Nutzen",
+      "Pluspunkt"
+    ],
+    "antonyms": [
+      "Nachteil"
+    ]
+  },
+  {
+    "word": "Vortrag",
+    "lemma": "Vortrag",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Vorträge",
+    "meaning": [
+      {
+        "zh": "报告，演讲",
+        "en": "lecture, talk, presentation"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hält einen Vortrag über Klimawandel.",
+        "zh": "他做一个关于气候变化的报告。"
+      },
+      {
+        "de": "Der Vortrag war sehr interessant.",
+        "zh": "这个演讲很有趣。"
+      }
+    ],
+    "collocations": [
+      "einen Vortrag halten",
+      "Vortrag über etwas"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "教育",
+      "A2"
+    ],
+    "synonyms": [
+      "Referat",
+      "Präsentation"
+    ],
+    "antonyms": [
+      "Schweigen"
+    ]
+  },
+  {
+    "word": "Vorurteil",
+    "lemma": "Vorurteil",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Vorurteile",
+    "meaning": [
+      {
+        "zh": "偏见，成见",
+        "en": "prejudice, bias"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat viele Vorurteile gegenüber Ausländern.",
+        "zh": "他对外国人有很多偏见。"
+      },
+      {
+        "de": "Wir müssen Vorurteile abbauen.",
+        "zh": "我们必须消除偏见。"
+      }
+    ],
+    "collocations": [
+      "Vorurteile haben",
+      "Vorurteile abbauen",
+      "gegen Vorurteile kämpfen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "Voreingenommenheit",
+      "Klischee"
+    ],
+    "antonyms": [
+      "Objektivität",
+      "Toleranz"
+    ]
+  },
+  {
+    "word": "vorwiegend",
+    "lemma": "vorwiegend",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "主要地，多半",
+        "en": "mainly, predominantly"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Bevölkerung besteht vorwiegend aus jungen Leuten.",
+        "zh": "人口主要由年轻人组成。"
+      },
+      {
+        "de": "Er arbeitet vorwiegend im Homeoffice.",
+        "zh": "他主要在家办公。"
+      }
+    ],
+    "collocations": [
+      "vorwiegend bestehen aus",
+      "vorwiegend nutzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语言",
+      "B1"
+    ],
+    "synonyms": [
+      "hauptsächlich",
+      "überwiegend"
+    ],
+    "antonyms": [
+      "selten",
+      "kaum"
+    ]
+  },
+  {
+    "word": "Wachstum",
+    "lemma": "Wachstum",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "增长，生长",
+        "en": "growth"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Wirtschaftswachstum hat sich verlangsamt.",
+        "zh": "经济增长已经放缓。"
+      },
+      {
+        "de": "Das Wachstum der Pflanzen hängt vom Licht ab.",
+        "zh": "植物的生长依赖于光照。"
+      }
+    ],
+    "collocations": [
+      "Wirtschaftswachstum",
+      "Wachstum fördern",
+      "nachhaltiges Wachstum"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "自然",
+      "B1"
+    ],
+    "synonyms": [
+      "Zunahme",
+      "Expansion"
+    ],
+    "antonyms": [
+      "Rückgang",
+      "Schrumpfung"
+    ]
+  },
+  {
+    "word": "Waffe",
+    "lemma": "Waffe",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Waffen",
+    "meaning": [
+      {
+        "zh": "武器",
+        "en": "weapon"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Polizei fand eine illegale Waffe.",
+        "zh": "警察发现了一件非法武器。"
+      },
+      {
+        "de": "Messer können als Waffe benutzt werden.",
+        "zh": "刀可以被用作武器。"
+      }
+    ],
+    "collocations": [
+      "eine Waffe tragen",
+      "Waffen besitzen",
+      "mit Waffen umgehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "军事",
+      "法律",
+      "B1"
+    ],
+    "synonyms": [
+      "Gewehr",
+      "Pistole"
+    ],
+    "antonyms": [
+      "Frieden",
+      "Schutz"
+    ]
+  },
+  {
+    "word": "wählen",
+    "lemma": "wählen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "选择；选举",
+        "en": "to choose; to vote"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich wähle die grüne Partei.",
+        "zh": "我选绿党。"
+      },
+      {
+        "de": "Sie wählte ein neues Kleid aus.",
+        "zh": "她选了一件新裙子。"
+      }
+    ],
+    "collocations": [
+      "eine Partei wählen",
+      "auswählen",
+      "wählen gehen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gewählt"
+    },
+    "level": "A2",
+    "tags": [
+      "政治",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "aussuchen",
+      "entscheiden"
+    ],
+    "antonyms": [
+      "ablehnen",
+      "verwerfen"
+    ]
+  },
+  {
+    "word": "wahr",
+    "lemma": "wahr",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "真实的，真的",
+        "en": "true"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ist das wirklich wahr?",
+        "zh": "这真的吗？"
+      },
+      {
+        "de": "Das ist eine wahre Geschichte.",
+        "zh": "这是一个真实的故事。"
+      }
+    ],
+    "collocations": [
+      "wahr sein",
+      "wahr werden",
+      "nicht wahr"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "语言",
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "echt",
+      "wirklich"
+    ],
+    "antonyms": [
+      "falsch",
+      "unwahr"
+    ]
+  },
+  {
+    "word": "Wahrheit",
+    "lemma": "Wahrheit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Wahrheiten",
+    "meaning": [
+      {
+        "zh": "真理，真相",
+        "en": "truth"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Wahrheit kommt ans Licht.",
+        "zh": "真相大白。"
+      },
+      {
+        "de": "Er sagt immer die Wahrheit.",
+        "zh": "他总是说实话。"
+      }
+    ],
+    "collocations": [
+      "die Wahrheit sagen",
+      "die Wahrheit herausfinden",
+      "die Wahrheit verheimlichen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "哲学",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "Fakt",
+      "Realität"
+    ],
+    "antonyms": [
+      "Lüge",
+      "Täuschung"
+    ]
+  },
+  {
+    "word": "Wald",
+    "lemma": "Wald",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Wälder",
+    "meaning": [
+      {
+        "zh": "森林",
+        "en": "forest"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir gehen im Wald spazieren.",
+        "zh": "我们在森林里散步。"
+      },
+      {
+        "de": "Der Wald ist voller Tiere.",
+        "zh": "森林里有很多动物。"
+      }
+    ],
+    "collocations": [
+      "im Wald",
+      "durch den Wald gehen",
+      "Wald und Wiese"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "自然",
+      "A1"
+    ],
+    "synonyms": [
+      "Forst",
+      "Gehölz"
+    ],
+    "antonyms": [
+      "Stadt",
+      "Wüste"
+    ]
+  },
+  {
+    "word": "Wasche",
+    "lemma": "Wasche",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Waschen",
+    "meaning": [
+      {
+        "zh": "洗涤物，待洗衣物",
+        "en": "laundry, washing"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich muss die Wasche in die Maschine legen.",
+        "zh": "我得把待洗衣物放进洗衣机。"
+      },
+      {
+        "de": "Die nasse Wasche hängt auf der Leine.",
+        "zh": "湿衣服挂在晾衣绳上。"
+      }
+    ],
+    "collocations": [
+      "die Wasche waschen",
+      "die Wasche aufhängen",
+      "die Wasche bügeln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "家务",
+      "A2"
+    ],
+    "synonyms": [
+      "Wäsche",
+      "Kleidung zum Waschen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Webseite",
+    "lemma": "Webseite",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Webseiten",
+    "meaning": [
+      {
+        "zh": "网页，网站",
+        "en": "web page, website"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Webseite lädt sehr langsam.",
+        "zh": "这个网页加载很慢。"
+      },
+      {
+        "de": "Auf dieser Webseite findest du viele Informationen.",
+        "zh": "在这个网站上你可以找到很多信息。"
+      }
+    ],
+    "collocations": [
+      "eine Webseite besuchen",
+      "eine Webseite erstellen",
+      "auf einer Webseite surfen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "科技",
+      "互联网",
+      "A2"
+    ],
+    "synonyms": [
+      "Internetseite",
+      "Website"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "wegnehmen",
+    "lemma": "wegnehmen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "拿走，夺走",
+        "en": "to take away, to remove"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du das Buch vom Tisch wegnehmen?",
+        "zh": "你能把书从桌子上拿走吗？"
+      },
+      {
+        "de": "Der Dieb hat mir die Tasche weggenommen.",
+        "zh": "小偷拿走了我的包。"
+      }
+    ],
+    "collocations": [
+      "jemandem etwas wegnehmen",
+      "sich etwas wegnehmen lassen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "weggenommen"
+    },
+    "level": "B1",
+    "tags": [
+      "日常",
+      "动作",
+      "B1"
+    ],
+    "synonyms": [
+      "entfernen",
+      "abnehmen"
+    ],
+    "antonyms": [
+      "geben",
+      "hinzufügen"
+    ]
+  },
+  {
+    "word": "Weihnachtsbaum",
+    "lemma": "Weihnachtsbaum",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Weihnachtsbäume",
+    "meaning": [
+      {
+        "zh": "圣诞树",
+        "en": "Christmas tree"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir schmücken den Weihnachtsbaum mit Kugeln und Lichtern.",
+        "zh": "我们用彩球和灯饰装饰圣诞树。"
+      },
+      {
+        "de": "Der Weihnachtsbaum steht im Wohnzimmer.",
+        "zh": "圣诞树放在客厅里。"
+      }
+    ],
+    "collocations": [
+      "einen Weihnachtsbaum aufstellen",
+      "den Weihnachtsbaum schmücken",
+      "einen Weihnachtsbaum kaufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "节日",
+      "文化",
+      "A2"
+    ],
+    "synonyms": [
+      "Christbaum",
+      "Tannenbaum"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Weihnachtsfest",
+    "lemma": "Weihnachtsfest",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Weihnachtsfeste",
+    "meaning": [
+      {
+        "zh": "圣诞节（节日）",
+        "en": "Christmas celebration"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Weihnachtsfest feiern wir im Kreise der Familie.",
+        "zh": "我们在家庭圈子里庆祝圣诞节。"
+      },
+      {
+        "de": "Das Weihnachtsfest ist für viele das wichtigste Fest des Jahres.",
+        "zh": "圣诞节对许多人来说是一年中最重要的节日。"
+      }
+    ],
+    "collocations": [
+      "das Weihnachtsfest feiern",
+      "zum Weihnachtsfest einladen",
+      "das Weihnachtsfest verbringen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "节日",
+      "文化",
+      "A2"
+    ],
+    "synonyms": [
+      "Weihnachten",
+      "Christfest"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Weihnachtsmann",
+    "lemma": "Weihnachtsmann",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Weihnachtsmänner",
+    "meaning": [
+      {
+        "zh": "圣诞老人",
+        "en": "Santa Claus"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Weihnachtsmann bringt den Kindern Geschenke.",
+        "zh": "圣诞老人给孩子们带来礼物。"
+      },
+      {
+        "de": "Die Kinder warten auf den Weihnachtsmann.",
+        "zh": "孩子们在等圣诞老人。"
+      }
+    ],
+    "collocations": [
+      "den Weihnachtsmann rufen",
+      "dem Weihnachtsmann schreiben",
+      "als Weihnachtsmann verkleiden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "节日",
+      "文化",
+      "A2"
+    ],
+    "synonyms": [
+      "Nikolaus",
+      "Santa Claus"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Weile",
+    "lemma": "Weile",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "一会儿，一段时间",
+        "en": "while, short period of time"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Es hat eine Weile gedauert, bis der Bus kam.",
+        "zh": "公交车过了一段时间才来。"
+      },
+      {
+        "de": "Kannst du bitte eine Weile warten?",
+        "zh": "你能等一会儿吗？"
+      }
+    ],
+    "collocations": [
+      "eine Weile dauern",
+      "eine Weile warten",
+      "nach einer Weile"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "时间",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "Zeitspanne",
+      "Augenblick"
+    ],
+    "antonyms": [
+      "Ewigkeit"
+    ]
+  },
+  {
+    "word": "Weinberg",
+    "lemma": "Weinberg",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Weinberge",
+    "meaning": [
+      {
+        "zh": "葡萄园",
+        "en": "vineyard"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Weinberg liegt an einem sonnigen Hang.",
+        "zh": "葡萄园位于一个向阳的山坡上。"
+      },
+      {
+        "de": "Im Herbst wird im Weinberg die Trauben geerntet.",
+        "zh": "秋天在葡萄园里收获葡萄。"
+      }
+    ],
+    "collocations": [
+      "einen Weinberg bewirtschaften",
+      "im Weinberg arbeiten",
+      "Weinberg besuchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "农业",
+      "自然",
+      "B1"
+    ],
+    "synonyms": [
+      "Rebberg",
+      "Weingut"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "weltberühmt",
+    "lemma": "weltberühmt",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "世界闻名的",
+        "en": "world-famous"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Künstler ist weltberühmt für seine Gemälde.",
+        "zh": "这位艺术家因其画作而世界闻名。"
+      },
+      {
+        "de": "Diese Stadt ist weltberühmt für ihre Architektur.",
+        "zh": "这座城市以其建筑而世界闻名。"
+      }
+    ],
+    "collocations": [
+      "weltberühmt sein",
+      "weltberühmt werden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "形容词",
+      "B1",
+      "社会"
+    ],
+    "synonyms": [
+      "berühmt",
+      "bekannt"
+    ],
+    "antonyms": [
+      "unbekannt"
+    ]
+  },
+  {
+    "word": "wenden",
+    "lemma": "wenden",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "转向；翻转；求助",
+        "en": "to turn; to flip; to address"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er wendet das Auto auf der Straße.",
+        "zh": "他在街上掉头。"
+      },
+      {
+        "de": "Sie wendet sich an den Arzt.",
+        "zh": "她向医生求助。"
+      }
+    ],
+    "collocations": [
+      "sich an jemanden wenden",
+      "das Blatt wenden"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gewendet"
+    },
+    "level": "B1",
+    "tags": [
+      "动词",
+      "B1",
+      "日常"
+    ],
+    "synonyms": [
+      "drehen",
+      "umkehren"
+    ],
+    "antonyms": [
+      "bleiben"
+    ]
+  },
+  {
+    "word": "wenig",
+    "lemma": "wenig",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "少的；少量的",
+        "en": "little; few"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe wenig Zeit.",
+        "zh": "我时间很少。"
+      },
+      {
+        "de": "Es gibt wenige Menschen hier.",
+        "zh": "这里人很少。"
+      }
+    ],
+    "collocations": [
+      "wenig Geld",
+      "wenig Zeit"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "形容词",
+      "副词",
+      "A1",
+      "日常"
+    ],
+    "synonyms": [
+      "gering",
+      "knapp"
+    ],
+    "antonyms": [
+      "viel",
+      "reichlich"
+    ]
+  }
+]

@@ -1,0 +1,1976 @@
+[
+  {
+    "word": "verlieren",
+    "lemma": "verlieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "丢失，失去",
+        "en": "to lose"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe meinen Schlüssel verloren.",
+        "zh": "我丢了钥匙。"
+      },
+      {
+        "de": "Er hat das Spiel verloren.",
+        "zh": "他输了比赛。"
+      }
+    ],
+    "collocations": [
+      "den Mut verlieren",
+      "an Bedeutung verlieren"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verloren"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "einbüßen",
+      "verpassen"
+    ],
+    "antonyms": [
+      "gewinnen",
+      "finden"
+    ]
+  },
+  {
+    "word": "vermeiden",
+    "lemma": "vermeiden",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "避免",
+        "en": "to avoid"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Du solltest unnötige Risiken vermeiden.",
+        "zh": "你应该避免不必要的风险。"
+      },
+      {
+        "de": "Er vermeidet es, über das Thema zu sprechen.",
+        "zh": "他避免谈论这个话题。"
+      }
+    ],
+    "collocations": [
+      "einen Fehler vermeiden",
+      "Konflikte vermeiden"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "vermieden"
+    },
+    "level": "B1",
+    "tags": [
+      "行为",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "umgehen",
+      "ausweichen"
+    ],
+    "antonyms": [
+      "suchen",
+      "riskieren"
+    ]
+  },
+  {
+    "word": "Vermeidung",
+    "lemma": "Vermeidung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "避免，回避",
+        "en": "avoidance"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Vermeidung von Konflikten ist wichtig.",
+        "zh": "避免冲突很重要。"
+      },
+      {
+        "de": "Zur Vermeidung von Missverständnissen erklären wir alles genau.",
+        "zh": "为了避免误解，我们详细解释一切。"
+      }
+    ],
+    "collocations": [
+      "Vermeidung von Risiken",
+      "zur Vermeidung von"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "抽象",
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "Umgehung",
+      "Abwendung"
+    ],
+    "antonyms": [
+      "Suche",
+      "Konfrontation"
+    ]
+  },
+  {
+    "word": "vermitteln",
+    "lemma": "vermitteln",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "调解，传授，介绍",
+        "en": "to mediate, to convey"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Lehrer vermittelt den Schülern neues Wissen.",
+        "zh": "老师向学生传授新知识。"
+      },
+      {
+        "de": "Sie hat zwischen den beiden Parteien vermittelt.",
+        "zh": "她在双方之间进行了调解。"
+      }
+    ],
+    "collocations": [
+      "Wissen vermitteln",
+      "einen Job vermitteln"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "vermittelt"
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "übermitteln",
+      "schlichten"
+    ],
+    "antonyms": [
+      "trennen",
+      "verwirren"
+    ]
+  },
+  {
+    "word": "Vermutung",
+    "lemma": "Vermutung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Vermutungen",
+    "meaning": [
+      {
+        "zh": "猜测，推测",
+        "en": "assumption, guess"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist nur eine Vermutung.",
+        "zh": "这只是一个猜测。"
+      },
+      {
+        "de": "Meine Vermutung hat sich bestätigt.",
+        "zh": "我的猜测得到了证实。"
+      }
+    ],
+    "collocations": [
+      "eine Vermutung äußern",
+      "auf eine Vermutung basieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "思维",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "Annahme",
+      "Hypothese"
+    ],
+    "antonyms": [
+      "Gewissheit",
+      "Tatsache"
+    ]
+  },
+  {
+    "word": "Verpackung",
+    "lemma": "Verpackung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Verpackungen",
+    "meaning": [
+      {
+        "zh": "包装",
+        "en": "packaging"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Verpackung ist umweltfreundlich.",
+        "zh": "包装是环保的。"
+      },
+      {
+        "de": "Bitte entfernen Sie die Verpackung vor dem Gebrauch.",
+        "zh": "使用前请去除包装。"
+      }
+    ],
+    "collocations": [
+      "Verpackung entsorgen",
+      "Verpackung aus Plastik"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "Hülle",
+      "Umschlag"
+    ],
+    "antonyms": [
+      "Inhalt",
+      "Ware"
+    ]
+  },
+  {
+    "word": "verpassen",
+    "lemma": "verpassen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "错过",
+        "en": "to miss"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe den Bus verpasst.",
+        "zh": "我错过了公交车。"
+      },
+      {
+        "de": "Er hat eine gute Gelegenheit verpasst.",
+        "zh": "他错过了一个好机会。"
+      }
+    ],
+    "collocations": [
+      "den Zug verpassen",
+      "eine Chance verpassen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verpasst"
+    },
+    "level": "A2",
+    "tags": [
+      "交通",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "versäumen",
+      "verlieren"
+    ],
+    "antonyms": [
+      "erreichen",
+      "nutzen"
+    ]
+  },
+  {
+    "word": "verschieben",
+    "lemma": "verschieben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "推迟，移动",
+        "en": "to postpone, to shift"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir müssen das Treffen verschieben.",
+        "zh": "我们必须推迟会议。"
+      },
+      {
+        "de": "Er hat den Termin auf nächste Woche verschoben.",
+        "zh": "他把日期推迟到了下周。"
+      }
+    ],
+    "collocations": [
+      "einen Termin verschieben",
+      "etwas nach hinten verschieben"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verschoben"
+    },
+    "level": "B1",
+    "tags": [
+      "时间",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "aufschleben",
+      "verzögern"
+    ],
+    "antonyms": [
+      "vorziehen",
+      "beschleunigen"
+    ]
+  },
+  {
+    "word": "verschlechtern",
+    "lemma": "verschlechtern",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "恶化，变差",
+        "en": "to worsen, to deteriorate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die wirtschaftliche Lage hat sich weiter verschlechtert.",
+        "zh": "经济形势进一步恶化了。"
+      },
+      {
+        "de": "Durch den Lärm verschlechtert sich die Lebensqualität.",
+        "zh": "噪音降低了生活质量。"
+      }
+    ],
+    "collocations": [
+      "sich verschlechtern",
+      "die Situation verschlechtern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verschlechtert"
+    },
+    "level": "B1",
+    "tags": [
+      "变化",
+      "B1"
+    ],
+    "synonyms": [
+      "verschlimmern",
+      "sich verschlimmern"
+    ],
+    "antonyms": [
+      "verbessern",
+      "sich verbessern"
+    ]
+  },
+  {
+    "word": "verschwenden",
+    "lemma": "verschwenden",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "浪费",
+        "en": "to waste"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er verschwendet sein ganzes Geld für unnötige Dinge.",
+        "zh": "他把所有的钱都浪费在没用的东西上。"
+      },
+      {
+        "de": "Verschwende keine Zeit mit solchen Gedanken.",
+        "zh": "别把时间浪费在这种想法上。"
+      }
+    ],
+    "collocations": [
+      "Geld verschwenden",
+      "Zeit verschwenden"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verschwendet"
+    },
+    "level": "B1",
+    "tags": [
+      "行为",
+      "B1"
+    ],
+    "synonyms": [
+      "vergeuden",
+      "verplempern"
+    ],
+    "antonyms": [
+      "sparen",
+      "schonen"
+    ]
+  },
+  {
+    "word": "versehen",
+    "lemma": "versehen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "配备，提供；看错",
+        "en": "to provide, to equip; to make a mistake"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Dokument ist mit einem Stempel versehen.",
+        "zh": "这份文件盖了章。"
+      },
+      {
+        "de": "Ich habe mich versehen und die falsche Nummer gewählt.",
+        "zh": "我看错了，拨错了号码。"
+      }
+    ],
+    "collocations": [
+      "mit etwas versehen",
+      "sich versehen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "versehen"
+    },
+    "level": "B2",
+    "tags": [
+      "动作",
+      "B2"
+    ],
+    "synonyms": [
+      "ausstatten",
+      "irren"
+    ],
+    "antonyms": [
+      "entfernen",
+      "korrigieren"
+    ]
+  },
+  {
+    "word": "versorgen",
+    "lemma": "versorgen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "供应，照顾",
+        "en": "to supply, to care for"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Familie wird mit Lebensmitteln versorgt.",
+        "zh": "这家人得到了食物供应。"
+      },
+      {
+        "de": "Sie versorgt ihre kranke Mutter.",
+        "zh": "她照顾生病的母亲。"
+      }
+    ],
+    "collocations": [
+      "mit etwas versorgen",
+      "jemanden versorgen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "versorgt"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "beliefern",
+      "betreuen"
+    ],
+    "antonyms": [
+      "vernachlässigen",
+      "entziehen"
+    ]
+  },
+  {
+    "word": "Verständnis",
+    "lemma": "Verständnis",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "理解，谅解",
+        "en": "understanding, comprehension"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe großes Verständnis für deine Situation.",
+        "zh": "我非常理解你的处境。"
+      },
+      {
+        "de": "Für dieses Problem fehlt mir das Verständnis.",
+        "zh": "我对这个问题缺乏理解。"
+      }
+    ],
+    "collocations": [
+      "Verständnis haben",
+      "Verständnis zeigen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "Einsicht",
+      "Mitgefühl"
+    ],
+    "antonyms": [
+      "Unverständnis",
+      "Missverständnis"
+    ]
+  },
+  {
+    "word": "Vertrauen",
+    "lemma": "Vertrauen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "信任，信赖",
+        "en": "trust, confidence"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat großes Vertrauen in ihren Arzt.",
+        "zh": "她非常信任她的医生。"
+      },
+      {
+        "de": "Das Vertrauen zwischen den Partnern ist wichtig.",
+        "zh": "合作伙伴之间的信任很重要。"
+      }
+    ],
+    "collocations": [
+      "Vertrauen haben",
+      "Vertrauen schenken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "Zuversicht",
+      "Glaube"
+    ],
+    "antonyms": [
+      "Misstrauen",
+      "Zweifel"
+    ]
+  },
+  {
+    "word": "vertreten",
+    "lemma": "vertreten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "代表；代替",
+        "en": "to represent; to substitute"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er vertritt die Firma auf der Messe.",
+        "zh": "他在展会上代表公司。"
+      },
+      {
+        "de": "Kannst du mich morgen vertreten?",
+        "zh": "你明天能替我一下吗？"
+      }
+    ],
+    "collocations": [
+      "jemanden vertreten",
+      "eine Meinung vertreten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "vertreten"
+    },
+    "level": "B1",
+    "tags": [
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "repräsentieren",
+      "ersetzen"
+    ],
+    "antonyms": [
+      "ignorieren",
+      "ablehnen"
+    ]
+  },
+  {
+    "word": "verunsichern",
+    "lemma": "verunsichern",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "使不安，使困惑",
+        "en": "to unsettle, to make insecure"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die ständigen Änderungen verunsichern die Mitarbeiter.",
+        "zh": "不断的变化让员工感到不安。"
+      },
+      {
+        "de": "Seine Aussage hat mich sehr verunsichert.",
+        "zh": "他的话让我很困惑。"
+      }
+    ],
+    "collocations": [
+      "jemanden verunsichern",
+      "sich verunsichert fühlen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verunsichert"
+    },
+    "level": "B2",
+    "tags": [
+      "情感",
+      "B2"
+    ],
+    "synonyms": [
+      "beunruhigen",
+      "verwirren"
+    ],
+    "antonyms": [
+      "beruhigen",
+      "stärken"
+    ]
+  },
+  {
+    "word": "verwalten",
+    "lemma": "verwalten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "管理；掌管",
+        "en": "to manage; to administer"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er verwaltet das Vermögen seiner Familie.",
+        "zh": "他管理家族的财产。"
+      },
+      {
+        "de": "Die Firma wird von einem erfahrenen Team verwaltet.",
+        "zh": "这家公司由一个经验丰富的团队管理。"
+      }
+    ],
+    "collocations": [
+      "Daten verwalten",
+      "ein Konto verwalten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verwaltet"
+    },
+    "level": "B1",
+    "tags": [
+      "管理",
+      "B1"
+    ],
+    "synonyms": [
+      "leiten",
+      "führen"
+    ],
+    "antonyms": [
+      "vernachlässigen"
+    ]
+  },
+  {
+    "word": "Verwaltung",
+    "lemma": "Verwaltung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Verwaltungen",
+    "meaning": [
+      {
+        "zh": "管理；行政机构",
+        "en": "administration; management"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Verwaltung der Stadt arbeitet effizient.",
+        "zh": "城市的管理工作高效。"
+      },
+      {
+        "de": "Er arbeitet in der öffentlichen Verwaltung.",
+        "zh": "他在公共行政部门工作。"
+      }
+    ],
+    "collocations": [
+      "öffentliche Verwaltung",
+      "Verwaltungskosten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "管理",
+      "B1"
+    ],
+    "synonyms": [
+      "Leitung",
+      "Administration"
+    ],
+    "antonyms": [
+      "Chaos"
+    ]
+  },
+  {
+    "word": "verwöhnen",
+    "lemma": "verwöhnen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "宠爱；娇惯",
+        "en": "to pamper; to spoil"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Großeltern verwöhnen ihre Enkelkinder mit Süßigkeiten.",
+        "zh": "祖父母用糖果宠爱他们的孙子孙女。"
+      },
+      {
+        "de": "Sie wurde von ihren Eltern sehr verwöhnt.",
+        "zh": "她被父母宠坏了。"
+      }
+    ],
+    "collocations": [
+      "jemanden verwöhnen",
+      "sich verwöhnen lassen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verwöhnt"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "verhätscheln",
+      "verzärteln"
+    ],
+    "antonyms": [
+      "vernachlässigen"
+    ]
+  },
+  {
+    "word": "verzichten",
+    "lemma": "verzichten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "放弃；舍弃",
+        "en": "to do without; to renounce"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er verzichtet auf Zucker in seinem Kaffee.",
+        "zh": "他放弃在咖啡中加糖。"
+      },
+      {
+        "de": "Wir müssen auf den Urlaub verzichten.",
+        "zh": "我们必须放弃度假。"
+      }
+    ],
+    "collocations": [
+      "auf etwas verzichten",
+      "freiwillig verzichten"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verzichtet"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "entsagen",
+      "ablassen"
+    ],
+    "antonyms": [
+      "beanspruchen",
+      "fordern"
+    ]
+  },
+  {
+    "word": "verzieren",
+    "lemma": "verzieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "装饰；点缀",
+        "en": "to decorate; to adorn"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie verziert den Kuchen mit frischen Früchten.",
+        "zh": "她用新鲜水果装饰蛋糕。"
+      },
+      {
+        "de": "Die Wände sind mit kunstvollen Mustern verziert.",
+        "zh": "墙壁装饰着精美的图案。"
+      }
+    ],
+    "collocations": [
+      "mit etwas verzieren",
+      "einen Raum verzieren"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verziert"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "schmücken",
+      "dekorieren"
+    ],
+    "antonyms": [
+      "verunstalten"
+    ]
+  },
+  {
+    "word": "vielmehr",
+    "lemma": "vielmehr",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "更确切地说；反而",
+        "en": "rather; more precisely"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist nicht faul, vielmehr sehr fleißig.",
+        "zh": "他不懒，反而很勤奋。"
+      },
+      {
+        "de": "Das Problem ist nicht technisch, vielmehr organisatorisch.",
+        "zh": "问题不是技术性的，而是组织性的。"
+      }
+    ],
+    "collocations": [
+      "nicht ..., vielmehr ...",
+      "oder vielmehr"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "语言",
+      "B2"
+    ],
+    "synonyms": [
+      "eher",
+      "genauer gesagt"
+    ],
+    "antonyms": [
+      "weniger"
+    ]
+  },
+  {
+    "word": "vielseitig",
+    "lemma": "vielseitig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "多方面的；多才多艺的",
+        "en": "versatile; multifaceted"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie ist eine vielseitige Künstlerin.",
+        "zh": "她是一位多才多艺的艺术家。"
+      },
+      {
+        "de": "Das Gerät ist vielseitig einsetzbar.",
+        "zh": "这个设备用途广泛。"
+      }
+    ],
+    "collocations": [
+      "vielseitig begabt",
+      "vielseitig verwendbar"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "描述",
+      "B1"
+    ],
+    "synonyms": [
+      "multifunktional",
+      "flexibel"
+    ],
+    "antonyms": [
+      "einseitig",
+      "beschränkt"
+    ]
+  },
+  {
+    "word": "Vielzahl",
+    "lemma": "Vielzahl",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "大量；众多",
+        "en": "multitude; large number"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Eine Vielzahl von Menschen nahm an der Demonstration teil.",
+        "zh": "大量的人参加了示威。"
+      },
+      {
+        "de": "Es gibt eine Vielzahl von Möglichkeiten.",
+        "zh": "有大量的可能性。"
+      }
+    ],
+    "collocations": [
+      "eine Vielzahl von",
+      "in einer Vielzahl"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "数量",
+      "B1"
+    ],
+    "synonyms": [
+      "Menge",
+      "Fülle"
+    ],
+    "antonyms": [
+      "Mangel",
+      "Wenigkeit"
+    ]
+  },
+  {
+    "word": "Vietnamesin",
+    "lemma": "Vietnamesin",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Vietnamesinnen",
+    "meaning": [
+      {
+        "zh": "越南女性",
+        "en": "Vietnamese woman"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Vietnamesin arbeitet in einem Restaurant.",
+        "zh": "这位越南女性在一家餐厅工作。"
+      },
+      {
+        "de": "Meine Nachbarin ist eine Vietnamesin.",
+        "zh": "我的邻居是一位越南女性。"
+      }
+    ],
+    "collocations": [
+      "eine Vietnamesin kennenlernen",
+      "mit einer Vietnamesin sprechen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "国籍",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Vitamin",
+    "lemma": "Vitamin",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Vitamine",
+    "meaning": [
+      {
+        "zh": "维生素",
+        "en": "vitamin"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Orangen enthalten viel Vitamin C.",
+        "zh": "橙子含有大量维生素C。"
+      },
+      {
+        "de": "Ein Mangel an Vitaminen kann krank machen.",
+        "zh": "缺乏维生素会让人生病。"
+      }
+    ],
+    "collocations": [
+      "Vitamin C",
+      "Vitaminmangel",
+      "viele Vitamine enthalten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "健康",
+      "营养",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Volksbefreiungsarmee",
+    "lemma": "Volksbefreiungsarmee",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "人民解放军",
+        "en": "People's Liberation Army"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Volksbefreiungsarmee ist die Armee Chinas.",
+        "zh": "人民解放军是中国的军队。"
+      },
+      {
+        "de": "Er diente in der Volksbefreiungsarmee.",
+        "zh": "他曾在人民解放军服役。"
+      }
+    ],
+    "collocations": [
+      "in der Volksbefreiungsarmee dienen",
+      "die Volksbefreiungsarmee unterstützen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "军事",
+      "B2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Volksstamm",
+    "lemma": "Volksstamm",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Volksstämme",
+    "meaning": [
+      {
+        "zh": "部落",
+        "en": "tribe"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieser Volksstamm lebt im Amazonasgebiet.",
+        "zh": "这个部落生活在亚马逊地区。"
+      },
+      {
+        "de": "Die Traditionen des Volksstamms werden bewahrt.",
+        "zh": "这个部落的传统被保留下来。"
+      }
+    ],
+    "collocations": [
+      "ein indigener Volksstamm",
+      "einem Volksstamm angehören"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "文化",
+      "B1"
+    ],
+    "synonyms": [
+      "Stamm"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Vollkorn",
+    "lemma": "Vollkorn",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "全麦",
+        "en": "whole grain"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Vollkornbrot ist gesünder als Weißbrot.",
+        "zh": "全麦面包比白面包更健康。"
+      },
+      {
+        "de": "Ich esse gerne Vollkornprodukte.",
+        "zh": "我喜欢吃全麦产品。"
+      }
+    ],
+    "collocations": [
+      "Vollkornbrot",
+      "Vollkornnudeln",
+      "aus Vollkorn"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "健康",
+      "饮食",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "Weißmehl"
+    ]
+  },
+  {
+    "word": "vollständig",
+    "lemma": "vollständig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "完整的",
+        "en": "complete"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Liste ist nicht vollständig.",
+        "zh": "这个列表不完整。"
+      },
+      {
+        "de": "Er hat die Arbeit vollständig erledigt.",
+        "zh": "他完成了全部工作。"
+      }
+    ],
+    "collocations": [
+      "vollständig sein",
+      "vollständig erledigen",
+      "nicht vollständig"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "描述",
+      "性质",
+      "B1"
+    ],
+    "synonyms": [
+      "komplett",
+      "ganz"
+    ],
+    "antonyms": [
+      "unvollständig"
+    ]
+  },
+  {
+    "word": "vollziehen",
+    "lemma": "vollziehen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "执行，实施",
+        "en": "to execute, to carry out"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Polizei vollzog die Durchsuchung.",
+        "zh": "警方执行了搜查。"
+      },
+      {
+        "de": "Der Richter vollzieht das Urteil.",
+        "zh": "法官执行判决。"
+      }
+    ],
+    "collocations": [
+      "eine Handlung vollziehen",
+      "einen Befehl vollziehen",
+      "sich vollziehen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "vollzogen"
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "法律",
+      "B2"
+    ],
+    "synonyms": [
+      "durchführen",
+      "ausführen"
+    ],
+    "antonyms": [
+      "unterlassen"
+    ]
+  },
+  {
+    "word": "voraussetzen",
+    "lemma": "voraussetzen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "以...为前提，假定",
+        "en": "to presuppose, to require"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Arbeit setzt gute Deutschkenntnisse voraus.",
+        "zh": "这份工作以良好的德语知识为前提。"
+      },
+      {
+        "de": "Ich setze voraus, dass du pünktlich kommst.",
+        "zh": "我假定你会准时来。"
+      }
+    ],
+    "collocations": [
+      "Kenntnisse voraussetzen",
+      "etwas voraussetzen",
+      "vorausgesetzt, dass"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "vorausgesetzt"
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "工作",
+      "B2"
+    ],
+    "synonyms": [
+      "erfordern",
+      "bedingen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Voraussetzung",
+    "lemma": "Voraussetzung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Voraussetzungen",
+    "meaning": [
+      {
+        "zh": "前提条件",
+        "en": "prerequisite, condition"
+      },
+      {
+        "zh": "假设",
+        "en": "assumption"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Eine gute Ausbildung ist eine wichtige Voraussetzung für den Berufserfolg.",
+        "zh": "良好的教育是职业成功的重要前提。"
+      },
+      {
+        "de": "Unter der Voraussetzung, dass das Wetter gut ist, machen wir einen Ausflug.",
+        "zh": "在天气好的前提下，我们进行一次郊游。"
+      }
+    ],
+    "collocations": [
+      "die Voraussetzung schaffen",
+      "unter der Voraussetzung, dass"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "Bedingung",
+      "Grundlage"
+    ],
+    "antonyms": [
+      "Folge",
+      "Ergebnis"
+    ]
+  },
+  {
+    "word": "vorbeigehen",
+    "lemma": "vorbeigehen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "经过，走过",
+        "en": "to pass by, to walk past"
+      },
+      {
+        "zh": "（时间）流逝",
+        "en": "to pass (time)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich bin gestern an deinem Haus vorbeigegangen.",
+        "zh": "我昨天经过了你的房子。"
+      },
+      {
+        "de": "Die Zeit geht so schnell vorbei.",
+        "zh": "时间过得真快。"
+      }
+    ],
+    "collocations": [
+      "an etwas vorbeigehen",
+      "vorbeigehen an"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "vorbeigegangen"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "运动",
+      "B1"
+    ],
+    "synonyms": [
+      "passieren",
+      "vorübergehen"
+    ],
+    "antonyms": [
+      "stehen bleiben",
+      "anhalten"
+    ]
+  },
+  {
+    "word": "vorgehen",
+    "lemma": "vorgehen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "前进，进行",
+        "en": "to proceed, to go forward"
+      },
+      {
+        "zh": "优先",
+        "en": "to take precedence"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir müssen systematisch vorgehen, um das Problem zu lösen.",
+        "zh": "我们必须系统地处理问题。"
+      },
+      {
+        "de": "Bei diesem Projekt geht Sicherheit vor.",
+        "zh": "在这个项目中，安全优先。"
+      }
+    ],
+    "collocations": [
+      "gegen etwas vorgehen",
+      "systematisch vorgehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "vorgegangen"
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "handeln",
+      "agieren"
+    ],
+    "antonyms": [
+      "zurückweichen",
+      "aufhören"
+    ]
+  },
+  {
+    "word": "vorher",
+    "lemma": "vorher",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "之前，事先",
+        "en": "before, beforehand"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Du solltest vorher anrufen, bevor du kommst.",
+        "zh": "你应该事先打电话，然后再来。"
+      },
+      {
+        "de": "Vorher war alles anders.",
+        "zh": "之前一切都不同。"
+      }
+    ],
+    "collocations": [
+      "vorher und nachher",
+      "vorher wissen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "时间",
+      "A2"
+    ],
+    "synonyms": [
+      "zuvor",
+      "im Voraus"
+    ],
+    "antonyms": [
+      "nachher",
+      "später"
+    ]
+  },
+  {
+    "word": "Vorläufer",
+    "lemma": "Vorläufer",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Vorläufer",
+    "meaning": [
+      {
+        "zh": "先驱，前身",
+        "en": "predecessor, forerunner"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieses Modell ist der Vorläufer des heutigen Smartphones.",
+        "zh": "这个型号是当今智能手机的前身。"
+      },
+      {
+        "de": "Er gilt als Vorläufer der modernen Kunst.",
+        "zh": "他被视为现代艺术的先驱。"
+      }
+    ],
+    "collocations": [
+      "der Vorläufer von etwas",
+      "als Vorläufer gelten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "科技",
+      "历史",
+      "B2"
+    ],
+    "synonyms": [
+      "Pionier",
+      "Vorgänger"
+    ],
+    "antonyms": [
+      "Nachfolger"
+    ]
+  },
+  {
+    "word": "vorlegen",
+    "lemma": "vorlegen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "提交，出示",
+        "en": "to submit, to present"
+      },
+      {
+        "zh": "预先支付",
+        "en": "to pay in advance"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bitte legen Sie die Unterlagen bis morgen vor.",
+        "zh": "请明天之前提交文件。"
+      },
+      {
+        "de": "Er hat das Geld für die Reise vorgelegt.",
+        "zh": "他预先支付了旅费。"
+      }
+    ],
+    "collocations": [
+      "etwas vorlegen",
+      "jemandem etwas vorlegen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "vorgelegt"
+    },
+    "level": "B1",
+    "tags": [
+      "工作",
+      "法律",
+      "B1"
+    ],
+    "synonyms": [
+      "präsentieren",
+      "einreichen"
+    ],
+    "antonyms": [
+      "zurückhalten",
+      "verweigern"
+    ]
+  },
+  {
+    "word": "vormachen",
+    "lemma": "vormachen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "示范，做给……看",
+        "en": "to show, to demonstrate"
+      },
+      {
+        "zh": "欺骗，蒙蔽",
+        "en": "to deceive, to fool"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du mir vormachen, wie das funktioniert?",
+        "zh": "你能给我示范一下这个怎么用吗？"
+      },
+      {
+        "de": "Er hat mir etwas vorgemacht, das stimmt nicht.",
+        "zh": "他骗了我，那不是真的。"
+      }
+    ],
+    "collocations": [
+      "jemandem etwas vormachen",
+      "sich etwas vormachen"
+    ],
+    "grammar": {
+      "case": "Dativ + Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "vorgemacht"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "demonstrieren",
+      "vortäuschen"
+    ],
+    "antonyms": [
+      "verheimlichen",
+      "verschweigen"
+    ]
+  },
+  {
+    "word": "Vorrat",
+    "lemma": "Vorrat",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Vorräte",
+    "meaning": [
+      {
+        "zh": "储备，库存",
+        "en": "stock, supply, reserve"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir haben einen großen Vorrat an Lebensmitteln im Keller.",
+        "zh": "我们在地下室有大量的食品储备。"
+      },
+      {
+        "de": "Der Vorrat an Medikamenten ist fast aufgebraucht.",
+        "zh": "药品储备几乎用完了。"
+      }
+    ],
+    "collocations": [
+      "einen Vorrat anlegen",
+      "der Vorrat geht zur Neige"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "Lager",
+      "Bestand"
+    ],
+    "antonyms": [
+      "Mangel",
+      "Knappheit"
+    ]
+  },
+  {
+    "word": "PEUSEIERERRSERRHEHESERENT",
+    "lemma": "PEUSEIERERRSERRHEHESERENT",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "PEUSEIERERRSERRHEHESERENTe",
+    "meaning": [
+      {
+        "zh": "虚构词，无实际意义",
+        "en": "fictional word, no actual meaning"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das PEUSEIERERRSERRHEHESERENT ist ein erfundenes Wort.",
+        "zh": "这个PEUSEIERERRSERRHEHESERENT是一个虚构的词。"
+      },
+      {
+        "de": "Er benutzte das PEUSEIERERRSERRHEHESERENT in einem Spiel.",
+        "zh": "他在一个游戏中使用了这个PEUSEIERERRSERRHEHESERENT。"
+      }
+    ],
+    "collocations": [
+      "ein PEUSEIERERRSERRHEHESERENT erfinden",
+      "das PEUSEIERERRSERRHEHESERENT verwenden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "虚构",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  }
+]

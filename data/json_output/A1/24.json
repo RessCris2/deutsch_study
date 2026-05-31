@@ -1,0 +1,1613 @@
+[
+  {
+    "word": "Weihnachten",
+    "lemma": "Weihnachten",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "圣诞节",
+        "en": "Christmas"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir feiern Weihnachten mit der Familie.",
+        "zh": "我们和家人一起庆祝圣诞节。"
+      },
+      {
+        "de": "An Weihnachten gibt es oft Geschenke.",
+        "zh": "圣诞节通常有礼物。"
+      }
+    ],
+    "collocations": [
+      "frohe Weihnachten",
+      "Weihnachten feiern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "节日",
+      "文化",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Wein",
+    "lemma": "Wein",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Weine",
+    "meaning": [
+      {
+        "zh": "葡萄酒",
+        "en": "wine"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er trinkt gern Rotwein.",
+        "zh": "他喜欢喝红葡萄酒。"
+      },
+      {
+        "de": "Der Wein aus dieser Region ist sehr bekannt.",
+        "zh": "这个地区的葡萄酒很有名。"
+      }
+    ],
+    "collocations": [
+      "ein Glas Wein",
+      "Wein trinken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "饮食",
+      "生活",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "weiß",
+    "lemma": "weiß",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "白色的",
+        "en": "white"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Haus hat weiße Wände.",
+        "zh": "这房子有白色的墙壁。"
+      },
+      {
+        "de": "Sie trägt ein weißes Kleid.",
+        "zh": "她穿着一件白色连衣裙。"
+      }
+    ],
+    "collocations": [
+      "weiße Farbe",
+      "weißes Papier"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "颜色",
+      "描述",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "schwarz"
+    ]
+  },
+  {
+    "word": "weit",
+    "lemma": "weit",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "远的；广泛的",
+        "en": "far; wide"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Weg ist noch weit.",
+        "zh": "路还很远。"
+      },
+      {
+        "de": "Sie hat ein weites Lächeln.",
+        "zh": "她有一个灿烂的笑容。"
+      }
+    ],
+    "collocations": [
+      "weit entfernt",
+      "weit öffnen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "距离",
+      "程度",
+      "A2"
+    ],
+    "synonyms": [
+      "fern"
+    ],
+    "antonyms": [
+      "nah"
+    ]
+  },
+  {
+    "word": "welcher",
+    "lemma": "welcher",
+    "pos": [
+      "pronoun",
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "哪个",
+        "en": "which"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Welcher Film gefällt dir am besten?",
+        "zh": "你最喜欢哪部电影？"
+      },
+      {
+        "de": "Welche Farbe möchtest du?",
+        "zh": "你想要哪个颜色？"
+      }
+    ],
+    "collocations": [
+      "welcher Tag",
+      "welche Frage"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "疑问词",
+      "语法",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Welle",
+    "lemma": "Welle",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Wellen",
+    "meaning": [
+      {
+        "zh": "波浪；浪潮",
+        "en": "wave"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Wellen sind heute sehr hoch.",
+        "zh": "今天浪很高。"
+      },
+      {
+        "de": "Eine Welle der Begeisterung ging durch das Land.",
+        "zh": "一股热情浪潮席卷全国。"
+      }
+    ],
+    "collocations": [
+      "eine Welle von",
+      "Wellen schlagen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "自然",
+      "物理",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Welt",
+    "lemma": "Welt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Welten",
+    "meaning": [
+      {
+        "zh": "世界",
+        "en": "world"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Welt ist groß und vielfältig.",
+        "zh": "世界很大且多样。"
+      },
+      {
+        "de": "Er reist um die Welt.",
+        "zh": "他环游世界。"
+      }
+    ],
+    "collocations": [
+      "auf der Welt",
+      "die ganze Welt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "地理",
+      "社会",
+      "A2"
+    ],
+    "synonyms": [
+      "Erde"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Weltmeisterschaft",
+    "lemma": "Weltmeisterschaft",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Weltmeisterschaften",
+    "meaning": [
+      {
+        "zh": "世界锦标赛",
+        "en": "world championship"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Fußball-Weltmeisterschaft findet alle vier Jahre statt.",
+        "zh": "足球世界杯每四年举行一次。"
+      },
+      {
+        "de": "Sie hat die Weltmeisterschaft im Schwimmen gewonnen.",
+        "zh": "她赢得了游泳世界锦标赛。"
+      }
+    ],
+    "collocations": [
+      "die Weltmeisterschaft gewinnen",
+      "an der Weltmeisterschaft teilnehmen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "体育",
+      "赛事",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "wer",
+    "lemma": "wer",
+    "pos": [
+      "pronoun"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "谁",
+        "en": "who"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wer ist das?",
+        "zh": "那是谁？"
+      },
+      {
+        "de": "Wer hat das gesagt?",
+        "zh": "谁说的？"
+      }
+    ],
+    "collocations": [
+      "wer auch immer",
+      "wer weiß"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "疑问词",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Westen",
+    "lemma": "Westen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "西方，西部",
+        "en": "west"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Sonne geht im Westen unter.",
+        "zh": "太阳在西方落下。"
+      },
+      {
+        "de": "Er reist in den Westen Deutschlands.",
+        "zh": "他旅行到德国西部。"
+      }
+    ],
+    "collocations": [
+      "im Westen",
+      "nach Westen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "方向",
+      "地理",
+      "A2"
+    ],
+    "synonyms": [
+      "Abendland"
+    ],
+    "antonyms": [
+      "Osten"
+    ]
+  },
+  {
+    "word": "wichtig",
+    "lemma": "wichtig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "重要的",
+        "en": "important"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist sehr wichtig für mich.",
+        "zh": "这对我来说非常重要。"
+      },
+      {
+        "de": "Wichtige Entscheidungen brauchen Zeit.",
+        "zh": "重要的决定需要时间。"
+      }
+    ],
+    "collocations": [
+      "wichtig sein",
+      "wichtig nehmen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "形容词",
+      "评价",
+      "A1"
+    ],
+    "synonyms": [
+      "bedeutend",
+      "wesentlich"
+    ],
+    "antonyms": [
+      "unwichtig",
+      "nebensächlich"
+    ]
+  },
+  {
+    "word": "wie",
+    "lemma": "wie",
+    "pos": [
+      "adverb",
+      "conjunction"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "如何，怎样；像……一样",
+        "en": "how; like, as"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wie geht es dir?",
+        "zh": "你好吗？"
+      },
+      {
+        "de": "Er ist so groß wie sein Bruder.",
+        "zh": "他和他哥哥一样高。"
+      }
+    ],
+    "collocations": [
+      "wie bitte",
+      "wie zum Beispiel"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "疑问词",
+      "连词",
+      "A1"
+    ],
+    "synonyms": [
+      "auf welche Weise"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Wiedersehen",
+    "lemma": "Wiedersehen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "再见，重逢",
+        "en": "reunion, farewell"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Auf Wiedersehen!",
+        "zh": "再见！"
+      },
+      {
+        "de": "Wir freuen uns auf ein baldiges Wiedersehen.",
+        "zh": "我们期待很快重逢。"
+      }
+    ],
+    "collocations": [
+      "auf Wiedersehen",
+      "Wiedersehen feiern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "问候",
+      "社交",
+      "A1"
+    ],
+    "synonyms": [
+      "Abschied"
+    ],
+    "antonyms": [
+      "Begrüßung"
+    ]
+  },
+  {
+    "word": "Wiese",
+    "lemma": "Wiese",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Wiesen",
+    "meaning": [
+      {
+        "zh": "草地，草坪",
+        "en": "meadow, lawn"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kinder spielen auf der Wiese.",
+        "zh": "孩子们在草地上玩耍。"
+      },
+      {
+        "de": "Im Frühling blühen viele Blumen auf der Wiese.",
+        "zh": "春天草地上开满了花。"
+      }
+    ],
+    "collocations": [
+      "auf der Wiese",
+      "grüne Wiese"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "自然",
+      "地点",
+      "A2"
+    ],
+    "synonyms": [
+      "Grasfläche",
+      "Weide"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "wir",
+    "lemma": "wir",
+    "pos": [
+      "pronoun"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "我们",
+        "en": "we"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir gehen heute ins Kino.",
+        "zh": "我们今天去看电影。"
+      },
+      {
+        "de": "Können wir Ihnen helfen?",
+        "zh": "我们能帮您吗？"
+      }
+    ],
+    "collocations": [
+      "wir beide",
+      "wir alle"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "代词",
+      "人称",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "ihr",
+      "sie"
+    ]
+  },
+  {
+    "word": "wirklich",
+    "lemma": "wirklich",
+    "pos": [
+      "adverb",
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "真的，确实",
+        "en": "really, truly, real"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ist das wirklich wahr?",
+        "zh": "这是真的吗？"
+      },
+      {
+        "de": "Das ist eine wirklich gute Idee.",
+        "zh": "这真是一个好主意。"
+      }
+    ],
+    "collocations": [
+      "wirklich gut",
+      "wirklich nicht"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "副词",
+      "形容词",
+      "强调",
+      "A1"
+    ],
+    "synonyms": [
+      "tatsächlich",
+      "echt"
+    ],
+    "antonyms": [
+      "angeblich",
+      "unecht"
+    ]
+  },
+  {
+    "word": "Wirtschaftswissenschaft",
+    "lemma": "Wirtschaftswissenschaft",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Wirtschaftswissenschaften",
+    "meaning": [
+      {
+        "zh": "经济学",
+        "en": "economics"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie studiert Wirtschaftswissenschaft an der Universität.",
+        "zh": "她在大学学习经济学。"
+      },
+      {
+        "de": "Die Wirtschaftswissenschaft untersucht Märkte und Ressourcen.",
+        "zh": "经济学研究市场和资源。"
+      }
+    ],
+    "collocations": [
+      "Wirtschaftswissenschaft studieren",
+      "Wirtschaftswissenschaft lehren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "学术",
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "Ökonomie",
+      "Volkswirtschaftslehre"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "wissen",
+    "lemma": "wissen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "知道",
+        "en": "to know"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich weiß die Antwort nicht.",
+        "zh": "我不知道答案。"
+      },
+      {
+        "de": "Weißt du, wo der Bahnhof ist?",
+        "zh": "你知道车站在哪里吗？"
+      }
+    ],
+    "collocations": [
+      "etwas genau wissen",
+      "nicht wissen, was tun"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gewusst"
+    },
+    "level": "A2",
+    "tags": [
+      "认知",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "kennen",
+      "Bescheid wissen"
+    ],
+    "antonyms": [
+      "nicht wissen",
+      "vergessen"
+    ]
+  },
+  {
+    "word": "Wochenende",
+    "lemma": "Wochenende",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Wochenenden",
+    "meaning": [
+      {
+        "zh": "周末",
+        "en": "weekend"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Am Wochenende fahren wir ans Meer.",
+        "zh": "周末我们去海边。"
+      },
+      {
+        "de": "Hast du am Wochenende Zeit?",
+        "zh": "你周末有时间吗？"
+      }
+    ],
+    "collocations": [
+      "am Wochenende",
+      "langes Wochenende"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "时间",
+      "日常",
+      "A1"
+    ],
+    "synonyms": [
+      "Samstag und Sonntag"
+    ],
+    "antonyms": [
+      "Wochentag"
+    ]
+  },
+  {
+    "word": "woher",
+    "lemma": "woher",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "从哪里",
+        "en": "from where"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Woher kommst du?",
+        "zh": "你从哪里来？"
+      },
+      {
+        "de": "Woher weißt du das?",
+        "zh": "你怎么知道这个的？"
+      }
+    ],
+    "collocations": [
+      "woher kommen",
+      "woher wissen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "疑问",
+      "方向",
+      "A1"
+    ],
+    "synonyms": [
+      "von wo"
+    ],
+    "antonyms": [
+      "wohin"
+    ]
+  },
+  {
+    "word": "wohin",
+    "lemma": "wohin",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "到哪里",
+        "en": "to where"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wohin gehst du?",
+        "zh": "你去哪里？"
+      },
+      {
+        "de": "Wohin soll ich das Buch legen?",
+        "zh": "我应该把书放在哪里？"
+      }
+    ],
+    "collocations": [
+      "wohin gehen",
+      "wohin fahren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "疑问",
+      "方向",
+      "A1"
+    ],
+    "synonyms": [
+      "in welche Richtung"
+    ],
+    "antonyms": [
+      "woher"
+    ]
+  },
+  {
+    "word": "wohnen",
+    "lemma": "wohnen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "居住",
+        "en": "to live"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich wohne in Berlin.",
+        "zh": "我住在柏林。"
+      },
+      {
+        "de": "Sie wohnt bei ihren Eltern.",
+        "zh": "她住在父母那里。"
+      }
+    ],
+    "collocations": [
+      "in einer Stadt wohnen",
+      "zur Miete wohnen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gewohnt"
+    },
+    "level": "A1",
+    "tags": [
+      "居住",
+      "日常",
+      "A1"
+    ],
+    "synonyms": [
+      "leben",
+      "sich aufhalten"
+    ],
+    "antonyms": [
+      "umziehen",
+      "reisen"
+    ]
+  },
+  {
+    "word": "Wohngemeinschaft",
+    "lemma": "Wohngemeinschaft",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Wohngemeinschaften",
+    "meaning": [
+      {
+        "zh": "合租公寓",
+        "en": "shared apartment"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er lebt in einer Wohngemeinschaft mit drei anderen Studenten.",
+        "zh": "他和另外三个学生住在一个合租公寓里。"
+      },
+      {
+        "de": "Eine Wohngemeinschaft ist oft günstiger als eine eigene Wohnung.",
+        "zh": "合租公寓通常比自己的公寓便宜。"
+      }
+    ],
+    "collocations": [
+      "in einer Wohngemeinschaft leben",
+      "eine Wohngemeinschaft gründen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "居住",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "WG",
+      "Studenten-WG"
+    ],
+    "antonyms": [
+      "Eigenheim",
+      "Einzelwohnung"
+    ]
+  },
+  {
+    "word": "Wohnhaus",
+    "lemma": "Wohnhaus",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Wohnhäuser",
+    "meaning": [
+      {
+        "zh": "住宅楼",
+        "en": "residential building"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Wohnhaus hat fünf Stockwerke.",
+        "zh": "这栋住宅楼有五层。"
+      },
+      {
+        "de": "In diesem Wohnhaus wohnen viele Familien.",
+        "zh": "这栋住宅楼里住着很多家庭。"
+      }
+    ],
+    "collocations": [
+      "ein Wohnhaus bauen",
+      "im Wohnhaus wohnen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "建筑",
+      "居住",
+      "A2"
+    ],
+    "synonyms": [
+      "Wohngebäude",
+      "Haus"
+    ],
+    "antonyms": [
+      "Geschäftsgebäude",
+      "Bürohaus"
+    ]
+  },
+  {
+    "word": "Wohnung",
+    "lemma": "Wohnung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Wohnungen",
+    "meaning": [
+      {
+        "zh": "公寓，住房",
+        "en": "apartment, flat"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich suche eine neue Wohnung in der Stadtmitte.",
+        "zh": "我在市中心找一套新公寓。"
+      },
+      {
+        "de": "Die Wohnung hat drei Zimmer und eine Küche.",
+        "zh": "这套公寓有三个房间和一个厨房。"
+      }
+    ],
+    "collocations": [
+      "eine Wohnung mieten",
+      "eine Wohnung kaufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "住房"
+    ],
+    "synonyms": [
+      "Appartement",
+      "Domizil"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Wohnzimmer",
+    "lemma": "Wohnzimmer",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Wohnzimmer",
+    "meaning": [
+      {
+        "zh": "客厅",
+        "en": "living room"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Wohnzimmer ist sehr gemütlich eingerichtet.",
+        "zh": "客厅布置得非常舒适。"
+      },
+      {
+        "de": "Wir sitzen im Wohnzimmer und sehen fern.",
+        "zh": "我们坐在客厅看电视。"
+      }
+    ],
+    "collocations": [
+      "im Wohnzimmer sitzen",
+      "das Wohnzimmer einrichten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "住房"
+    ],
+    "synonyms": [
+      "Wohnstube",
+      "Salon"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "wollen",
+    "lemma": "wollen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "想要，愿意",
+        "en": "to want, to intend"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich will heute Abend ins Kino gehen.",
+        "zh": "我今晚想去电影院。"
+      },
+      {
+        "de": "Was willst du von mir?",
+        "zh": "你想要我做什么？"
+      }
+    ],
+    "collocations": [
+      "etwas wollen",
+      "nicht wollen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gewollt"
+    },
+    "level": "A1",
+    "tags": [
+      "情感",
+      "意愿"
+    ],
+    "synonyms": [
+      "beabsichtigen",
+      "möchten"
+    ],
+    "antonyms": [
+      "ablehnen",
+      "verweigern"
+    ]
+  },
+  {
+    "word": "Wörterbuch",
+    "lemma": "Wörterbuch",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Wörterbücher",
+    "meaning": [
+      {
+        "zh": "词典",
+        "en": "dictionary"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich schlage das Wort im Wörterbuch nach.",
+        "zh": "我在词典里查这个词。"
+      },
+      {
+        "de": "Ein gutes Wörterbuch ist beim Sprachenlernen sehr hilfreich.",
+        "zh": "一本好词典对语言学习很有帮助。"
+      }
+    ],
+    "collocations": [
+      "ein Wörterbuch benutzen",
+      "im Wörterbuch nachschlagen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "学习",
+      "工具"
+    ],
+    "synonyms": [
+      "Lexikon",
+      "Nachschlagewerk"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "wünschen",
+    "lemma": "wünschen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "祝愿，希望",
+        "en": "to wish, to desire"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich wünsche dir alles Gute zum Geburtstag.",
+        "zh": "我祝你生日快乐。"
+      },
+      {
+        "de": "Was wünschen Sie sich zu Weihnachten?",
+        "zh": "您圣诞节想要什么？"
+      }
+    ],
+    "collocations": [
+      "sich etwas wünschen",
+      "jemandem etwas wünschen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gewünscht"
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "社交"
+    ],
+    "synonyms": [
+      "erhoffen",
+      "begehren"
+    ],
+    "antonyms": [
+      "ablehnen",
+      "verabscheuen"
+    ]
+  },
+  {
+    "word": "Wurst",
+    "lemma": "Wurst",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Würste",
+    "meaning": [
+      {
+        "zh": "香肠",
+        "en": "sausage"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich esse gern eine Bratwurst mit Senf.",
+        "zh": "我喜欢吃带芥末的烤香肠。"
+      },
+      {
+        "de": "Auf dem Markt gibt es frische Wurst vom Metzger.",
+        "zh": "市场上有肉店的新鲜香肠。"
+      }
+    ],
+    "collocations": [
+      "Wurst essen",
+      "Wurst kaufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "食物",
+      "生活"
+    ],
+    "synonyms": [
+      "Bratwurst",
+      "Wiener"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "zahlen",
+    "lemma": "zahlen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "支付，付款",
+        "en": "to pay"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich muss die Rechnung noch zahlen.",
+        "zh": "我还得付账单。"
+      },
+      {
+        "de": "Kann ich mit Karte zahlen?",
+        "zh": "我可以用卡支付吗？"
+      }
+    ],
+    "collocations": [
+      "Rechnung zahlen",
+      "mit Karte zahlen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gezahlt"
+    },
+    "level": "A1",
+    "tags": [
+      "经济",
+      "日常"
+    ],
+    "synonyms": [
+      "bezahlen",
+      "begleichen"
+    ],
+    "antonyms": [
+      "sparen",
+      "schulden"
+    ]
+  },
+  {
+    "word": "Zahl",
+    "lemma": "Zahl",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Zahlen",
+    "meaning": [
+      {
+        "zh": "数字，数量",
+        "en": "number, figure"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Zahl der Teilnehmer ist gestiegen.",
+        "zh": "参与者人数增加了。"
+      },
+      {
+        "de": "Kannst du die Zahlen von eins bis zehn auf Deutsch sagen?",
+        "zh": "你能用德语说从一到十的数字吗？"
+      }
+    ],
+    "collocations": [
+      "eine große Zahl",
+      "Zahlen lernen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "数学",
+      "日常"
+    ],
+    "synonyms": [
+      "Nummer",
+      "Ziffer"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Zahn",
+    "lemma": "Zahn",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Zähne",
+    "meaning": [
+      {
+        "zh": "牙齿",
+        "en": "tooth"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich putze mir jeden Morgen die Zähne.",
+        "zh": "我每天早上刷牙。"
+      },
+      {
+        "de": "Der Zahn tut mir weh.",
+        "zh": "这颗牙疼。"
+      }
+    ],
+    "collocations": [
+      "Zahn ziehen",
+      "Zahn putzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "身体",
+      "健康",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "zehn",
+    "lemma": "zehn",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "十",
+        "en": "ten"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir treffen uns um zehn Uhr.",
+        "zh": "我们十点见面。"
+      },
+      {
+        "de": "Er hat zehn Euro bezahlt.",
+        "zh": "他付了十欧元。"
+      }
+    ],
+    "collocations": [
+      "zehn Minuten",
+      "zehn Jahre"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "数字",
+      "时间",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Zeichnen",
+    "lemma": "Zeichnen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "绘画",
+        "en": "drawing"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Zeichnen macht mir viel Spaß.",
+        "zh": "绘画给我带来很多乐趣。"
+      },
+      {
+        "de": "Sie hat ein Talent für das Zeichnen.",
+        "zh": "她有绘画天赋。"
+      }
+    ],
+    "collocations": [
+      "Zeichnen lernen",
+      "beim Zeichnen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "艺术",
+      "爱好",
+      "B1"
+    ],
+    "synonyms": [
+      "Malerei"
+    ],
+    "antonyms": []
+  }
+]

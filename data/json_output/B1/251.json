@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "drücken",
+    "lemma": "drücken",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "按，压，推",
+        "en": "to press, to push"
+      },
+      {
+        "zh": "挤压，使感到压力",
+        "en": "to squeeze, to cause pressure"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Drücke bitte die Taste, um das Gerät zu starten.",
+        "zh": "请按按钮启动设备。"
+      },
+      {
+        "de": "Die engen Schuhe drücken meine Füße.",
+        "zh": "这双紧鞋挤我的脚。"
+      }
+    ],
+    "collocations": [
+      "den Knopf drücken",
+      "sich drücken vor"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gedrückt"
+    },
+    "level": "B1",
+    "tags": [
+      "动作",
+      "B1"
+    ],
+    "synonyms": [
+      "pressen",
+      "quetschen"
+    ],
+    "antonyms": [
+      "ziehen",
+      "lösen"
+    ]
+  },
+  {
+    "word": "dulden",
+    "lemma": "dulden",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "容忍，忍受",
+        "en": "to tolerate, to endure"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er duldet keine Kritik an seiner Arbeit.",
+        "zh": "他不能容忍对他工作的批评。"
+      },
+      {
+        "de": "Die Nachbarn dulden den Lärm nicht länger.",
+        "zh": "邻居们不再容忍噪音了。"
+      }
+    ],
+    "collocations": [
+      "nicht dulden",
+      "etwas dulden müssen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geduldet"
+    },
+    "level": "B2",
+    "tags": [
+      "情感",
+      "B2"
+    ],
+    "synonyms": [
+      "ertragen",
+      "akzeptieren"
+    ],
+    "antonyms": [
+      "ablehnen",
+      "bekämpfen"
+    ]
+  },
+  {
+    "word": "dumm",
+    "lemma": "dumm",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "愚蠢的，笨的",
+        "en": "stupid, dumb"
+      },
+      {
+        "zh": "令人不快的，糟糕的",
+        "en": "unpleasant, bad"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das war eine dumme Idee.",
+        "zh": "那是个愚蠢的主意。"
+      },
+      {
+        "de": "Er hat sich dumm angestellt.",
+        "zh": "他表现得很笨。"
+      }
+    ],
+    "collocations": [
+      "dumm sein",
+      "dumme Frage"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "blöd",
+      "unintelligent"
+    ],
+    "antonyms": [
+      "klug",
+      "intelligent"
+    ]
+  },
+  {
+    "word": "Durcheinander",
+    "lemma": "Durcheinander",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "混乱，杂乱",
+        "en": "chaos, mess"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Zimmer herrschte ein großes Durcheinander.",
+        "zh": "房间里一片混乱。"
+      },
+      {
+        "de": "Das Durcheinander auf dem Schreibtisch muss aufgeräumt werden.",
+        "zh": "桌子上的杂乱需要整理。"
+      }
+    ],
+    "collocations": [
+      "ein Durcheinander verursachen",
+      "im Durcheinander"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Chaos",
+      "Unordnung"
+    ],
+    "antonyms": [
+      "Ordnung",
+      "System"
+    ]
+  },
+  {
+    "word": "durchfließen",
+    "lemma": "durchfließen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "流过，流经",
+        "en": "to flow through"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Rhein durchfließt mehrere Länder.",
+        "zh": "莱茵河流经多个国家。"
+      },
+      {
+        "de": "Das Wasser durchfließt die Rohre.",
+        "zh": "水流过管道。"
+      }
+    ],
+    "collocations": [
+      "einen Ort durchfließen",
+      "durchfließendes Wasser"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "durchflossen"
+    },
+    "level": "B2",
+    "tags": [
+      "自然",
+      "B2"
+    ],
+    "synonyms": [
+      "durchströmen",
+      "passieren"
+    ],
+    "antonyms": [
+      "stauen",
+      "blockieren"
+    ]
+  },
+  {
+    "word": "duzen",
+    "lemma": "duzen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "用“你”称呼",
+        "en": "to address with 'du'"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In Deutschland duzen sich Kollegen oft.",
+        "zh": "在德国，同事之间经常用“你”称呼。"
+      },
+      {
+        "de": "Darf ich dich duzen?",
+        "zh": "我可以叫你“你”吗？"
+      }
+    ],
+    "collocations": [
+      "sich duzen",
+      "jemanden duzen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geduzt"
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "mit Du anreden"
+    ],
+    "antonyms": [
+      "siezen"
+    ]
+  },
+  {
+    "word": "Dynastie",
+    "lemma": "Dynastie",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Dynastien",
+    "meaning": [
+      {
+        "zh": "王朝，朝代",
+        "en": "dynasty"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Ming-Dynastie regierte China über 200 Jahre.",
+        "zh": "明朝统治中国超过200年。"
+      },
+      {
+        "de": "Die Dynastie der Habsburger war in Europa einflussreich.",
+        "zh": "哈布斯堡王朝在欧洲很有影响力。"
+      }
+    ],
+    "collocations": [
+      "eine Dynastie gründen",
+      "die herrschende Dynastie"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "历史",
+      "B2"
+    ],
+    "synonyms": [
+      "Herrscherhaus",
+      "Königshaus"
+    ],
+    "antonyms": [
+      "Republik",
+      "Demokratie"
+    ]
+  },
+  {
+    "word": "eher",
+    "lemma": "eher",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "更早，更倾向于",
+        "en": "sooner, rather"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er kommt eher als ich.",
+        "zh": "他比我更早来。"
+      },
+      {
+        "de": "Das ist eher unwahrscheinlich.",
+        "zh": "这更不太可能。"
+      }
+    ],
+    "collocations": [
+      "eher ... als",
+      "eher nicht"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语法",
+      "B1"
+    ],
+    "synonyms": [
+      "früher",
+      "lieber"
+    ],
+    "antonyms": [
+      "später",
+      "weniger"
+    ]
+  },
+  {
+    "word": "Ehrgeiz",
+    "lemma": "Ehrgeiz",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "雄心，抱负，进取心",
+        "en": "ambition"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sein Ehrgeiz trieb ihn zu Höchstleistungen.",
+        "zh": "他的雄心驱使他取得最高成就。"
+      },
+      {
+        "de": "Sie hat viel Ehrgeiz, aber wenig Geduld.",
+        "zh": "她很有抱负，但缺乏耐心。"
+      }
+    ],
+    "collocations": [
+      "viel Ehrgeiz haben",
+      "aus Ehrgeiz handeln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "Ambition",
+      "Streben"
+    ],
+    "antonyms": [
+      "Gleichgültigkeit",
+      "Trägheit"
+    ]
+  },
+  {
+    "word": "Ehrlichkeit",
+    "lemma": "Ehrlichkeit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "诚实，正直",
+        "en": "honesty"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ehrlichkeit ist die beste Politik.",
+        "zh": "诚实是最好的策略。"
+      },
+      {
+        "de": "Ich schätze seine Ehrlichkeit sehr.",
+        "zh": "我非常珍视他的诚实。"
+      }
+    ],
+    "collocations": [
+      "absolute Ehrlichkeit",
+      "an Ehrlichkeit appellieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Aufrichtigkeit",
+      "Wahrhaftigkeit"
+    ],
+    "antonyms": [
+      "Unehrlichkeit",
+      "Lüge"
+    ]
+  },
+  {
+    "word": "Eifersucht",
+    "lemma": "Eifersucht",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "嫉妒，醋意",
+        "en": "jealousy"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Eifersucht zerstört viele Beziehungen.",
+        "zh": "嫉妒破坏了许多关系。"
+      },
+      {
+        "de": "Er leidet unter krankhafter Eifersucht.",
+        "zh": "他患有病态的嫉妒。"
+      }
+    ],
+    "collocations": [
+      "aus Eifersucht",
+      "Eifersucht empfinden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "Neid",
+      "Missgunst"
+    ],
+    "antonyms": [
+      "Großzügigkeit",
+      "Vertrauen"
+    ]
+  },
+  {
+    "word": "eifersüchtig",
+    "lemma": "eifersüchtig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "嫉妒的，吃醋的",
+        "en": "jealous"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie ist eifersüchtig auf ihre Schwester.",
+        "zh": "她嫉妒她的姐姐。"
+      },
+      {
+        "de": "Er wird schnell eifersüchtig.",
+        "zh": "他很容易吃醋。"
+      }
+    ],
+    "collocations": [
+      "eifersüchtig auf jemanden sein",
+      "eifersüchtig reagieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "neidisch",
+      "missgünstig"
+    ],
+    "antonyms": [
+      "großzügig",
+      "vertrauensvoll"
+    ]
+  },
+  {
+    "word": "einander",
+    "lemma": "einander",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "互相，彼此",
+        "en": "each other"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie helfen einander bei der Arbeit.",
+        "zh": "他们在工作中互相帮助。"
+      },
+      {
+        "de": "Wir verstehen einander sehr gut.",
+        "zh": "我们彼此很理解。"
+      }
+    ],
+    "collocations": [
+      "einander helfen",
+      "einander verstehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "语法",
+      "A2"
+    ],
+    "synonyms": [
+      "gegenseitig",
+      "sich"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "einbeziehen",
+    "lemma": "einbeziehen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "纳入，包括，使参与",
+        "en": "to include, to involve"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir sollten alle Kollegen in die Entscheidung einbeziehen.",
+        "zh": "我们应该让所有同事参与决策。"
+      },
+      {
+        "de": "Die Kosten wurden in die Rechnung einbezogen.",
+        "zh": "费用已包含在账单中。"
+      }
+    ],
+    "collocations": [
+      "in etwas einbeziehen",
+      "jemanden in ein Projekt einbeziehen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "einbezogen"
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "integrieren",
+      "miteinbeziehen"
+    ],
+    "antonyms": [
+      "ausschließen",
+      "ausgrenzen"
+    ]
+  },
+  {
+    "word": "Einblick",
+    "lemma": "Einblick",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Einblicke",
+    "meaning": [
+      {
+        "zh": "洞察，了解，一瞥",
+        "en": "insight, glimpse"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Bericht gibt einen guten Einblick in die Situation.",
+        "zh": "这份报告很好地洞察了情况。"
+      },
+      {
+        "de": "Sie gewährte mir einen Einblick in ihre Arbeit.",
+        "zh": "她让我了解了她的工作。"
+      }
+    ],
+    "collocations": [
+      "einen Einblick geben",
+      "einen Einblick gewinnen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "知识",
+      "B1"
+    ],
+    "synonyms": [
+      "Durchblick",
+      "Einsicht"
+    ],
+    "antonyms": [
+      "Unkenntnis",
+      "Ahnungslosigkeit"
+    ]
+  },
+  {
+    "word": "einbringen",
+    "lemma": "einbringen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "带入，贡献，提出",
+        "en": "to contribute, to bring in"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er brachte seine Erfahrung in das Team ein.",
+        "zh": "他把他的经验带入了团队。"
+      },
+      {
+        "de": "Sie brachte einen neuen Vorschlag in die Diskussion ein.",
+        "zh": "她在讨论中提出了一个新建议。"
+      }
+    ],
+    "collocations": [
+      "sich einbringen",
+      "einen Vorschlag einbringen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "eingebracht"
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "beitragen",
+      "vorbringen"
+    ],
+    "antonyms": [
+      "zurückhalten",
+      "ausschließen"
+    ]
+  },
+  {
+    "word": "eindeutig",
+    "lemma": "eindeutig",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "明确的，清楚的",
+        "en": "clear, unambiguous"
+      },
+      {
+        "zh": "显然的",
+        "en": "obvious"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Antwort ist eindeutig.",
+        "zh": "答案很明确。"
+      },
+      {
+        "de": "Er hat eindeutig recht.",
+        "zh": "他显然是对的。"
+      }
+    ],
+    "collocations": [
+      "eindeutig sein",
+      "eindeutig erkennen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语言",
+      "逻辑",
+      "B1"
+    ],
+    "synonyms": [
+      "klar",
+      "offensichtlich",
+      "unmissverständlich"
+    ],
+    "antonyms": [
+      "mehrdeutig",
+      "unklar",
+      "vage"
+    ]
+  },
+  {
+    "word": "Einfluss",
+    "lemma": "Einfluss",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Einflüsse",
+    "meaning": [
+      {
+        "zh": "影响，作用",
+        "en": "influence, impact"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Medien haben einen großen Einfluss auf die öffentliche Meinung.",
+        "zh": "媒体对公众舆论有很大影响。"
+      },
+      {
+        "de": "Sein Einfluss in der Firma ist stark zurückgegangen.",
+        "zh": "他在公司的影响力大大下降了。"
+      }
+    ],
+    "collocations": [
+      "Einfluss auf etwas haben",
+      "unter dem Einfluss von etwas stehen",
+      "Einfluss nehmen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "政治",
+      "B1"
+    ],
+    "synonyms": [
+      "Wirkung",
+      "Macht",
+      "Bedeutung"
+    ],
+    "antonyms": [
+      "Ohnmacht",
+      "Bedeutungslosigkeit"
+    ]
+  },
+  {
+    "word": "einführen",
+    "lemma": "einführen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "引入，引进",
+        "en": "to introduce, to bring in"
+      },
+      {
+        "zh": "实施，推行",
+        "en": "to implement"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Regierung will eine neue Steuer einführen.",
+        "zh": "政府打算引入一项新税。"
+      },
+      {
+        "de": "Er führte mich in die Geheimnisse der Technik ein.",
+        "zh": "他向我介绍了技术的奥秘。"
+      }
+    ],
+    "collocations": [
+      "ein neues System einführen",
+      "jemanden in etwas einführen",
+      "eine Regelung einführen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "eingeführt"
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "科技",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "implementieren",
+      "einsetzen",
+      "einführen (in)"
+    ],
+    "antonyms": [
+      "abschaffen",
+      "entfernen",
+      "ausmustern"
+    ]
+  },
+  {
+    "word": "Einführung",
+    "lemma": "Einführung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Einführungen",
+    "meaning": [
+      {
+        "zh": "引入，推行",
+        "en": "introduction, implementation"
+      },
+      {
+        "zh": "入门，导论",
+        "en": "introduction (to a subject)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Einführung des neuen Gesetzes war umstritten.",
+        "zh": "新法律的推行是有争议的。"
+      },
+      {
+        "de": "Dieses Buch ist eine gute Einführung in die Philosophie.",
+        "zh": "这本书是哲学的一个很好的入门。"
+      }
+    ],
+    "collocations": [
+      "Einführung eines Systems",
+      "Einführung in ein Thema",
+      "zur Einführung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "社会",
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "Implementierung",
+      "Einsatz",
+      "Einleitung"
+    ],
+    "antonyms": [
+      "Abschaffung",
+      "Beseitigung"
+    ]
+  },
+  {
+    "word": "eingehen",
+    "lemma": "eingehen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "进入，收到",
+        "en": "to come in, to arrive"
+      },
+      {
+        "zh": "接受，同意",
+        "en": "to agree to, to enter into"
+      },
+      {
+        "zh": "枯萎，死亡",
+        "en": "to wither, to die (of plants)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Bestellung ist gestern eingegangen.",
+        "zh": "订单昨天收到了。"
+      },
+      {
+        "de": "Er ist auf das Angebot eingegangen.",
+        "zh": "他接受了这个提议。"
+      },
+      {
+        "de": "Die Pflanze ist eingegangen.",
+        "zh": "这棵植物枯萎了。"
+      }
+    ],
+    "collocations": [
+      "auf etwas eingehen",
+      "eine Verpflichtung eingehen",
+      "eingehen (Post)"
+    ],
+    "grammar": {
+      "case": "Akkusativ (bei 'auf etwas eingehen')",
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "eingegangen"
+    },
+    "level": "B1",
+    "tags": [
+      "商务",
+      "生活",
+      "自然",
+      "B1"
+    ],
+    "synonyms": [
+      "akzeptieren",
+      "zustimmen",
+      "eingehen (auf)",
+      "sterben (Pflanze)"
+    ],
+    "antonyms": [
+      "ablehnen",
+      "verweigern",
+      "gedeihen"
+    ]
+  },
+  {
+    "word": "einnehmen",
+    "lemma": "einnehmen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "服用（药物）",
+        "en": "to take (medicine)"
+      },
+      {
+        "zh": "收入，获得",
+        "en": "to take in, to earn"
+      },
+      {
+        "zh": "占据（位置）",
+        "en": "to occupy (a position)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie nimmt jeden Morgen ihre Tabletten ein.",
+        "zh": "她每天早上服用她的药片。"
+      },
+      {
+        "de": "Das Unternehmen nimmt jährlich Millionen Euro ein.",
+        "zh": "这家公司每年收入数百万欧元。"
+      },
+      {
+        "de": "Der Tisch nimmt zu viel Platz ein.",
+        "zh": "这张桌子占了太多空间。"
+      }
+    ],
+    "collocations": [
+      "Medikamente einnehmen",
+      "Geld einnehmen",
+      "Platz einnehmen",
+      "eine Haltung einnehmen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "eingenommen"
+    },
+    "level": "B1",
+    "tags": [
+      "健康",
+      "经济",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "schlucken",
+      "verdienen",
+      "besetzen"
+    ],
+    "antonyms": [
+      "ausgeben",
+      "freigeben",
+      "verlieren"
+    ]
+  },
+  {
+    "word": "Einrichtung",
+    "lemma": "Einrichtung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Einrichtungen",
+    "meaning": [
+      {
+        "zh": "设施，机构",
+        "en": "facility, institution"
+      },
+      {
+        "zh": "布置，装修",
+        "en": "furnishing, setup"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Stadt hat viele soziale Einrichtungen.",
+        "zh": "这座城市有很多社会机构。"
+      },
+      {
+        "de": "Die Einrichtung der Wohnung ist modern.",
+        "zh": "公寓的装修很现代。"
+      }
+    ],
+    "collocations": [
+      "öffentliche Einrichtung",
+      "soziale Einrichtung",
+      "Einrichtung eines Systems",
+      "Einrichtung kaufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "生活",
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "Anstalt",
+      "Institution",
+      "Möblierung"
+    ],
+    "antonyms": [
+      "Abbau",
+      "Zerstörung"
+    ]
+  },
+  {
+    "word": "einschreiben",
+    "lemma": "einschreiben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "注册，登记",
+        "en": "to register, to enroll"
+      },
+      {
+        "zh": "写入，记入",
+        "en": "to write in, to inscribe"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich möchte mich für den Kurs einschreiben.",
+        "zh": "我想注册这门课程。"
+      },
+      {
+        "de": "Er schrieb sich in die Liste ein.",
+        "zh": "他把自己写进了名单里。"
+      }
+    ],
+    "collocations": [
+      "sich für etwas einschreiben",
+      "sich in eine Liste einschreiben",
+      "einschreiben lassen"
+    ],
+    "grammar": {
+      "case": "Akkusativ (reflexiv: sich)",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "eingeschrieben"
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "行政",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "anmelden",
+      "registrieren",
+      "eintragen"
+    ],
+    "antonyms": [
+      "abmelden",
+      "austragen",
+      "löschen"
+    ]
+  },
+  {
+    "word": "Einstellung",
+    "lemma": "Einstellung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Einstellungen",
+    "meaning": [
+      {
+        "zh": "设置，调整",
+        "en": "setting, adjustment"
+      },
+      {
+        "zh": "态度，观点",
+        "en": "attitude, mindset"
+      },
+      {
+        "zh": "雇用，录用",
+        "en": "employment, hiring"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Einstellung der Kamera muss korrigiert werden.",
+        "zh": "相机的设置需要调整。"
+      },
+      {
+        "de": "Er hat eine positive Einstellung zum Leben.",
+        "zh": "他对生活持积极态度。"
+      },
+      {
+        "de": "Die Einstellung neuer Mitarbeiter erfolgt nächste Woche.",
+        "zh": "新员工的录用将在下周进行。"
+      }
+    ],
+    "collocations": [
+      "die Einstellung ändern",
+      "eine Einstellung haben",
+      "Einstellung von Personal"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "工作",
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "Haltung",
+      "Anpassung",
+      "Anstellung"
+    ],
+    "antonyms": [
+      "Ablehnung",
+      "Entlassung"
+    ]
+  },
+  {
+    "word": "Einstufungstest",
+    "lemma": "Einstufungstest",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Einstufungstests",
+    "meaning": [
+      {
+        "zh": "分级测试，分班考试",
+        "en": "placement test, level assessment test"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Vor dem Sprachkurs müssen alle Teilnehmer einen Einstufungstest machen.",
+        "zh": "在语言课程开始前，所有参与者必须参加一个分级测试。"
+      },
+      {
+        "de": "Der Einstufungstest hilft, das richtige Niveau zu finden.",
+        "zh": "分级测试有助于找到合适的水平。"
+      }
+    ],
+    "collocations": [
+      "einen Einstufungstest machen",
+      "Einstufungstest bestehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "测试",
+      "B1"
+    ],
+    "synonyms": [
+      "Platzierungstest",
+      "Eignungstest"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "Eintritt",
+    "lemma": "Eintritt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Eintritte",
+    "meaning": [
+      {
+        "zh": "进入，入场",
+        "en": "entry, admission"
+      },
+      {
+        "zh": "发生，开始",
+        "en": "occurrence, onset"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Eintritt ins Museum kostet 10 Euro.",
+        "zh": "进入博物馆的费用是10欧元。"
+      },
+      {
+        "de": "Mit dem Eintritt des Winters wird es kälter.",
+        "zh": "随着冬天的到来，天气变冷了。"
+      }
+    ],
+    "collocations": [
+      "Eintritt verboten",
+      "freier Eintritt",
+      "Eintritt in die Firma"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Zugang",
+      "Beginn",
+      "Anfang"
+    ],
+    "antonyms": [
+      "Austritt",
+      "Ende"
+    ]
+  },
+  {
+    "word": "Einweg",
+    "lemma": "Einweg",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "一次性（物品）",
+        "en": "disposable, single-use"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Einwegflaschen sollten recycelt werden.",
+        "zh": "一次性瓶子应该被回收。"
+      },
+      {
+        "de": "Viele Länder verbieten Einwegplastik.",
+        "zh": "许多国家禁止一次性塑料。"
+      }
+    ],
+    "collocations": [
+      "Einwegverpackung",
+      "Einweggeschirr",
+      "Einwegprodukt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "环境",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Wegwerf-",
+      "Einmal-"
+    ],
+    "antonyms": [
+      "Mehrweg"
+    ]
+  },
+  {
+    "word": "einwerfen",
+    "lemma": "einwerfen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "投入，扔进",
+        "en": "to throw in, to insert"
+      },
+      {
+        "zh": "（对话中）插嘴，提出",
+        "en": "to interject, to remark"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er warf einen Brief in den Briefkasten ein.",
+        "zh": "他把一封信投入了信箱。"
+      },
+      {
+        "de": "Sie warf ein, dass der Plan zu teuer sei.",
+        "zh": "她插嘴说，这个计划太贵了。"
+      }
+    ],
+    "collocations": [
+      "Geld einwerfen",
+      "eine Bemerkung einwerfen",
+      "Münzen einwerfen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "eingeworfen"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "交流",
+      "B1"
+    ],
+    "synonyms": [
+      "hineinwerfen",
+      "einfügen",
+      "bemerken"
+    ],
+    "antonyms": [
+      "herausnehmen",
+      "schweigen"
+    ]
+  },
+  {
+    "word": "Einzelkind",
+    "lemma": "Einzelkind",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Einzelkinder",
+    "meaning": [
+      {
+        "zh": "独生子女",
+        "en": "only child"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Als Einzelkind hatte sie oft das Gefühl, allein zu sein.",
+        "zh": "作为独生子女，她常常感到孤独。"
+      },
+      {
+        "de": "Einzelkinder sind manchmal verwöhnt.",
+        "zh": "独生子女有时会被宠坏。"
+      }
+    ],
+    "collocations": [
+      "Einzelkind sein",
+      "Einzelkind aufwachsen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "家庭",
+      "社会",
+      "A2"
+    ],
+    "synonyms": null,
+    "antonyms": [
+      "Geschwisterkind"
+    ]
+  },
+  {
+    "word": "einzig",
+    "lemma": "einzig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "唯一的，仅有的",
+        "en": "only, sole, unique"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist die einzige Möglichkeit.",
+        "zh": "这是唯一的机会。"
+      },
+      {
+        "de": "Er ist der einzige Zeuge des Unfalls.",
+        "zh": "他是事故的唯一目击者。"
+      }
+    ],
+    "collocations": [
+      "der einzige Grund",
+      "die einzige Lösung",
+      "einzig und allein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "描述",
+      "A2"
+    ],
+    "synonyms": [
+      "alleinig",
+      "einmalig"
+    ],
+    "antonyms": [
+      "mehrere",
+      "viele"
+    ]
+  },
+  {
+    "word": "ekeln",
+    "lemma": "ekeln",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "感到恶心，厌恶",
+        "en": "to feel disgust, to be disgusted"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mich ekelt vor Spinnen.",
+        "zh": "我讨厌蜘蛛。"
+      },
+      {
+        "de": "Es ekelt ihn, wenn er rohes Fleisch sieht.",
+        "zh": "他看到生肉就感到恶心。"
+      }
+    ],
+    "collocations": [
+      "sich vor etwas ekeln",
+      "jemandem ekelt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geekelt"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "身体",
+      "B1"
+    ],
+    "synonyms": [
+      "abscheuen",
+      "widern"
+    ],
+    "antonyms": [
+      "mögen",
+      "lieben"
+    ]
+  },
+  {
+    "word": "elegant",
+    "lemma": "elegant",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "优雅的，精致的",
+        "en": "elegant, stylish"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie trug ein elegantes Kleid zur Party.",
+        "zh": "她穿了一件优雅的裙子去参加派对。"
+      },
+      {
+        "de": "Seine Lösung des Problems war sehr elegant.",
+        "zh": "他对问题的解决方案非常巧妙。"
+      }
+    ],
+    "collocations": [
+      "elegant gekleidet",
+      "eine elegante Lösung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "形容词",
+      "描述",
+      "B1"
+    ],
+    "synonyms": [
+      "stilvoll",
+      "geschmackvoll"
+    ],
+    "antonyms": [
+      "plump",
+      "geschmacklos"
+    ]
+  },
+  {
+    "word": "elementar",
+    "lemma": "elementar",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "基本的，根本的",
+        "en": "elementary, fundamental"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Lesen und Schreiben sind elementare Fähigkeiten.",
+        "zh": "阅读和写作是基本技能。"
+      },
+      {
+        "de": "Die elementaren Bedürfnisse der Menschen müssen gedeckt werden.",
+        "zh": "人们的基本需求必须得到满足。"
+      }
+    ],
+    "collocations": [
+      "elementare Kenntnisse",
+      "elementare Grundlagen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "形容词",
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "grundlegend",
+      "fundamental"
+    ],
+    "antonyms": [
+      "komplex",
+      "nebensächlich"
+    ]
+  },
+  {
+    "word": "Ellenbogenmentalität",
+    "lemma": "Ellenbogenmentalität",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "肘部心态，指不择手段、只顾自己的竞争态度",
+        "en": "elbow mentality, ruthless competitiveness"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In manchen Unternehmen herrscht eine starke Ellenbogenmentalität.",
+        "zh": "在一些公司里，盛行着一种不择手段的竞争心态。"
+      },
+      {
+        "de": "Er hat mit seiner Ellenbogenmentalität viele Kollegen verärgert.",
+        "zh": "他那种只顾自己的竞争态度惹恼了很多同事。"
+      }
+    ],
+    "collocations": [
+      "eine ausgeprägte Ellenbogenmentalität",
+      "Ellenbogenmentalität zeigen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "名词",
+      "社会",
+      "职场",
+      "B2"
+    ],
+    "synonyms": [
+      "Konkurrenzdenken",
+      "Durchsetzungsvermögen"
+    ],
+    "antonyms": [
+      "Teamgeist",
+      "Kooperation"
+    ]
+  }
+]

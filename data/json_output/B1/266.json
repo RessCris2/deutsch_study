@@ -1,0 +1,1744 @@
+[
+  {
+    "word": "umweltschädlich",
+    "lemma": "umweltschädlich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "对环境有害的",
+        "en": "environmentally harmful"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Plastikverpackungen sind oft umweltschädlich.",
+        "zh": "塑料包装通常对环境有害。"
+      },
+      {
+        "de": "Diese Chemikalie gilt als besonders umweltschädlich.",
+        "zh": "这种化学物质被认为对环境特别有害。"
+      }
+    ],
+    "collocations": [
+      "umweltschädliche Stoffe",
+      "umweltschädliches Verhalten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "环境",
+      "B1"
+    ],
+    "synonyms": [
+      "ökologisch schädlich"
+    ],
+    "antonyms": [
+      "umweltfreundlich"
+    ]
+  },
+  {
+    "word": "unabhängig",
+    "lemma": "unabhängig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "独立的",
+        "en": "independent"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie ist finanziell unabhängig von ihren Eltern.",
+        "zh": "她在经济上独立于父母。"
+      },
+      {
+        "de": "Das Land wurde vor 50 Jahren unabhängig.",
+        "zh": "这个国家在50年前独立了。"
+      }
+    ],
+    "collocations": [
+      "unabhängig von",
+      "politisch unabhängig"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "selbstständig",
+      "autonom"
+    ],
+    "antonyms": [
+      "abhängig"
+    ]
+  },
+  {
+    "word": "unbedacht",
+    "lemma": "unbedacht",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "轻率的，欠考虑的",
+        "en": "thoughtless, inconsiderate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Seine unbedachte Bemerkung hat sie verletzt.",
+        "zh": "他轻率的评论伤害了她。"
+      },
+      {
+        "de": "Es war unbedacht von ihm, das Fenster offen zu lassen.",
+        "zh": "他让窗户开着是欠考虑的。"
+      }
+    ],
+    "collocations": [
+      "unbedachte Äußerung",
+      "unbedachtes Handeln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "情感",
+      "B2"
+    ],
+    "synonyms": [
+      "gedankenlos",
+      "unvorsichtig"
+    ],
+    "antonyms": [
+      "bedacht",
+      "vorsichtig"
+    ]
+  },
+  {
+    "word": "unbegrenzt",
+    "lemma": "unbegrenzt",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "无限的，无限制的",
+        "en": "unlimited, boundless"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Internet bietet unbegrenzte Möglichkeiten.",
+        "zh": "互联网提供了无限的可能性。"
+      },
+      {
+        "de": "Der Vertrag gilt für unbegrenzte Zeit.",
+        "zh": "该合同无限期有效。"
+      }
+    ],
+    "collocations": [
+      "unbegrenzte Möglichkeiten",
+      "unbegrenzte Gültigkeit"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "endlos",
+      "grenzenlos"
+    ],
+    "antonyms": [
+      "begrenzt",
+      "beschränkt"
+    ]
+  },
+  {
+    "word": "unbeschädigt",
+    "lemma": "unbeschädigt",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "未损坏的，完好的",
+        "en": "undamaged, intact"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Paket kam unbeschädigt an.",
+        "zh": "包裹完好无损地到达了。"
+      },
+      {
+        "de": "Trotz des Sturms blieb das Haus unbeschädigt.",
+        "zh": "尽管有暴风雨，房子仍然完好无损。"
+      }
+    ],
+    "collocations": [
+      "unbeschädigte Ware",
+      "unbeschädigt bleiben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "heil",
+      "intakt"
+    ],
+    "antonyms": [
+      "beschädigt",
+      "kaputt"
+    ]
+  },
+  {
+    "word": "unbeschreiblich",
+    "lemma": "unbeschreiblich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "难以形容的",
+        "en": "indescribable"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Aussicht war unbeschreiblich schön.",
+        "zh": "景色美得难以形容。"
+      },
+      {
+        "de": "Er fühlte eine unbeschreibliche Freude.",
+        "zh": "他感到一种难以形容的快乐。"
+      }
+    ],
+    "collocations": [
+      "unbeschreibliche Schönheit",
+      "unbeschreibliches Gefühl"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "情感",
+      "B2"
+    ],
+    "synonyms": [
+      "unaussprechlich",
+      "unfassbar"
+    ],
+    "antonyms": [
+      "beschreibbar"
+    ]
+  },
+  {
+    "word": "unbewusst",
+    "lemma": "unbewusst",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "无意识的，不自觉的",
+        "en": "unconscious, unaware"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat unbewusst die Wahrheit gesagt.",
+        "zh": "他无意识地说出了真相。"
+      },
+      {
+        "de": "Viele Handlungen sind uns unbewusst.",
+        "zh": "许多行为是我们无意识的。"
+      }
+    ],
+    "collocations": [
+      "unbewusste Entscheidung",
+      "unbewusst handeln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "情感",
+      "B2"
+    ],
+    "synonyms": [
+      "unwillkürlich",
+      "instinktiv"
+    ],
+    "antonyms": [
+      "bewusst"
+    ]
+  },
+  {
+    "word": "unendlich",
+    "lemma": "unendlich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "无限的，无穷的",
+        "en": "infinite, endless"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Universum ist unendlich groß.",
+        "zh": "宇宙是无限大的。"
+      },
+      {
+        "de": "Ich habe unendlich viel Geduld.",
+        "zh": "我有无限的耐心。"
+      }
+    ],
+    "collocations": [
+      "unendliche Weite",
+      "unendliche Geduld"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "endlos",
+      "grenzenlos"
+    ],
+    "antonyms": [
+      "endlich",
+      "begrenzt"
+    ]
+  },
+  {
+    "word": "ungeeignet",
+    "lemma": "ungeeignet",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "不合适的，不适宜的",
+        "en": "unsuitable, inappropriate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieses Werkzeug ist für die Arbeit ungeeignet.",
+        "zh": "这个工具不适合这项工作。"
+      },
+      {
+        "de": "Er hält die Wohnung für ungeeignet für eine Familie.",
+        "zh": "他认为这套公寓不适合家庭居住。"
+      }
+    ],
+    "collocations": [
+      "für etwas ungeeignet sein",
+      "als ungeeignet gelten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "形容词",
+      "评价",
+      "B1"
+    ],
+    "synonyms": [
+      "unpassend",
+      "untauglich"
+    ],
+    "antonyms": [
+      "geeignet",
+      "passend"
+    ]
+  },
+  {
+    "word": "ungenügend",
+    "lemma": "ungenügend",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "不足的，不够的；不及格的",
+        "en": "insufficient, inadequate; failing (grade)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Vorbereitung war ungenügend.",
+        "zh": "准备不足。"
+      },
+      {
+        "de": "Er hat in der Prüfung die Note 'ungenügend' bekommen.",
+        "zh": "他考试得了不及格。"
+      }
+    ],
+    "collocations": [
+      "ungenügende Leistung",
+      "für ungenügend erklären"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "形容词",
+      "评价",
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "unzureichend",
+      "mangelhaft"
+    ],
+    "antonyms": [
+      "ausreichend",
+      "genügend"
+    ]
+  },
+  {
+    "word": "unglaublich",
+    "lemma": "unglaublich",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "难以置信的，不可思议的",
+        "en": "unbelievable, incredible"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist ja unglaublich!",
+        "zh": "这真是太不可思议了！"
+      },
+      {
+        "de": "Sie hat unglaublich schnell gearbeitet.",
+        "zh": "她工作得难以置信地快。"
+      }
+    ],
+    "collocations": [
+      "unglaublich viel",
+      "unglaublich gut"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "形容词",
+      "副词",
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "unfassbar",
+      "wahnsinnig"
+    ],
+    "antonyms": [
+      "glaublich",
+      "normal"
+    ]
+  },
+  {
+    "word": "Unterlagen",
+    "lemma": "Unterlage",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Unterlagen",
+    "meaning": [
+      {
+        "zh": "资料，文件，材料",
+        "en": "documents, materials, records"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bitte reichen Sie Ihre Unterlagen bis morgen ein.",
+        "zh": "请明天之前提交您的材料。"
+      },
+      {
+        "de": "Die Unterlagen für den Kurs liegen auf dem Tisch.",
+        "zh": "课程资料在桌子上。"
+      }
+    ],
+    "collocations": [
+      "Unterlagen einreichen",
+      "Unterlagen prüfen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "名词",
+      "办公",
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "Dokumente",
+      "Materialien"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Unterschrift",
+    "lemma": "Unterschrift",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Unterschriften",
+    "meaning": [
+      {
+        "zh": "签名，签字",
+        "en": "signature"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bitte setzen Sie Ihre Unterschrift hier.",
+        "zh": "请在这里签名。"
+      },
+      {
+        "de": "Die Unterschrift ist ungültig.",
+        "zh": "签名无效。"
+      }
+    ],
+    "collocations": [
+      "Unterschrift leisten",
+      "Unterschrift fälschen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "名词",
+      "办公",
+      "法律",
+      "A2"
+    ],
+    "synonyms": [
+      "Signatur",
+      "Namenszug"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "unterstützen",
+    "lemma": "unterstützen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "支持，帮助",
+        "en": "to support, to assist"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Meine Familie unterstützt mich bei meinem Studium.",
+        "zh": "我的家人支持我的学业。"
+      },
+      {
+        "de": "Die Regierung unterstützt das Projekt finanziell.",
+        "zh": "政府从资金上支持这个项目。"
+      }
+    ],
+    "collocations": [
+      "jemanden unterstützen",
+      "ein Projekt unterstützen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "unterstützt"
+    },
+    "level": "A2",
+    "tags": [
+      "动词",
+      "社会",
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "helfen",
+      "fördern"
+    ],
+    "antonyms": [
+      "behindern",
+      "ablehnen"
+    ]
+  },
+  {
+    "word": "Ursprung",
+    "lemma": "Ursprung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Ursprünge",
+    "meaning": [
+      {
+        "zh": "起源，根源，来源",
+        "en": "origin, source"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Ursprung des Problems liegt in der Kommunikation.",
+        "zh": "问题的根源在于沟通。"
+      },
+      {
+        "de": "Dieses Wort hat seinen Ursprung im Lateinischen.",
+        "zh": "这个词起源于拉丁语。"
+      }
+    ],
+    "collocations": [
+      "den Ursprung haben",
+      "Ursprung und Entwicklung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "名词",
+      "抽象",
+      "科学",
+      "B1"
+    ],
+    "synonyms": [
+      "Herkunft",
+      "Quelle"
+    ],
+    "antonyms": [
+      "Ende",
+      "Ergebnis"
+    ]
+  },
+  {
+    "word": "Ventil",
+    "lemma": "Ventil",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Ventile",
+    "meaning": [
+      {
+        "zh": "阀门，气门；发泄途径",
+        "en": "valve; outlet (for emotions)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Ventil an der Heizung ist defekt.",
+        "zh": "暖气上的阀门坏了。"
+      },
+      {
+        "de": "Sport ist ein gutes Ventil für Stress.",
+        "zh": "运动是缓解压力的好途径。"
+      }
+    ],
+    "collocations": [
+      "Ventil öffnen",
+      "Ventil schließen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "名词",
+      "技术",
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "Absperrvorrichtung",
+      "Auslass"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Veranstaltung",
+    "lemma": "Veranstaltung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Veranstaltungen",
+    "meaning": [
+      {
+        "zh": "活动，事件",
+        "en": "event, function"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Veranstaltung findet am Samstag statt.",
+        "zh": "活动在周六举行。"
+      },
+      {
+        "de": "Wir haben eine wichtige Veranstaltung im Konferenzraum.",
+        "zh": "我们在会议室有一个重要的活动。"
+      }
+    ],
+    "collocations": [
+      "eine Veranstaltung besuchen",
+      "eine Veranstaltung organisieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Ereignis",
+      "Event"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Verantwortung",
+    "lemma": "Verantwortung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Verantwortungen",
+    "meaning": [
+      {
+        "zh": "责任",
+        "en": "responsibility"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er übernimmt die Verantwortung für das Projekt.",
+        "zh": "他承担这个项目的责任。"
+      },
+      {
+        "de": "Die Eltern tragen eine große Verantwortung für ihre Kinder.",
+        "zh": "父母对孩子负有重大责任。"
+      }
+    ],
+    "collocations": [
+      "Verantwortung übernehmen",
+      "Verantwortung tragen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Pflicht",
+      "Haftung"
+    ],
+    "antonyms": [
+      "Unverantwortlichkeit"
+    ]
+  },
+  {
+    "word": "verarbeiten",
+    "lemma": "verarbeiten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "加工，处理",
+        "en": "to process, to work through"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Firma verarbeitet Holz zu Möbeln.",
+        "zh": "这家公司把木材加工成家具。"
+      },
+      {
+        "de": "Er muss den Verlust noch verarbeiten.",
+        "zh": "他还需要处理这个损失。"
+      }
+    ],
+    "collocations": [
+      "Daten verarbeiten",
+      "Erfahrungen verarbeiten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verarbeitet"
+    },
+    "level": "B2",
+    "tags": [
+      "科技",
+      "B2"
+    ],
+    "synonyms": [
+      "bearbeiten",
+      "verwerten"
+    ],
+    "antonyms": [
+      "ignorieren"
+    ]
+  },
+  {
+    "word": "verbieten",
+    "lemma": "verbieten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "禁止",
+        "en": "to forbid, to prohibit"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Regierung verbietet das Rauchen in öffentlichen Gebäuden.",
+        "zh": "政府禁止在公共建筑内吸烟。"
+      },
+      {
+        "de": "Meine Eltern haben mir verboten, nach draußen zu gehen.",
+        "zh": "我父母禁止我出门。"
+      }
+    ],
+    "collocations": [
+      "etwas verbieten",
+      "das Rauchen verbieten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verboten"
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "untersagen",
+      "verwehren"
+    ],
+    "antonyms": [
+      "erlauben",
+      "gestatten"
+    ]
+  },
+  {
+    "word": "verbrauchen",
+    "lemma": "verbrauchen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "消耗，使用",
+        "en": "to consume, to use up"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Auto verbraucht zu viel Benzin.",
+        "zh": "这辆车消耗太多汽油。"
+      },
+      {
+        "de": "Wir haben alle Vorräte verbraucht.",
+        "zh": "我们用完了所有储备。"
+      }
+    ],
+    "collocations": [
+      "Energie verbrauchen",
+      "Ressourcen verbrauchen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verbraucht"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "konsumieren",
+      "aufbrauchen"
+    ],
+    "antonyms": [
+      "sparen",
+      "schonen"
+    ]
+  },
+  {
+    "word": "Verdauung",
+    "lemma": "Verdauung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "消化",
+        "en": "digestion"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Eine gesunde Ernährung fördert die Verdauung.",
+        "zh": "健康的饮食促进消化。"
+      },
+      {
+        "de": "Er hat Probleme mit der Verdauung.",
+        "zh": "他有消化问题。"
+      }
+    ],
+    "collocations": [
+      "die Verdauung fördern",
+      "Verdauungsprobleme haben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "健康",
+      "B2"
+    ],
+    "synonyms": [
+      "Verdauungsprozess"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "vereinbaren",
+    "lemma": "vereinbaren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "约定，商定",
+        "en": "to arrange, to agree on"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir haben einen Termin vereinbart.",
+        "zh": "我们约定了一个时间。"
+      },
+      {
+        "de": "Die beiden Parteien vereinbarten eine Zusammenarbeit.",
+        "zh": "双方商定了合作。"
+      }
+    ],
+    "collocations": [
+      "einen Termin vereinbaren",
+      "Bedingungen vereinbaren"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "vereinbart"
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "absprechen",
+      "festlegen"
+    ],
+    "antonyms": [
+      "ablehnen",
+      "verweigern"
+    ]
+  },
+  {
+    "word": "vereinigen",
+    "lemma": "vereinigen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "联合，统一",
+        "en": "to unite, to merge"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die beiden Firmen haben sich vereinigt.",
+        "zh": "这两家公司合并了。"
+      },
+      {
+        "de": "Das Land wurde nach dem Krieg wieder vereinigt.",
+        "zh": "这个国家在战后重新统一了。"
+      }
+    ],
+    "collocations": [
+      "sich vereinigen",
+      "Kräfte vereinigen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "vereinigt"
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "verbinden",
+      "zusammenführen"
+    ],
+    "antonyms": [
+      "trennen",
+      "spalten"
+    ]
+  },
+  {
+    "word": "Verfahren",
+    "lemma": "Verfahren",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Verfahren",
+    "meaning": [
+      {
+        "zh": "程序，方法，过程",
+        "en": "procedure, method, process"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Verfahren zur Beantragung eines Visums ist kompliziert.",
+        "zh": "申请签证的程序很复杂。"
+      },
+      {
+        "de": "Wir müssen ein neues Verfahren entwickeln.",
+        "zh": "我们必须开发一种新方法。"
+      }
+    ],
+    "collocations": [
+      "ein Verfahren anwenden",
+      "das Verfahren beschleunigen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "法律",
+      "技术",
+      "B1"
+    ],
+    "synonyms": [
+      "Methode",
+      "Prozess"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Verfolgung",
+    "lemma": "Verfolgung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Verfolgungen",
+    "meaning": [
+      {
+        "zh": "追踪，迫害",
+        "en": "pursuit, persecution"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Verfolgung des Täters dauerte mehrere Stunden.",
+        "zh": "对罪犯的追捕持续了几个小时。"
+      },
+      {
+        "de": "Viele Menschen flohen vor der politischen Verfolgung.",
+        "zh": "许多人逃离了政治迫害。"
+      }
+    ],
+    "collocations": [
+      "die Verfolgung aufnehmen",
+      "unter Verfolgung leiden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "法律",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Jagd",
+      "Nachstellung"
+    ],
+    "antonyms": [
+      "Schutz"
+    ]
+  },
+  {
+    "word": "verfügen",
+    "lemma": "verfügen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "支配，拥有；规定，下令",
+        "en": "to have at one's disposal; to decree, to order"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Firma verfügt über moderne Technologie.",
+        "zh": "这家公司拥有现代技术。"
+      },
+      {
+        "de": "Der Richter verfügte die Freilassung des Angeklagten.",
+        "zh": "法官下令释放被告。"
+      }
+    ],
+    "collocations": [
+      "über etwas verfügen",
+      "verfügen, dass"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verfügt"
+    },
+    "level": "B1",
+    "tags": [
+      "法律",
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "anordnen",
+      "besitzen"
+    ],
+    "antonyms": [
+      "entbehren"
+    ]
+  },
+  {
+    "word": "Verfügung",
+    "lemma": "Verfügung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Verfügungen",
+    "meaning": [
+      {
+        "zh": "指令，处置；支配",
+        "en": "order, decree; disposal"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Behörde erließ eine Verfügung.",
+        "zh": "当局发布了一项指令。"
+      },
+      {
+        "de": "Stehen Ihnen alle Mittel zur Verfügung?",
+        "zh": "您有所有可用的资源吗？"
+      }
+    ],
+    "collocations": [
+      "eine Verfügung erlassen",
+      "zur Verfügung stehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "法律",
+      "行政",
+      "B1"
+    ],
+    "synonyms": [
+      "Anordnung",
+      "Dekret"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "vergießen",
+    "lemma": "vergießen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "洒出，泼出；流（泪、血）",
+        "en": "to spill; to shed (tears, blood)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat versehentlich Wasser auf den Tisch vergossen.",
+        "zh": "她不小心把水洒在桌子上了。"
+      },
+      {
+        "de": "Im Krieg wurde viel Blut vergossen.",
+        "zh": "战争中流了很多血。"
+      }
+    ],
+    "collocations": [
+      "Blut vergießen",
+      "Tränen vergießen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "vergossen"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "verschütten",
+      "ausgießen"
+    ],
+    "antonyms": [
+      "aufbewahren"
+    ]
+  },
+  {
+    "word": "vergrößern",
+    "lemma": "vergrößern",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "扩大，放大",
+        "en": "to enlarge, to magnify"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir möchten unser Geschäft vergrößern.",
+        "zh": "我们想扩大我们的业务。"
+      },
+      {
+        "de": "Kannst du das Bild vergrößern?",
+        "zh": "你能放大这张图片吗？"
+      }
+    ],
+    "collocations": [
+      "das Geschäft vergrößern",
+      "ein Foto vergrößern"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "vergrößert"
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "技术",
+      "B1"
+    ],
+    "synonyms": [
+      "ausdehnen",
+      "erweitern"
+    ],
+    "antonyms": [
+      "verkleinern"
+    ]
+  },
+  {
+    "word": "Verhalten",
+    "lemma": "Verhalten",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "行为，举止",
+        "en": "behavior, conduct"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sein Verhalten war sehr höflich.",
+        "zh": "他的行为非常有礼貌。"
+      },
+      {
+        "de": "Das Verhalten der Tiere wird erforscht.",
+        "zh": "动物的行为正在被研究。"
+      }
+    ],
+    "collocations": [
+      "das Verhalten ändern",
+      "soziales Verhalten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "心理",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Benehmen",
+      "Betragen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Verhältnis",
+    "lemma": "Verhältnis",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Verhältnisse",
+    "meaning": [
+      {
+        "zh": "关系，比例，情况",
+        "en": "relationship, ratio, condition"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Verhältnis zwischen ihnen ist angespannt.",
+        "zh": "他们之间的关系很紧张。"
+      },
+      {
+        "de": "Das Verhältnis von Gewinn zu Kosten ist günstig.",
+        "zh": "利润与成本的比例是有利的。"
+      }
+    ],
+    "collocations": [
+      "ein gutes Verhältnis haben",
+      "im Verhältnis zu"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "Beziehung",
+      "Proportion"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Verhiiltnis",
+    "lemma": "Verhältnis",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Verhältnisse",
+    "meaning": [
+      {
+        "zh": "关系，比例，状况",
+        "en": "relationship, proportion, condition"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Verhältnis zwischen den beiden Ländern hat sich verbessert.",
+        "zh": "两国之间的关系有所改善。"
+      },
+      {
+        "de": "Im Verhältnis zu seinem Gehalt ist die Miete sehr hoch.",
+        "zh": "与他的收入相比，房租非常高。"
+      }
+    ],
+    "collocations": [
+      "im Verhältnis zu",
+      "ein gutes Verhältnis haben",
+      "das Verhältnis verbessern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "关系",
+      "B1"
+    ],
+    "synonyms": [
+      "Beziehung",
+      "Proportion",
+      "Relation"
+    ],
+    "antonyms": [
+      "Missverhältnis"
+    ]
+  },
+  {
+    "word": "verlängern",
+    "lemma": "verlängern",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "延长，加长",
+        "en": "to extend, to lengthen"
+      },
+      {
+        "zh": "续签，延期",
+        "en": "to renew, to prolong"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir müssen die Frist um zwei Wochen verlängern.",
+        "zh": "我们必须将期限延长两周。"
+      },
+      {
+        "de": "Kannst du den Vertrag verlängern?",
+        "zh": "你能续签合同吗？"
+      }
+    ],
+    "collocations": [
+      "die Frist verlängern",
+      "den Vertrag verlängern",
+      "die Öffnungszeiten verlängern",
+      "den Urlaub verlängern"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verlängert"
+    },
+    "level": "B1",
+    "tags": [
+      "时间",
+      "工作",
+      "法律",
+      "B1"
+    ],
+    "synonyms": [
+      "ausdehnen",
+      "vergrößern",
+      "fortsetzen"
+    ],
+    "antonyms": [
+      "verkürzen",
+      "kürzen",
+      "abbrechen"
+    ]
+  },
+  {
+    "word": "verlangsamen",
+    "lemma": "verlangsamen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "减速，放慢",
+        "en": "to slow down, to decelerate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Fahrer musste das Auto verlangsamen, um die Kurve zu nehmen.",
+        "zh": "司机必须减速才能转弯。"
+      },
+      {
+        "de": "Die Wirtschaft verlangsamt sich aufgrund der Krise.",
+        "zh": "由于危机，经济正在放缓。"
+      }
+    ],
+    "collocations": [
+      "die Geschwindigkeit verlangsamen",
+      "den Prozess verlangsamen",
+      "das Wachstum verlangsamen",
+      "die Fahrt verlangsamen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verlangsamt"
+    },
+    "level": "B1",
+    "tags": [
+      "交通",
+      "经济",
+      "过程",
+      "B1"
+    ],
+    "synonyms": [
+      "bremsen",
+      "drosseln",
+      "verzögern"
+    ],
+    "antonyms": [
+      "beschleunigen",
+      "steigern",
+      "vorantreiben"
+    ]
+  },
+  {
+    "word": "verletzen",
+    "lemma": "verletzen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "伤害，使受伤",
+        "en": "to injure, to hurt"
+      },
+      {
+        "zh": "违反，侵犯",
+        "en": "to violate, to infringe"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat sich beim Sport am Knie verletzt.",
+        "zh": "他在运动中伤到了膝盖。"
+      },
+      {
+        "de": "Das Unternehmen hat das Urheberrecht verletzt.",
+        "zh": "该公司侵犯了版权。"
+      }
+    ],
+    "collocations": [
+      "sich verletzen",
+      "jemanden verletzen",
+      "das Gesetz verletzen",
+      "die Regeln verletzen",
+      "die Gefühle verletzen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verletzt"
+    },
+    "level": "B1",
+    "tags": [
+      "健康",
+      "法律",
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "schaden",
+      "kränken",
+      "übertreten"
+    ],
+    "antonyms": [
+      "heilen",
+      "schützen",
+      "einhalten"
+    ]
+  }
+]

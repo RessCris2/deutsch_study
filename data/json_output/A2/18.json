@@ -1,0 +1,1921 @@
+[
+  {
+    "word": "schmutzig",
+    "lemma": "schmutzig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "脏的，污秽的",
+        "en": "dirty, filthy"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Hände sind schmutzig.",
+        "zh": "手很脏。"
+      },
+      {
+        "de": "Er hat einen schmutzigen Witz erzählt.",
+        "zh": "他讲了一个下流的笑话。"
+      }
+    ],
+    "collocations": [
+      "schmutzige Kleidung",
+      "schmutzige Gedanken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "形容词",
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "dreckig",
+      "unsauber"
+    ],
+    "antonyms": [
+      "sauber",
+      "rein"
+    ]
+  },
+  {
+    "word": "Schnaps",
+    "lemma": "Schnaps",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Schnäpse",
+    "meaning": [
+      {
+        "zh": "烈酒，烧酒",
+        "en": "schnapps, hard liquor"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er trinkt gerne einen Schnaps nach dem Essen.",
+        "zh": "他喜欢饭后喝一杯烈酒。"
+      },
+      {
+        "de": "Der Schnaps brennt im Hals.",
+        "zh": "这烈酒烧喉咙。"
+      }
+    ],
+    "collocations": [
+      "einen Schnaps trinken",
+      "Schnaps brennen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "名词",
+      "饮食",
+      "B1"
+    ],
+    "synonyms": [
+      "Spirituose",
+      "Alkohol"
+    ],
+    "antonyms": [
+      "Saft",
+      "Wasser"
+    ]
+  },
+  {
+    "word": "Schnee",
+    "lemma": "Schnee",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "雪",
+        "en": "snow"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Es fällt viel Schnee im Winter.",
+        "zh": "冬天下了很多雪。"
+      },
+      {
+        "de": "Die Kinder spielen im Schnee.",
+        "zh": "孩子们在雪地里玩耍。"
+      }
+    ],
+    "collocations": [
+      "weißer Schnee",
+      "Schnee schaufeln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "名词",
+      "自然",
+      "A1"
+    ],
+    "synonyms": [
+      "Schneeflocke",
+      "Pulverschnee"
+    ],
+    "antonyms": [
+      "Regen",
+      "Eis"
+    ]
+  },
+  {
+    "word": "Schneewittchen",
+    "lemma": "Schneewittchen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "白雪公主",
+        "en": "Snow White"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Schneewittchen ist eine bekannte Märchenfigur.",
+        "zh": "白雪公主是一个著名的童话人物。"
+      },
+      {
+        "de": "Die Geschichte von Schneewittchen und den sieben Zwergen ist sehr beliebt.",
+        "zh": "白雪公主和七个小矮人的故事很受欢迎。"
+      }
+    ],
+    "collocations": [
+      "Schneewittchen und die sieben Zwerge",
+      "das Märchen von Schneewittchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "名词",
+      "文化",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Schokolade",
+    "lemma": "Schokolade",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Schokoladen",
+    "meaning": [
+      {
+        "zh": "巧克力",
+        "en": "chocolate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich esse gerne Schokolade.",
+        "zh": "我喜欢吃巧克力。"
+      },
+      {
+        "de": "Sie hat mir eine Tafel Schokolade geschenkt.",
+        "zh": "她送了我一块巧克力。"
+      }
+    ],
+    "collocations": [
+      "dunkle Schokolade",
+      "Schokolade essen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "名词",
+      "饮食",
+      "A1"
+    ],
+    "synonyms": [
+      "Praline",
+      "Kakao"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Schritt",
+    "lemma": "Schritt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Schritte",
+    "meaning": [
+      {
+        "zh": "步，步伐；步骤",
+        "en": "step, pace"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er machte einen großen Schritt nach vorne.",
+        "zh": "他向前迈了一大步。"
+      },
+      {
+        "de": "Der erste Schritt ist immer der schwerste.",
+        "zh": "第一步总是最难的。"
+      }
+    ],
+    "collocations": [
+      "Schritt für Schritt",
+      "einen Schritt machen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "名词",
+      "行为",
+      "A2"
+    ],
+    "synonyms": [
+      "Schrittbewegung",
+      "Etappe"
+    ],
+    "antonyms": [
+      "Stillstand",
+      "Sprung"
+    ]
+  },
+  {
+    "word": "schunkeln",
+    "lemma": "schunkeln",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "（随着音乐）摇摆身体",
+        "en": "to sway (to music)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Auf dem Oktoberfest schunkeln die Leute fröhlich.",
+        "zh": "在啤酒节上，人们快乐地摇摆身体。"
+      },
+      {
+        "de": "Sie schunkelten im Takt der Musik.",
+        "zh": "他们随着音乐的节奏摇摆。"
+      }
+    ],
+    "collocations": [
+      "fröhlich schunkeln",
+      "im Takt schunkeln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geschunkelt"
+    },
+    "level": "B1",
+    "tags": [
+      "动词",
+      "娱乐",
+      "B1"
+    ],
+    "synonyms": [
+      "wippen",
+      "wiegen"
+    ],
+    "antonyms": [
+      "stillstehen",
+      "starren"
+    ]
+  },
+  {
+    "word": "Schutz",
+    "lemma": "Schutz",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "保护，防护",
+        "en": "protection, shelter"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Regenschirm bietet Schutz vor dem Regen.",
+        "zh": "雨伞提供防雨保护。"
+      },
+      {
+        "de": "Die Polizei sorgt für den Schutz der Bürger.",
+        "zh": "警察负责保护市民。"
+      }
+    ],
+    "collocations": [
+      "Schutz suchen",
+      "unter Schutz stellen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "名词",
+      "安全",
+      "B1"
+    ],
+    "synonyms": [
+      "Sicherheit",
+      "Obhut"
+    ],
+    "antonyms": [
+      "Gefahr",
+      "Bedrohung"
+    ]
+  },
+  {
+    "word": "schützen",
+    "lemma": "schützen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "保护，防护",
+        "en": "to protect, to shield"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir müssen die Umwelt vor Verschmutzung schützen.",
+        "zh": "我们必须保护环境免受污染。"
+      },
+      {
+        "de": "Der Regenschirm schützt mich vor dem Regen.",
+        "zh": "这把伞保护我不被雨淋。"
+      }
+    ],
+    "collocations": [
+      "vor etwas schützen",
+      "sich schützen vor"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geschützt"
+    },
+    "level": "B1",
+    "tags": [
+      "动词",
+      "保护",
+      "环境",
+      "B1"
+    ],
+    "synonyms": [
+      "bewahren",
+      "verteidigen"
+    ],
+    "antonyms": [
+      "angreifen",
+      "gefährden"
+    ]
+  },
+  {
+    "word": "Schweizer",
+    "lemma": "Schweizer",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Schweizer",
+    "meaning": [
+      {
+        "zh": "瑞士人",
+        "en": "Swiss person"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Schweizer spricht mehrere Sprachen.",
+        "zh": "这个瑞士人会说多种语言。"
+      },
+      {
+        "de": "Viele Schweizer arbeiten im Finanzsektor.",
+        "zh": "许多瑞士人在金融行业工作。"
+      }
+    ],
+    "collocations": [
+      "ein Schweizer sein",
+      "Schweizer Käse"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "名词",
+      "国籍",
+      "瑞士",
+      "A2"
+    ],
+    "synonyms": [
+      "Eidgenosse"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "schwimmen",
+    "lemma": "schwimmen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "游泳",
+        "en": "to swim"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich schwimme jeden Morgen im See.",
+        "zh": "我每天早上在湖里游泳。"
+      },
+      {
+        "de": "Kannst du gut schwimmen?",
+        "zh": "你游泳游得好吗？"
+      }
+    ],
+    "collocations": [
+      "schwimmen gehen",
+      "im Wasser schwimmen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "partizip2": "geschwommen"
+    },
+    "level": "A1",
+    "tags": [
+      "动词",
+      "运动",
+      "游泳",
+      "A1"
+    ],
+    "synonyms": [
+      "tauchen",
+      "paddeln"
+    ],
+    "antonyms": [
+      "sinken",
+      "ertrinken"
+    ]
+  },
+  {
+    "word": "Sehenswürdigkeit",
+    "lemma": "Sehenswürdigkeit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Sehenswürdigkeiten",
+    "meaning": [
+      {
+        "zh": "名胜古迹，景点",
+        "en": "sight, tourist attraction"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Kölner Dom ist eine berühmte Sehenswürdigkeit.",
+        "zh": "科隆大教堂是一个著名的景点。"
+      },
+      {
+        "de": "Wir haben alle Sehenswürdigkeiten der Stadt besichtigt.",
+        "zh": "我们参观了这座城市的所有名胜古迹。"
+      }
+    ],
+    "collocations": [
+      "eine Sehenswürdigkeit besichtigen",
+      "berühmte Sehenswürdigkeiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "名词",
+      "旅游",
+      "景点",
+      "A2"
+    ],
+    "synonyms": [
+      "Attraktion",
+      "Wahrzeichen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Sekt",
+    "lemma": "Sekt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Sekte",
+    "meaning": [
+      {
+        "zh": "起泡酒，香槟（德语区常用）",
+        "en": "sparkling wine, champagne"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Zum Geburtstag haben wir Sekt getrunken.",
+        "zh": "生日时我们喝了起泡酒。"
+      },
+      {
+        "de": "Eine Flasche Sekt kostet etwa zehn Euro.",
+        "zh": "一瓶起泡酒大约十欧元。"
+      }
+    ],
+    "collocations": [
+      "Sekt trinken",
+      "eine Flasche Sekt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "名词",
+      "饮料",
+      "酒",
+      "B1"
+    ],
+    "synonyms": [
+      "Champagner",
+      "Schaumwein"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "selbständig",
+    "lemma": "selbständig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "独立的，自雇的",
+        "en": "independent, self-employed"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er arbeitet als selbständiger Unternehmer.",
+        "zh": "他作为自雇企业家工作。"
+      },
+      {
+        "de": "Kinder sollten lernen, selbständig zu denken.",
+        "zh": "孩子应该学会独立思考。"
+      }
+    ],
+    "collocations": [
+      "selbständig arbeiten",
+      "selbständig sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "形容词",
+      "工作",
+      "独立",
+      "B1"
+    ],
+    "synonyms": [
+      "unabhängig",
+      "eigenständig"
+    ],
+    "antonyms": [
+      "abhängig",
+      "unselbständig"
+    ]
+  },
+  {
+    "word": "selbstbewusst",
+    "lemma": "selbstbewusst",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "自信的",
+        "en": "self-confident"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie trat selbstbewusst vor das Publikum.",
+        "zh": "她自信地走到观众面前。"
+      },
+      {
+        "de": "Ein selbstbewusster Mensch kann Kritik annehmen.",
+        "zh": "一个自信的人能够接受批评。"
+      }
+    ],
+    "collocations": [
+      "selbstbewusst auftreten",
+      "selbstbewusst sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "形容词",
+      "性格",
+      "自信",
+      "B1"
+    ],
+    "synonyms": [
+      "sicher",
+      "überzeugt"
+    ],
+    "antonyms": [
+      "unsicher",
+      "schüchtern"
+    ]
+  },
+  {
+    "word": "Semester",
+    "lemma": "Semester",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Semester",
+    "meaning": [
+      {
+        "zh": "学期",
+        "en": "semester, term"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das neue Semester beginnt im Oktober.",
+        "zh": "新学期从十月开始。"
+      },
+      {
+        "de": "Er studiert im dritten Semester.",
+        "zh": "他在读第三学期。"
+      }
+    ],
+    "collocations": [
+      "ein Semester studieren",
+      "im Semester"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "名词",
+      "教育",
+      "学期",
+      "A2"
+    ],
+    "synonyms": [
+      "Studienhalbjahr",
+      "Trimester"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Semesterbeitrag",
+    "lemma": "Semesterbeitrag",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Semesterbeiträge",
+    "meaning": [
+      {
+        "zh": "学期费用",
+        "en": "semester fee"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Semesterbeitrag muss bis Ende des Monats überwiesen werden.",
+        "zh": "学期费用必须在本月底前转账。"
+      },
+      {
+        "de": "Viele Studierende zahlen den Semesterbeitrag jedes Semester pünktlich.",
+        "zh": "许多学生每学期准时支付学期费用。"
+      }
+    ],
+    "collocations": [
+      "Semesterbeitrag zahlen",
+      "Semesterbeitrag überweisen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "Studiengebühr"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Seminar",
+    "lemma": "Seminar",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Seminare",
+    "meaning": [
+      {
+        "zh": "研讨会",
+        "en": "seminar"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Seminar über Klimawandel findet nächste Woche statt.",
+        "zh": "关于气候变化的研讨会下周举行。"
+      },
+      {
+        "de": "Ich habe mich für ein Seminar zur deutschen Literatur angemeldet.",
+        "zh": "我报名参加了一个关于德国文学的研讨会。"
+      }
+    ],
+    "collocations": [
+      "Seminar besuchen",
+      "Seminar anbieten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "Workshop",
+      "Kurs"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Sendung",
+    "lemma": "Sendung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Sendungen",
+    "meaning": [
+      {
+        "zh": "节目；发送",
+        "en": "broadcast; shipment"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Sendung läuft jeden Abend um 20 Uhr.",
+        "zh": "这个节目每晚8点播出。"
+      },
+      {
+        "de": "Die Sendung ist gestern angekommen.",
+        "zh": "包裹昨天到了。"
+      }
+    ],
+    "collocations": [
+      "Sendung verfolgen",
+      "Sendung erhalten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "媒体",
+      "物流",
+      "B1"
+    ],
+    "synonyms": [
+      "Programm",
+      "Lieferung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "dasder",
+    "lemma": "dasder",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "（非标准词，可能为拼写错误）",
+        "en": "non-standard word, possibly a typo"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieses Wort ist nicht korrekt.",
+        "zh": "这个词不正确。"
+      },
+      {
+        "de": "Bitte verwenden Sie 'der' oder 'das' korrekt.",
+        "zh": "请正确使用 'der' 或 'das'。"
+      }
+    ],
+    "collocations": [],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "错误",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Sinfonie",
+    "lemma": "Sinfonie",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Sinfonien",
+    "meaning": [
+      {
+        "zh": "交响曲",
+        "en": "symphony"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Beethovens fünfte Sinfonie ist weltberühmt.",
+        "zh": "贝多芬的第五交响曲举世闻名。"
+      },
+      {
+        "de": "Die Sinfonie wurde von einem großen Orchester aufgeführt.",
+        "zh": "这首交响曲由一支大型管弦乐队演奏。"
+      }
+    ],
+    "collocations": [
+      "Sinfonie komponieren",
+      "Sinfonie aufführen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "音乐",
+      "B1"
+    ],
+    "synonyms": [
+      "Symphonie"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "sinnvoll",
+    "lemma": "sinnvoll",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "有意义的",
+        "en": "meaningful"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Es ist sinnvoll, früh mit dem Lernen zu beginnen.",
+        "zh": "早点开始学习是有意义的。"
+      },
+      {
+        "de": "Diese Maßnahme ist sinnvoll für die Umwelt.",
+        "zh": "这项措施对环境有意义。"
+      }
+    ],
+    "collocations": [
+      "sinnvoll nutzen",
+      "sinnvoll einsetzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "评价",
+      "B1"
+    ],
+    "synonyms": [
+      "zweckmäßig",
+      "nützlich"
+    ],
+    "antonyms": [
+      "sinnlos"
+    ]
+  },
+  {
+    "word": "Sitte",
+    "lemma": "Sitte",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Sitten",
+    "meaning": [
+      {
+        "zh": "风俗；习惯",
+        "en": "custom; tradition"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In vielen Ländern ist es eine Sitte, sich zur Begrüßung die Hand zu geben.",
+        "zh": "在许多国家，握手问候是一种风俗。"
+      },
+      {
+        "de": "Diese Sitte wird von Generation zu Generation weitergegeben.",
+        "zh": "这种风俗代代相传。"
+      }
+    ],
+    "collocations": [
+      "Sitte pflegen",
+      "Sitte übernehmen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "文化",
+      "B1"
+    ],
+    "synonyms": [
+      "Brauch",
+      "Tradition"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "der",
+    "lemma": "der",
+    "pos": [
+      "article",
+      "pronoun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "定冠词（阳性单数第一格）",
+        "en": "the (masculine nominative singular)"
+      },
+      {
+        "zh": "关系代词（阳性单数第一格）",
+        "en": "who/which (masculine nominative singular)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Mann liest ein Buch.",
+        "zh": "那个男人在读一本书。"
+      },
+      {
+        "de": "Der Hund, der bellt, gehört mir.",
+        "zh": "那只叫的狗是我的。"
+      }
+    ],
+    "collocations": [
+      "der Vater",
+      "der Tisch"
+    ],
+    "grammar": {
+      "case": "Nominativ",
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语法",
+      "冠词",
+      "代词",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "der",
+    "lemma": "der",
+    "pos": [
+      "article",
+      "pronoun"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "定冠词（阳性单数第一格）",
+        "en": "the (masculine nominative singular)"
+      },
+      {
+        "zh": "关系代词（阳性单数第一格）",
+        "en": "who/which (masculine nominative singular)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Mann liest ein Buch.",
+        "zh": "那个男人在读一本书。"
+      },
+      {
+        "de": "Der Hund, der bellt, gehört mir.",
+        "zh": "那只叫的狗是我的。"
+      }
+    ],
+    "collocations": [
+      "der Junge",
+      "der Tisch"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语法",
+      "冠词",
+      "代词"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sogenannt",
+    "lemma": "sogenannt",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "所谓的",
+        "en": "so-called"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der sogenannte Experte wusste keine Antwort.",
+        "zh": "这位所谓的专家不知道答案。"
+      },
+      {
+        "de": "Sie lebt in einer sogenannten WG.",
+        "zh": "她住在一个所谓的合租公寓里。"
+      }
+    ],
+    "collocations": [
+      "sogenannte Freiheit",
+      "sogenannter Freund"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语言",
+      "B1"
+    ],
+    "synonyms": [
+      "angeblich",
+      "vermeintlich"
+    ],
+    "antonyms": [
+      "tatsächlich",
+      "wirklich"
+    ]
+  },
+  {
+    "word": "sondern",
+    "lemma": "sondern",
+    "pos": [
+      "conjunction"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "而是",
+        "en": "but rather"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er kommt nicht heute, sondern morgen.",
+        "zh": "他不是今天来，而是明天来。"
+      },
+      {
+        "de": "Das ist kein Fehler, sondern ein Feature.",
+        "zh": "这不是错误，而是一个功能。"
+      }
+    ],
+    "collocations": [
+      "nicht ... sondern",
+      "nur ... sondern auch"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "语法",
+      "A2"
+    ],
+    "synonyms": [
+      "vielmehr"
+    ],
+    "antonyms": [
+      "und",
+      "aber"
+    ]
+  },
+  {
+    "word": "Sonnenbrille",
+    "lemma": "Sonnenbrille",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Sonnenbrillen",
+    "meaning": [
+      {
+        "zh": "太阳镜",
+        "en": "sunglasses"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Sommer trage ich immer eine Sonnenbrille.",
+        "zh": "夏天我总是戴太阳镜。"
+      },
+      {
+        "de": "Sie hat ihre Sonnenbrille im Auto vergessen.",
+        "zh": "她把太阳镜忘在车里了。"
+      }
+    ],
+    "collocations": [
+      "eine Sonnenbrille tragen",
+      "die Sonnenbrille aufsetzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Sonnensystem",
+    "lemma": "Sonnensystem",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Sonnensysteme",
+    "meaning": [
+      {
+        "zh": "太阳系",
+        "en": "solar system"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Erde ist ein Planet in unserem Sonnensystem.",
+        "zh": "地球是我们太阳系中的一颗行星。"
+      },
+      {
+        "de": "Das Sonnensystem besteht aus der Sonne und acht Planeten.",
+        "zh": "太阳系由太阳和八颗行星组成。"
+      }
+    ],
+    "collocations": [
+      "unser Sonnensystem",
+      "das Sonnensystem erforschen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科学",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "sozial",
+    "lemma": "sozial",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "社会的",
+        "en": "social"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Soziale Gerechtigkeit ist ein wichtiges Thema.",
+        "zh": "社会公正是一个重要话题。"
+      },
+      {
+        "de": "Er engagiert sich in sozialen Projekten.",
+        "zh": "他参与社会项目。"
+      }
+    ],
+    "collocations": [
+      "soziale Medien",
+      "soziale Arbeit"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "社会",
+      "A2"
+    ],
+    "synonyms": [
+      "gesellschaftlich",
+      "gemeinschaftlich"
+    ],
+    "antonyms": [
+      "asozial",
+      "individualistisch"
+    ]
+  },
+  {
+    "word": "Sozialkunde",
+    "lemma": "Sozialkunde",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "社会课",
+        "en": "social studies"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In Sozialkunde lernen wir über Politik und Gesellschaft.",
+        "zh": "在社会课上我们学习政治和社会。"
+      },
+      {
+        "de": "Der Lehrer gab uns eine Aufgabe für Sozialkunde.",
+        "zh": "老师给我们布置了社会课的作业。"
+      }
+    ],
+    "collocations": [
+      "Sozialkunde unterrichten",
+      "Sozialkunde lernen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "Gesellschaftskunde",
+      "Politikunterricht"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "sparen",
+    "lemma": "sparen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "节省，储蓄",
+        "en": "to save"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich spare für eine neue Kamera.",
+        "zh": "我在存钱买一个新相机。"
+      },
+      {
+        "de": "Wir müssen Energie sparen.",
+        "zh": "我们必须节约能源。"
+      }
+    ],
+    "collocations": [
+      "Geld sparen",
+      "Zeit sparen",
+      "für etwas sparen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gespart"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "经济",
+      "A2"
+    ],
+    "synonyms": [
+      "einsparen",
+      "ansparen"
+    ],
+    "antonyms": [
+      "verschwenden",
+      "ausgeben"
+    ]
+  },
+  {
+    "word": "Speicher",
+    "lemma": "Speicher",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Speicher",
+    "meaning": [
+      {
+        "zh": "存储器，仓库",
+        "en": "storage, memory"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Speicher des Computers ist voll.",
+        "zh": "电脑的存储器满了。"
+      },
+      {
+        "de": "Wir lagern die Möbel auf dem Speicher.",
+        "zh": "我们把家具存放在阁楼里。"
+      }
+    ],
+    "collocations": [
+      "Speicherplatz",
+      "Speicher erweitern",
+      "auf dem Speicher"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Lager",
+      "Gedächtnis"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "speichern",
+    "lemma": "speichern",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "储存，保存",
+        "en": "to save, to store"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich muss die Datei auf dem Computer speichern.",
+        "zh": "我必须把文件保存在电脑上。"
+      },
+      {
+        "de": "Die Sonne speichert Energie in Form von Wärme.",
+        "zh": "太阳以热量的形式储存能量。"
+      }
+    ],
+    "collocations": [
+      "Daten speichern",
+      "Energie speichern"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gespeichert"
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "aufbewahren",
+      "ablegen"
+    ],
+    "antonyms": [
+      "löschen",
+      "entfernen"
+    ]
+  },
+  {
+    "word": "spezialisieren",
+    "lemma": "spezialisieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "专攻，专门化",
+        "en": "to specialize"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat sich auf Herzchirurgie spezialisiert.",
+        "zh": "他专攻心脏外科。"
+      },
+      {
+        "de": "Das Unternehmen spezialisiert sich auf nachhaltige Produkte.",
+        "zh": "这家公司专门生产可持续产品。"
+      }
+    ],
+    "collocations": [
+      "sich auf etwas spezialisieren",
+      "spezialisierte Fachkraft"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "spezialisiert"
+    },
+    "level": "B2",
+    "tags": [
+      "教育",
+      "B2"
+    ],
+    "synonyms": [
+      "fokussieren",
+      "konzentrieren"
+    ],
+    "antonyms": [
+      "verallgemeinern"
+    ]
+  },
+  {
+    "word": "speziell",
+    "lemma": "speziell",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "特别的，专门的",
+        "en": "special, specific"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist ein spezielles Angebot für Neukunden.",
+        "zh": "这是给新客户的特别优惠。"
+      },
+      {
+        "de": "Er hat spezielle Interessen in der Musik.",
+        "zh": "他在音乐方面有特别的兴趣。"
+      }
+    ],
+    "collocations": [
+      "spezieller Fall",
+      "spezielles Interesse"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "besonders",
+      "eigen"
+    ],
+    "antonyms": [
+      "allgemein",
+      "normal"
+    ]
+  },
+  {
+    "word": "Sportanlage",
+    "lemma": "Sportanlage",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Sportanlagen",
+    "meaning": [
+      {
+        "zh": "体育设施，运动场",
+        "en": "sports facility"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die neue Sportanlage hat ein Schwimmbad und Tennisplätze.",
+        "zh": "新的体育设施有游泳池和网球场。"
+      },
+      {
+        "de": "Die Kinder spielen auf der Sportanlage Fußball.",
+        "zh": "孩子们在体育场上踢足球。"
+      }
+    ],
+    "collocations": [
+      "moderne Sportanlage",
+      "öffentliche Sportanlage"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "体育",
+      "B1"
+    ],
+    "synonyms": [
+      "Sportstätte",
+      "Sportplatz"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "sportlich",
+    "lemma": "sportlich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "运动的，体育的；有运动天赋的",
+        "en": "athletic, sporty"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie ist sehr sportlich und geht jeden Tag joggen.",
+        "zh": "她非常爱运动，每天去慢跑。"
+      },
+      {
+        "de": "Das Auto hat ein sportliches Design.",
+        "zh": "这辆车有运动型设计。"
+      }
+    ],
+    "collocations": [
+      "sportliche Aktivität",
+      "sportliche Leistung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "体育",
+      "A2"
+    ],
+    "synonyms": [
+      "athletisch",
+      "aktiv"
+    ],
+    "antonyms": [
+      "unsportlich",
+      "träge"
+    ]
+  },
+  {
+    "word": "Sprachlabor",
+    "lemma": "Sprachlabor",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Sprachlabore",
+    "meaning": [
+      {
+        "zh": "语言实验室",
+        "en": "language lab"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Sprachlabor können die Schüler ihre Aussprache üben.",
+        "zh": "在语言实验室里，学生可以练习发音。"
+      },
+      {
+        "de": "Das Sprachlabor ist mit modernen Computern ausgestattet.",
+        "zh": "语言实验室配备了现代化的电脑。"
+      }
+    ],
+    "collocations": [
+      "im Sprachlabor arbeiten",
+      "Sprachlabor benutzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "Sprachlernzentrum"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Spritze",
+    "lemma": "Spritze",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Spritzen",
+    "meaning": [
+      {
+        "zh": "注射器，针管；注射",
+        "en": "syringe, injection"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Arzt gab dem Patienten eine Spritze gegen die Schmerzen.",
+        "zh": "医生给病人打了一针止痛。"
+      },
+      {
+        "de": "Die Spritze muss vor der Benutzung sterilisiert werden.",
+        "zh": "注射器在使用前必须消毒。"
+      }
+    ],
+    "collocations": [
+      "eine Spritze geben",
+      "Spritze setzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "医疗",
+      "B1"
+    ],
+    "synonyms": [
+      "Injektion",
+      "Kanüle"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "stammen",
+    "lemma": "stammen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "来自，源于",
+        "en": "to originate, to come from"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieses Gemälde stammt aus dem 18. Jahrhundert.",
+        "zh": "这幅画来自18世纪。"
+      },
+      {
+        "de": "Die Idee stammt von meinem Kollegen.",
+        "zh": "这个想法来自我的同事。"
+      }
+    ],
+    "collocations": [
+      "aus etwas stammen",
+      "von jemandem stammen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "partizip2": "gestammt"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "herkommen",
+      "entspringen"
+    ],
+    "antonyms": [
+      "enden",
+      "verschwinden"
+    ]
+  }
+]

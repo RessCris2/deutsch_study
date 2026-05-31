@@ -1,0 +1,1453 @@
+[
+  {
+    "word": "probieren",
+    "lemma": "probieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "尝试，品尝",
+        "en": "to try, to taste"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kann ich mal probieren?",
+        "zh": "我能尝一下吗？"
+      },
+      {
+        "de": "Wir sollten es einfach probieren.",
+        "zh": "我们应该试试看。"
+      }
+    ],
+    "collocations": [
+      "etwas probieren",
+      "probieren gehen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "probiert"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "versuchen",
+      "kosten"
+    ],
+    "antonyms": [
+      "ablehnen"
+    ]
+  },
+  {
+    "word": "Problem",
+    "lemma": "Problem",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Probleme",
+    "meaning": [
+      {
+        "zh": "问题，难题",
+        "en": "problem, issue"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist ein großes Problem.",
+        "zh": "这是一个大问题。"
+      },
+      {
+        "de": "Wir müssen das Problem lösen.",
+        "zh": "我们必须解决这个问题。"
+      }
+    ],
+    "collocations": [
+      "ein Problem haben",
+      "Problem lösen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "社会",
+      "A2"
+    ],
+    "synonyms": [
+      "Schwierigkeit",
+      "Herausforderung"
+    ],
+    "antonyms": [
+      "Lösung"
+    ]
+  },
+  {
+    "word": "Programmieren",
+    "lemma": "Programmieren",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "编程，程序设计",
+        "en": "programming"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er lernt Programmieren.",
+        "zh": "他在学编程。"
+      },
+      {
+        "de": "Programmieren macht mir Spaß.",
+        "zh": "编程让我开心。"
+      }
+    ],
+    "collocations": [
+      "Programmieren lernen",
+      "Programmieren als Beruf"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "Codierung",
+      "Softwareentwicklung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Prospekt",
+    "lemma": "Prospekt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Prospekte",
+    "meaning": [
+      {
+        "zh": "宣传册，说明书",
+        "en": "brochure, leaflet"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Hast du den Prospekt gesehen?",
+        "zh": "你看到宣传册了吗？"
+      },
+      {
+        "de": "Der Prospekt liegt auf dem Tisch.",
+        "zh": "说明书在桌子上。"
+      }
+    ],
+    "collocations": [
+      "einen Prospekt durchblättern",
+      "Prospekt erhalten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Broschüre",
+      "Flyer"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "prost",
+    "lemma": "prost",
+    "pos": [
+      "interjection"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "干杯",
+        "en": "cheers"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Prost! Auf deine Gesundheit!",
+        "zh": "干杯！为你的健康！"
+      },
+      {
+        "de": "Wir sagen alle 'Prost'.",
+        "zh": "我们都说了'干杯'。"
+      }
+    ],
+    "collocations": [
+      "Prost sagen",
+      "Prost trinken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "A1"
+    ],
+    "synonyms": [
+      "zum Wohl"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Provinz",
+    "lemma": "Provinz",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Provinzen",
+    "meaning": [
+      {
+        "zh": "省，外省，乡下",
+        "en": "province, countryside"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie wohnt in der Provinz.",
+        "zh": "她住在乡下。"
+      },
+      {
+        "de": "Die Provinz hat viele schöne Orte.",
+        "zh": "这个省有很多美丽的地方。"
+      }
+    ],
+    "collocations": [
+      "in der Provinz leben",
+      "aus der Provinz kommen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Region",
+      "Land"
+    ],
+    "antonyms": [
+      "Hauptstadt",
+      "Metropole"
+    ]
+  },
+  {
+    "word": "Prüfung",
+    "lemma": "Prüfung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Prüfungen",
+    "meaning": [
+      {
+        "zh": "考试，测试",
+        "en": "exam, test"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Prüfung war schwer.",
+        "zh": "考试很难。"
+      },
+      {
+        "de": "Er hat die Prüfung bestanden.",
+        "zh": "他通过了考试。"
+      }
+    ],
+    "collocations": [
+      "eine Prüfung ablegen",
+      "Prüfung bestehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "教育",
+      "A2"
+    ],
+    "synonyms": [
+      "Test",
+      "Examen"
+    ],
+    "antonyms": [
+      "Freizeit"
+    ]
+  },
+  {
+    "word": "Pudding",
+    "lemma": "Pudding",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Puddings",
+    "meaning": [
+      {
+        "zh": "布丁",
+        "en": "pudding"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich mag Schokoladenpudding.",
+        "zh": "我喜欢巧克力布丁。"
+      },
+      {
+        "de": "Der Pudding ist fertig.",
+        "zh": "布丁做好了。"
+      }
+    ],
+    "collocations": [
+      "Pudding kochen",
+      "Pudding essen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "A1"
+    ],
+    "synonyms": [
+      "Nachtisch",
+      "Dessert"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Pullover",
+    "lemma": "Pullover",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Pullover",
+    "meaning": [
+      {
+        "zh": "套头毛衣",
+        "en": "pullover, sweater"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Winter trage ich gerne einen dicken Pullover.",
+        "zh": "冬天我喜欢穿一件厚毛衣。"
+      },
+      {
+        "de": "Dieser Pullover ist aus reiner Wolle.",
+        "zh": "这件毛衣是纯羊毛的。"
+      }
+    ],
+    "collocations": [
+      "einen Pullover anziehen",
+      "einen Pullover stricken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "服装",
+      "A2"
+    ],
+    "synonyms": [
+      "Strickjacke"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "putzen",
+    "lemma": "putzen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "清洁，擦洗",
+        "en": "to clean, to polish"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich putze jeden Samstag die Fenster.",
+        "zh": "我每周六擦窗户。"
+      },
+      {
+        "de": "Sie putzt sich die Zähne nach dem Frühstück.",
+        "zh": "她早餐后刷牙。"
+      }
+    ],
+    "collocations": [
+      "die Fenster putzen",
+      "sich die Zähne putzen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geputzt"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "家务",
+      "A2"
+    ],
+    "synonyms": [
+      "reinigen",
+      "säubern"
+    ],
+    "antonyms": [
+      "verschmutzen"
+    ]
+  },
+  {
+    "word": "eor",
+    "lemma": "eor",
+    "pos": [],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "（无意义，可能拼写错误）",
+        "en": "no meaning, possibly a typo"
+      }
+    ],
+    "examples": [],
+    "collocations": [],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": null,
+    "tags": [
+      "未知"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Qualität",
+    "lemma": "Qualität",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Qualitäten",
+    "meaning": [
+      {
+        "zh": "质量，品质",
+        "en": "quality"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Qualität dieses Produkts ist ausgezeichnet.",
+        "zh": "这个产品的质量非常好。"
+      },
+      {
+        "de": "Wir legen großen Wert auf hohe Qualität.",
+        "zh": "我们非常重视高质量。"
+      }
+    ],
+    "collocations": [
+      "hohe Qualität",
+      "die Qualität verbessern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Güte",
+      "Beschaffenheit"
+    ],
+    "antonyms": [
+      "Minderwertigkeit"
+    ]
+  },
+  {
+    "word": "Quelle",
+    "lemma": "Quelle",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Quellen",
+    "meaning": [
+      {
+        "zh": "来源，源头",
+        "en": "source, spring"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Information stammt aus einer zuverlässigen Quelle.",
+        "zh": "这个信息来自一个可靠的来源。"
+      },
+      {
+        "de": "Die Quelle des Flusses liegt in den Bergen.",
+        "zh": "这条河的源头在山上。"
+      }
+    ],
+    "collocations": [
+      "zuverlässige Quelle",
+      "die Quelle angeben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "学术",
+      "自然",
+      "B1"
+    ],
+    "synonyms": [
+      "Ursprung",
+      "Herkunft"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Rathaus",
+    "lemma": "Rathaus",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Rathäuser",
+    "meaning": [
+      {
+        "zh": "市政厅",
+        "en": "town hall, city hall"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Rathaus steht im Zentrum der Stadt.",
+        "zh": "市政厅位于市中心。"
+      },
+      {
+        "de": "Auf dem Rathausplatz findet jedes Jahr ein Weihnachtsmarkt statt.",
+        "zh": "市政厅广场每年都有圣诞市场。"
+      }
+    ],
+    "collocations": [
+      "im Rathaus",
+      "das Rathaus besichtigen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "社会",
+      "建筑",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "rauchen",
+    "lemma": "rauchen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "吸烟",
+        "en": "to smoke"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Rauchen ist in diesem Restaurant verboten.",
+        "zh": "这家餐厅禁止吸烟。"
+      },
+      {
+        "de": "Er raucht eine Zigarette auf dem Balkon.",
+        "zh": "他在阳台上抽了一支烟。"
+      }
+    ],
+    "collocations": [
+      "eine Zigarette rauchen",
+      "mit dem Rauchen aufhören"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geraucht"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "健康",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Rechnung",
+    "lemma": "Rechnung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Rechnungen",
+    "meaning": [
+      {
+        "zh": "账单，发票",
+        "en": "bill, invoice"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kann ich bitte die Rechnung haben?",
+        "zh": "请给我账单好吗？"
+      },
+      {
+        "de": "Die Rechnung muss bis Ende des Monats bezahlt werden.",
+        "zh": "账单必须在月底前支付。"
+      }
+    ],
+    "collocations": [
+      "eine Rechnung bezahlen",
+      "die Rechnung prüfen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Abrechnung",
+      "Quittung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "rechts",
+    "lemma": "rechts",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "右边，右侧",
+        "en": "right, on the right"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Biegen Sie an der nächsten Kreuzung rechts ab.",
+        "zh": "请在下一个十字路口向右拐。"
+      },
+      {
+        "de": "Das Buch liegt rechts von mir.",
+        "zh": "这本书在我的右边。"
+      }
+    ],
+    "collocations": [
+      "rechts abbiegen",
+      "rechts liegen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "方向",
+      "A2"
+    ],
+    "synonyms": [
+      "rechterhand"
+    ],
+    "antonyms": [
+      "links"
+    ]
+  },
+  {
+    "word": "Regal",
+    "lemma": "Regal",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Regale",
+    "meaning": [
+      {
+        "zh": "架子，书架",
+        "en": "shelf, shelves"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich stelle die Bücher ins Regal.",
+        "zh": "我把书放到架子上。"
+      },
+      {
+        "de": "Das Regal im Wohnzimmer ist aus Holz.",
+        "zh": "客厅里的架子是木制的。"
+      }
+    ],
+    "collocations": [
+      "ins Regal stellen",
+      "ein Regal aufhängen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "家居",
+      "A2"
+    ],
+    "synonyms": [
+      "Bücherregal",
+      "Schrank"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "regional",
+    "lemma": "regional",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "地区的，地方的",
+        "en": "regional"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir kaufen gerne regionale Produkte.",
+        "zh": "我们喜欢购买本地产品。"
+      },
+      {
+        "de": "Die regionale Küche ist sehr vielfältig.",
+        "zh": "地方菜系非常多样化。"
+      }
+    ],
+    "collocations": [
+      "regionale Produkte",
+      "regionale Küche"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "地理",
+      "B1"
+    ],
+    "synonyms": [
+      "lokal",
+      "örtlich"
+    ],
+    "antonyms": [
+      "überregional",
+      "global"
+    ]
+  },
+  {
+    "word": "Reihenhaus",
+    "lemma": "Reihenhaus",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Reihenhäuser",
+    "meaning": [
+      {
+        "zh": "联排房屋",
+        "en": "terraced house, row house"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie wohnen in einem Reihenhaus am Stadtrand.",
+        "zh": "他们住在郊区的一栋联排房屋里。"
+      },
+      {
+        "de": "Das Reihenhaus hat einen kleinen Garten.",
+        "zh": "这栋联排房屋有一个小花园。"
+      }
+    ],
+    "collocations": [
+      "ein Reihenhaus kaufen",
+      "im Reihenhaus wohnen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "住房",
+      "B1"
+    ],
+    "synonyms": [
+      "Einfamilienhaus",
+      "Doppelhaushälfte"
+    ],
+    "antonyms": [
+      "Hochhaus",
+      "Wohnblock"
+    ]
+  },
+  {
+    "word": "Reis",
+    "lemma": "Reis",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "大米，米饭",
+        "en": "rice"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Zum Mittagessen gibt es Reis mit Gemüse.",
+        "zh": "午餐有米饭配蔬菜。"
+      },
+      {
+        "de": "In Asien wird viel Reis angebaut.",
+        "zh": "亚洲种植大量大米。"
+      }
+    ],
+    "collocations": [
+      "Reis kochen",
+      "Reis anbauen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "食物",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Reise",
+    "lemma": "Reise",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Reisen",
+    "meaning": [
+      {
+        "zh": "旅行，旅程",
+        "en": "trip, journey"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir machen eine Reise nach Italien.",
+        "zh": "我们去意大利旅行。"
+      },
+      {
+        "de": "Die Reise hat drei Stunden gedauert.",
+        "zh": "旅程持续了三个小时。"
+      }
+    ],
+    "collocations": [
+      "eine Reise machen",
+      "auf Reisen gehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "旅行",
+      "A2"
+    ],
+    "synonyms": [
+      "Ausflug",
+      "Fahrt"
+    ],
+    "antonyms": [
+      "Aufenthalt"
+    ]
+  },
+  {
+    "word": "Reiseleiter",
+    "lemma": "Reiseleiter",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Reiseleiter",
+    "meaning": [
+      {
+        "zh": "导游",
+        "en": "tour guide"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Reiseleiter erklärt uns die Geschichte der Stadt.",
+        "zh": "导游向我们解释这座城市的历史。"
+      },
+      {
+        "de": "Wir treffen den Reiseleiter am Eingang des Museums.",
+        "zh": "我们在博物馆入口处与导游会面。"
+      }
+    ],
+    "collocations": [
+      "als Reiseleiter arbeiten",
+      "den Reiseleiter fragen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "职业",
+      "旅行",
+      "B1"
+    ],
+    "synonyms": [
+      "Fremdenführer",
+      "Guide"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "reisen",
+    "lemma": "reisen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "旅行，旅游",
+        "en": "to travel"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich reise gern in ferne Länder.",
+        "zh": "我喜欢去遥远的国家旅行。"
+      },
+      {
+        "de": "Nächstes Jahr reisen wir nach Japan.",
+        "zh": "明年我们去日本旅行。"
+      }
+    ],
+    "collocations": [
+      "mit dem Zug reisen",
+      "ins Ausland reisen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "partizip2": "gereist"
+    },
+    "level": "A2",
+    "tags": [
+      "旅行",
+      "A2"
+    ],
+    "synonyms": [
+      "verreisen",
+      "unterwegs sein"
+    ],
+    "antonyms": [
+      "bleiben",
+      "daheim sein"
+    ]
+  },
+  {
+    "word": "renoviert",
+    "lemma": "renovieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "翻新，装修",
+        "en": "renovate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Wohnung wurde komplett renoviert.",
+        "zh": "公寓被彻底翻新了。"
+      },
+      {
+        "de": "Wir renovieren gerade das Badezimmer.",
+        "zh": "我们正在装修浴室。"
+      }
+    ],
+    "collocations": [
+      "eine Wohnung renovieren",
+      "das Haus renovieren"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "renoviert"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "erneuern",
+      "modernisieren"
+    ],
+    "antonyms": [
+      "verfallen",
+      "zerstören"
+    ]
+  },
+  {
+    "word": "Restaurant",
+    "lemma": "Restaurant",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Restaurants",
+    "meaning": [
+      {
+        "zh": "餐厅，饭店",
+        "en": "restaurant"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir essen heute Abend in einem italienischen Restaurant.",
+        "zh": "我们今晚在一家意大利餐厅吃饭。"
+      },
+      {
+        "de": "Das Restaurant ist sehr beliebt und oft voll.",
+        "zh": "这家餐厅很受欢迎，经常客满。"
+      }
+    ],
+    "collocations": [
+      "ins Restaurant gehen",
+      "ein Restaurant empfehlen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "A1"
+    ],
+    "synonyms": [
+      "Gaststätte",
+      "Lokal"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "richtig",
+    "lemma": "richtig",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "正确的，对的",
+        "en": "correct, right"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Deine Antwort ist richtig.",
+        "zh": "你的回答是正确的。"
+      },
+      {
+        "de": "Er hat richtig gehandelt.",
+        "zh": "他做对了。"
+      }
+    ],
+    "collocations": [
+      "richtig liegen",
+      "richtig verstehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "A1"
+    ],
+    "synonyms": [
+      "korrekt",
+      "zutreffend"
+    ],
+    "antonyms": [
+      "falsch",
+      "unrichtig"
+    ]
+  },
+  {
+    "word": "Richtung",
+    "lemma": "Richtung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Richtungen",
+    "meaning": [
+      {
+        "zh": "方向",
+        "en": "direction"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Gehen Sie in diese Richtung.",
+        "zh": "请往这个方向走。"
+      },
+      {
+        "de": "Die Windrichtung hat sich geändert.",
+        "zh": "风向变了。"
+      }
+    ],
+    "collocations": [
+      "in eine Richtung gehen",
+      "die Richtung ändern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Richtungsangabe",
+      "Weg"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "riechen",
+    "lemma": "riechen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "闻，嗅；有气味",
+        "en": "smell"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Blumen riechen gut.",
+        "zh": "这些花闻起来很香。"
+      },
+      {
+        "de": "Kannst du das Gas riechen?",
+        "zh": "你能闻到煤气味吗？"
+      }
+    ],
+    "collocations": [
+      "nach etwas riechen",
+      "gut riechen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gerochen"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "duften",
+      "stinken"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Rindersteak",
+    "lemma": "Rindersteak",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Rindersteaks",
+    "meaning": [
+      {
+        "zh": "牛排",
+        "en": "beef steak"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich möchte ein Rindersteak mit Pommes.",
+        "zh": "我想要一份牛排配薯条。"
+      },
+      {
+        "de": "Das Rindersteak ist perfekt gegrillt.",
+        "zh": "这块牛排烤得恰到好处。"
+      }
+    ],
+    "collocations": [
+      "ein Rindersteak bestellen",
+      "Rindersteak grillen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Steak",
+      "Beefsteak"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Rolle",
+    "lemma": "Rolle",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Rollen",
+    "meaning": [
+      {
+        "zh": "角色；卷；作用",
+        "en": "role; roll"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie spielt die Hauptrolle in dem Film.",
+        "zh": "她在电影中扮演主角。"
+      },
+      {
+        "de": "Eine Rolle Toilettenpapier ist leer.",
+        "zh": "一卷卫生纸用完了。"
+      }
+    ],
+    "collocations": [
+      "eine Rolle spielen",
+      "in einer Rolle sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Funktion",
+      "Position"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Klick",
+    "lemma": "Klick",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Klicks",
+    "meaning": [
+      {
+        "zh": "点击",
+        "en": "click"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mit einem Klick öffnet sich das Fenster.",
+        "zh": "点击一下，窗口就打开了。"
+      },
+      {
+        "de": "Der Link hat viele Klicks bekommen.",
+        "zh": "这个链接获得了许多点击。"
+      }
+    ],
+    "collocations": [
+      "ein Klick auf den Link",
+      "mit einem Klick"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "Mausklick",
+      "Klickgeräusch"
+    ],
+    "antonyms": []
+  }
+]

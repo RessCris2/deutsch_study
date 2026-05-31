@@ -1,0 +1,1907 @@
+[
+  {
+    "word": "berechnen",
+    "lemma": "berechnen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "计算",
+        "en": "calculate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Ingenieur berechnet die Kosten des Projekts.",
+        "zh": "工程师计算项目的成本。"
+      },
+      {
+        "de": "Kannst du mir helfen, die Steuern zu berechnen?",
+        "zh": "你能帮我计算税款吗？"
+      }
+    ],
+    "collocations": [
+      "die Kosten berechnen",
+      "den Preis berechnen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "berechnet"
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "kalkulieren",
+      "ausrechnen"
+    ],
+    "antonyms": [
+      "schätzen"
+    ]
+  },
+  {
+    "word": "bereuen",
+    "lemma": "bereuen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "后悔",
+        "en": "regret"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er bereut seine Entscheidung, das Studium abzubrechen.",
+        "zh": "他后悔辍学的决定。"
+      },
+      {
+        "de": "Sie bereut, nicht früher angefangen zu haben.",
+        "zh": "她后悔没有早点开始。"
+      }
+    ],
+    "collocations": [
+      "eine Tat bereuen",
+      "seine Entscheidung bereuen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "bereut"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "bedauern"
+    ],
+    "antonyms": [
+      "sich freuen"
+    ]
+  },
+  {
+    "word": "Bergbahn",
+    "lemma": "Bergbahn",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Bergbahnen",
+    "meaning": [
+      {
+        "zh": "山地缆车/登山铁路",
+        "en": "mountain railway/cable car"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Bergbahn bringt Touristen auf den Gipfel.",
+        "zh": "山地缆车把游客带到山顶。"
+      },
+      {
+        "de": "Im Winter ist die Bergbahn wegen Schneefalls geschlossen.",
+        "zh": "冬天，山地缆车因降雪关闭。"
+      }
+    ],
+    "collocations": [
+      "mit der Bergbahn fahren",
+      "die Bergbahn benutzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "交通",
+      "B1"
+    ],
+    "synonyms": [
+      "Seilbahn",
+      "Standseilbahn"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Berggipfel",
+    "lemma": "Berggipfel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Berggipfel",
+    "meaning": [
+      {
+        "zh": "山顶",
+        "en": "mountain peak"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie erreichten den Berggipfel nach stundenlangem Wandern.",
+        "zh": "他们经过数小时的徒步到达山顶。"
+      },
+      {
+        "de": "Vom Berggipfel aus hat man eine fantastische Aussicht.",
+        "zh": "从山顶可以看到绝佳的景色。"
+      }
+    ],
+    "collocations": [
+      "den Berggipfel besteigen",
+      "auf dem Berggipfel stehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "地理",
+      "B1"
+    ],
+    "synonyms": [
+      "Gipfel",
+      "Spitze"
+    ],
+    "antonyms": [
+      "Tal"
+    ]
+  },
+  {
+    "word": "beruflich",
+    "lemma": "beruflich",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "职业的/职业上",
+        "en": "professional/occupational"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat beruflich viel zu tun.",
+        "zh": "他工作很忙。"
+      },
+      {
+        "de": "Sie sucht eine berufliche Veränderung.",
+        "zh": "她在寻找职业上的改变。"
+      }
+    ],
+    "collocations": [
+      "beruflich erfolgreich sein",
+      "berufliche Weiterbildung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "professionell",
+      "arbeitsbezogen"
+    ],
+    "antonyms": [
+      "privat"
+    ]
+  },
+  {
+    "word": "Berufsschule",
+    "lemma": "Berufsschule",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Berufsschulen",
+    "meaning": [
+      {
+        "zh": "职业学校",
+        "en": "vocational school"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er geht zweimal pro Woche in die Berufsschule.",
+        "zh": "他每周去两次职业学校。"
+      },
+      {
+        "de": "Die Berufsschule bereitet die Schüler auf den Arbeitsmarkt vor.",
+        "zh": "职业学校为学生进入就业市场做准备。"
+      }
+    ],
+    "collocations": [
+      "die Berufsschule besuchen",
+      "in der Berufsschule lernen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "Fachschule",
+      "Berufsbildende Schule"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Berufswahl",
+    "lemma": "Berufswahl",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "职业选择",
+        "en": "career choice"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Berufswahl ist eine wichtige Entscheidung im Leben.",
+        "zh": "职业选择是人生中重要的决定。"
+      },
+      {
+        "de": "Bei der Berufswahl sollte man seine Interessen berücksichtigen.",
+        "zh": "在选择职业时应该考虑自己的兴趣。"
+      }
+    ],
+    "collocations": [
+      "die Berufswahl treffen",
+      "bei der Berufswahl helfen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "Karrierewahl",
+      "Berufsentscheidung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Berufswunsch",
+    "lemma": "Berufswunsch",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Berufswünsche",
+    "meaning": [
+      {
+        "zh": "职业愿望",
+        "en": "career aspiration"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sein Berufswunsch ist es, Arzt zu werden.",
+        "zh": "他的职业愿望是成为一名医生。"
+      },
+      {
+        "de": "Viele Kinder ändern ihren Berufswunsch im Laufe der Zeit.",
+        "zh": "许多孩子随着时间的推移改变他们的职业愿望。"
+      }
+    ],
+    "collocations": [
+      "einen Berufswunsch haben",
+      "den Berufswunsch verwirklichen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "Karrierewunsch",
+      "Traumberuf"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "beschließen",
+    "lemma": "beschließen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "决定",
+        "en": "to decide"
+      },
+      {
+        "zh": "结束",
+        "en": "to conclude"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir haben beschlossen, morgen zu reisen.",
+        "zh": "我们决定明天出发。"
+      },
+      {
+        "de": "Die Versammlung beschloss die Sitzung mit einem Lied.",
+        "zh": "会议以一首歌结束。"
+      }
+    ],
+    "collocations": [
+      "einen Termin beschließen",
+      "das Treffen beschließen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "beschlossen"
+    },
+    "level": "B1",
+    "tags": [
+      "决策",
+      "B1"
+    ],
+    "synonyms": [
+      "entscheiden",
+      "abschließen"
+    ],
+    "antonyms": [
+      "ablehnen",
+      "beginnen"
+    ]
+  },
+  {
+    "word": "beschreiben",
+    "lemma": "beschreiben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "描述",
+        "en": "to describe"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du den Weg beschreiben?",
+        "zh": "你能描述一下路吗？"
+      },
+      {
+        "de": "Der Zeuge beschrieb den Täter genau.",
+        "zh": "目击者准确地描述了罪犯。"
+      }
+    ],
+    "collocations": [
+      "eine Situation beschreiben",
+      "genau beschreiben"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "beschrieben"
+    },
+    "level": "A2",
+    "tags": [
+      "交流",
+      "A2"
+    ],
+    "synonyms": [
+      "schildern",
+      "darstellen"
+    ],
+    "antonyms": [
+      "verschweigen"
+    ]
+  },
+  {
+    "word": "bestehen",
+    "lemma": "bestehen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "存在",
+        "en": "to exist"
+      },
+      {
+        "zh": "通过",
+        "en": "to pass (an exam)"
+      },
+      {
+        "zh": "坚持",
+        "en": "to insist"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Prüfung besteht aus drei Teilen.",
+        "zh": "考试由三部分组成。"
+      },
+      {
+        "de": "Er hat die Prüfung bestanden.",
+        "zh": "他通过了考试。"
+      },
+      {
+        "de": "Sie besteht auf ihrer Meinung.",
+        "zh": "她坚持自己的意见。"
+      }
+    ],
+    "collocations": [
+      "aus etwas bestehen",
+      "eine Prüfung bestehen",
+      "auf etwas bestehen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "bestanden"
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "existieren",
+      "durchkommen",
+      "beharren"
+    ],
+    "antonyms": [
+      "fehlen",
+      "durchfallen",
+      "nachgeben"
+    ]
+  },
+  {
+    "word": "bestimmen",
+    "lemma": "bestimmen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "确定",
+        "en": "to determine"
+      },
+      {
+        "zh": "规定",
+        "en": "to stipulate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Arzt bestimmte die Dosierung.",
+        "zh": "医生确定了剂量。"
+      },
+      {
+        "de": "Das Gesetz bestimmt die Regeln.",
+        "zh": "法律规定了规则。"
+      }
+    ],
+    "collocations": [
+      "einen Termin bestimmen",
+      "die Richtung bestimmen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "bestimmt"
+    },
+    "level": "B1",
+    "tags": [
+      "法律",
+      "B1"
+    ],
+    "synonyms": [
+      "festlegen",
+      "definieren"
+    ],
+    "antonyms": [
+      "ändern",
+      "ignorieren"
+    ]
+  },
+  {
+    "word": "Besuch",
+    "lemma": "Besuch",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Besuche",
+    "meaning": [
+      {
+        "zh": "访问",
+        "en": "visit"
+      },
+      {
+        "zh": "客人",
+        "en": "guest"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir haben heute Besuch von Freunden.",
+        "zh": "我们今天有朋友来访。"
+      },
+      {
+        "de": "Der Besuch im Museum war interessant.",
+        "zh": "参观博物馆很有趣。"
+      }
+    ],
+    "collocations": [
+      "einen Besuch machen",
+      "Besuch bekommen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "社交",
+      "A2"
+    ],
+    "synonyms": [
+      "Gast",
+      "Aufenthalt"
+    ],
+    "antonyms": [
+      "Abwesenheit"
+    ]
+  },
+  {
+    "word": "betragen",
+    "lemma": "betragen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "总计为",
+        "en": "to amount to"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kosten betragen 100 Euro.",
+        "zh": "费用总计100欧元。"
+      },
+      {
+        "de": "Die Temperatur beträgt 25 Grad.",
+        "zh": "温度是25度。"
+      }
+    ],
+    "collocations": [
+      "einen Betrag betragen",
+      "die Summe betragen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "betragen"
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "ausmachen",
+      "sich belaufen auf"
+    ],
+    "antonyms": [
+      "fehlen"
+    ]
+  },
+  {
+    "word": "betreuen",
+    "lemma": "betreuen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "照顾",
+        "en": "to care for"
+      },
+      {
+        "zh": "管理",
+        "en": "to supervise"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie betreut die Kinder im Kindergarten.",
+        "zh": "她在幼儿园照顾孩子。"
+      },
+      {
+        "de": "Er betreut das Projekt von Anfang an.",
+        "zh": "他从一开始就管理这个项目。"
+      }
+    ],
+    "collocations": [
+      "Kinder betreuen",
+      "ein Projekt betreuen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "betreut"
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "versorgen",
+      "leiten"
+    ],
+    "antonyms": [
+      "vernachlässigen"
+    ]
+  },
+  {
+    "word": "Betrieb",
+    "lemma": "Betrieb",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Betriebe",
+    "meaning": [
+      {
+        "zh": "企业",
+        "en": "company"
+      },
+      {
+        "zh": "运行",
+        "en": "operation"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Betrieb stellt Autoteile her.",
+        "zh": "这家企业生产汽车零件。"
+      },
+      {
+        "de": "Die Maschine ist in Betrieb.",
+        "zh": "机器在运行中。"
+      }
+    ],
+    "collocations": [
+      "einen Betrieb führen",
+      "in Betrieb nehmen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "Unternehmen",
+      "Firma"
+    ],
+    "antonyms": [
+      "Stillstand"
+    ]
+  },
+  {
+    "word": "betrieblich",
+    "lemma": "betrieblich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "企业的，公司的",
+        "en": "company, corporate, operational"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die betriebliche Altersvorsorge ist ein wichtiger Bestandteil des Gehalts.",
+        "zh": "企业养老金是工资的重要组成部分。"
+      },
+      {
+        "de": "Wir müssen die betrieblichen Abläufe optimieren.",
+        "zh": "我们必须优化企业流程。"
+      }
+    ],
+    "collocations": [
+      "betriebliche Altersvorsorge",
+      "betriebliche Ausbildung",
+      "betriebliche Mitbestimmung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "经济",
+      "工作",
+      "B2"
+    ],
+    "synonyms": [
+      "unternehmerisch",
+      "firmenintern"
+    ],
+    "antonyms": [
+      "privat",
+      "außerbetrieblich"
+    ]
+  },
+  {
+    "word": "Betriebswirtschaftslehre",
+    "lemma": "Betriebswirtschaftslehre",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "企业管理学，企业经济学",
+        "en": "business administration, business economics"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie studiert Betriebswirtschaftslehre an der Universität.",
+        "zh": "她在大学学习企业管理学。"
+      },
+      {
+        "de": "Die Grundlagen der Betriebswirtschaftslehre sind für jeden Manager wichtig.",
+        "zh": "企业管理学的基础知识对每位经理都很重要。"
+      }
+    ],
+    "collocations": [
+      "Betriebswirtschaftslehre studieren",
+      "Grundlagen der Betriebswirtschaftslehre",
+      "Professor für Betriebswirtschaftslehre"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "教育",
+      "经济",
+      "学术",
+      "B2"
+    ],
+    "synonyms": [
+      "BWL",
+      "Unternehmensführung"
+    ],
+    "antonyms": [
+      "Volkswirtschaftslehre"
+    ]
+  },
+  {
+    "word": "Bettler",
+    "lemma": "Bettler",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Bettler",
+    "meaning": [
+      {
+        "zh": "乞丐",
+        "en": "beggar"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Bettler saß vor dem Supermarkt und bat um Geld.",
+        "zh": "那个乞丐坐在超市前乞讨钱。"
+      },
+      {
+        "de": "In vielen Städten gibt es immer mehr Bettler auf den Straßen.",
+        "zh": "在许多城市，街上的乞丐越来越多。"
+      }
+    ],
+    "collocations": [
+      "Bettler auf der Straße",
+      "einem Bettler Geld geben",
+      "Bettler in der U-Bahn"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "人物",
+      "B1"
+    ],
+    "synonyms": [
+      "Obdachloser",
+      "Armer"
+    ],
+    "antonyms": [
+      "Reicher",
+      "Wohltäter"
+    ]
+  },
+  {
+    "word": "beugen",
+    "lemma": "beugen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "弯曲；屈服",
+        "en": "to bend; to bow; to submit"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er beugte sich nach vorne, um das Buch aufzuheben.",
+        "zh": "他弯下腰去捡书。"
+      },
+      {
+        "de": "Sie beugte sich dem Druck der Eltern und studierte Medizin.",
+        "zh": "她屈服于父母的压力，学了医学。"
+      }
+    ],
+    "collocations": [
+      "sich beugen",
+      "den Kopf beugen",
+      "sich dem Willen beugen"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gebeugt"
+    },
+    "level": "B2",
+    "tags": [
+      "动作",
+      "情感",
+      "B2"
+    ],
+    "synonyms": [
+      "biegen",
+      "unterwerfen"
+    ],
+    "antonyms": [
+      "strecken",
+      "widerstehen"
+    ]
+  },
+  {
+    "word": "Bevölkerungsdichte",
+    "lemma": "Bevölkerungsdichte",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Bevölkerungsdichten",
+    "meaning": [
+      {
+        "zh": "人口密度",
+        "en": "population density"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Bevölkerungsdichte in Deutschland ist im Westen höher als im Osten.",
+        "zh": "德国西部的人口密度高于东部。"
+      },
+      {
+        "de": "Städte wie Tokio haben eine extrem hohe Bevölkerungsdichte.",
+        "zh": "像东京这样的城市人口密度极高。"
+      }
+    ],
+    "collocations": [
+      "hohe Bevölkerungsdichte",
+      "niedrige Bevölkerungsdichte",
+      "Bevölkerungsdichte berechnen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "地理",
+      "社会",
+      "统计",
+      "B2"
+    ],
+    "synonyms": [
+      "Einwohnerdichte",
+      "Besiedlungsdichte"
+    ],
+    "antonyms": [
+      "Bevölkerungsarmut"
+    ]
+  },
+  {
+    "word": "bevorzugen",
+    "lemma": "bevorzugen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "偏爱，更喜欢",
+        "en": "to prefer"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich bevorzuge Tee gegenüber Kaffee.",
+        "zh": "比起咖啡，我更喜欢茶。"
+      },
+      {
+        "de": "Der Lehrer bevorzugt die fleißigen Schüler.",
+        "zh": "老师偏爱勤奋的学生。"
+      }
+    ],
+    "collocations": [
+      "jemanden bevorzugen",
+      "etwas bevorzugen",
+      "gegenüber etwas bevorzugen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "bevorzugt"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "vorziehen",
+      "präferieren"
+    ],
+    "antonyms": [
+      "benachteiligen",
+      "ablehnen"
+    ]
+  },
+  {
+    "word": "bewegen",
+    "lemma": "bewegen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "移动；感动；促使",
+        "en": "to move; to motivate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du den Tisch ein bisschen nach rechts bewegen?",
+        "zh": "你能把桌子往右移动一点吗？"
+      },
+      {
+        "de": "Die Geschichte hat mich sehr bewegt.",
+        "zh": "这个故事让我很感动。"
+      },
+      {
+        "de": "Was hat dich dazu bewegt, diesen Job anzunehmen?",
+        "zh": "是什么促使你接受了这份工作？"
+      }
+    ],
+    "collocations": [
+      "sich bewegen",
+      "jemanden bewegen",
+      "etwas bewegen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "bewegt"
+    },
+    "level": "A2",
+    "tags": [
+      "动作",
+      "情感",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "verschieben",
+      "rühren",
+      "veranlassen"
+    ],
+    "antonyms": [
+      "stoppen",
+      "stillstehen"
+    ]
+  },
+  {
+    "word": "Bewerber",
+    "lemma": "Bewerber",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Bewerber",
+    "meaning": [
+      {
+        "zh": "申请人，求职者",
+        "en": "applicant, candidate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Es gab über 100 Bewerber für die Stelle.",
+        "zh": "这个职位有超过100名申请人。"
+      },
+      {
+        "de": "Der Bewerber hat einen sehr guten Eindruck hinterlassen.",
+        "zh": "这位求职者给人留下了很好的印象。"
+      }
+    ],
+    "collocations": [
+      "Bewerber für eine Stelle",
+      "geeignete Bewerber",
+      "Bewerber auswählen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "工作",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Kandidat",
+      "Anwärter"
+    ],
+    "antonyms": [
+      "Arbeitgeber",
+      "Vorgesetzter"
+    ]
+  },
+  {
+    "word": "Bewerbung",
+    "lemma": "Bewerbung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Bewerbungen",
+    "meaning": [
+      {
+        "zh": "申请",
+        "en": "application"
+      },
+      {
+        "zh": "求职申请",
+        "en": "job application"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe meine Bewerbung an die Firma geschickt.",
+        "zh": "我把我的申请寄给了公司。"
+      },
+      {
+        "de": "Für diese Stelle müssen Sie eine schriftliche Bewerbung einreichen.",
+        "zh": "对于这个职位，您必须提交一份书面申请。"
+      }
+    ],
+    "collocations": [
+      "eine Bewerbung schreiben",
+      "eine Bewerbung einreichen",
+      "auf eine Bewerbung antworten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "职业",
+      "B1"
+    ],
+    "synonyms": [
+      "Antrag",
+      "Anmeldung"
+    ],
+    "antonyms": [
+      "Ablehnung"
+    ]
+  },
+  {
+    "word": "Bewohner",
+    "lemma": "Bewohner",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Bewohner",
+    "meaning": [
+      {
+        "zh": "居民",
+        "en": "resident"
+      },
+      {
+        "zh": "住户",
+        "en": "inhabitant"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Bewohner des Hauses beschwerten sich über den Lärm.",
+        "zh": "这栋房子的居民抱怨噪音。"
+      },
+      {
+        "de": "Die neuen Bewohner der Stadt sind sehr freundlich.",
+        "zh": "这座城市的新居民非常友好。"
+      }
+    ],
+    "collocations": [
+      "die Bewohner eines Hauses",
+      "die Bewohner einer Stadt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Einwohner",
+      "Anwohner"
+    ],
+    "antonyms": [
+      "Besucher",
+      "Gast"
+    ]
+  },
+  {
+    "word": "Bierbauch",
+    "lemma": "Bierbauch",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Bierbäuche",
+    "meaning": [
+      {
+        "zh": "啤酒肚",
+        "en": "beer belly"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat einen dicken Bierbauch vom vielen Trinken.",
+        "zh": "他因为喝太多酒有了一个大啤酒肚。"
+      },
+      {
+        "de": "Mit dem Alter bekommt man leicht einen Bierbauch.",
+        "zh": "随着年龄增长，人很容易长出啤酒肚。"
+      }
+    ],
+    "collocations": [
+      "einen Bierbauch haben",
+      "einen Bierbauch bekommen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "身体",
+      "B1"
+    ],
+    "synonyms": [
+      "Wanst",
+      "Bauch"
+    ],
+    "antonyms": [
+      "Flachbauch"
+    ]
+  },
+  {
+    "word": "Bildungsfrage",
+    "lemma": "Bildungsfrage",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Bildungsfragen",
+    "meaning": [
+      {
+        "zh": "教育问题",
+        "en": "educational issue"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Bildungsfrage ist ein zentrales Thema in der Politik.",
+        "zh": "教育问题是政治中的一个核心议题。"
+      },
+      {
+        "de": "In der Diskussion ging es um die Bildungsfrage in ländlichen Gebieten.",
+        "zh": "讨论中涉及了农村地区的教育问题。"
+      }
+    ],
+    "collocations": [
+      "eine Bildungsfrage diskutieren",
+      "die Bildungsfrage lösen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "教育",
+      "B2"
+    ],
+    "synonyms": [
+      "Bildungsthema",
+      "Bildungsproblem"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Biotechnologie",
+    "lemma": "Biotechnologie",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "生物技术",
+        "en": "biotechnology"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Biotechnologie hat in den letzten Jahren große Fortschritte gemacht.",
+        "zh": "生物技术近年来取得了巨大进步。"
+      },
+      {
+        "de": "Viele Medikamente werden mithilfe der Biotechnologie hergestellt.",
+        "zh": "许多药物是借助生物技术生产的。"
+      }
+    ],
+    "collocations": [
+      "in der Biotechnologie arbeiten",
+      "Biotechnologie anwenden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "科技",
+      "B2"
+    ],
+    "synonyms": [
+      "Gentechnik",
+      "Bioingenieurwesen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "bitten",
+    "lemma": "bitten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "请求",
+        "en": "to ask, to request"
+      },
+      {
+        "zh": "邀请",
+        "en": "to invite"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich bitte dich um Hilfe.",
+        "zh": "我请求你的帮助。"
+      },
+      {
+        "de": "Er bat mich, ihm das Buch zu geben.",
+        "zh": "他请求我把书给他。"
+      }
+    ],
+    "collocations": [
+      "um etwas bitten",
+      "jemanden um etwas bitten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gebeten"
+    },
+    "level": "A2",
+    "tags": [
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "ersuchen",
+      "anfragen"
+    ],
+    "antonyms": [
+      "ablehnen",
+      "verweigern"
+    ]
+  },
+  {
+    "word": "Blasmusik",
+    "lemma": "Blasmusik",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "管乐音乐",
+        "en": "brass music, wind music"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Auf dem Dorffest spielte eine Blasmusik-Kapelle.",
+        "zh": "在乡村节日上，一个管乐队演奏了音乐。"
+      },
+      {
+        "de": "Blasmusik ist in Bayern sehr beliebt.",
+        "zh": "管乐音乐在巴伐利亚非常受欢迎。"
+      }
+    ],
+    "collocations": [
+      "Blasmusik hören",
+      "Blasmusik spielen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "音乐",
+      "B1"
+    ],
+    "synonyms": [
+      "Bläserensemble",
+      "Blaskapelle"
+    ],
+    "antonyms": [
+      "Streichmusik"
+    ]
+  },
+  {
+    "word": "Blick",
+    "lemma": "Blick",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Blicke",
+    "meaning": [
+      {
+        "zh": "目光",
+        "en": "look, glance"
+      },
+      {
+        "zh": "视野",
+        "en": "view, sight"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie warf einen kurzen Blick auf die Uhr.",
+        "zh": "她快速瞥了一眼手表。"
+      },
+      {
+        "de": "Von hier hat man einen schönen Blick auf die Berge.",
+        "zh": "从这里可以看到美丽的山景。"
+      }
+    ],
+    "collocations": [
+      "einen Blick werfen",
+      "den Blick auf etwas richten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "Anblick",
+      "Ausblick"
+    ],
+    "antonyms": [
+      "Blindheit"
+    ]
+  },
+  {
+    "word": "Blockunterricht",
+    "lemma": "Blockunterricht",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "集中授课（连续几天或几周的课程安排）",
+        "en": "block teaching (concentrated course over several days or weeks)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Blockunterricht findet einmal im Monat statt.",
+        "zh": "集中授课每月进行一次。"
+      },
+      {
+        "de": "In der Berufsschule haben wir oft Blockunterricht.",
+        "zh": "在职业学校里，我们经常有集中授课。"
+      }
+    ],
+    "collocations": [
+      "Blockunterricht besuchen",
+      "im Blockunterricht lernen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "Kompaktunterricht"
+    ],
+    "antonyms": [
+      "Einzelunterricht"
+    ]
+  },
+  {
+    "word": "blond",
+    "lemma": "blond",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "金黄色的（头发）",
+        "en": "blond (hair)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat lange, blonde Haare.",
+        "zh": "她有一头长长的金发。"
+      },
+      {
+        "de": "Der Junge ist blond und blauäugig.",
+        "zh": "这个男孩金发碧眼。"
+      }
+    ],
+    "collocations": [
+      "blonde Haare",
+      "blond gefärbt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "外貌",
+      "A2"
+    ],
+    "synonyms": [
+      "hellhaarig"
+    ],
+    "antonyms": [
+      "dunkelhaarig",
+      "brünett"
+    ]
+  },
+  {
+    "word": "Bluse",
+    "lemma": "Bluse",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Blusen",
+    "meaning": [
+      {
+        "zh": "女式衬衫",
+        "en": "blouse"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie trägt eine weiße Bluse zur Arbeit.",
+        "zh": "她穿了一件白衬衫去上班。"
+      },
+      {
+        "de": "Diese Bluse passt gut zu dem Rock.",
+        "zh": "这件衬衫和这条裙子很配。"
+      }
+    ],
+    "collocations": [
+      "eine Bluse anziehen",
+      "eine Bluse bügeln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "服装",
+      "A2"
+    ],
+    "synonyms": [
+      "Hemd (für Frauen)"
+    ],
+    "antonyms": [
+      "Hose",
+      "Rock"
+    ]
+  },
+  {
+    "word": "Bodensee",
+    "lemma": "Bodensee",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "博登湖（德国、奥地利、瑞士交界处的湖泊）",
+        "en": "Lake Constance (a lake bordering Germany, Austria, and Switzerland)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir machen Urlaub am Bodensee.",
+        "zh": "我们在博登湖度假。"
+      },
+      {
+        "de": "Der Bodensee ist einer der größten Seen in Mitteleuropa.",
+        "zh": "博登湖是中欧最大的湖泊之一。"
+      }
+    ],
+    "collocations": [
+      "am Bodensee wohnen",
+      "eine Reise zum Bodensee"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "地理",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Börse",
+    "lemma": "Börse",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Börsen",
+    "meaning": [
+      {
+        "zh": "证券交易所",
+        "en": "stock exchange"
+      },
+      {
+        "zh": "钱包（旧用法，现多用Geldbörse）",
+        "en": "purse (archaic)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Aktien werden an der Börse gehandelt.",
+        "zh": "股票在证券交易所交易。"
+      },
+      {
+        "de": "Die Börse in Frankfurt ist eine der wichtigsten der Welt.",
+        "zh": "法兰克福证券交易所是世界上最重要的交易所之一。"
+      }
+    ],
+    "collocations": [
+      "an der Börse handeln",
+      "die Börse schließen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "Aktienmarkt",
+      "Wertpapierbörse"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "böse",
+    "lemma": "böse",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "生气的；恶意的；坏的",
+        "en": "angry; evil; bad"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Warum bist du so böse auf mich?",
+        "zh": "你为什么对我这么生气？"
+      },
+      {
+        "de": "Der böse Wolf hat das Haus zerstört.",
+        "zh": "恶狼把房子毁了。"
+      }
+    ],
+    "collocations": [
+      "böse sein",
+      "böse Worte"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "wütend",
+      "zornig",
+      "bösartig"
+    ],
+    "antonyms": [
+      "gut",
+      "freundlich",
+      "lieb"
+    ]
+  },
+  {
+    "word": "Brathähnchen",
+    "lemma": "Brathähnchen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Brathähnchen",
+    "meaning": [
+      {
+        "zh": "烤鸡（通常指整只烤制的鸡）",
+        "en": "roast chicken (usually whole)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Zum Abendessen gibt es Brathähnchen mit Pommes.",
+        "zh": "晚餐有烤鸡配薯条。"
+      },
+      {
+        "de": "Das Brathähnchen riecht sehr lecker.",
+        "zh": "烤鸡闻起来很香。"
+      }
+    ],
+    "collocations": [
+      "ein Brathähnchen essen",
+      "Brathähnchen kaufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "食物",
+      "A2"
+    ],
+    "synonyms": [
+      "Grillhähnchen",
+      "Hähnchen"
+    ],
+    "antonyms": []
+  }
+]

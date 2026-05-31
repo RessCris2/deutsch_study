@@ -1,0 +1,1448 @@
+[
+  {
+    "word": "heißen",
+    "lemma": "heißen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "叫做，称为",
+        "en": "to be called"
+      },
+      {
+        "zh": "意味着，意思是",
+        "en": "to mean"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wie heißt du?",
+        "zh": "你叫什么名字？"
+      },
+      {
+        "de": "Das heißt, wir müssen früher aufstehen.",
+        "zh": "这意味着我们必须早点起床。"
+      }
+    ],
+    "collocations": [
+      "das heißt",
+      "wie heißt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geheißen"
+    },
+    "level": "A1",
+    "tags": [
+      "语言",
+      "A1"
+    ],
+    "synonyms": [
+      "genannt werden",
+      "bedeuten"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Heizung",
+    "lemma": "Heizung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Heizungen",
+    "meaning": [
+      {
+        "zh": "暖气，供暖设备",
+        "en": "heating"
+      },
+      {
+        "zh": "加热系统",
+        "en": "heating system"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Winter muss die Heizung funktionieren.",
+        "zh": "冬天暖气必须正常工作。"
+      },
+      {
+        "de": "Die Heizung ist kaputt, wir müssen einen Techniker rufen.",
+        "zh": "暖气坏了，我们得叫技术人员。"
+      }
+    ],
+    "collocations": [
+      "die Heizung anstellen",
+      "die Heizung reparieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "技术",
+      "A2"
+    ],
+    "synonyms": [
+      "Heizkörper",
+      "Wärmeanlage"
+    ],
+    "antonyms": [
+      "Kühlung"
+    ]
+  },
+  {
+    "word": "hell",
+    "lemma": "hell",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "明亮的，光亮的",
+        "en": "bright"
+      },
+      {
+        "zh": "浅色的",
+        "en": "light-colored"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Raum ist sehr hell, weil die Sonne scheint.",
+        "zh": "房间很亮，因为阳光照耀。"
+      },
+      {
+        "de": "Sie trägt ein helles Kleid.",
+        "zh": "她穿着一件浅色的连衣裙。"
+      }
+    ],
+    "collocations": [
+      "helles Licht",
+      "helle Farbe"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "描述",
+      "颜色",
+      "A2"
+    ],
+    "synonyms": [
+      "licht",
+      "leuchtend"
+    ],
+    "antonyms": [
+      "dunkel"
+    ]
+  },
+  {
+    "word": "Hemd",
+    "lemma": "Hemd",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Hemden",
+    "meaning": [
+      {
+        "zh": "衬衫",
+        "en": "shirt"
+      },
+      {
+        "zh": "衬衣",
+        "en": "dress shirt"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er trägt ein weißes Hemd zur Arbeit.",
+        "zh": "他穿一件白衬衫上班。"
+      },
+      {
+        "de": "Das Hemd muss gebügelt werden.",
+        "zh": "这件衬衫需要熨烫。"
+      }
+    ],
+    "collocations": [
+      "ein Hemd anziehen",
+      "das Hemd bügeln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "服装",
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Bluse",
+      "Oberteil"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Herr",
+    "lemma": "Herr",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Herren",
+    "meaning": [
+      {
+        "zh": "先生",
+        "en": "Mr., gentleman"
+      },
+      {
+        "zh": "主人",
+        "en": "master, lord"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Guten Morgen, Herr Müller!",
+        "zh": "早上好，米勒先生！"
+      },
+      {
+        "de": "Der Herr des Hauses begrüßte die Gäste.",
+        "zh": "房子的主人迎接了客人。"
+      }
+    ],
+    "collocations": [
+      "Herr und Frau",
+      "mein Herr"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "称呼",
+      "社会",
+      "A1"
+    ],
+    "synonyms": [
+      "Mann",
+      "Gentleman"
+    ],
+    "antonyms": [
+      "Frau",
+      "Dame"
+    ]
+  },
+  {
+    "word": "herrlich",
+    "lemma": "herrlich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "极好的，美妙的",
+        "en": "wonderful, glorious"
+      },
+      {
+        "zh": "令人愉快的",
+        "en": "delightful"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Wetter ist heute herrlich.",
+        "zh": "今天天气真好。"
+      },
+      {
+        "de": "Wir hatten einen herrlichen Urlaub am Meer.",
+        "zh": "我们在海边度过了一个美妙的假期。"
+      }
+    ],
+    "collocations": [
+      "herrliches Wetter",
+      "herrliche Aussicht"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "描述",
+      "B1"
+    ],
+    "synonyms": [
+      "wunderbar",
+      "fantastisch"
+    ],
+    "antonyms": [
+      "schrecklich",
+      "furchtbar"
+    ]
+  },
+  {
+    "word": "heute",
+    "lemma": "heute",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "今天",
+        "en": "today"
+      },
+      {
+        "zh": "当今",
+        "en": "nowadays"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Heute habe ich viel zu tun.",
+        "zh": "今天我有许多事要做。"
+      },
+      {
+        "de": "Heute ist das Wetter besser als gestern.",
+        "zh": "今天天气比昨天好。"
+      }
+    ],
+    "collocations": [
+      "heute Abend",
+      "heute Morgen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "时间",
+      "日常",
+      "A1"
+    ],
+    "synonyms": [
+      "heutzutage"
+    ],
+    "antonyms": [
+      "gestern",
+      "morgen"
+    ]
+  },
+  {
+    "word": "hier",
+    "lemma": "hier",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "这里",
+        "en": "here"
+      },
+      {
+        "zh": "在此处",
+        "en": "at this place"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Komm hier her!",
+        "zh": "到这里来！"
+      },
+      {
+        "de": "Hier ist mein Platz.",
+        "zh": "这里是我的位置。"
+      }
+    ],
+    "collocations": [
+      "hier und da",
+      "hier drüben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "位置",
+      "日常",
+      "A1"
+    ],
+    "synonyms": [
+      "an dieser Stelle",
+      "da"
+    ],
+    "antonyms": [
+      "dort",
+      "da drüben"
+    ]
+  },
+  {
+    "word": "hierherkommen",
+    "lemma": "hierherkommen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "来到这里",
+        "en": "to come here"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du bitte hierherkommen?",
+        "zh": "你能来这里吗？"
+      },
+      {
+        "de": "Er ist gestern hierhergekommen.",
+        "zh": "他昨天来到了这里。"
+      }
+    ],
+    "collocations": [
+      "hierherkommen zu",
+      "hierherkommen und"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "hierhergekommen"
+    },
+    "level": "B1",
+    "tags": [
+      "运动",
+      "B1"
+    ],
+    "synonyms": [
+      "herkommen",
+      "kommen"
+    ],
+    "antonyms": [
+      "weggehen"
+    ]
+  },
+  {
+    "word": "Himmel",
+    "lemma": "Himmel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Himmel",
+    "meaning": [
+      {
+        "zh": "天空",
+        "en": "sky"
+      },
+      {
+        "zh": "天堂",
+        "en": "heaven"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Himmel ist heute blau.",
+        "zh": "今天天空是蓝色的。"
+      },
+      {
+        "de": "Sie glaubt an den Himmel.",
+        "zh": "她相信天堂。"
+      }
+    ],
+    "collocations": [
+      "blauer Himmel",
+      "in den Himmel kommen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "自然",
+      "宗教",
+      "A2"
+    ],
+    "synonyms": [
+      "Firmament",
+      "Himmelszelt"
+    ],
+    "antonyms": [
+      "Erde",
+      "Hölle"
+    ]
+  },
+  {
+    "word": "hingehen",
+    "lemma": "hingehen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "去那里",
+        "en": "to go there"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir wollen heute ins Kino hingehen.",
+        "zh": "我们今天想去电影院。"
+      },
+      {
+        "de": "Er ist gestern nicht hingegangen.",
+        "zh": "他昨天没去那里。"
+      }
+    ],
+    "collocations": [
+      "hingehen zu",
+      "hingehen und"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "hingegangen"
+    },
+    "level": "B1",
+    "tags": [
+      "运动",
+      "B1"
+    ],
+    "synonyms": [
+      "gehen",
+      "sich begeben"
+    ],
+    "antonyms": [
+      "wegbleiben",
+      "hierbleiben"
+    ]
+  },
+  {
+    "word": "hineinschauen",
+    "lemma": "hineinschauen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "往里看",
+        "en": "to look inside"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Schau mal in die Schachtel hinein!",
+        "zh": "往盒子里看看！"
+      },
+      {
+        "de": "Er hat durch das Fenster hineingeschaut.",
+        "zh": "他透过窗户往里看。"
+      }
+    ],
+    "collocations": [
+      "hineinschauen in",
+      "hineinschauen durch"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "hineingeschaut"
+    },
+    "level": "B1",
+    "tags": [
+      "感知",
+      "B1"
+    ],
+    "synonyms": [
+      "hineinsehen",
+      "hineinblicken"
+    ],
+    "antonyms": [
+      "herausschauen"
+    ]
+  },
+  {
+    "word": "hinter",
+    "lemma": "hinter",
+    "pos": [
+      "preposition"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "在...后面",
+        "en": "behind"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Buch liegt hinter dem Tisch.",
+        "zh": "书在桌子后面。"
+      },
+      {
+        "de": "Er steht hinter mir.",
+        "zh": "他站在我后面。"
+      }
+    ],
+    "collocations": [
+      "hinter dem Haus",
+      "hinter jemandem stehen"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "空间",
+      "A1"
+    ],
+    "synonyms": [
+      "hinten",
+      "nach"
+    ],
+    "antonyms": [
+      "vor"
+    ]
+  },
+  {
+    "word": "Hobby",
+    "lemma": "Hobby",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Hobbys",
+    "meaning": [
+      {
+        "zh": "爱好",
+        "en": "hobby"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mein Hobby ist Lesen.",
+        "zh": "我的爱好是阅读。"
+      },
+      {
+        "de": "Sie hat viele Hobbys.",
+        "zh": "她有很多爱好。"
+      }
+    ],
+    "collocations": [
+      "ein Hobby haben",
+      "Hobby betreiben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "A1"
+    ],
+    "synonyms": [
+      "Freizeitbeschäftigung",
+      "Steckenpferd"
+    ],
+    "antonyms": [
+      "Arbeit",
+      "Pflicht"
+    ]
+  },
+  {
+    "word": "hoch",
+    "lemma": "hoch",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "高的",
+        "en": "high"
+      },
+      {
+        "zh": "大声地",
+        "en": "loudly"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Berg ist sehr hoch.",
+        "zh": "这座山很高。"
+      },
+      {
+        "de": "Bitte sprich nicht so hoch!",
+        "zh": "请不要说得这么大声！"
+      }
+    ],
+    "collocations": [
+      "hoch springen",
+      "hoch fliegen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "属性",
+      "A2"
+    ],
+    "synonyms": [
+      "groß",
+      "laut"
+    ],
+    "antonyms": [
+      "niedrig",
+      "leise"
+    ]
+  },
+  {
+    "word": "Hochschule",
+    "lemma": "Hochschule",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Hochschulen",
+    "meaning": [
+      {
+        "zh": "大学",
+        "en": "university",
+        "note": "通常指综合性大学或高等专科学校"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er studiert an einer Hochschule.",
+        "zh": "他在一所大学学习。"
+      },
+      {
+        "de": "Die Hochschule bietet viele Kurse an.",
+        "zh": "这所大学提供很多课程。"
+      }
+    ],
+    "collocations": [
+      "an der Hochschule studieren",
+      "Hochschule besuchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "教育",
+      "A2"
+    ],
+    "synonyms": [
+      "Universität",
+      "Fachhochschule"
+    ],
+    "antonyms": [
+      "Schule",
+      "Grundschule"
+    ]
+  },
+  {
+    "word": "Hochzeit",
+    "lemma": "Hochzeit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Hochzeiten",
+    "meaning": [
+      {
+        "zh": "婚礼",
+        "en": "wedding"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Hochzeit findet im Juni statt.",
+        "zh": "婚礼在六月举行。"
+      },
+      {
+        "de": "Sie haben eine große Hochzeit gefeiert.",
+        "zh": "他们举办了一场盛大的婚礼。"
+      }
+    ],
+    "collocations": [
+      "Hochzeit feiern",
+      "zur Hochzeit einladen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "社会",
+      "A2"
+    ],
+    "synonyms": [
+      "Trauung",
+      "Vermählung"
+    ],
+    "antonyms": [
+      "Scheidung"
+    ]
+  },
+  {
+    "word": "holen",
+    "lemma": "holen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "取来，拿来",
+        "en": "to fetch, to get"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du mir ein Glas Wasser holen?",
+        "zh": "你能给我拿杯水吗？"
+      },
+      {
+        "de": "Ich hole das Paket von der Post.",
+        "zh": "我去邮局取包裹。"
+      }
+    ],
+    "collocations": [
+      "Hilfe holen",
+      "sich Rat holen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geholt"
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "A1"
+    ],
+    "synonyms": [
+      "abholen",
+      "nehmen"
+    ],
+    "antonyms": [
+      "bringen"
+    ]
+  },
+  {
+    "word": "Honig",
+    "lemma": "Honig",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "蜂蜜",
+        "en": "honey"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Honig schmeckt sehr süß.",
+        "zh": "这蜂蜜尝起来很甜。"
+      },
+      {
+        "de": "Sie gibt Honig in den Tee.",
+        "zh": "她在茶里加蜂蜜。"
+      }
+    ],
+    "collocations": [
+      "Honig essen",
+      "Honig kaufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "食物",
+      "A1"
+    ],
+    "synonyms": [
+      "Bienenhonig"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "Huhn",
+    "lemma": "Huhn",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Hühner",
+    "meaning": [
+      {
+        "zh": "鸡",
+        "en": "chicken"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Huhn legt jeden Tag ein Ei.",
+        "zh": "这只鸡每天下一个蛋。"
+      },
+      {
+        "de": "Wir essen heute Huhn zum Abendessen.",
+        "zh": "我们今天晚餐吃鸡。"
+      }
+    ],
+    "collocations": [
+      "Huhn braten",
+      "Hühner halten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "动物",
+      "食物",
+      "A1"
+    ],
+    "synonyms": [
+      "Hähnchen",
+      "Henne"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "Hund",
+    "lemma": "Hund",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Hunde",
+    "meaning": [
+      {
+        "zh": "狗",
+        "en": "dog"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Hund bellt laut.",
+        "zh": "那只狗大声叫。"
+      },
+      {
+        "de": "Sie geht mit dem Hund spazieren.",
+        "zh": "她带狗去散步。"
+      }
+    ],
+    "collocations": [
+      "Hund ausführen",
+      "Hund füttern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "动物",
+      "A1"
+    ],
+    "synonyms": [
+      "Hündchen",
+      "Köter"
+    ],
+    "antonyms": [
+      "Katze"
+    ]
+  },
+  {
+    "word": "Hunger",
+    "lemma": "Hunger",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "饥饿",
+        "en": "hunger"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe großen Hunger.",
+        "zh": "我很饿。"
+      },
+      {
+        "de": "Hunger ist der beste Koch.",
+        "zh": "饥不择食。"
+      }
+    ],
+    "collocations": [
+      "Hunger haben",
+      "Hunger stillen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "情感",
+      "生理",
+      "A1"
+    ],
+    "synonyms": [
+      "Appetit",
+      "Heißhunger"
+    ],
+    "antonyms": [
+      "Sättigung"
+    ]
+  },
+  {
+    "word": "Husten",
+    "lemma": "Husten",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "咳嗽",
+        "en": "cough"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat einen starken Husten.",
+        "zh": "他咳嗽得很厉害。"
+      },
+      {
+        "de": "Husten kann man mit Tee lindern.",
+        "zh": "咳嗽可以用茶缓解。"
+      }
+    ],
+    "collocations": [
+      "Husten haben",
+      "Hustenmittel nehmen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "健康",
+      "A2"
+    ],
+    "synonyms": [
+      "Hustenanfall",
+      "Hustenreiz"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "Hut",
+    "lemma": "Hut",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Hüte",
+    "meaning": [
+      {
+        "zh": "帽子",
+        "en": "hat"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie trägt einen roten Hut.",
+        "zh": "她戴着一顶红帽子。"
+      },
+      {
+        "de": "Im Sommer setze ich einen Strohhut auf.",
+        "zh": "夏天我戴一顶草帽。"
+      }
+    ],
+    "collocations": [
+      "Hut aufsetzen",
+      "Hut abnehmen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "衣物",
+      "A1"
+    ],
+    "synonyms": [
+      "Kappe",
+      "Mütze"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "ich",
+    "lemma": "ich",
+    "pos": [
+      "pronoun"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "我",
+        "en": "I"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich bin Student.",
+        "zh": "我是学生。"
+      },
+      {
+        "de": "Ich habe eine Idee.",
+        "zh": "我有一个主意。"
+      }
+    ],
+    "collocations": [
+      "ich bin",
+      "ich habe"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "代词",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "du",
+      "Sie"
+    ]
+  },
+  {
+    "word": "Idee",
+    "lemma": "Idee",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Ideen",
+    "meaning": [
+      {
+        "zh": "主意，想法",
+        "en": "idea"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist eine gute Idee.",
+        "zh": "这是一个好主意。"
+      },
+      {
+        "de": "Ich habe keine Idee, was ich machen soll.",
+        "zh": "我不知道该做什么。"
+      }
+    ],
+    "collocations": [
+      "eine Idee haben",
+      "eine gute Idee"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "抽象概念",
+      "A2"
+    ],
+    "synonyms": [
+      "Einfall",
+      "Gedanke"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Ihnen",
+    "lemma": "Sie",
+    "pos": [
+      "pronoun"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "您（第三格）",
+        "en": "you (dative, formal)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich danke Ihnen.",
+        "zh": "我感谢您。"
+      },
+      {
+        "de": "Kann ich Ihnen helfen?",
+        "zh": "我能帮您吗？"
+      }
+    ],
+    "collocations": [
+      "danken + Ihnen",
+      "helfen + Ihnen"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "代词",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "dir"
+    ]
+  },
+  {
+    "word": "Ihr",
+    "lemma": "Ihr",
+    "pos": [
+      "pronoun"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "您的（物主代词，正式）",
+        "en": "your (formal)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ist das Ihr Buch?",
+        "zh": "这是您的书吗？"
+      },
+      {
+        "de": "Ihr Name ist mir bekannt.",
+        "zh": "您的名字我知道。"
+      }
+    ],
+    "collocations": [
+      "Ihr Name",
+      "Ihr Buch"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "代词",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "mein"
+    ]
+  },
+  {
+    "word": "immer",
+    "lemma": "immer",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "总是，一直",
+        "en": "always"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er kommt immer zu spät.",
+        "zh": "他总是迟到。"
+      },
+      {
+        "de": "Ich lerne immer am Abend.",
+        "zh": "我总是在晚上学习。"
+      }
+    ],
+    "collocations": [
+      "immer noch",
+      "immer wieder"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "副词",
+      "A1"
+    ],
+    "synonyms": [
+      "stets",
+      "jederzeit"
+    ],
+    "antonyms": [
+      "nie",
+      "niemals"
+    ]
+  },
+  {
+    "word": "Informatik",
+    "lemma": "Informatik",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "计算机科学，信息学",
+        "en": "computer science"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie studiert Informatik an der Universität.",
+        "zh": "她在大学学习计算机科学。"
+      },
+      {
+        "de": "Informatik ist ein wichtiges Fach.",
+        "zh": "计算机科学是一门重要的学科。"
+      }
+    ],
+    "collocations": [
+      "Informatik studieren",
+      "Informatik-Kurs"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "学科",
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "Computerwissenschaft"
+    ],
+    "antonyms": []
+  }
+]

@@ -1,0 +1,1485 @@
+[
+  {
+    "word": "Pron",
+    "lemma": "Pron",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Pron",
+    "meaning": [
+      {
+        "zh": "代词",
+        "en": "pronoun"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Pron 'es' wird oft als Subjekt verwendet.",
+        "zh": "代词'es'常被用作主语。"
+      },
+      {
+        "de": "In diesem Satz ist 'ich' ein persönliches Pron.",
+        "zh": "在这个句子中，'ich'是一个人称代词。"
+      }
+    ],
+    "collocations": [
+      "persönliches Pron",
+      "Possessivpron"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语法",
+      "B1"
+    ],
+    "synonyms": [
+      "Fürwort"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "dass",
+    "lemma": "dass",
+    "pos": [
+      "conjunction"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "（引导从句）那个，因为",
+        "en": "that"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich glaube, dass er morgen kommt.",
+        "zh": "我相信他明天会来。"
+      },
+      {
+        "de": "Es ist wichtig, dass du pünktlich bist.",
+        "zh": "你准时很重要。"
+      }
+    ],
+    "collocations": [
+      "dass-Satz",
+      "glauben, dass"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "语法",
+      "连词",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dauern",
+    "lemma": "dauern",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "持续，延续",
+        "en": "to last, to take (time)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Film dauert zwei Stunden.",
+        "zh": "这部电影持续两个小时。"
+      },
+      {
+        "de": "Wie lange dauert die Reise?",
+        "zh": "旅行需要多长时间？"
+      }
+    ],
+    "collocations": [
+      "lange dauern",
+      "eine Weile dauern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gedauert"
+    },
+    "level": "A2",
+    "tags": [
+      "时间",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "andauern",
+      "sich hinziehen"
+    ],
+    "antonyms": [
+      "enden",
+      "aufhören"
+    ]
+  },
+  {
+    "word": "dazu",
+    "lemma": "dazu",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "此外，对此",
+        "en": "in addition, to that"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe keine Lust dazu.",
+        "zh": "我对这个没有兴趣。"
+      },
+      {
+        "de": "Dazu kommt noch die Verspätung.",
+        "zh": "此外还有延误。"
+      }
+    ],
+    "collocations": [
+      "dazu gehören",
+      "dazu kommen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "副词",
+      "连接",
+      "B1"
+    ],
+    "synonyms": [
+      "außerdem",
+      "zusätzlich"
+    ],
+    "antonyms": [
+      "dagegen"
+    ]
+  },
+  {
+    "word": "Deutsch",
+    "lemma": "Deutsch",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "德语",
+        "en": "German (language)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich lerne Deutsch seit einem Jahr.",
+        "zh": "我学德语一年了。"
+      },
+      {
+        "de": "Sprichst du Deutsch?",
+        "zh": "你说德语吗？"
+      }
+    ],
+    "collocations": [
+      "Deutsch lernen",
+      "auf Deutsch"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语言",
+      "学习",
+      "A1"
+    ],
+    "synonyms": [
+      "die deutsche Sprache"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Dialog",
+    "lemma": "Dialog",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Dialoge",
+    "meaning": [
+      {
+        "zh": "对话，对白",
+        "en": "dialogue"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Dialog zwischen den beiden Politikern war sehr konstruktiv.",
+        "zh": "两位政治家之间的对话非常建设性。"
+      },
+      {
+        "de": "Im Film gibt es einen langen Dialog.",
+        "zh": "电影里有一段很长的对白。"
+      }
+    ],
+    "collocations": [
+      "einen Dialog führen",
+      "im Dialog stehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "交流",
+      "媒体",
+      "B1"
+    ],
+    "synonyms": [
+      "Gespräch",
+      "Unterhaltung"
+    ],
+    "antonyms": [
+      "Monolog"
+    ]
+  },
+  {
+    "word": "dick",
+    "lemma": "dick",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "厚的；胖的",
+        "en": "thick; fat"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Buch ist sehr dick.",
+        "zh": "这本书很厚。"
+      },
+      {
+        "de": "Er ist ein bisschen dick geworden.",
+        "zh": "他变得有点胖了。"
+      }
+    ],
+    "collocations": [
+      "dick sein",
+      "dicke Freunde"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "描述",
+      "身体",
+      "A2"
+    ],
+    "synonyms": [
+      "fett",
+      "massiv"
+    ],
+    "antonyms": [
+      "dünn",
+      "schlank"
+    ]
+  },
+  {
+    "word": "Dienstag",
+    "lemma": "Dienstag",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Dienstage",
+    "meaning": [
+      {
+        "zh": "星期二",
+        "en": "Tuesday"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Am Dienstag habe ich einen Termin.",
+        "zh": "星期二我有一个约会。"
+      },
+      {
+        "de": "Der Dienstag ist der zweite Tag der Woche.",
+        "zh": "星期二是一周的第二天。"
+      }
+    ],
+    "collocations": [
+      "am Dienstag",
+      "nächsten Dienstag"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "时间",
+      "星期",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "dir",
+    "lemma": "du",
+    "pos": [
+      "pronoun"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "你（第二人称单数与格）",
+        "en": "you (dative singular)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich gebe dir das Buch.",
+        "zh": "我把这本书给你。"
+      },
+      {
+        "de": "Wie geht es dir?",
+        "zh": "你好吗？"
+      }
+    ],
+    "collocations": [
+      "dir selbst",
+      "dir zuliebe"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "代词",
+      "A1"
+    ],
+    "synonyms": [
+      "Ihnen (formal)"
+    ],
+    "antonyms": [
+      "mir"
+    ]
+  },
+  {
+    "word": "doch",
+    "lemma": "doch",
+    "pos": [
+      "adverb",
+      "conjunction"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "但是；还是；确实（用于肯定否定问句）",
+        "en": "but; yet; indeed (used to contradict negative statements)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe es dir doch gesagt.",
+        "zh": "我确实告诉过你了。"
+      },
+      {
+        "de": "Kommst du nicht? – Doch, ich komme.",
+        "zh": "你不来吗？——不，我来。"
+      }
+    ],
+    "collocations": [
+      "doch noch",
+      "doch wohl"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "副词",
+      "连词",
+      "A2"
+    ],
+    "synonyms": [
+      "aber",
+      "jedoch"
+    ],
+    "antonyms": [
+      "nicht"
+    ]
+  },
+  {
+    "word": "Doktor",
+    "lemma": "Doktor",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Doktoren",
+    "meaning": [
+      {
+        "zh": "博士；医生",
+        "en": "doctor (academic degree); physician"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mein Bruder ist Doktor der Medizin.",
+        "zh": "我哥哥是医学博士。"
+      },
+      {
+        "de": "Der Doktor hat mir eine neue Medizin verschrieben.",
+        "zh": "医生给我开了一种新药。"
+      }
+    ],
+    "collocations": [
+      "Doktor werden",
+      "zum Doktor gehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "职业",
+      "学术",
+      "A2"
+    ],
+    "synonyms": [
+      "Arzt",
+      "Professor"
+    ],
+    "antonyms": [
+      "Patient"
+    ]
+  },
+  {
+    "word": "Donnerstag",
+    "lemma": "Donnerstag",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Donnerstage",
+    "meaning": [
+      {
+        "zh": "星期四",
+        "en": "Thursday"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Am Donnerstag habe ich einen Termin.",
+        "zh": "星期四我有一个预约。"
+      },
+      {
+        "de": "Nächsten Donnerstag fahren wir in den Urlaub.",
+        "zh": "下星期四我们去度假。"
+      }
+    ],
+    "collocations": [
+      "am Donnerstag",
+      "jeden Donnerstag"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "时间",
+      "星期",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Dorf",
+    "lemma": "Dorf",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Dörfer",
+    "meaning": [
+      {
+        "zh": "村庄",
+        "en": "village"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir wohnen in einem kleinen Dorf.",
+        "zh": "我们住在一个小村庄里。"
+      },
+      {
+        "de": "Das Dorf hat eine schöne Kirche.",
+        "zh": "这个村庄有一座漂亮的教堂。"
+      }
+    ],
+    "collocations": [
+      "auf dem Dorf",
+      "ins Dorf gehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "地点",
+      "居住",
+      "A1"
+    ],
+    "synonyms": [
+      "Siedlung",
+      "Gemeinde"
+    ],
+    "antonyms": [
+      "Stadt"
+    ]
+  },
+  {
+    "word": "dort",
+    "lemma": "dort",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "那里",
+        "en": "there"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Buch liegt dort auf dem Tisch.",
+        "zh": "那本书放在那边的桌子上。"
+      },
+      {
+        "de": "Dort drüben ist der Bahnhof.",
+        "zh": "那边是火车站。"
+      }
+    ],
+    "collocations": [
+      "dort drüben",
+      "dort oben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "地点",
+      "副词",
+      "A1"
+    ],
+    "synonyms": [
+      "da",
+      "dahin"
+    ],
+    "antonyms": [
+      "hier"
+    ]
+  },
+  {
+    "word": "dran",
+    "lemma": "dran",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "轮到；在上面（口语）",
+        "en": "in turn; on it (colloquial)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Du bist dran.",
+        "zh": "轮到你了。"
+      },
+      {
+        "de": "Ich bin dran, die Blumen zu gießen.",
+        "zh": "轮到我来浇花了。"
+      }
+    ],
+    "collocations": [
+      "dran sein",
+      "dran glauben müssen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "口语",
+      "副词",
+      "B1"
+    ],
+    "synonyms": [
+      "an der Reihe sein"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Drehstuhl",
+    "lemma": "Drehstuhl",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Drehstühle",
+    "meaning": [
+      {
+        "zh": "转椅",
+        "en": "swivel chair"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Büro steht ein bequemer Drehstuhl.",
+        "zh": "办公室里有一把舒适的转椅。"
+      },
+      {
+        "de": "Er drehte sich auf dem Drehstuhl um.",
+        "zh": "他在转椅上转过身来。"
+      }
+    ],
+    "collocations": [
+      "auf dem Drehstuhl sitzen",
+      "einen Drehstuhl kaufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "家具",
+      "办公",
+      "B1"
+    ],
+    "synonyms": [
+      "Bürostuhl"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "dringend",
+    "lemma": "dringend",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "紧急的，迫切的",
+        "en": "urgent, pressing"
+      },
+      {
+        "zh": "紧急地，迫切地",
+        "en": "urgently, pressingly"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe eine dringende Frage.",
+        "zh": "我有一个紧急的问题。"
+      },
+      {
+        "de": "Sie müssen dringend zum Arzt.",
+        "zh": "您必须马上去看医生。"
+      },
+      {
+        "de": "Das ist nicht dringend.",
+        "zh": "这不紧急。"
+      }
+    ],
+    "collocations": [
+      "dringende Bitte",
+      "dringend benötigen",
+      "dringender Fall",
+      "dringend empfehlen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "形容词",
+      "副词",
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "eilig",
+      "vordringlich",
+      "akute"
+    ],
+    "antonyms": [
+      "unwichtig",
+      "nebensächlich"
+    ]
+  },
+  {
+    "word": "durch",
+    "lemma": "durch",
+    "pos": [
+      "preposition",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "通过，穿过",
+        "en": "through, across"
+      },
+      {
+        "zh": "由于，因为",
+        "en": "by, through (means)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir gehen durch den Park.",
+        "zh": "我们穿过公园。"
+      },
+      {
+        "de": "Durch den Regen wurde die Straße nass.",
+        "zh": "由于下雨，街道变湿了。"
+      },
+      {
+        "de": "Er hat durch viel Training gewonnen.",
+        "zh": "他通过大量训练获胜了。"
+      }
+    ],
+    "collocations": [
+      "durch die Stadt",
+      "durch Zufall",
+      "durch und durch",
+      "durch die Tür"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "介词",
+      "副词",
+      "空间",
+      "A2"
+    ],
+    "synonyms": [
+      "mittels",
+      "via"
+    ],
+    "antonyms": [
+      "ohne"
+    ]
+  },
+  {
+    "word": "Dusche",
+    "lemma": "Dusche",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Duschen",
+    "meaning": [
+      {
+        "zh": "淋浴，淋浴器",
+        "en": "shower"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich nehme jeden Morgen eine Dusche.",
+        "zh": "我每天早上淋浴。"
+      },
+      {
+        "de": "Die Dusche ist kaputt.",
+        "zh": "淋浴器坏了。"
+      },
+      {
+        "de": "Er steht unter der Dusche.",
+        "zh": "他站在淋浴下。"
+      }
+    ],
+    "collocations": [
+      "eine Dusche nehmen",
+      "unter der Dusche",
+      "Dusche reparieren",
+      "warme Dusche"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "名词",
+      "生活",
+      "A1"
+    ],
+    "synonyms": [
+      "Brause"
+    ],
+    "antonyms": [
+      "Badewanne"
+    ]
+  },
+  {
+    "word": "eben",
+    "lemma": "eben",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "平坦的，平的",
+        "en": "flat, even"
+      },
+      {
+        "zh": "刚才，刚刚",
+        "en": "just, exactly"
+      },
+      {
+        "zh": "就是，正是",
+        "en": "simply, just (emphasizing)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Tisch ist nicht eben.",
+        "zh": "桌子不平。"
+      },
+      {
+        "de": "Ich habe ihn eben gesehen.",
+        "zh": "我刚才看见他了。"
+      },
+      {
+        "de": "Das ist eben so.",
+        "zh": "事情就是这样。"
+      }
+    ],
+    "collocations": [
+      "ebene Fläche",
+      "eben erst",
+      "eben noch",
+      "eben deshalb"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "形容词",
+      "副词",
+      "空间",
+      "时间",
+      "B1"
+    ],
+    "synonyms": [
+      "flach",
+      "gerade",
+      "soeben"
+    ],
+    "antonyms": [
+      "uneben",
+      "holprig"
+    ]
+  },
+  {
+    "word": "Ecke",
+    "lemma": "Ecke",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Ecken",
+    "meaning": [
+      {
+        "zh": "角落，拐角",
+        "en": "corner"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Buch liegt in der Ecke.",
+        "zh": "书在角落里。"
+      },
+      {
+        "de": "Die Bank ist um die Ecke.",
+        "zh": "银行在拐角处。"
+      },
+      {
+        "de": "Er steht an der Ecke der Straße.",
+        "zh": "他站在街角。"
+      }
+    ],
+    "collocations": [
+      "um die Ecke",
+      "in der Ecke",
+      "an der Ecke",
+      "Ecke des Zimmers"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "名词",
+      "空间",
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Winkel",
+      "Kante"
+    ],
+    "antonyms": [
+      "Mitte"
+    ]
+  },
+  {
+    "word": "eigentlich",
+    "lemma": "eigentlich",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "实际的，真正的",
+        "en": "actual, real"
+      },
+      {
+        "zh": "其实，本来",
+        "en": "actually, really"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist der eigentliche Grund.",
+        "zh": "这是真正的原因。"
+      },
+      {
+        "de": "Eigentlich wollte ich kommen.",
+        "zh": "其实我本来想来的。"
+      },
+      {
+        "de": "Was ist eigentlich los?",
+        "zh": "到底发生了什么？"
+      }
+    ],
+    "collocations": [
+      "eigentliche Bedeutung",
+      "eigentlich nicht",
+      "eigentlich schon",
+      "eigentlich ja"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "形容词",
+      "副词",
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "tatsächlich",
+      "wirklich"
+    ],
+    "antonyms": [
+      "uneigentlich",
+      "scheinbar"
+    ]
+  },
+  {
+    "word": "einmal",
+    "lemma": "einmal",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "一次，一度",
+        "en": "once, one time"
+      },
+      {
+        "zh": "曾经，有一天",
+        "en": "once, someday"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich war einmal in Berlin.",
+        "zh": "我去过一次柏林。"
+      },
+      {
+        "de": "Kannst du mir einmal helfen?",
+        "zh": "你能帮我一次吗？"
+      },
+      {
+        "de": "Einmal wird es klappen.",
+        "zh": "总有一天会成功的。"
+      }
+    ],
+    "collocations": [
+      "einmal pro Woche",
+      "einmal im Jahr",
+      "noch einmal",
+      "einmalig"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "副词",
+      "时间",
+      "A1"
+    ],
+    "synonyms": [
+      "ein Mal",
+      "einst"
+    ],
+    "antonyms": [
+      "mehrmals",
+      "nie"
+    ]
+  },
+  {
+    "word": "ein",
+    "lemma": "ein",
+    "pos": [
+      "article",
+      "numeral",
+      "pronoun"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "一，一个",
+        "en": "a, an, one"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe einen Hund.",
+        "zh": "我有一只狗。"
+      },
+      {
+        "de": "Das ist ein schöner Tag.",
+        "zh": "这是美好的一天。"
+      },
+      {
+        "de": "Er ist einer von uns.",
+        "zh": "他是我们中的一个。"
+      }
+    ],
+    "collocations": [
+      "ein bisschen",
+      "ein paar",
+      "ein Mal",
+      "ein und aus"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "冠词",
+      "数词",
+      "代词",
+      "A1"
+    ],
+    "synonyms": [
+      "eins",
+      "eine"
+    ],
+    "antonyms": [
+      "kein",
+      "viele"
+    ]
+  },
+  {
+    "word": "einfach",
+    "lemma": "einfach",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "简单的",
+        "en": "simple"
+      },
+      {
+        "zh": "仅仅，只是",
+        "en": "simply, just"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Aufgabe ist sehr einfach.",
+        "zh": "这个任务非常简单。"
+      },
+      {
+        "de": "Das ist einfach unglaublich.",
+        "zh": "这简直难以置信。"
+      }
+    ],
+    "collocations": [
+      "einfach so",
+      "ganz einfach",
+      "einfach und klar",
+      "einfach erklärt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "形容词",
+      "副词",
+      "日常用语",
+      "A2"
+    ],
+    "synonyms": [
+      "leicht",
+      "simpel",
+      "schlicht"
+    ],
+    "antonyms": [
+      "schwierig",
+      "kompliziert",
+      "aufwendig"
+    ]
+  },
+  {
+    "word": "Einfamilienhaus",
+    "lemma": "Einfamilienhaus",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Einfamilienhäuser",
+    "meaning": [
+      {
+        "zh": "独栋住宅，独户房屋",
+        "en": "single-family house"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie wohnen in einem Einfamilienhaus mit Garten.",
+        "zh": "他们住在一栋带花园的独栋住宅里。"
+      },
+      {
+        "de": "Der Traum vom eigenen Einfamilienhaus ist weit verbreitet.",
+        "zh": "拥有自己的独栋住宅的梦想很普遍。"
+      }
+    ],
+    "collocations": [
+      "ein Einfamilienhaus kaufen",
+      "im Einfamilienhaus wohnen",
+      "ein Einfamilienhaus bauen",
+      "ein Einfamilienhaus mieten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "名词",
+      "住房",
+      "建筑",
+      "B1"
+    ],
+    "synonyms": [
+      "Eigenheim",
+      "Haus"
+    ],
+    "antonyms": [
+      "Mehrfamilienhaus",
+      "Wohnung",
+      "Hochhaus"
+    ]
+  },
+  {
+    "word": "einladen",
+    "lemma": "einladen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "邀请",
+        "en": "to invite"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich lade dich zu meiner Geburtstagsfeier ein.",
+        "zh": "我邀请你参加我的生日派对。"
+      },
+      {
+        "de": "Er hat mich zum Abendessen eingeladen.",
+        "zh": "他邀请我吃晚饭。"
+      }
+    ],
+    "collocations": [
+      "jemanden zu etwas einladen",
+      "sich einladen lassen",
+      "jemanden zum Essen einladen",
+      "jemanden auf ein Getränk einladen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "eingeladen"
+    },
+    "level": "A2",
+    "tags": [
+      "动词",
+      "社交",
+      "日常用语",
+      "A2"
+    ],
+    "synonyms": [
+      "bitten",
+      "herbitten",
+      "auffordern"
+    ],
+    "antonyms": [
+      "ausladen",
+      "ablehnen",
+      "fernbleiben"
+    ]
+  },
+  {
+    "word": "Einladung",
+    "lemma": "Einladung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Einladungen",
+    "meaning": [
+      {
+        "zh": "邀请，请柬",
+        "en": "invitation"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Hast du die Einladung zur Hochzeit bekommen?",
+        "zh": "你收到婚礼邀请了吗？"
+      },
+      {
+        "de": "Ich habe eine Einladung zu einer Konferenz erhalten.",
+        "zh": "我收到了一份会议邀请。"
+      }
+    ],
+    "collocations": [
+      "eine Einladung erhalten",
+      "eine Einladung aussprechen",
+      "eine Einladung annehmen",
+      "eine Einladung ablehnen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "名词",
+      "社交",
+      "活动",
+      "B1"
+    ],
+    "synonyms": [
+      "Aufforderung",
+      "Bitte"
+    ],
+    "antonyms": [
+      "Absage",
+      "Ablehnung"
+    ]
+  },
+  {
+    "word": "Klick",
+    "lemma": "Klick",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Klicks",
+    "meaning": [
+      {
+        "zh": "点击（鼠标）",
+        "en": "click (mouse)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mit einem Klick öffnet sich das Fenster.",
+        "zh": "点击一下，窗口就打开了。"
+      },
+      {
+        "de": "Die Webseite hat viele Klicks bekommen.",
+        "zh": "这个网站获得了许多点击。"
+      }
+    ],
+    "collocations": [
+      "ein Klick mit der Maus",
+      "per Klick bestellen",
+      "auf einen Klick reagieren",
+      "Klicks generieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "名词",
+      "科技",
+      "互联网",
+      "B1"
+    ],
+    "synonyms": [
+      "Mausklick",
+      "Klickgeräusch"
+    ],
+    "antonyms": []
+  }
+]

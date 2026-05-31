@@ -1,0 +1,1722 @@
+[
+  {
+    "word": "Mais",
+    "lemma": "Mais",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "玉米",
+        "en": "corn, maize"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Sommer essen wir gerne frischen Mais.",
+        "zh": "夏天我们喜欢吃新鲜的玉米。"
+      },
+      {
+        "de": "Mais wird in vielen Ländern als Grundnahrungsmittel angebaut.",
+        "zh": "玉米在许多国家被作为主食种植。"
+      }
+    ],
+    "collocations": [
+      "Mais anbauen",
+      "Mais ernten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "食物",
+      "农业",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mal",
+    "lemma": "mal",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "一次；乘以；用于缓和语气",
+        "en": "once; times; used to soften requests"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Komm mal her!",
+        "zh": "过来一下！"
+      },
+      {
+        "de": "Drei mal vier ist zwölf.",
+        "zh": "三乘以四等于十二。"
+      }
+    ],
+    "collocations": [
+      "mal sehen",
+      "mal kurz"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语气",
+      "数学",
+      "A1"
+    ],
+    "synonyms": [
+      "einmal"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "man",
+    "lemma": "man",
+    "pos": [
+      "pronoun"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "人们；有人",
+        "en": "one; you; they (impersonal)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Man sollte regelmäßig Sport treiben.",
+        "zh": "人们应该定期运动。"
+      },
+      {
+        "de": "Hier darf man nicht rauchen.",
+        "zh": "这里不允许吸烟。"
+      }
+    ],
+    "collocations": [
+      "man sagt",
+      "man kann"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语法",
+      "代词",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Management",
+    "lemma": "Management",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "管理；管理层",
+        "en": "management"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Management hat neue Strategien entwickelt.",
+        "zh": "管理层制定了新的策略。"
+      },
+      {
+        "de": "Er studiert Management an der Universität.",
+        "zh": "他在大学学习管理。"
+      }
+    ],
+    "collocations": [
+      "Management studieren",
+      "Management entscheiden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "职业",
+      "B1"
+    ],
+    "synonyms": [
+      "Führung",
+      "Leitung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "manchmal",
+    "lemma": "manchmal",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "有时",
+        "en": "sometimes"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Manchmal gehe ich am Wochenende ins Kino.",
+        "zh": "有时我周末去看电影。"
+      },
+      {
+        "de": "Manchmal regnet es hier im Sommer.",
+        "zh": "这里夏天有时下雨。"
+      }
+    ],
+    "collocations": [
+      "manchmal auch",
+      "nur manchmal"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "时间",
+      "频率",
+      "A1"
+    ],
+    "synonyms": [
+      "ab und zu",
+      "gelegentlich"
+    ],
+    "antonyms": [
+      "immer",
+      "nie"
+    ]
+  },
+  {
+    "word": "Mann",
+    "lemma": "Mann",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Männer",
+    "meaning": [
+      {
+        "zh": "男人；丈夫",
+        "en": "man; husband"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Mann dort drüben ist mein Chef.",
+        "zh": "那边那个男人是我的老板。"
+      },
+      {
+        "de": "Sie ist mit ihrem Mann verreist.",
+        "zh": "她和她的丈夫去旅行了。"
+      }
+    ],
+    "collocations": [
+      "ein Mann",
+      "ihr Mann"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "人",
+      "家庭",
+      "A1"
+    ],
+    "synonyms": [
+      "Herr",
+      "Ehemann"
+    ],
+    "antonyms": [
+      "Frau"
+    ]
+  },
+  {
+    "word": "Mappe",
+    "lemma": "Mappe",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Mappen",
+    "meaning": [
+      {
+        "zh": "文件夹；公文包",
+        "en": "folder; briefcase"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er legte die Unterlagen in die Mappe.",
+        "zh": "他把文件放进了文件夹。"
+      },
+      {
+        "de": "Die Schülerin hat ihre Mappe vergessen.",
+        "zh": "那个女学生忘了她的文件夹。"
+      }
+    ],
+    "collocations": [
+      "eine Mappe",
+      "Mappe öffnen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "办公",
+      "学校",
+      "A2"
+    ],
+    "synonyms": [
+      "Ordner",
+      "Aktentasche"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Markt",
+    "lemma": "Markt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Märkte",
+    "meaning": [
+      {
+        "zh": "市场；集市",
+        "en": "market"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Auf dem Markt kaufe ich frisches Obst.",
+        "zh": "我在市场上买新鲜水果。"
+      },
+      {
+        "de": "Der Aktienmarkt ist heute gefallen.",
+        "zh": "股市今天下跌了。"
+      }
+    ],
+    "collocations": [
+      "auf dem Markt",
+      "Markt besuchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "经济",
+      "购物",
+      "A2"
+    ],
+    "synonyms": [
+      "Handelsplatz",
+      "Basar"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Marmelade",
+    "lemma": "Marmelade",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Marmeladen",
+    "meaning": [
+      {
+        "zh": "果酱",
+        "en": "jam"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich esse morgens Brot mit Marmelade.",
+        "zh": "我早上吃涂果酱的面包。"
+      },
+      {
+        "de": "Sie kocht selbstgemachte Marmelade aus Erdbeeren.",
+        "zh": "她用草莓自制果酱。"
+      }
+    ],
+    "collocations": [
+      "Brot mit Marmelade",
+      "Marmelade kochen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "食物",
+      "A2"
+    ],
+    "synonyms": [
+      "Konfitüre"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Maultasche",
+    "lemma": "Maultasche",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Maultaschen",
+    "meaning": [
+      {
+        "zh": "德国馄饨（施瓦本地区）",
+        "en": "Swabian ravioli"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Maultaschen sind eine Spezialität aus Schwaben.",
+        "zh": "德国馄饨是施瓦本地区的特色菜。"
+      },
+      {
+        "de": "Wir bestellen Maultaschen mit Kartoffelsalat.",
+        "zh": "我们点了德国馄饨配土豆沙拉。"
+      }
+    ],
+    "collocations": [
+      "Maultaschen essen",
+      "Maultaschen mit Füllung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "食物",
+      "文化",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Maus",
+    "lemma": "Maus",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Mäuse",
+    "meaning": [
+      {
+        "zh": "老鼠；鼠标",
+        "en": "mouse; computer mouse"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Maus hat ein Loch in die Wand genagt.",
+        "zh": "老鼠在墙上咬了一个洞。"
+      },
+      {
+        "de": "Ich brauche eine neue Maus für meinen Computer.",
+        "zh": "我需要一个新的电脑鼠标。"
+      }
+    ],
+    "collocations": [
+      "Computermaus",
+      "Maus und Tastatur"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "动物",
+      "科技",
+      "A1"
+    ],
+    "synonyms": [
+      "Nager",
+      "Mäuschen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Medikament",
+    "lemma": "Medikament",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Medikamente",
+    "meaning": [
+      {
+        "zh": "药物",
+        "en": "medication"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Arzt hat mir ein Medikament gegen Kopfschmerzen verschrieben.",
+        "zh": "医生给我开了治头痛的药。"
+      },
+      {
+        "de": "Dieses Medikament sollte man vor dem Essen einnehmen.",
+        "zh": "这种药应该在饭前服用。"
+      }
+    ],
+    "collocations": [
+      "Medikament einnehmen",
+      "Medikament verschreiben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "健康",
+      "B1"
+    ],
+    "synonyms": [
+      "Arzneimittel",
+      "Tablette"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Meer",
+    "lemma": "Meer",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Meere",
+    "meaning": [
+      {
+        "zh": "海",
+        "en": "sea"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Sommer fahren wir ans Meer.",
+        "zh": "夏天我们去海边。"
+      },
+      {
+        "de": "Das Mittelmeer ist ein beliebtes Reiseziel.",
+        "zh": "地中海是一个受欢迎的旅游目的地。"
+      }
+    ],
+    "collocations": [
+      "ans Meer fahren",
+      "am Meer wohnen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "自然",
+      "A2"
+    ],
+    "synonyms": [
+      "Ozean",
+      "See"
+    ],
+    "antonyms": [
+      "Land"
+    ]
+  },
+  {
+    "word": "mein",
+    "lemma": "mein",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "我的",
+        "en": "my"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist mein Buch.",
+        "zh": "这是我的书。"
+      },
+      {
+        "de": "Meine Mutter kocht heute Abend.",
+        "zh": "我妈妈今晚做饭。"
+      }
+    ],
+    "collocations": [
+      "mein Freund",
+      "meine Familie"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语法",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "dein"
+    ]
+  },
+  {
+    "word": "Meinung",
+    "lemma": "Meinung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Meinungen",
+    "meaning": [
+      {
+        "zh": "意见",
+        "en": "opinion"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Meiner Meinung nach ist das eine gute Idee.",
+        "zh": "依我看，这是个好主意。"
+      },
+      {
+        "de": "Er hat eine andere Meinung zu diesem Thema.",
+        "zh": "他对这个话题有不同意见。"
+      }
+    ],
+    "collocations": [
+      "Meinung äußern",
+      "Meinung nach"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "交流",
+      "A2"
+    ],
+    "synonyms": [
+      "Ansicht",
+      "Standpunkt"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "meistens",
+    "lemma": "meistens",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "大多数时候",
+        "en": "mostly"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Meistens fahre ich mit dem Bus zur Arbeit.",
+        "zh": "大多数时候我坐公交车上班。"
+      },
+      {
+        "de": "Es regnet hier meistens im November.",
+        "zh": "这里大多数时候十一月下雨。"
+      }
+    ],
+    "collocations": [
+      "meistens der Fall",
+      "meistens gut"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "频率",
+      "A2"
+    ],
+    "synonyms": [
+      "oft",
+      "häufig"
+    ],
+    "antonyms": [
+      "selten"
+    ]
+  },
+  {
+    "word": "Mensa",
+    "lemma": "Mensa",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Mensen",
+    "meaning": [
+      {
+        "zh": "食堂，学生餐厅",
+        "en": "cafeteria, student canteen"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir essen heute in der Mensa.",
+        "zh": "我们今天在食堂吃饭。"
+      },
+      {
+        "de": "Die Mensa hat bis 14 Uhr geöffnet.",
+        "zh": "食堂开到下午两点。"
+      }
+    ],
+    "collocations": [
+      "in der Mensa essen",
+      "die Mensa schließen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "教育",
+      "A2"
+    ],
+    "synonyms": [
+      "Kantine"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Meter",
+    "lemma": "Meter",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Meter",
+    "meaning": [
+      {
+        "zh": "米（长度单位）",
+        "en": "meter"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Tisch ist zwei Meter lang.",
+        "zh": "这张桌子两米长。"
+      },
+      {
+        "de": "Wir laufen noch hundert Meter.",
+        "zh": "我们还要跑一百米。"
+      }
+    ],
+    "collocations": [
+      "ein Meter",
+      "pro Meter"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "测量",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Miete",
+    "lemma": "Miete",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Mieten",
+    "meaning": [
+      {
+        "zh": "租金",
+        "en": "rent"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Miete für die Wohnung ist sehr hoch.",
+        "zh": "这间公寓的租金很高。"
+      },
+      {
+        "de": "Ich zahle die Miete am Ende des Monats.",
+        "zh": "我在月底付租金。"
+      }
+    ],
+    "collocations": [
+      "Miete zahlen",
+      "Miete erhöhen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "经济",
+      "A2"
+    ],
+    "synonyms": [
+      "Pacht"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Milch",
+    "lemma": "Milch",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "牛奶",
+        "en": "milk"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich trinke jeden Morgen ein Glas Milch.",
+        "zh": "我每天早上喝一杯牛奶。"
+      },
+      {
+        "de": "Die Milch ist sauer geworden.",
+        "zh": "牛奶变酸了。"
+      }
+    ],
+    "collocations": [
+      "frische Milch",
+      "Milch trinken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "饮食",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Million",
+    "lemma": "Million",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Millionen",
+    "meaning": [
+      {
+        "zh": "百万",
+        "en": "million"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Stadt hat über eine Million Einwohner.",
+        "zh": "这个城市有超过一百万居民。"
+      },
+      {
+        "de": "Er hat im Lotto eine Million gewonnen.",
+        "zh": "他中了彩票一百万。"
+      }
+    ],
+    "collocations": [
+      "eine Million Euro",
+      "Millionen von Menschen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "数字",
+      "经济",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "mitkommen",
+    "lemma": "mitkommen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "一起来，跟来",
+        "en": "to come along"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kommst du mit ins Kino?",
+        "zh": "你一起来看电影吗？"
+      },
+      {
+        "de": "Die Kinder sind gern mitgekommen.",
+        "zh": "孩子们很乐意跟来。"
+      }
+    ],
+    "collocations": [
+      "mitkommen zu",
+      "mitkommen mit"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "mitgekommen"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "行动",
+      "A2"
+    ],
+    "synonyms": [
+      "begleiten"
+    ],
+    "antonyms": [
+      "zurückbleiben"
+    ]
+  },
+  {
+    "word": "miymachen",
+    "lemma": "miymachen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "参与，一起做",
+        "en": "to join in, to participate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Machst du bei dem Spiel mit?",
+        "zh": "你参加这个游戏吗？"
+      },
+      {
+        "de": "Er hat bei der Aktion mitgemacht.",
+        "zh": "他参与了这次活动。"
+      }
+    ],
+    "collocations": [
+      "bei etwas mitmachen",
+      "mitmachen bei"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "mitgemacht"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "社交",
+      "A2"
+    ],
+    "synonyms": [
+      "teilnehmen"
+    ],
+    "antonyms": [
+      "fernbleiben"
+    ]
+  },
+  {
+    "word": "Mitfahrgelegenheit",
+    "lemma": "Mitfahrgelegenheit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Mitfahrgelegenheiten",
+    "meaning": [
+      {
+        "zh": "搭车机会，拼车",
+        "en": "ride-sharing opportunity"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich suche eine Mitfahrgelegenheit nach Berlin.",
+        "zh": "我在找去柏林的搭车机会。"
+      },
+      {
+        "de": "Über die App findet man leicht Mitfahrgelegenheiten.",
+        "zh": "通过这个应用很容易找到拼车机会。"
+      }
+    ],
+    "collocations": [
+      "eine Mitfahrgelegenheit suchen",
+      "Mitfahrgelegenheit anbieten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "交通",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Fahrgemeinschaft"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Mitglied",
+    "lemma": "Mitglied",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Mitglieder",
+    "meaning": [
+      {
+        "zh": "成员",
+        "en": "member"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist seit fünf Jahren Mitglied des Vereins.",
+        "zh": "他加入这个协会已经五年了。"
+      },
+      {
+        "de": "Alle Mitglieder wurden zur Versammlung eingeladen.",
+        "zh": "所有成员都被邀请参加会议。"
+      }
+    ],
+    "collocations": [
+      "Mitglied werden",
+      "aktives Mitglied"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Angehöriger",
+      "Teilnehmer"
+    ],
+    "antonyms": [
+      "Außenseiter"
+    ]
+  },
+  {
+    "word": "Mittag",
+    "lemma": "Mittag",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Mittage",
+    "meaning": [
+      {
+        "zh": "中午",
+        "en": "noon"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir treffen uns um zwölf Uhr mittags.",
+        "zh": "我们中午十二点见面。"
+      },
+      {
+        "de": "Am Mittag ist es am wärmsten.",
+        "zh": "中午最热。"
+      }
+    ],
+    "collocations": [
+      "zu Mittag essen",
+      "am Mittag"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "时间",
+      "A2"
+    ],
+    "synonyms": [
+      "Mittagszeit"
+    ],
+    "antonyms": [
+      "Mitternacht"
+    ]
+  },
+  {
+    "word": "Mittwoch",
+    "lemma": "Mittwoch",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Mittwoche",
+    "meaning": [
+      {
+        "zh": "星期三",
+        "en": "Wednesday"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Am Mittwoch habe ich einen Termin beim Arzt.",
+        "zh": "星期三我有个医生预约。"
+      },
+      {
+        "de": "Mittwochs ist der Markt in der Stadt.",
+        "zh": "星期三城里有个集市。"
+      }
+    ],
+    "collocations": [
+      "am Mittwoch",
+      "jeden Mittwoch"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "时间",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Möbel",
+    "lemma": "Möbel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Möbel",
+    "meaning": [
+      {
+        "zh": "家具",
+        "en": "furniture"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir müssen neue Möbel für das Wohnzimmer kaufen.",
+        "zh": "我们需要为客厅买新家具。"
+      },
+      {
+        "de": "Die Möbel in diesem Geschäft sind sehr modern.",
+        "zh": "这家店的家具非常现代。"
+      }
+    ],
+    "collocations": [
+      "Möbel kaufen",
+      "Möbel aufbauen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Einrichtung",
+      "Mobiliar"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "modern",
+    "lemma": "modern",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "现代的",
+        "en": "modern"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Gebäude hat ein modernes Design.",
+        "zh": "这座建筑有现代的设计。"
+      },
+      {
+        "de": "Sie trägt gerne moderne Kleidung.",
+        "zh": "她喜欢穿现代的衣服。"
+      }
+    ],
+    "collocations": [
+      "moderne Technologie",
+      "moderne Kunst"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "zeitgemäß",
+      "aktuell"
+    ],
+    "antonyms": [
+      "altmodisch",
+      "traditionell"
+    ]
+  },
+  {
+    "word": "möglich",
+    "lemma": "möglich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "可能的",
+        "en": "possible"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ist es möglich, den Termin zu verschieben?",
+        "zh": "有可能推迟预约吗？"
+      },
+      {
+        "de": "Wir müssen alle möglichen Lösungen prüfen.",
+        "zh": "我们必须检查所有可能的解决方案。"
+      }
+    ],
+    "collocations": [
+      "möglich sein",
+      "so schnell wie möglich"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "抽象",
+      "A2"
+    ],
+    "synonyms": [
+      "denkbar",
+      "realisierbar"
+    ],
+    "antonyms": [
+      "unmöglich"
+    ]
+  },
+  {
+    "word": "Moment",
+    "lemma": "Moment",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Momente",
+    "meaning": [
+      {
+        "zh": "时刻",
+        "en": "moment"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Einen Moment bitte, ich komme gleich.",
+        "zh": "请稍等片刻，我马上来。"
+      },
+      {
+        "de": "In diesem Moment klingelte das Telefon.",
+        "zh": "就在那一刻电话响了。"
+      }
+    ],
+    "collocations": [
+      "im Moment",
+      "einen Moment warten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "时间",
+      "A2"
+    ],
+    "synonyms": [
+      "Augenblick",
+      "Zeitpunkt"
+    ],
+    "antonyms": [
+      "Ewigkeit"
+    ]
+  },
+  {
+    "word": "Monat",
+    "lemma": "Monat",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Monate",
+    "meaning": [
+      {
+        "zh": "月份",
+        "en": "month"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Monat Januar ist sehr kalt.",
+        "zh": "一月非常冷。"
+      },
+      {
+        "de": "Ich habe diesen Monat viel zu tun.",
+        "zh": "我这个月有很多事要做。"
+      }
+    ],
+    "collocations": [
+      "im Monat",
+      "jeden Monat"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "时间",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Montag",
+    "lemma": "Montag",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Montage",
+    "meaning": [
+      {
+        "zh": "星期一",
+        "en": "Monday"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Am Montag habe ich einen Termin.",
+        "zh": "星期一我有一个约会。"
+      },
+      {
+        "de": "Nächsten Montag fahren wir nach Berlin.",
+        "zh": "下星期一我们去柏林。"
+      }
+    ],
+    "collocations": [
+      "am Montag",
+      "jeden Montag"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "时间",
+      "星期",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Morgen",
+    "lemma": "Morgen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Morgen",
+    "meaning": [
+      {
+        "zh": "早晨",
+        "en": "morning"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Guten Morgen!",
+        "zh": "早上好！"
+      },
+      {
+        "de": "Am Morgen trinke ich Kaffee.",
+        "zh": "早晨我喝咖啡。"
+      }
+    ],
+    "collocations": [
+      "am Morgen",
+      "jeden Morgen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "时间",
+      "日常",
+      "A1"
+    ],
+    "synonyms": [
+      "Früh"
+    ],
+    "antonyms": [
+      "Abend"
+    ]
+  },
+  {
+    "word": "morgens",
+    "lemma": "morgens",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "在早晨",
+        "en": "in the morning"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich stehe morgens um sieben Uhr auf.",
+        "zh": "我早晨七点起床。"
+      },
+      {
+        "de": "Morgens ist es oft kühl.",
+        "zh": "早晨通常很凉爽。"
+      }
+    ],
+    "collocations": [
+      "morgens früh",
+      "morgens um"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "时间",
+      "副词",
+      "A1"
+    ],
+    "synonyms": [
+      "am Morgen"
+    ],
+    "antonyms": [
+      "abends"
+    ]
+  },
+  {
+    "word": "müde",
+    "lemma": "müde",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "疲倦的",
+        "en": "tired"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich bin heute sehr müde.",
+        "zh": "我今天很累。"
+      },
+      {
+        "de": "Nach der Arbeit fühle ich mich müde.",
+        "zh": "下班后我感到疲倦。"
+      }
+    ],
+    "collocations": [
+      "müde sein",
+      "müde werden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "情感",
+      "状态",
+      "A1"
+    ],
+    "synonyms": [
+      "erschöpft"
+    ],
+    "antonyms": [
+      "wach",
+      "energetisch"
+    ]
+  },
+  {
+    "word": "Munchen",
+    "lemma": "München",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "慕尼黑",
+        "en": "Munich"
+      }
+    ],
+    "examples": [
+      {
+        "de": "München ist die Hauptstadt Bayerns.",
+        "zh": "慕尼黑是巴伐利亚的首府。"
+      },
+      {
+        "de": "Ich möchte nächstes Jahr nach München reisen.",
+        "zh": "明年我想去慕尼黑旅行。"
+      }
+    ],
+    "collocations": [
+      "in München",
+      "nach München"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "地理",
+      "城市",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Mund",
+    "lemma": "Mund",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Münder",
+    "meaning": [
+      {
+        "zh": "嘴",
+        "en": "mouth"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Halte den Mund!",
+        "zh": "闭嘴！"
+      },
+      {
+        "de": "Der Mund ist ein wichtiges Organ.",
+        "zh": "嘴是一个重要的器官。"
+      }
+    ],
+    "collocations": [
+      "den Mund halten",
+      "Mund und Nase"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "身体",
+      "日常",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  }
+]

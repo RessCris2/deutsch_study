@@ -1,0 +1,1431 @@
+[
+  {
+    "word": "Bart",
+    "lemma": "Bart",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Bärte",
+    "meaning": [
+      {
+        "zh": "胡子",
+        "en": "beard"
+      },
+      {
+        "zh": "胡须",
+        "en": "beard"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat sich einen langen Bart wachsen lassen.",
+        "zh": "他留了一脸长胡子。"
+      },
+      {
+        "de": "Der Bart des alten Mannes war grau.",
+        "zh": "老人的胡子是灰色的。"
+      }
+    ],
+    "collocations": [
+      "einen Bart tragen",
+      "sich den Bart rasieren",
+      "Bart wachsen lassen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "身体",
+      "外貌",
+      "A2"
+    ],
+    "synonyms": [
+      "Gesichtsbehaarung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Beamer",
+    "lemma": "Beamer",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Beamer",
+    "meaning": [
+      {
+        "zh": "投影仪",
+        "en": "projector"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Beamer zeigt die Präsentation an der Wand.",
+        "zh": "投影仪在墙上显示演示文稿。"
+      },
+      {
+        "de": "Wir brauchen einen Beamer für die Konferenz.",
+        "zh": "我们需要一个投影仪用于会议。"
+      }
+    ],
+    "collocations": [
+      "einen Beamer anschließen",
+      "den Beamer einschalten",
+      "Beamer und Leinwand"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "设备",
+      "B1"
+    ],
+    "synonyms": [
+      "Projektor"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "bedauern",
+    "lemma": "bedauern",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "感到遗憾",
+        "en": "to regret"
+      },
+      {
+        "zh": "同情",
+        "en": "to feel sorry for"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich bedauere, dass ich nicht kommen konnte.",
+        "zh": "我很遗憾没能来。"
+      },
+      {
+        "de": "Wir bedauern den Verlust sehr.",
+        "zh": "我们对损失深感遗憾。"
+      }
+    ],
+    "collocations": [
+      "etwas sehr bedauern",
+      "es bedauern, dass",
+      "zu bedauern sein"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "bedauert"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "表达",
+      "B1"
+    ],
+    "synonyms": [
+      "bereuen",
+      "leidtun"
+    ],
+    "antonyms": [
+      "sich freuen"
+    ]
+  },
+  {
+    "word": "BERN",
+    "lemma": "Bern",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "伯尔尼（瑞士首都）",
+        "en": "Bern (capital of Switzerland)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bern ist die Hauptstadt der Schweiz.",
+        "zh": "伯尔尼是瑞士的首都。"
+      },
+      {
+        "de": "Wir fahren nächste Woche nach Bern.",
+        "zh": "我们下周去伯尔尼。"
+      }
+    ],
+    "collocations": [
+      "in Bern",
+      "nach Bern fahren",
+      "aus Bern kommen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "地理",
+      "城市",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "bedienen",
+    "lemma": "bedienen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "服务",
+        "en": "to serve"
+      },
+      {
+        "zh": "操作",
+        "en": "to operate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Kellner bedient die Gäste freundlich.",
+        "zh": "服务员友好地服务客人。"
+      },
+      {
+        "de": "Kannst du die Maschine bedienen?",
+        "zh": "你能操作这台机器吗？"
+      }
+    ],
+    "collocations": [
+      "einen Gast bedienen",
+      "eine Maschine bedienen",
+      "sich selbst bedienen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "bedient"
+    },
+    "level": "B1",
+    "tags": [
+      "服务",
+      "技术",
+      "B1"
+    ],
+    "synonyms": [
+      "versorgen",
+      "handhaben"
+    ],
+    "antonyms": [
+      "vernachlässigen"
+    ]
+  },
+  {
+    "word": "Bedienung",
+    "lemma": "Bedienung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Bedienungen",
+    "meaning": [
+      {
+        "zh": "服务",
+        "en": "service"
+      },
+      {
+        "zh": "服务员",
+        "en": "waiter/waitress"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Bedienung in diesem Restaurant ist sehr schnell.",
+        "zh": "这家餐厅的服务非常快。"
+      },
+      {
+        "de": "Die Bedienung bringt uns die Getränke.",
+        "zh": "服务员给我们拿饮料来。"
+      }
+    ],
+    "collocations": [
+      "gute Bedienung",
+      "die Bedienung rufen",
+      "Bedienung inklusive"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "服务",
+      "餐饮",
+      "B1"
+    ],
+    "synonyms": [
+      "Service",
+      "Kellner"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "befragen",
+    "lemma": "befragen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "询问",
+        "en": "to question"
+      },
+      {
+        "zh": "调查",
+        "en": "to survey"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Polizei befragt die Zeugen.",
+        "zh": "警察询问证人。"
+      },
+      {
+        "de": "Wir haben die Teilnehmer zu ihren Erfahrungen befragt.",
+        "zh": "我们调查了参与者关于他们的经历。"
+      }
+    ],
+    "collocations": [
+      "jemanden befragen",
+      "zu einem Thema befragen",
+      "eine Umfrage durchführen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "befragt"
+    },
+    "level": "B2",
+    "tags": [
+      "沟通",
+      "调查",
+      "B2"
+    ],
+    "synonyms": [
+      "fragen",
+      "interviewen"
+    ],
+    "antonyms": [
+      "antworten"
+    ]
+  },
+  {
+    "word": "befürchten",
+    "lemma": "befürchten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "担心",
+        "en": "to fear"
+      },
+      {
+        "zh": "担忧",
+        "en": "to be afraid of"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich befürchte, dass es zu spät ist.",
+        "zh": "我担心太晚了。"
+      },
+      {
+        "de": "Viele befürchten negative Folgen der Reform.",
+        "zh": "许多人担心改革的负面后果。"
+      }
+    ],
+    "collocations": [
+      "etwas befürchten",
+      "befürchten, dass",
+      "zu befürchten haben"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "befürchtet"
+    },
+    "level": "B2",
+    "tags": [
+      "情感",
+      "担忧",
+      "B2"
+    ],
+    "synonyms": [
+      "fürchten",
+      "Angst haben"
+    ],
+    "antonyms": [
+      "hoffen"
+    ]
+  },
+  {
+    "word": "begeben",
+    "lemma": "begeben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "前往，去（某处）",
+        "en": "to go, to proceed (to a place)"
+      },
+      {
+        "zh": "发生（事件）",
+        "en": "to happen, to occur"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er begab sich nach Hause.",
+        "zh": "他回家了。"
+      },
+      {
+        "de": "Ein Unglück begab sich gestern.",
+        "zh": "昨天发生了一起不幸事件。"
+      }
+    ],
+    "collocations": [
+      "sich begeben zu",
+      "sich begeben in"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "begeben"
+    },
+    "level": "B2",
+    "tags": [
+      "运动",
+      "事件",
+      "B2"
+    ],
+    "synonyms": [
+      "gehen",
+      "fahren",
+      "ereignen"
+    ],
+    "antonyms": [
+      "bleiben"
+    ]
+  },
+  {
+    "word": "Beginn",
+    "lemma": "Beginn",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "开始，开端",
+        "en": "beginning, start"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Beginn der Veranstaltung ist um 18 Uhr.",
+        "zh": "活动在18点开始。"
+      },
+      {
+        "de": "Am Beginn des Films war es noch ruhig.",
+        "zh": "电影开始时还很安静。"
+      }
+    ],
+    "collocations": [
+      "zu Beginn",
+      "am Beginn",
+      "Beginn der Arbeit"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "时间",
+      "A2"
+    ],
+    "synonyms": [
+      "Anfang",
+      "Start"
+    ],
+    "antonyms": [
+      "Ende"
+    ]
+  },
+  {
+    "word": "Begriff",
+    "lemma": "Begriff",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Begriffe",
+    "meaning": [
+      {
+        "zh": "概念，术语",
+        "en": "concept, term"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieser Begriff ist schwer zu definieren.",
+        "zh": "这个概念很难定义。"
+      },
+      {
+        "de": "Im Gespräch fiel der Begriff 'Nachhaltigkeit'.",
+        "zh": "谈话中提到了'可持续性'这个概念。"
+      }
+    ],
+    "collocations": [
+      "im Begriff sein",
+      "einen Begriff verwenden",
+      "Begriff der Freiheit"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语言",
+      "学术",
+      "B1"
+    ],
+    "synonyms": [
+      "Ausdruck",
+      "Terminus"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "begrifflich",
+    "lemma": "begrifflich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "概念的，术语上的",
+        "en": "conceptual, terminological"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die begriffliche Klarheit ist wichtig.",
+        "zh": "概念的清晰很重要。"
+      },
+      {
+        "de": "Er hat begriffliche Schwierigkeiten.",
+        "zh": "他在概念上有困难。"
+      }
+    ],
+    "collocations": [
+      "begriffliche Unterscheidung",
+      "begriffliche Definition"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "学术",
+      "语言",
+      "B2"
+    ],
+    "synonyms": [
+      "konzeptionell",
+      "terminologisch"
+    ],
+    "antonyms": [
+      "praktisch"
+    ]
+  },
+  {
+    "word": "behindern",
+    "lemma": "behindern",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "阻碍，妨碍",
+        "en": "to hinder, to obstruct"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Verkehr behinderte die Rettungsarbeiten.",
+        "zh": "交通阻碍了救援工作。"
+      },
+      {
+        "de": "Seine Krankheit behindert ihn im Alltag.",
+        "zh": "他的疾病在日常生活中妨碍了他。"
+      }
+    ],
+    "collocations": [
+      "jemanden behindern",
+      "etwas behindern",
+      "behindert sein"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "behindert"
+    },
+    "level": "B1",
+    "tags": [
+      "行为",
+      "障碍",
+      "B1"
+    ],
+    "synonyms": [
+      "stören",
+      "blockieren",
+      "erschweren"
+    ],
+    "antonyms": [
+      "fördern",
+      "unterstützen"
+    ]
+  },
+  {
+    "word": "beibehalten",
+    "lemma": "beibehalten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "保持，保留",
+        "en": "to keep, to retain"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir sollten diese Regel beibehalten.",
+        "zh": "我们应该保留这条规则。"
+      },
+      {
+        "de": "Er behielt seinen alten Stil bei.",
+        "zh": "他保持了他的旧风格。"
+      }
+    ],
+    "collocations": [
+      "eine Gewohnheit beibehalten",
+      "einen Plan beibehalten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "beibehalten"
+    },
+    "level": "B2",
+    "tags": [
+      "行为",
+      "持续",
+      "B2"
+    ],
+    "synonyms": [
+      "bewahren",
+      "erhalten"
+    ],
+    "antonyms": [
+      "ändern",
+      "aufgeben"
+    ]
+  },
+  {
+    "word": "bekanntlich",
+    "lemma": "bekanntlich",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "众所周知地",
+        "en": "as is well known, famously"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bekanntlich regnet es in England oft.",
+        "zh": "众所周知，英国经常下雨。"
+      },
+      {
+        "de": "Er ist bekanntlich ein Experte auf diesem Gebiet.",
+        "zh": "众所周知，他是这个领域的专家。"
+      }
+    ],
+    "collocations": [
+      "bekanntlich sein",
+      "bekanntlich haben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语言",
+      "常识",
+      "B1"
+    ],
+    "synonyms": [
+      "wie bekannt",
+      "allgemein bekannt"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "belastbar",
+    "lemma": "belastbar",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "有承受能力的，可靠的",
+        "en": "resilient, reliable, load-bearing"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist sehr belastbar und arbeitet unter Druck.",
+        "zh": "他很有承受能力，能在压力下工作。"
+      },
+      {
+        "de": "Diese Brücke ist nicht belastbar genug.",
+        "zh": "这座桥的承重能力不够。"
+      }
+    ],
+    "collocations": [
+      "belastbar sein",
+      "belastbare Daten",
+      "psychisch belastbar"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "性格",
+      "技术",
+      "B2"
+    ],
+    "synonyms": [
+      "widerstandsfähig",
+      "robust",
+      "zuverlässig"
+    ],
+    "antonyms": [
+      "empfindlich",
+      "schwach"
+    ]
+  },
+  {
+    "word": "beliebig",
+    "lemma": "beliebig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "任意的，随便的",
+        "en": "any, arbitrary"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Du kannst ein beliebiges Buch aus dem Regal nehmen.",
+        "zh": "你可以从书架上随便拿一本书。"
+      },
+      {
+        "de": "Die Reihenfolge ist beliebig.",
+        "zh": "顺序是任意的。"
+      }
+    ],
+    "collocations": [
+      "beliebige Zahl",
+      "beliebig viele"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语言",
+      "B1"
+    ],
+    "synonyms": [
+      "willkürlich",
+      "frei wählbar"
+    ],
+    "antonyms": [
+      "festgelegt",
+      "bestimmt"
+    ]
+  },
+  {
+    "word": "Bereich",
+    "lemma": "Bereich",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Bereiche",
+    "meaning": [
+      {
+        "zh": "领域，范围",
+        "en": "area, field, domain"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er arbeitet im Bereich der Informationstechnologie.",
+        "zh": "他在信息技术领域工作。"
+      },
+      {
+        "de": "Dieser Bereich ist für Kinder nicht zugänglich.",
+        "zh": "这个区域儿童不能进入。"
+      }
+    ],
+    "collocations": [
+      "im Bereich von",
+      "in allen Bereichen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Gebiet",
+      "Sektor",
+      "Feld"
+    ],
+    "antonyms": [
+      "Grenze",
+      "Rand"
+    ]
+  },
+  {
+    "word": "bergab",
+    "lemma": "bergab",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "下坡，向下",
+        "en": "downhill, downwards"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Weg führt bergab zum See.",
+        "zh": "这条路下坡通向湖边。"
+      },
+      {
+        "de": "Mit dem Fahrrad fährt es sich bergab leichter.",
+        "zh": "骑自行车下坡更容易。"
+      }
+    ],
+    "collocations": [
+      "bergab gehen",
+      "bergab fahren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "abwärts",
+      "hinunter"
+    ],
+    "antonyms": [
+      "bergauf",
+      "aufwärts"
+    ]
+  },
+  {
+    "word": "besiedeln",
+    "lemma": "besiedeln",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "定居，殖民",
+        "en": "to settle, to colonize"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die ersten Menschen besiedelten diese Region vor tausend Jahren.",
+        "zh": "第一批人在一千年前定居在这个地区。"
+      },
+      {
+        "de": "Viele Inseln wurden im Laufe der Geschichte besiedelt.",
+        "zh": "许多岛屿在历史上被殖民。"
+      }
+    ],
+    "collocations": [
+      "ein Gebiet besiedeln",
+      "neu besiedeln"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "besiedelt"
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "历史",
+      "B2"
+    ],
+    "synonyms": [
+      "kolonisieren",
+      "ansiedeln"
+    ],
+    "antonyms": [
+      "verlassen",
+      "entvölkern"
+    ]
+  },
+  {
+    "word": "besiegen",
+    "lemma": "besiegen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "战胜，击败",
+        "en": "to defeat, to conquer"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Mannschaft besiegte den Gegner mit 3:0.",
+        "zh": "这支队伍以3:0击败了对手。"
+      },
+      {
+        "de": "Er konnte seine Angst besiegen.",
+        "zh": "他战胜了自己的恐惧。"
+      }
+    ],
+    "collocations": [
+      "einen Feind besiegen",
+      "eine Krankheit besiegen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "besiegt"
+    },
+    "level": "B2",
+    "tags": [
+      "情感",
+      "体育",
+      "B2"
+    ],
+    "synonyms": [
+      "überwinden",
+      "schlagen",
+      "bezwingen"
+    ],
+    "antonyms": [
+      "unterliegen",
+      "verlieren"
+    ]
+  },
+  {
+    "word": "beteiligen",
+    "lemma": "beteiligen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "参与，参加",
+        "en": "to participate, to take part"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Viele Bürger beteiligten sich an der Diskussion.",
+        "zh": "许多市民参与了讨论。"
+      },
+      {
+        "de": "Er beteiligte sich finanziell an dem Projekt.",
+        "zh": "他经济上参与了该项目。"
+      }
+    ],
+    "collocations": [
+      "sich an etwas beteiligen",
+      "sich finanziell beteiligen"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "beteiligt"
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "teilnehmen",
+      "mitmachen"
+    ],
+    "antonyms": [
+      "fernbleiben",
+      "sich ausschließen"
+    ]
+  },
+  {
+    "word": "Bezug",
+    "lemma": "Bezug",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Bezüge",
+    "meaning": [
+      {
+        "zh": "参考，关联，关系",
+        "en": "reference, relation, connection"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Autor nimmt Bezug auf frühere Studien.",
+        "zh": "作者参考了先前的研究。"
+      },
+      {
+        "de": "Es besteht ein enger Bezug zwischen den beiden Ereignissen.",
+        "zh": "这两个事件之间有密切关联。"
+      }
+    ],
+    "collocations": [
+      "Bezug nehmen auf",
+      "in Bezug auf",
+      "einen Bezug herstellen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "语言",
+      "学术",
+      "B2"
+    ],
+    "synonyms": [
+      "Verbindung",
+      "Relation",
+      "Referenz"
+    ],
+    "antonyms": [
+      "Unabhängigkeit",
+      "Trennung"
+    ]
+  },
+  {
+    "word": "Bildschirm",
+    "lemma": "Bildschirm",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Bildschirme",
+    "meaning": [
+      {
+        "zh": "屏幕，显示器",
+        "en": "screen, monitor"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Bildschirm des Laptops ist sehr hell.",
+        "zh": "笔记本电脑的屏幕非常亮。"
+      },
+      {
+        "de": "Er starrte stundenlang auf den Bildschirm.",
+        "zh": "他盯着屏幕看了几个小时。"
+      }
+    ],
+    "collocations": [
+      "am Bildschirm arbeiten",
+      "einen Bildschirm einschalten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "科技",
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Monitor",
+      "Display"
+    ],
+    "antonyms": [
+      "Tastatur",
+      "Maus"
+    ]
+  },
+  {
+    "word": "Bildtelefon",
+    "lemma": "Bildtelefon",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Bildtelefone",
+    "meaning": [
+      {
+        "zh": "可视电话",
+        "en": "video phone"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mit einem Bildtelefon kann man den Gesprächspartner sehen.",
+        "zh": "使用可视电话可以看到通话对象。"
+      },
+      {
+        "de": "Das Unternehmen hat neue Bildtelefone für die Konferenzräume angeschafft.",
+        "zh": "公司为会议室购置了新的可视电话。"
+      }
+    ],
+    "collocations": [
+      "ein Bildtelefon benutzen",
+      "Bildtelefon mit Kamera"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "通信",
+      "B1"
+    ],
+    "synonyms": [
+      "Videotelefon"
+    ],
+    "antonyms": [
+      "normales Telefon"
+    ]
+  },
+  {
+    "word": "bisherig",
+    "lemma": "bisherig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "迄今为止的，以前的",
+        "en": "previous, so far"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der bisherige Chef geht in Rente.",
+        "zh": "之前的老板退休了。"
+      },
+      {
+        "de": "Das ist das bisherige Ergebnis der Studie.",
+        "zh": "这是迄今为止的研究结果。"
+      }
+    ],
+    "collocations": [
+      "bisherige Erfahrung",
+      "bisherige Entwicklung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "时间",
+      "状态",
+      "B1"
+    ],
+    "synonyms": [
+      "vorherig",
+      "früher"
+    ],
+    "antonyms": [
+      "zukünftig",
+      "künftig"
+    ]
+  },
+  {
+    "word": "bitter",
+    "lemma": "bitter",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "苦的；痛苦的，辛酸的",
+        "en": "bitter"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Kaffee schmeckt bitter.",
+        "zh": "这咖啡尝起来很苦。"
+      },
+      {
+        "de": "Es war eine bittere Enttäuschung für ihn.",
+        "zh": "这对他来说是一次痛苦的失望。"
+      }
+    ],
+    "collocations": [
+      "bitter schmecken",
+      "bittere Wahrheit"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "味觉",
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "herb",
+      "schmerzlich"
+    ],
+    "antonyms": [
+      "süß",
+      "angenehm"
+    ]
+  },
+  {
+    "word": "Blatt",
+    "lemma": "Blatt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Blätter",
+    "meaning": [
+      {
+        "zh": "叶子；纸张；页",
+        "en": "leaf; sheet; page"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Herbst fallen die Blätter von den Bäumen.",
+        "zh": "秋天树叶从树上落下。"
+      },
+      {
+        "de": "Bitte schreiben Sie auf ein neues Blatt Papier.",
+        "zh": "请在一张新纸上写。"
+      }
+    ],
+    "collocations": [
+      "ein Blatt Papier",
+      "Blätter sammeln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "自然",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "Seite",
+      "Laub"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "blitzschnell",
+    "lemma": "blitzschnell",
+    "pos": [
+      "adverb",
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "闪电般地，极快地",
+        "en": "lightning-fast"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er reagierte blitzschnell und fing den Ball.",
+        "zh": "他闪电般地反应并接住了球。"
+      },
+      {
+        "de": "Die Nachricht verbreitete sich blitzschnell im Internet.",
+        "zh": "这消息在网上迅速传播开来。"
+      }
+    ],
+    "collocations": [
+      "blitzschnell handeln",
+      "blitzschnelle Reaktion"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "速度",
+      "时间",
+      "B1"
+    ],
+    "synonyms": [
+      "rasend schnell",
+      "sofort"
+    ],
+    "antonyms": [
+      "langsam",
+      "gemächlich"
+    ]
+  }
+]

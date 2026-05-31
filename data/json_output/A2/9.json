@@ -1,0 +1,1829 @@
+[
+  {
+    "word": "Geburtsstadt",
+    "lemma": "Geburtsstadt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Geburtsstädte",
+    "meaning": [
+      {
+        "zh": "出生城市",
+        "en": "birth city"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er kehrte in seine Geburtsstadt zurück.",
+        "zh": "他回到了他的出生城市。"
+      },
+      {
+        "de": "Meine Geburtsstadt ist klein und ruhig.",
+        "zh": "我的出生城市小而宁静。"
+      }
+    ],
+    "collocations": [
+      "in der Geburtsstadt leben",
+      "seine Geburtsstadt besuchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "地理",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Heimatstadt"
+    ],
+    "antonyms": [
+      "Wahlheimat"
+    ]
+  },
+  {
+    "word": "Gedanke",
+    "lemma": "Gedanke",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Gedanken",
+    "meaning": [
+      {
+        "zh": "想法，思想",
+        "en": "thought, idea"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Gedanke an die Prüfung macht mich nervös.",
+        "zh": "想到考试让我紧张。"
+      },
+      {
+        "de": "Sie hatte einen guten Gedanken für das Projekt.",
+        "zh": "她对这个项目有一个好主意。"
+      }
+    ],
+    "collocations": [
+      "einen Gedanken fassen",
+      "in Gedanken versinken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "心理",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "Idee",
+      "Einfall"
+    ],
+    "antonyms": [
+      "Gedankenlosigkeit"
+    ]
+  },
+  {
+    "word": "Gedenken",
+    "lemma": "Gedenken",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "纪念，缅怀",
+        "en": "remembrance, commemoration"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Zum Gedenken an die Opfer wurde eine Schweigeminute abgehalten.",
+        "zh": "为纪念遇难者，举行了默哀一分钟。"
+      },
+      {
+        "de": "Das Denkmal dient dem Gedenken an die Gefallenen.",
+        "zh": "这座纪念碑用于纪念阵亡者。"
+      }
+    ],
+    "collocations": [
+      "zum Gedenken an",
+      "im Gedenken an jemanden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "历史",
+      "B2"
+    ],
+    "synonyms": [
+      "Andenken",
+      "Erinnerung"
+    ],
+    "antonyms": [
+      "Vergessen"
+    ]
+  },
+  {
+    "word": "gedruckt",
+    "lemma": "gedruckt",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "印刷的",
+        "en": "printed"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Buch ist in gedruckter Form erhältlich.",
+        "zh": "这本书有印刷版。"
+      },
+      {
+        "de": "Die gedruckte Version unterscheidet sich von der Online-Version.",
+        "zh": "印刷版与在线版不同。"
+      }
+    ],
+    "collocations": [
+      "gedruckte Ausgabe",
+      "gedruckte Medien"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "媒体",
+      "B1"
+    ],
+    "synonyms": [
+      "publiziert",
+      "veröffentlicht"
+    ],
+    "antonyms": [
+      "digital",
+      "handschriftlich"
+    ]
+  },
+  {
+    "word": "Geduld",
+    "lemma": "Geduld",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "耐心",
+        "en": "patience"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Man braucht viel Geduld, um ein Instrument zu lernen.",
+        "zh": "学习乐器需要很多耐心。"
+      },
+      {
+        "de": "Ich verliere langsam die Geduld mit ihm.",
+        "zh": "我对他渐渐失去耐心。"
+      }
+    ],
+    "collocations": [
+      "Geduld haben",
+      "die Geduld verlieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "Ausdauer",
+      "Langmut"
+    ],
+    "antonyms": [
+      "Ungeduld"
+    ]
+  },
+  {
+    "word": "geduldig",
+    "lemma": "geduldig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "耐心的",
+        "en": "patient"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sei geduldig, das Ergebnis kommt bald.",
+        "zh": "耐心点，结果很快就出来了。"
+      },
+      {
+        "de": "Sie ist eine sehr geduldige Lehrerin.",
+        "zh": "她是一位非常有耐心的老师。"
+      }
+    ],
+    "collocations": [
+      "geduldig warten",
+      "geduldig erklären"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "性格",
+      "A2"
+    ],
+    "synonyms": [
+      "langmütig",
+      "ausdauernd"
+    ],
+    "antonyms": [
+      "ungeduldig"
+    ]
+  },
+  {
+    "word": "Gefahr",
+    "lemma": "Gefahr",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Gefahren",
+    "meaning": [
+      {
+        "zh": "危险",
+        "en": "danger, risk"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Rauch birgt eine große Gefahr für die Gesundheit.",
+        "zh": "吸烟对健康有巨大危险。"
+      },
+      {
+        "de": "Er brachte sich in Gefahr, um das Kind zu retten.",
+        "zh": "他冒着危险去救那个孩子。"
+      }
+    ],
+    "collocations": [
+      "in Gefahr sein",
+      "eine Gefahr darstellen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "安全",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "Risiko",
+      "Bedrohung"
+    ],
+    "antonyms": [
+      "Sicherheit"
+    ]
+  },
+  {
+    "word": "Gegenbesuch",
+    "lemma": "Gegenbesuch",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Gegenbesuche",
+    "meaning": [
+      {
+        "zh": "回访",
+        "en": "return visit"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Nach ihrem Besuch planen wir einen Gegenbesuch.",
+        "zh": "在他们来访后，我们计划一次回访。"
+      },
+      {
+        "de": "Der Gegenbesuch der Delegation findet im nächsten Monat statt.",
+        "zh": "代表团的回访将于下个月进行。"
+      }
+    ],
+    "collocations": [
+      "einen Gegenbesuch machen",
+      "zu einem Gegenbesuch einladen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社交",
+      "旅行",
+      "B1"
+    ],
+    "synonyms": [
+      "Rückbesuch"
+    ],
+    "antonyms": [
+      "Erstbesuch"
+    ]
+  },
+  {
+    "word": "Gegend",
+    "lemma": "Gegend",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Gegenden",
+    "meaning": [
+      {
+        "zh": "地区，地带",
+        "en": "region, area"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In dieser Gegend gibt es viele Wälder.",
+        "zh": "这个地区有很多森林。"
+      },
+      {
+        "de": "Er wohnt in einer ruhigen Gegend.",
+        "zh": "他住在一个安静的地区。"
+      }
+    ],
+    "collocations": [
+      "in der Gegend",
+      "eine ländliche Gegend"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "地理",
+      "B1"
+    ],
+    "synonyms": [
+      "Region",
+      "Gebiet"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Geiß",
+    "lemma": "Geiß",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Geißen",
+    "meaning": [
+      {
+        "zh": "母山羊",
+        "en": "she-goat, nanny goat"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Geiß frisst Gras auf der Wiese.",
+        "zh": "母山羊在草地上吃草。"
+      },
+      {
+        "de": "Der Bauer melkt die Geiß jeden Morgen.",
+        "zh": "农夫每天早上挤母山羊的奶。"
+      }
+    ],
+    "collocations": [
+      "eine Geiß melken",
+      "die Geiß hüten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "动物",
+      "B1"
+    ],
+    "synonyms": [
+      "Ziege"
+    ],
+    "antonyms": [
+      "Bock"
+    ]
+  },
+  {
+    "word": "Geißlein",
+    "lemma": "Geißlein",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Geißlein",
+    "meaning": [
+      {
+        "zh": "小山羊",
+        "en": "kid, young goat"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Geißlein springt fröhlich über die Wiese.",
+        "zh": "小山羊快乐地跳过草地。"
+      },
+      {
+        "de": "Die sieben Geißlein sind eine bekannte Märchenfigur.",
+        "zh": "七只小山羊是著名的童话角色。"
+      }
+    ],
+    "collocations": [
+      "das Geißlein füttern",
+      "die Geißlein hüten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "动物",
+      "童话",
+      "B1"
+    ],
+    "synonyms": [
+      "Zicklein"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Geist",
+    "lemma": "Geist",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Geister",
+    "meaning": [
+      {
+        "zh": "精神，心灵；鬼魂",
+        "en": "spirit, mind; ghost"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Geist der Erfindung treibt ihn an.",
+        "zh": "发明精神驱使他前进。"
+      },
+      {
+        "de": "In dem alten Schloss soll ein Geist spuken.",
+        "zh": "据说那座古堡里闹鬼。"
+      }
+    ],
+    "collocations": [
+      "der menschliche Geist",
+      "einen Geist beschwören"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "哲学",
+      "超自然",
+      "B1"
+    ],
+    "synonyms": [
+      "Seele",
+      "Gespenst"
+    ],
+    "antonyms": [
+      "Körper",
+      "Materie"
+    ]
+  },
+  {
+    "word": "gelb",
+    "lemma": "gelb",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "黄色的",
+        "en": "yellow"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Sonne ist gelb und warm.",
+        "zh": "太阳是黄色的且温暖。"
+      },
+      {
+        "de": "Er trug ein gelbes Hemd zur Party.",
+        "zh": "他穿了一件黄色衬衫去派对。"
+      }
+    ],
+    "collocations": [
+      "gelbe Blume",
+      "gelbe Farbe"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "颜色",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Genauigkeit",
+    "lemma": "Genauigkeit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "精确，准确性",
+        "en": "precision, accuracy"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Genauigkeit der Messung ist entscheidend.",
+        "zh": "测量的精确性至关重要。"
+      },
+      {
+        "de": "Er arbeitet mit großer Genauigkeit.",
+        "zh": "他以极大的精确性工作。"
+      }
+    ],
+    "collocations": [
+      "mit Genauigkeit",
+      "die Genauigkeit erhöhen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "科学",
+      "质量",
+      "B2"
+    ],
+    "synonyms": [
+      "Präzision",
+      "Exaktheit"
+    ],
+    "antonyms": [
+      "Ungenauigkeit",
+      "Fehlerhaftigkeit"
+    ]
+  },
+  {
+    "word": "genug",
+    "lemma": "genug",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "足够",
+        "en": "enough"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Hast du genug Geld für das Ticket?",
+        "zh": "你有足够的钱买票吗？"
+      },
+      {
+        "de": "Das Essen ist genug für alle.",
+        "zh": "食物足够所有人吃。"
+      }
+    ],
+    "collocations": [
+      "genug haben",
+      "nicht genug"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "数量",
+      "A2"
+    ],
+    "synonyms": [
+      "ausreichend"
+    ],
+    "antonyms": [
+      "zu wenig",
+      "ungenügend"
+    ]
+  },
+  {
+    "word": "gering",
+    "lemma": "gering",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "少量的，微不足道的",
+        "en": "small, slight, insignificant"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kosten sind gering.",
+        "zh": "费用很低。"
+      },
+      {
+        "de": "Er hat nur geringe Chancen auf Erfolg.",
+        "zh": "他成功的机会很小。"
+      }
+    ],
+    "collocations": [
+      "geringe Menge",
+      "geringes Interesse"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "数量",
+      "程度",
+      "B1"
+    ],
+    "synonyms": [
+      "niedrig",
+      "klein"
+    ],
+    "antonyms": [
+      "groß",
+      "bedeutend",
+      "hoch"
+    ]
+  },
+  {
+    "word": "Germanistik",
+    "lemma": "Germanistik",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "日耳曼学",
+        "en": "German studies"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie studiert Germanistik an der Universität.",
+        "zh": "她在大学学习日耳曼学。"
+      },
+      {
+        "de": "Die Germanistik beschäftigt sich mit der deutschen Sprache und Literatur.",
+        "zh": "日耳曼学研究德语语言和文学。"
+      }
+    ],
+    "collocations": [
+      "Germanistik studieren",
+      "Institut für Germanistik"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "学术",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Gesamtbevölkerung",
+    "lemma": "Gesamtbevölkerung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "总人口",
+        "en": "total population"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Gesamtbevölkerung Deutschlands beträgt etwa 83 Millionen.",
+        "zh": "德国总人口约为8300万。"
+      },
+      {
+        "de": "Die Gesamtbevölkerung der Stadt ist in den letzten Jahren gestiegen.",
+        "zh": "这座城市的总人口近年来有所增长。"
+      }
+    ],
+    "collocations": [
+      "die Gesamtbevölkerung eines Landes",
+      "Anteil an der Gesamtbevölkerung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "B2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Geschäft",
+    "lemma": "Geschäft",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Geschäfte",
+    "meaning": [
+      {
+        "zh": "商店；生意",
+        "en": "shop; business"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat ein kleines Geschäft in der Innenstadt.",
+        "zh": "他在市中心有一家小店。"
+      },
+      {
+        "de": "Das Geschäft läuft gut.",
+        "zh": "生意很好。"
+      }
+    ],
+    "collocations": [
+      "ein Geschäft eröffnen",
+      "ein gutes Geschäft machen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "经济",
+      "A2"
+    ],
+    "synonyms": [
+      "Laden",
+      "Unternehmen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Geschäftsbank",
+    "lemma": "Geschäftsbank",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Geschäftsbanken",
+    "meaning": [
+      {
+        "zh": "商业银行",
+        "en": "commercial bank"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Geschäftsbank bietet Kredite für Unternehmen an.",
+        "zh": "商业银行为企业提供贷款。"
+      },
+      {
+        "de": "Viele Geschäftsbanken haben Filialen in der Stadt.",
+        "zh": "许多商业银行在城市设有分行。"
+      }
+    ],
+    "collocations": [
+      "bei einer Geschäftsbank ein Konto eröffnen",
+      "Geschäftsbanken regulieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "经济",
+      "B2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Geschäftsreise",
+    "lemma": "Geschäftsreise",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Geschäftsreisen",
+    "meaning": [
+      {
+        "zh": "商务旅行",
+        "en": "business trip"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist auf einer Geschäftsreise nach Berlin.",
+        "zh": "他在去柏林的商务旅行中。"
+      },
+      {
+        "de": "Die Firma bezahlt die Kosten für die Geschäftsreise.",
+        "zh": "公司支付商务旅行的费用。"
+      }
+    ],
+    "collocations": [
+      "eine Geschäftsreise machen",
+      "auf Geschäftsreise sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "Dienstreise"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "geschehen",
+    "lemma": "geschehen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "发生",
+        "en": "to happen"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Was ist gestern geschehen?",
+        "zh": "昨天发生了什么？"
+      },
+      {
+        "de": "Es ist ein Unfall geschehen.",
+        "zh": "发生了一起事故。"
+      }
+    ],
+    "collocations": [
+      "etwas geschieht",
+      "es geschieht etwas"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "partizip2": "geschehen"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "passieren",
+      "vorfallen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Geschichte",
+    "lemma": "Geschichte",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Geschichten",
+    "meaning": [
+      {
+        "zh": "历史；故事",
+        "en": "history; story"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er interessiert sich für die Geschichte Deutschlands.",
+        "zh": "他对德国历史感兴趣。"
+      },
+      {
+        "de": "Sie erzählt eine lustige Geschichte.",
+        "zh": "她讲了一个有趣的故事。"
+      }
+    ],
+    "collocations": [
+      "Geschichte studieren",
+      "eine Geschichte erzählen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "社会",
+      "A2"
+    ],
+    "synonyms": [
+      "Historie",
+      "Erzählung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Gesellschaft",
+    "lemma": "Gesellschaft",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Gesellschaften",
+    "meaning": [
+      {
+        "zh": "社会；公司",
+        "en": "society; company"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Gesellschaft verändert sich ständig.",
+        "zh": "社会在不断变化。"
+      },
+      {
+        "de": "Er arbeitet bei einer großen Gesellschaft.",
+        "zh": "他在一家大公司工作。"
+      }
+    ],
+    "collocations": [
+      "die moderne Gesellschaft",
+      "eine Gesellschaft gründen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Gemeinschaft",
+      "Firma"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Gestaltung",
+    "lemma": "Gestaltung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Gestaltungen",
+    "meaning": [
+      {
+        "zh": "设计，塑造，形成",
+        "en": "design, shaping, formation"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Gestaltung des neuen Parks ist sehr gelungen.",
+        "zh": "新公园的设计非常成功。"
+      },
+      {
+        "de": "Er arbeitet an der Gestaltung einer Webseite.",
+        "zh": "他正在设计一个网页。"
+      }
+    ],
+    "collocations": [
+      "die Gestaltung von etwas",
+      "an der Gestaltung arbeiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "设计",
+      "B1"
+    ],
+    "synonyms": [
+      "Design",
+      "Formgebung"
+    ],
+    "antonyms": [
+      "Zerstörung"
+    ]
+  },
+  {
+    "word": "Gewicht",
+    "lemma": "Gewicht",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Gewichte",
+    "meaning": [
+      {
+        "zh": "重量，体重；重要性",
+        "en": "weight; importance"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Gewicht des Pakets beträgt fünf Kilogramm.",
+        "zh": "这个包裹的重量是五公斤。"
+      },
+      {
+        "de": "Seiner Meinung kommt großes Gewicht zu.",
+        "zh": "他的意见具有很大的重要性。"
+      }
+    ],
+    "collocations": [
+      "Gewicht haben",
+      "an Gewicht verlieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "物理",
+      "B1"
+    ],
+    "synonyms": [
+      "Masse",
+      "Bedeutung"
+    ],
+    "antonyms": [
+      "Leichtigkeit"
+    ]
+  },
+  {
+    "word": "gewinnen",
+    "lemma": "gewinnen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "赢得，获得；提取",
+        "en": "to win, to gain; to extract"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat das Tennisspiel gewonnen.",
+        "zh": "她赢了这场网球比赛。"
+      },
+      {
+        "de": "Aus dieser Quelle gewinnen wir Wasser.",
+        "zh": "我们从这处水源获取水。"
+      }
+    ],
+    "collocations": [
+      "ein Spiel gewinnen",
+      "an Bedeutung gewinnen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gewonnen"
+    },
+    "level": "A2",
+    "tags": [
+      "体育",
+      "A2"
+    ],
+    "synonyms": [
+      "erhalten",
+      "erringen"
+    ],
+    "antonyms": [
+      "verlieren"
+    ]
+  },
+  {
+    "word": "gewöhnen",
+    "lemma": "gewöhnen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "使习惯，适应",
+        "en": "to get used to, to accustom"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich muss mich an das frühe Aufstehen gewöhnen.",
+        "zh": "我必须习惯早起。"
+      },
+      {
+        "de": "Er hat sich schnell an das neue Klima gewöhnt.",
+        "zh": "他很快就适应了新的气候。"
+      }
+    ],
+    "collocations": [
+      "sich an etwas gewöhnen",
+      "jemanden an etwas gewöhnen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gewöhnt"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "anpassen",
+      "eingewöhnen"
+    ],
+    "antonyms": [
+      "entwöhnen"
+    ]
+  },
+  {
+    "word": "glauben",
+    "lemma": "glauben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "相信，认为",
+        "en": "to believe, to think"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich glaube, dass er recht hat.",
+        "zh": "我相信他是对的。"
+      },
+      {
+        "de": "Glaubst du an Gott?",
+        "zh": "你相信上帝吗？"
+      }
+    ],
+    "collocations": [
+      "an etwas glauben",
+      "jemandem glauben"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geglaubt"
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "denken",
+      "vertrauen"
+    ],
+    "antonyms": [
+      "bezweifeln"
+    ]
+  },
+  {
+    "word": "Gleichberechtigung",
+    "lemma": "Gleichberechtigung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "平等权利，平等",
+        "en": "equal rights, equality"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Gleichberechtigung von Mann und Frau ist ein wichtiges Ziel.",
+        "zh": "男女平等是一个重要目标。"
+      },
+      {
+        "de": "Sie kämpft für die Gleichberechtigung aller Menschen.",
+        "zh": "她为所有人的平等权利而斗争。"
+      }
+    ],
+    "collocations": [
+      "für Gleichberechtigung kämpfen",
+      "Gleichberechtigung erreichen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "Emanzipation",
+      "Gleichstellung"
+    ],
+    "antonyms": [
+      "Ungleichheit"
+    ]
+  },
+  {
+    "word": "gleichzeitig",
+    "lemma": "gleichzeitig",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "同时",
+        "en": "simultaneously, at the same time"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die beiden Ereignisse fanden gleichzeitig statt.",
+        "zh": "这两个事件同时发生。"
+      },
+      {
+        "de": "Er kann nicht gleichzeitig essen und telefonieren.",
+        "zh": "他不能同时吃饭和打电话。"
+      }
+    ],
+    "collocations": [
+      "gleichzeitig stattfinden",
+      "gleichzeitig tun"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "时间",
+      "A2"
+    ],
+    "synonyms": [
+      "zur gleichen Zeit",
+      "parallel"
+    ],
+    "antonyms": [
+      "nacheinander"
+    ]
+  },
+  {
+    "word": "Glück",
+    "lemma": "Glück",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "幸福，幸运，运气",
+        "en": "happiness, luck, fortune"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich wünsche dir viel Glück!",
+        "zh": "祝你好运！"
+      },
+      {
+        "de": "Es war reines Glück, dass sie den Unfall überlebte.",
+        "zh": "她能在事故中幸存完全是运气。"
+      }
+    ],
+    "collocations": [
+      "Glück haben",
+      "jemandem Glück wünschen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "情感",
+      "A1"
+    ],
+    "synonyms": [
+      "Freude",
+      "Zufall"
+    ],
+    "antonyms": [
+      "Unglück",
+      "Pech"
+    ]
+  },
+  {
+    "word": "glücklich",
+    "lemma": "glücklich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "幸福的，快乐的",
+        "en": "happy, fortunate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie ist sehr glücklich über ihre neue Arbeit.",
+        "zh": "她对她的新工作非常开心。"
+      },
+      {
+        "de": "Wir haben uns glücklich geschätzt, den Zug noch zu erreichen.",
+        "zh": "我们很庆幸还能赶上火车。"
+      }
+    ],
+    "collocations": [
+      "glücklich sein über",
+      "sich glücklich schätzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "froh",
+      "zufrieden"
+    ],
+    "antonyms": [
+      "traurig",
+      "unglücklich"
+    ]
+  },
+  {
+    "word": "glücklicherweise",
+    "lemma": "glücklicherweise",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "幸运的是",
+        "en": "fortunately, luckily"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Glücklicherweise hat niemand bei dem Unfall verletzt.",
+        "zh": "幸运的是，事故中没有人受伤。"
+      },
+      {
+        "de": "Glücklicherweise hatte ich meinen Regenschirm dabei.",
+        "zh": "幸运的是，我带了雨伞。"
+      }
+    ],
+    "collocations": [
+      "glücklicherweise + Satz",
+      "glücklicherweise haben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "zum Glück",
+      "erfreulicherweise"
+    ],
+    "antonyms": [
+      "unglücklicherweise",
+      "leider"
+    ]
+  },
+  {
+    "word": "grau",
+    "lemma": "grau",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "灰色的",
+        "en": "gray, grey"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Himmel ist heute grau und bedeckt.",
+        "zh": "今天天空灰蒙蒙的，阴云密布。"
+      },
+      {
+        "de": "Sie trug einen grauen Mantel.",
+        "zh": "她穿着一件灰色的大衣。"
+      }
+    ],
+    "collocations": [
+      "grauer Himmel",
+      "graue Haare"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "颜色",
+      "A1"
+    ],
+    "synonyms": [
+      "aschgrau",
+      "silbergrau"
+    ],
+    "antonyms": [
+      "bunt",
+      "farbig"
+    ]
+  },
+  {
+    "word": "Grenze",
+    "lemma": "Grenze",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Grenzen",
+    "meaning": [
+      {
+        "zh": "边界，界限",
+        "en": "border, boundary, limit"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Grenze zwischen Deutschland und Frankreich ist offen.",
+        "zh": "德国和法国之间的边界是开放的。"
+      },
+      {
+        "de": "Jeder hat seine eigenen Grenzen.",
+        "zh": "每个人都有自己的极限。"
+      }
+    ],
+    "collocations": [
+      "an der Grenze",
+      "die Grenze überschreiten",
+      "Grenzen setzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "地理",
+      "B1"
+    ],
+    "synonyms": [
+      "Grenzlinie",
+      "Schranke"
+    ],
+    "antonyms": [
+      "Mitte",
+      "Innenraum"
+    ]
+  },
+  {
+    "word": "Grenzgebiet",
+    "lemma": "Grenzgebiet",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Grenzgebiete",
+    "meaning": [
+      {
+        "zh": "边境地区",
+        "en": "border area, frontier region"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Grenzgebiet ist militärisch gesichert.",
+        "zh": "边境地区有军事警戒。"
+      },
+      {
+        "de": "Im Grenzgebiet leben viele Menschen verschiedener Kulturen.",
+        "zh": "在边境地区生活着许多不同文化的人。"
+      }
+    ],
+    "collocations": [
+      "im Grenzgebiet",
+      "Grenzgebiet zu"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "地理",
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "Grenzregion",
+      "Grenzland"
+    ],
+    "antonyms": [
+      "Inland",
+      "Binnenland"
+    ]
+  },
+  {
+    "word": "grob",
+    "lemma": "grob",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "粗糙的，粗略的，粗鲁的",
+        "en": "coarse, rough, rude"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er machte eine grobe Schätzung der Kosten.",
+        "zh": "他对费用做了一个粗略的估算。"
+      },
+      {
+        "de": "Seine groben Manieren haben alle gestört.",
+        "zh": "他粗鲁的举止打扰了所有人。"
+      }
+    ],
+    "collocations": [
+      "grobe Schätzung",
+      "grobe Fehler",
+      "grobe Worte"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "品质",
+      "行为",
+      "B1"
+    ],
+    "synonyms": [
+      "rau",
+      "unhöflich"
+    ],
+    "antonyms": [
+      "fein",
+      "höflich",
+      "sanft"
+    ]
+  },
+  {
+    "word": "Größe",
+    "lemma": "Größe",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Größen",
+    "meaning": [
+      {
+        "zh": "大小，尺寸，身高，伟大",
+        "en": "size, height, greatness"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Welche Größe haben Sie bei Schuhen?",
+        "zh": "您穿多大码的鞋？"
+      },
+      {
+        "de": "Seine Größe als Wissenschaftler ist unbestritten.",
+        "zh": "他作为科学家的伟大是无可争议的。"
+      }
+    ],
+    "collocations": [
+      "in der Größe",
+      "Größe haben",
+      "die Größe von"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "度量",
+      "品质",
+      "A2"
+    ],
+    "synonyms": [
+      "Ausmaß",
+      "Dimension"
+    ],
+    "antonyms": [
+      "Kleinheit",
+      "Unbedeutendheit"
+    ]
+  }
+]

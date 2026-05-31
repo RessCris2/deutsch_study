@@ -1,0 +1,1787 @@
+[
+  {
+    "word": "Getränk",
+    "lemma": "Getränk",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Getränke",
+    "meaning": [
+      {
+        "zh": "饮料",
+        "en": "beverage, drink"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kann ich ein kaltes Getränk haben?",
+        "zh": "我能要一杯冷饮吗？"
+      },
+      {
+        "de": "Alkoholische Getränke sind hier verboten.",
+        "zh": "这里禁止含酒精的饮料。"
+      }
+    ],
+    "collocations": [
+      "ein Getränk bestellen",
+      "alkoholfreies Getränk"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "饮食",
+      "A1"
+    ],
+    "synonyms": [
+      "Trunk"
+    ],
+    "antonyms": [
+      "Essen"
+    ]
+  },
+  {
+    "word": "getrennt",
+    "lemma": "getrennt",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "分开的，分离的",
+        "en": "separate, separated"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie leben getrennt.",
+        "zh": "他们分居了。"
+      },
+      {
+        "de": "Die Rechnung kommt getrennt.",
+        "zh": "账单是分开的。"
+      }
+    ],
+    "collocations": [
+      "getrennt leben",
+      "getrennte Wege gehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "关系",
+      "B1"
+    ],
+    "synonyms": [
+      "separat",
+      "einzeln"
+    ],
+    "antonyms": [
+      "zusammen",
+      "vereint"
+    ]
+  },
+  {
+    "word": "gleich",
+    "lemma": "gleich",
+    "pos": [
+      "adjective",
+      "adverb",
+      "conjunction"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "相同的，一样的；马上",
+        "en": "same, equal; immediately"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir haben die gleiche Meinung.",
+        "zh": "我们有相同的意见。"
+      },
+      {
+        "de": "Ich komme gleich.",
+        "zh": "我马上来。"
+      }
+    ],
+    "collocations": [
+      "zur gleichen Zeit",
+      "gleich groß"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "时间",
+      "A2"
+    ],
+    "synonyms": [
+      "identisch",
+      "sofort"
+    ],
+    "antonyms": [
+      "verschieden",
+      "später"
+    ]
+  },
+  {
+    "word": "gleichfalls",
+    "lemma": "gleichfalls",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "同样地，也",
+        "en": "likewise, also"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Vielen Dank! – Gleichfalls!",
+        "zh": "非常感谢！——也谢谢你！"
+      },
+      {
+        "de": "Ich wünsche dir ein schönes Wochenende. – Gleichfalls!",
+        "zh": "祝你周末愉快。——也祝你周末愉快！"
+      }
+    ],
+    "collocations": [
+      "gleichfalls danken",
+      "gleichfalls wünschen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "交际",
+      "B1"
+    ],
+    "synonyms": [
+      "ebenfalls",
+      "auch"
+    ],
+    "antonyms": [
+      "anders"
+    ]
+  },
+  {
+    "word": "Glückwunsch",
+    "lemma": "Glückwunsch",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Glückwünsche",
+    "meaning": [
+      {
+        "zh": "祝贺，祝福",
+        "en": "congratulation, good wishes"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Herzlichen Glückwunsch zum Geburtstag!",
+        "zh": "衷心祝你生日快乐！"
+      },
+      {
+        "de": "Meine Glückwünsche zur bestandenen Prüfung.",
+        "zh": "祝贺你通过了考试。"
+      }
+    ],
+    "collocations": [
+      "Glückwunsch aussprechen",
+      "herzlichen Glückwunsch"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "交际",
+      "A2"
+    ],
+    "synonyms": [
+      "Gratulation"
+    ],
+    "antonyms": [
+      "Beileid"
+    ]
+  },
+  {
+    "word": "Glühwein",
+    "lemma": "Glühwein",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Glühweine",
+    "meaning": [
+      {
+        "zh": "热红酒",
+        "en": "mulled wine"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Auf dem Weihnachtsmarkt trinke ich gern Glühwein.",
+        "zh": "在圣诞市场上我喜欢喝热红酒。"
+      },
+      {
+        "de": "Glühwein wird mit Gewürzen wie Zimt und Nelken zubereitet.",
+        "zh": "热红酒是用肉桂和丁香等香料制作的。"
+      }
+    ],
+    "collocations": [
+      "Glühwein trinken",
+      "einen Glühwein bestellen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "饮食",
+      "节日",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Grad",
+    "lemma": "Grad",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Grade",
+    "meaning": [
+      {
+        "zh": "度，程度，等级",
+        "en": "degree, grade, level"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Es sind heute 30 Grad Celsius.",
+        "zh": "今天有30摄氏度。"
+      },
+      {
+        "de": "Sie hat einen hohen Grad an Verantwortung.",
+        "zh": "她有很高的责任感。"
+      }
+    ],
+    "collocations": [
+      "Grad Celsius",
+      "im hohen Grad"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "科学",
+      "A2"
+    ],
+    "synonyms": [
+      "Stufe",
+      "Maß"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "gratulieren",
+    "lemma": "gratulieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "祝贺",
+        "en": "to congratulate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich gratuliere dir zum Geburtstag.",
+        "zh": "我祝你生日快乐。"
+      },
+      {
+        "de": "Wir gratulieren dem Team zum Sieg.",
+        "zh": "我们祝贺团队获胜。"
+      }
+    ],
+    "collocations": [
+      "jemandem zu etwas gratulieren",
+      "herzlich gratulieren"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gratuliert"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "交际",
+      "A2"
+    ],
+    "synonyms": [
+      "beglückwünschen"
+    ],
+    "antonyms": [
+      "bemitleiden"
+    ]
+  },
+  {
+    "word": "griechisch",
+    "lemma": "griechisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "希腊的",
+        "en": "Greek"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich mag griechischen Salat.",
+        "zh": "我喜欢希腊沙拉。"
+      },
+      {
+        "de": "Sie lernt griechische Tänze.",
+        "zh": "她在学希腊舞蹈。"
+      }
+    ],
+    "collocations": [
+      "griechische Küche",
+      "griechische Inseln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "国家/语言",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Grippe",
+    "lemma": "Grippe",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Grippen",
+    "meaning": [
+      {
+        "zh": "流感",
+        "en": "flu"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat eine schwere Grippe.",
+        "zh": "他得了重流感。"
+      },
+      {
+        "de": "Die Grippe verbreitet sich schnell.",
+        "zh": "流感传播得很快。"
+      }
+    ],
+    "collocations": [
+      "an Grippe erkranken",
+      "Grippeimpfung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "健康/疾病",
+      "A2"
+    ],
+    "synonyms": [
+      "Influenza"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "groß",
+    "lemma": "groß",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "大的；高大的",
+        "en": "big; tall"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Haus ist sehr groß.",
+        "zh": "这房子很大。"
+      },
+      {
+        "de": "Er ist größer als sein Bruder.",
+        "zh": "他比他哥哥高。"
+      }
+    ],
+    "collocations": [
+      "große Stadt",
+      "große Familie"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "描述/尺寸",
+      "A1"
+    ],
+    "synonyms": [
+      "riesig",
+      "enorm"
+    ],
+    "antonyms": [
+      "klein"
+    ]
+  },
+  {
+    "word": "Großeltern",
+    "lemma": "Großeltern",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Großeltern",
+    "meaning": [
+      {
+        "zh": "祖父母",
+        "en": "grandparents"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Meine Großeltern wohnen auf dem Land.",
+        "zh": "我的祖父母住在乡下。"
+      },
+      {
+        "de": "Sie besucht ihre Großeltern jedes Wochenende.",
+        "zh": "她每个周末都去看望祖父母。"
+      }
+    ],
+    "collocations": [
+      "bei den Großeltern wohnen",
+      "Großeltern besuchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "家庭/亲属",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "Enkel"
+    ]
+  },
+  {
+    "word": "grundsätzlich",
+    "lemma": "grundsätzlich",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "原则上；基本上",
+        "en": "in principle; basically"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich stimme dir grundsätzlich zu.",
+        "zh": "我原则上同意你的看法。"
+      },
+      {
+        "de": "Grundsätzlich ist das eine gute Idee.",
+        "zh": "基本上这是个好主意。"
+      }
+    ],
+    "collocations": [
+      "grundsätzlich einverstanden",
+      "grundsätzlich ablehnen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "抽象/态度",
+      "B1"
+    ],
+    "synonyms": [
+      "prinzipiell",
+      "im Grunde"
+    ],
+    "antonyms": [
+      "ausnahmsweise"
+    ]
+  },
+  {
+    "word": "Grundschule",
+    "lemma": "Grundschule",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Grundschulen",
+    "meaning": [
+      {
+        "zh": "小学",
+        "en": "primary school"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mein Sohn geht in die Grundschule.",
+        "zh": "我儿子上小学。"
+      },
+      {
+        "de": "Die Grundschule beginnt um acht Uhr.",
+        "zh": "小学八点开始上课。"
+      }
+    ],
+    "collocations": [
+      "Grundschule besuchen",
+      "Grundschullehrer"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "教育/学校",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "Hochschule"
+    ]
+  },
+  {
+    "word": "grüßen",
+    "lemma": "grüßen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "问候；打招呼",
+        "en": "to greet"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er grüßt seine Nachbarn freundlich.",
+        "zh": "他友好地向邻居打招呼。"
+      },
+      {
+        "de": "Grüß bitte deine Eltern von mir!",
+        "zh": "请代我问候你的父母！"
+      }
+    ],
+    "collocations": [
+      "jemanden grüßen",
+      "sich grüßen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gegrüßt"
+    },
+    "level": "A1",
+    "tags": [
+      "社交/行为",
+      "A1"
+    ],
+    "synonyms": [
+      "begrüßen"
+    ],
+    "antonyms": [
+      "ignorieren"
+    ]
+  },
+  {
+    "word": "gut",
+    "lemma": "gut",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "好的；好地",
+        "en": "good; well"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Essen schmeckt gut.",
+        "zh": "这食物味道很好。"
+      },
+      {
+        "de": "Er spricht gut Deutsch.",
+        "zh": "他德语说得很好。"
+      }
+    ],
+    "collocations": [
+      "gut gelaunt",
+      "gut gemacht"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "描述/评价",
+      "A1"
+    ],
+    "synonyms": [
+      "ausgezeichnet",
+      "toll"
+    ],
+    "antonyms": [
+      "schlecht"
+    ]
+  },
+  {
+    "word": "Grundschule",
+    "lemma": "Grundschule",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Grundschulen",
+    "meaning": [
+      {
+        "zh": "小学",
+        "en": "primary school"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Meine Tochter geht in die Grundschule.",
+        "zh": "我女儿上小学。"
+      },
+      {
+        "de": "Die Grundschule dauert in der Regel vier Jahre.",
+        "zh": "小学通常持续四年。"
+      }
+    ],
+    "collocations": [
+      "die Grundschule besuchen",
+      "in die Grundschule gehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "教育",
+      "学校",
+      "A2"
+    ],
+    "synonyms": [
+      "Volksschule"
+    ],
+    "antonyms": [
+      "Gymnasium",
+      "Realschule"
+    ]
+  },
+  {
+    "word": "Grundschule",
+    "lemma": "Grundschule",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Grundschulen",
+    "meaning": [
+      {
+        "zh": "小学",
+        "en": "primary school"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Meine Tochter geht in die Grundschule.",
+        "zh": "我女儿上小学。"
+      },
+      {
+        "de": "Die Grundschule beginnt um acht Uhr.",
+        "zh": "小学八点开始上课。"
+      }
+    ],
+    "collocations": [
+      "die Grundschule besuchen",
+      "in die Grundschule gehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "教育",
+      "学校",
+      "A2"
+    ],
+    "synonyms": [
+      "Volksschule"
+    ],
+    "antonyms": [
+      "Gymnasium",
+      "Realschule"
+    ]
+  },
+  {
+    "word": "haben",
+    "lemma": "haben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "有，拥有",
+        "en": "to have"
+      },
+      {
+        "zh": "（助动词）构成完成时",
+        "en": "auxiliary verb for perfect tense"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe einen Hund.",
+        "zh": "我有一条狗。"
+      },
+      {
+        "de": "Hast du Zeit?",
+        "zh": "你有时间吗？"
+      },
+      {
+        "de": "Er hat gestern gearbeitet.",
+        "zh": "他昨天工作了。"
+      }
+    ],
+    "collocations": [
+      "Hunger haben",
+      "Angst haben",
+      "Recht haben"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gehabt"
+    },
+    "level": "A1",
+    "tags": [
+      "基础动词",
+      "A1"
+    ],
+    "synonyms": [
+      "besitzen"
+    ],
+    "antonyms": [
+      "nicht haben"
+    ]
+  },
+  {
+    "word": "Haar",
+    "lemma": "Haar",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Haare",
+    "meaning": [
+      {
+        "zh": "头发",
+        "en": "hair"
+      },
+      {
+        "zh": "（一根）毛发",
+        "en": "a strand of hair"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat lange, blonde Haare.",
+        "zh": "她有一头长长的金发。"
+      },
+      {
+        "de": "Ich muss zum Friseur, meine Haare sind zu lang.",
+        "zh": "我得去理发店，我的头发太长了。"
+      }
+    ],
+    "collocations": [
+      "sich die Haare waschen",
+      "lange Haare",
+      "kurze Haare"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "身体部位",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Hähnchen",
+    "lemma": "Hähnchen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Hähnchen",
+    "meaning": [
+      {
+        "zh": "小鸡，仔鸡",
+        "en": "chicken (young bird)"
+      },
+      {
+        "zh": "（烹饪）鸡肉",
+        "en": "chicken (as food)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Zum Abendessen gibt es gebratenes Hähnchen mit Reis.",
+        "zh": "晚餐有烤鸡配米饭。"
+      },
+      {
+        "de": "Das Hähnchen ist noch nicht gar.",
+        "zh": "这只鸡还没熟。"
+      }
+    ],
+    "collocations": [
+      "ein Hähnchen braten",
+      "Hähnchenfleisch",
+      "Hähnchenschenkel"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "食物",
+      "A2"
+    ],
+    "synonyms": [
+      "Huhn",
+      "Poulet"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "halb",
+    "lemma": "halb",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "一半的",
+        "en": "half"
+      },
+      {
+        "zh": "（时间）半点的",
+        "en": "half past (time)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe nur einen halben Apfel gegessen.",
+        "zh": "我只吃了半个苹果。"
+      },
+      {
+        "de": "Der Unterricht beginnt um halb neun.",
+        "zh": "课在八点半开始。"
+      }
+    ],
+    "collocations": [
+      "eine halbe Stunde",
+      "halb voll",
+      "halb leer"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "数量",
+      "时间",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "ganz"
+    ]
+  },
+  {
+    "word": "hallo",
+    "lemma": "hallo",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "你好",
+        "en": "hello"
+      },
+      {
+        "zh": "喂（打招呼）",
+        "en": "hi"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Hallo, wie geht es dir?",
+        "zh": "你好，你怎么样？"
+      },
+      {
+        "de": "Hallo, darf ich hereinkommen?",
+        "zh": "喂，我可以进来吗？"
+      }
+    ],
+    "collocations": [
+      "Hallo sagen",
+      "jemandem Hallo rufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "问候",
+      "A1"
+    ],
+    "synonyms": [
+      "hi",
+      "guten Tag"
+    ],
+    "antonyms": [
+      "tschüss"
+    ]
+  },
+  {
+    "word": "Hals",
+    "lemma": "Hals",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Hälse",
+    "meaning": [
+      {
+        "zh": "脖子，颈",
+        "en": "neck"
+      },
+      {
+        "zh": "喉咙",
+        "en": "throat"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe Halsschmerzen.",
+        "zh": "我喉咙痛。"
+      },
+      {
+        "de": "Sie trug eine Kette um den Hals.",
+        "zh": "她脖子上戴着一条项链。"
+      }
+    ],
+    "collocations": [
+      "sich den Hals verrenken",
+      "einen trockenen Hals haben",
+      "Hals-Nasen-Ohren-Arzt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "身体部位",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "halten",
+    "lemma": "halten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "拿着，握住",
+        "en": "to hold"
+      },
+      {
+        "zh": "停住，停止",
+        "en": "to stop"
+      },
+      {
+        "zh": "认为，看作",
+        "en": "to consider"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du bitte die Tasche halten?",
+        "zh": "你能拿着包吗？"
+      },
+      {
+        "de": "Der Bus hält an der Haltestelle.",
+        "zh": "公交车在车站停下。"
+      },
+      {
+        "de": "Ich halte ihn für einen guten Freund.",
+        "zh": "我认为他是一个好朋友。"
+      }
+    ],
+    "collocations": [
+      "eine Rede halten",
+      "die Hand halten",
+      "für etwas halten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gehalten"
+    },
+    "level": "A2",
+    "tags": [
+      "动作",
+      "A2"
+    ],
+    "synonyms": [
+      "festhalten",
+      "anhalten"
+    ],
+    "antonyms": [
+      "loslassen"
+    ]
+  },
+  {
+    "word": "Haltestelle",
+    "lemma": "Haltestelle",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Haltestellen",
+    "meaning": [
+      {
+        "zh": "车站，停靠站",
+        "en": "bus stop, stop"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die nächste Haltestelle ist der Hauptbahnhof.",
+        "zh": "下一站是主火车站。"
+      },
+      {
+        "de": "Warte bitte an der Haltestelle auf mich.",
+        "zh": "请在车站等我。"
+      }
+    ],
+    "collocations": [
+      "an der Haltestelle warten",
+      "die Haltestelle aussteigen",
+      "eine Bushaltestelle"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "交通",
+      "A1"
+    ],
+    "synonyms": [
+      "Station",
+      "Bushaltestelle"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Hand",
+    "lemma": "Hand",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Hände",
+    "meaning": [
+      {
+        "zh": "手",
+        "en": "hand"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er nahm ihre Hand und lächelte.",
+        "zh": "他握住她的手，微笑着。"
+      },
+      {
+        "de": "Die Hände waschen ist wichtig.",
+        "zh": "洗手很重要。"
+      }
+    ],
+    "collocations": [
+      "die Hand geben",
+      "in der Hand halten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "身体",
+      "A1"
+    ],
+    "synonyms": [
+      "Pranke",
+      "Pfote"
+    ],
+    "antonyms": [
+      "Fuß"
+    ]
+  },
+  {
+    "word": "Handy",
+    "lemma": "Handy",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Handys",
+    "meaning": [
+      {
+        "zh": "手机",
+        "en": "mobile phone"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe mein Handy zu Hause vergessen.",
+        "zh": "我把手机忘在家里了。"
+      },
+      {
+        "de": "Kannst du mir dein Handy leihen?",
+        "zh": "你能把你的手机借给我吗？"
+      }
+    ],
+    "collocations": [
+      "das Handy benutzen",
+      "das Handy aufladen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "科技",
+      "A1"
+    ],
+    "synonyms": [
+      "Smartphone",
+      "Mobiltelefon"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "haingen",
+    "lemma": "haingen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "（虚构词，无标准含义）",
+        "en": "fictional word, no standard meaning"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Wort 'haingen' ist nicht im Wörterbuch.",
+        "zh": "单词'haingen'不在词典中。"
+      },
+      {
+        "de": "Bitte verwenden Sie korrekte deutsche Wörter.",
+        "zh": "请使用正确的德语单词。"
+      }
+    ],
+    "collocations": [],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "虚构",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Hauptgericht",
+    "lemma": "Hauptgericht",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Hauptgerichte",
+    "meaning": [
+      {
+        "zh": "主菜",
+        "en": "main course"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Als Hauptgericht gab es Rinderbraten.",
+        "zh": "主菜是烤牛肉。"
+      },
+      {
+        "de": "Das Hauptgericht war sehr lecker.",
+        "zh": "主菜非常美味。"
+      }
+    ],
+    "collocations": [
+      "das Hauptgericht bestellen",
+      "ein Hauptgericht servieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "饮食",
+      "A2"
+    ],
+    "synonyms": [
+      "Hauptspeise"
+    ],
+    "antonyms": [
+      "Vorspeise",
+      "Nachspeise"
+    ]
+  },
+  {
+    "word": "Hauptpost",
+    "lemma": "Hauptpost",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Hauptposten",
+    "meaning": [
+      {
+        "zh": "主邮局",
+        "en": "main post office"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Hauptpost befindet sich im Stadtzentrum.",
+        "zh": "主邮局位于市中心。"
+      },
+      {
+        "de": "Ich muss zur Hauptpost, um ein Paket abzuholen.",
+        "zh": "我得去主邮局取包裹。"
+      }
+    ],
+    "collocations": [
+      "zur Hauptpost gehen",
+      "die Hauptpost finden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "地点",
+      "B1"
+    ],
+    "synonyms": [
+      "Postamt"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Hauptstadt",
+    "lemma": "Hauptstadt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Hauptstädte",
+    "meaning": [
+      {
+        "zh": "首都",
+        "en": "capital city"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Berlin ist die Hauptstadt Deutschlands.",
+        "zh": "柏林是德国的首都。"
+      },
+      {
+        "de": "Die Hauptstadt Frankreichs ist Paris.",
+        "zh": "法国的首都是巴黎。"
+      }
+    ],
+    "collocations": [
+      "die Hauptstadt besuchen",
+      "in der Hauptstadt leben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "地理",
+      "A2"
+    ],
+    "synonyms": [
+      "Metropole"
+    ],
+    "antonyms": [
+      "Provinz"
+    ]
+  },
+  {
+    "word": "Hauser",
+    "lemma": "Haus",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Häuser",
+    "meaning": [
+      {
+        "zh": "房子（复数形式）",
+        "en": "houses (plural form)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In dieser Straße stehen viele alte Häuser.",
+        "zh": "这条街上有很多老房子。"
+      },
+      {
+        "de": "Die Häuser wurden nach dem Krieg wieder aufgebaut.",
+        "zh": "这些房子在战后重建了。"
+      }
+    ],
+    "collocations": [
+      "Häuser bauen",
+      "Häuser kaufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "建筑",
+      "A1"
+    ],
+    "synonyms": [
+      "Gebäude",
+      "Wohnhäuser"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Hausaufgabe",
+    "lemma": "Hausaufgabe",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Hausaufgaben",
+    "meaning": [
+      {
+        "zh": "家庭作业",
+        "en": "homework"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Hausaufgabe ist für morgen.",
+        "zh": "家庭作业是明天要交的。"
+      },
+      {
+        "de": "Hast du deine Hausaufgaben gemacht?",
+        "zh": "你做完作业了吗？"
+      }
+    ],
+    "collocations": [
+      "Hausaufgaben machen",
+      "Hausaufgaben aufgeben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "教育",
+      "A1"
+    ],
+    "synonyms": [
+      "Aufgabe",
+      "Schularbeit"
+    ],
+    "antonyms": [
+      "Freizeit"
+    ]
+  },
+  {
+    "word": "Haushalt",
+    "lemma": "Haushalt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Haushalte",
+    "meaning": [
+      {
+        "zh": "家庭，家务",
+        "en": "household, housekeeping"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie führt den Haushalt allein.",
+        "zh": "她独自管理家务。"
+      },
+      {
+        "de": "Der Haushalt hat ein hohes Einkommen.",
+        "zh": "这个家庭收入很高。"
+      }
+    ],
+    "collocations": [
+      "den Haushalt führen",
+      "Haushaltsgeräte"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Familie",
+      "Hauswesen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Haustier",
+    "lemma": "Haustier",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Haustiere",
+    "meaning": [
+      {
+        "zh": "宠物，家养动物",
+        "en": "pet, domestic animal"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Hast du ein Haustier?",
+        "zh": "你有宠物吗？"
+      },
+      {
+        "de": "Hunde und Katzen sind beliebte Haustiere.",
+        "zh": "狗和猫是受欢迎的宠物。"
+      }
+    ],
+    "collocations": [
+      "ein Haustier halten",
+      "Haustierbesitzer"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "动物",
+      "A2"
+    ],
+    "synonyms": [
+      "Heimtier"
+    ],
+    "antonyms": [
+      "Wildtier"
+    ]
+  },
+  {
+    "word": "Heidelberg",
+    "lemma": "Heidelberg",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "海德堡（德国城市）",
+        "en": "Heidelberg (German city)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Heidelberg ist eine bekannte Universitätsstadt.",
+        "zh": "海德堡是一座著名的大学城。"
+      },
+      {
+        "de": "Die Altstadt von Heidelberg ist sehr schön.",
+        "zh": "海德堡的老城区非常美丽。"
+      }
+    ],
+    "collocations": [
+      "Universität Heidelberg",
+      "Schloss Heidelberg"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "地理",
+      "城市",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Klick",
+    "lemma": "Klick",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Klicks",
+    "meaning": [
+      {
+        "zh": "点击，咔嗒声",
+        "en": "click"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ein Klick auf den Link öffnet die Seite.",
+        "zh": "点击链接即可打开页面。"
+      },
+      {
+        "de": "Die Website hat viele Klicks bekommen.",
+        "zh": "这个网站获得了许多点击。"
+      }
+    ],
+    "collocations": [
+      "mit einem Klick",
+      "Klickrate"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "互联网",
+      "B1"
+    ],
+    "synonyms": [
+      "Mausklick"
+    ],
+    "antonyms": []
+  }
+]

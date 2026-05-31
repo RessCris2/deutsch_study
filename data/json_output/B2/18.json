@@ -1,0 +1,1387 @@
+[
+  {
+    "word": "verständlich",
+    "lemma": "verständlich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "可理解的，易懂的",
+        "en": "understandable, comprehensible"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Deine Erklärung ist sehr verständlich.",
+        "zh": "你的解释非常易懂。"
+      },
+      {
+        "de": "Es ist verständlich, dass du wütend bist.",
+        "zh": "你生气是可以理解的。"
+      }
+    ],
+    "collocations": [
+      "leicht verständlich",
+      "schwer verständlich",
+      "verständlich machen",
+      "für jemanden verständlich sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语言",
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "klar",
+      "einfach",
+      "begreiflich"
+    ],
+    "antonyms": [
+      "unverständlich",
+      "unklar",
+      "kompliziert"
+    ]
+  },
+  {
+    "word": "verstärken",
+    "lemma": "verstärken",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "加强，增强",
+        "en": "to strengthen, to reinforce"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir müssen die Sicherheitsmaßnahmen verstärken.",
+        "zh": "我们必须加强安全措施。"
+      },
+      {
+        "de": "Der Wind hat sich verstärkt.",
+        "zh": "风变强了。"
+      }
+    ],
+    "collocations": [
+      "den Eindruck verstärken",
+      "die Wirkung verstärken",
+      "das Signal verstärken",
+      "sich verstärken"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verstärkt"
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "intensivieren",
+      "vergrößern",
+      "steigern"
+    ],
+    "antonyms": [
+      "abschwächen",
+      "verringern",
+      "schwächen"
+    ]
+  },
+  {
+    "word": "verstauen",
+    "lemma": "verstauen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "收拾，存放",
+        "en": "to stow away, to pack"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich muss mein Gepäck im Kofferraum verstauen.",
+        "zh": "我必须把行李放在后备箱里。"
+      },
+      {
+        "de": "Kannst du die Bücher im Regal verstauen?",
+        "zh": "你能把书放在书架上吗？"
+      }
+    ],
+    "collocations": [
+      "Gepäck verstauen",
+      "Sachen verstauen",
+      "im Schrank verstauen",
+      "ordentlich verstauen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verstaut"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "旅行",
+      "B1"
+    ],
+    "synonyms": [
+      "einpacken",
+      "unterbringen",
+      "verpacken"
+    ],
+    "antonyms": [
+      "auspacken",
+      "herausnehmen",
+      "verstreuen"
+    ]
+  },
+  {
+    "word": "Vertiefen",
+    "lemma": "vertiefen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "加深，深化",
+        "en": "to deepen, to intensify"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er möchte seine Kenntnisse in Mathematik vertiefen.",
+        "zh": "他想加深他的数学知识。"
+      },
+      {
+        "de": "Die Diskussion vertiefte das Verständnis für das Problem.",
+        "zh": "讨论加深了对问题的理解。"
+      }
+    ],
+    "collocations": [
+      "Kenntnisse vertiefen",
+      "Beziehungen vertiefen",
+      "sich in ein Thema vertiefen",
+      "das Verständnis vertiefen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "vertieft"
+    },
+    "level": "B2",
+    "tags": [
+      "学习",
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "intensivieren",
+      "ausbauen",
+      "erweitern"
+    ],
+    "antonyms": [
+      "oberflächlich behandeln",
+      "vernachlässigen",
+      "verflachen"
+    ]
+  },
+  {
+    "word": "vertraut",
+    "lemma": "vertraut",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "熟悉的，亲密的",
+        "en": "familiar, intimate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Gegend ist mir vertraut.",
+        "zh": "这个地区我很熟悉。"
+      },
+      {
+        "de": "Sie sind sich sehr vertraut.",
+        "zh": "他们彼此很亲密。"
+      }
+    ],
+    "collocations": [
+      "vertraut sein mit",
+      "sich vertraut machen",
+      "vertraute Umgebung",
+      "vertraute Stimme"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "bekannt",
+      "geläufig",
+      "eng"
+    ],
+    "antonyms": [
+      "fremd",
+      "unbekannt",
+      "unvertraut"
+    ]
+  },
+  {
+    "word": "verwerten",
+    "lemma": "verwerten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "利用，使用",
+        "en": "to utilize, to exploit"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir müssen die Reste sinnvoll verwerten.",
+        "zh": "我们必须合理利用剩余物。"
+      },
+      {
+        "de": "Seine Erfahrungen lassen sich gut verwerten.",
+        "zh": "他的经验可以很好地利用。"
+      }
+    ],
+    "collocations": [
+      "Abfälle verwerten",
+      "Erfahrungen verwerten",
+      "wirtschaftlich verwerten",
+      "Rohstoffe verwerten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "verwertet"
+    },
+    "level": "B2",
+    "tags": [
+      "经济",
+      "科技",
+      "B2"
+    ],
+    "synonyms": [
+      "nutzen",
+      "gebrauchen",
+      "auswerten"
+    ],
+    "antonyms": [
+      "verschwenden",
+      "wegwerfen",
+      "ungenutzt lassen"
+    ]
+  },
+  {
+    "word": "Videothek",
+    "lemma": "Videothek",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Videotheken",
+    "meaning": [
+      {
+        "zh": "录像带出租店，视频库",
+        "en": "video rental store, video library"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In der Videothek kann man Filme ausleihen.",
+        "zh": "在录像带出租店可以借电影。"
+      },
+      {
+        "de": "Früher gab es viele Videotheken, heute sind sie selten.",
+        "zh": "以前有很多录像带出租店，现在很少了。"
+      }
+    ],
+    "collocations": [
+      "in die Videothek gehen",
+      "eine Videothek besuchen",
+      "Filme aus der Videothek",
+      "Videotheken-Kette"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "媒体",
+      "B1"
+    ],
+    "synonyms": [
+      "Filmverleih",
+      "DVD-Verleih"
+    ],
+    "antonyms": [
+      "Streaming-Dienst",
+      "Online-Plattform"
+    ]
+  },
+  {
+    "word": "Viertelstunde",
+    "lemma": "Viertelstunde",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Viertelstunden",
+    "meaning": [
+      {
+        "zh": "一刻钟，十五分钟",
+        "en": "quarter of an hour"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich komme in einer Viertelstunde.",
+        "zh": "我一刻钟后到。"
+      },
+      {
+        "de": "Die Pause dauert eine Viertelstunde.",
+        "zh": "休息持续一刻钟。"
+      }
+    ],
+    "collocations": [
+      "eine Viertelstunde warten",
+      "in einer Viertelstunde",
+      "eine Viertelstunde lang",
+      "alle Viertelstunde"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "时间",
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "15 Minuten",
+      "eine viertel Stunde"
+    ],
+    "antonyms": [
+      "Stunde",
+      "halbe Stunde"
+    ]
+  },
+  {
+    "word": "virtuell",
+    "lemma": "virtuell",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "虚拟的",
+        "en": "virtual"
+      },
+      {
+        "zh": "模拟的",
+        "en": "simulated"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die virtuelle Realität wird immer realistischer.",
+        "zh": "虚拟现实变得越来越真实。"
+      },
+      {
+        "de": "Wir hatten ein virtuelles Meeting über Zoom.",
+        "zh": "我们通过Zoom开了一个虚拟会议。"
+      }
+    ],
+    "collocations": [
+      "virtuelle Realität",
+      "virtuelles Meeting",
+      "virtueller Assistent"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "digital",
+      "simuliert"
+    ],
+    "antonyms": [
+      "real",
+      "physisch"
+    ]
+  },
+  {
+    "word": "Visum",
+    "lemma": "Visum",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Visa",
+    "meaning": [
+      {
+        "zh": "签证",
+        "en": "visa"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Für die USA braucht man ein Visum.",
+        "zh": "去美国需要签证。"
+      },
+      {
+        "de": "Mein Visum läuft nächste Woche ab.",
+        "zh": "我的签证下周到期。"
+      }
+    ],
+    "collocations": [
+      "Visum beantragen",
+      "Visum verlängern",
+      "Visum erteilen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Einreisegenehmigung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "völlig",
+    "lemma": "völlig",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "完全地",
+        "en": "completely"
+      },
+      {
+        "zh": "彻底地",
+        "en": "totally"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich bin völlig erschöpft nach der Arbeit.",
+        "zh": "工作后我完全筋疲力尽了。"
+      },
+      {
+        "de": "Das ist völlig in Ordnung.",
+        "zh": "这完全没问题。"
+      }
+    ],
+    "collocations": [
+      "völlig klar",
+      "völlig anders",
+      "völlig normal"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "absolut",
+      "total",
+      "komplett"
+    ],
+    "antonyms": [
+      "teilweise",
+      "kaum"
+    ]
+  },
+  {
+    "word": "Volontär",
+    "lemma": "Volontär",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Volontäre",
+    "meaning": [
+      {
+        "zh": "实习生（尤指媒体或出版行业）",
+        "en": "trainee (especially in media or publishing)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Volontär lernt die Arbeit in der Redaktion.",
+        "zh": "实习生学习编辑部的工作。"
+      },
+      {
+        "de": "Sie arbeitet als Volontärin bei einer Zeitung.",
+        "zh": "她在一家报社做实习生。"
+      }
+    ],
+    "collocations": [
+      "als Volontär arbeiten",
+      "Volontär in der Redaktion",
+      "Volontär ausbilden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "Praktikant",
+      "Auszubildender"
+    ],
+    "antonyms": [
+      "Chef",
+      "Vorgesetzter"
+    ]
+  },
+  {
+    "word": "Vvorkommen",
+    "lemma": "vorkommen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "发生",
+        "en": "to occur"
+      },
+      {
+        "zh": "出现",
+        "en": "to appear"
+      },
+      {
+        "zh": "觉得",
+        "en": "to seem (to someone)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "So ein Fehler kommt selten vor.",
+        "zh": "这种错误很少发生。"
+      },
+      {
+        "de": "Das kommt mir komisch vor.",
+        "zh": "我觉得这很奇怪。"
+      }
+    ],
+    "collocations": [
+      "häufig vorkommen",
+      "jemandem seltsam vorkommen",
+      "in der Natur vorkommen"
+    ],
+    "grammar": {
+      "case": "Dativ (bei 'jemandem vorkommen')",
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "vorgekommen"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "geschehen",
+      "passieren",
+      "erscheinen"
+    ],
+    "antonyms": [
+      "fehlen",
+      "ausbleiben"
+    ]
+  },
+  {
+    "word": "voraussagen",
+    "lemma": "voraussagen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "预言",
+        "en": "to predict"
+      },
+      {
+        "zh": "预报",
+        "en": "to forecast"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Meteorologe sagt das Wetter für morgen voraus.",
+        "zh": "气象学家预报明天的天气。"
+      },
+      {
+        "de": "Niemand konnte den Ausgang der Wahl voraussagen.",
+        "zh": "没有人能预测选举的结果。"
+      }
+    ],
+    "collocations": [
+      "das Wetter voraussagen",
+      "die Zukunft voraussagen",
+      "etwas genau voraussagen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "vorausgesagt"
+    },
+    "level": "B2",
+    "tags": [
+      "科技",
+      "B2"
+    ],
+    "synonyms": [
+      "prognostizieren",
+      "vorhersagen"
+    ],
+    "antonyms": [
+      "verschweigen",
+      "ignorieren"
+    ]
+  },
+  {
+    "word": "voraussichtlich",
+    "lemma": "voraussichtlich",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "预计",
+        "en": "presumably"
+      },
+      {
+        "zh": "大概",
+        "en": "likely"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Zug kommt voraussichtlich um 15 Uhr an.",
+        "zh": "火车预计下午3点到达。"
+      },
+      {
+        "de": "Die Kosten werden voraussichtlich steigen.",
+        "zh": "费用预计会上升。"
+      }
+    ],
+    "collocations": [
+      "voraussichtlich nächste Woche",
+      "voraussichtlich fertig",
+      "voraussichtlich bis"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "wahrscheinlich",
+      "vermutlich"
+    ],
+    "antonyms": [
+      "sicher",
+      "bestimmt"
+    ]
+  },
+  {
+    "word": "Vorbild",
+    "lemma": "Vorbild",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Vorbilder",
+    "meaning": [
+      {
+        "zh": "榜样",
+        "en": "role model"
+      },
+      {
+        "zh": "典范",
+        "en": "example"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mein Vater ist mein größtes Vorbild.",
+        "zh": "我的父亲是我最大的榜样。"
+      },
+      {
+        "de": "Sie ist ein Vorbild für viele junge Leute.",
+        "zh": "她是许多年轻人的榜样。"
+      }
+    ],
+    "collocations": [
+      "ein Vorbild sein",
+      "sich ein Vorbild nehmen",
+      "als Vorbild dienen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "Idol",
+      "Leitbild"
+    ],
+    "antonyms": [
+      "Negativbeispiel",
+      "Gegenbeispiel"
+    ]
+  },
+  {
+    "word": "Vorstand",
+    "lemma": "Vorstand",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Vorstände",
+    "meaning": [
+      {
+        "zh": "董事会，理事会",
+        "en": "board of directors, executive board"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Vorstand hat die Entscheidung getroffen.",
+        "zh": "董事会做出了决定。"
+      },
+      {
+        "de": "Sie wurde in den Vorstand gewählt.",
+        "zh": "她被选入董事会。"
+      }
+    ],
+    "collocations": [
+      "Vorstandsvorsitzender",
+      "dem Vorstand angehören"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "Leitung",
+      "Gremium"
+    ],
+    "antonyms": [
+      "Mitarbeiter"
+    ]
+  },
+  {
+    "word": "wachsen",
+    "lemma": "wachsen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "生长，增长",
+        "en": "to grow"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Pflanzen wachsen im Frühling schnell.",
+        "zh": "植物在春天生长很快。"
+      },
+      {
+        "de": "Die Wirtschaft wächst stetig.",
+        "zh": "经济持续增长。"
+      }
+    ],
+    "collocations": [
+      "schnell wachsen",
+      "wachsen lassen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "partizip2": "gewachsen"
+    },
+    "level": "A2",
+    "tags": [
+      "自然",
+      "经济",
+      "A2"
+    ],
+    "synonyms": [
+      "zunehmen",
+      "sich entwickeln"
+    ],
+    "antonyms": [
+      "schrumpfen",
+      "abnehmen"
+    ]
+  },
+  {
+    "word": "wählerisch",
+    "lemma": "wählerisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "挑剔的，讲究的",
+        "en": "picky, choosy"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist sehr wählerisch beim Essen.",
+        "zh": "他在吃方面很挑剔。"
+      },
+      {
+        "de": "Sie ist wählerisch bei der Partnerwahl.",
+        "zh": "她在选择伴侣时很挑剔。"
+      }
+    ],
+    "collocations": [
+      "wählerisch sein",
+      "nicht wählerisch"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "性格",
+      "B1"
+    ],
+    "synonyms": [
+      "anspruchsvoll",
+      "heikel"
+    ],
+    "antonyms": [
+      "genügsam",
+      "unkritisch"
+    ]
+  },
+  {
+    "word": "Wanne",
+    "lemma": "Wanne",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Wannen",
+    "meaning": [
+      {
+        "zh": "浴缸，槽",
+        "en": "bathtub, tub"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie liegt in der Wanne und entspannt sich.",
+        "zh": "她躺在浴缸里放松。"
+      },
+      {
+        "de": "Die Wanne ist aus Emaille.",
+        "zh": "这个浴缸是搪瓷的。"
+      }
+    ],
+    "collocations": [
+      "Badewanne",
+      "in der Wanne baden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "家居",
+      "A2"
+    ],
+    "synonyms": [
+      "Badewanne",
+      "Becken"
+    ],
+    "antonyms": [
+      "Dusche"
+    ]
+  },
+  {
+    "word": "warnen",
+    "lemma": "warnen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "警告，提醒",
+        "en": "to warn"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Arzt warnte ihn vor dem Rauchen.",
+        "zh": "医生警告他不要吸烟。"
+      },
+      {
+        "de": "Ich warne dich vor der Gefahr.",
+        "zh": "我提醒你注意危险。"
+      }
+    ],
+    "collocations": [
+      "vor etwas warnen",
+      "warnende Worte"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gewarnt"
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "安全",
+      "B1"
+    ],
+    "synonyms": [
+      "ermahnen",
+      "hinweisen"
+    ],
+    "antonyms": [
+      "ermutigen",
+      "beruhigen"
+    ]
+  },
+  {
+    "word": "wegdenken",
+    "lemma": "wegdenken",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "想象...不存在，忽略",
+        "en": "to imagine away, to disregard"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Man kann ihn aus dem Team nicht wegdenken.",
+        "zh": "无法想象团队中没有他。"
+      },
+      {
+        "de": "Den Lärm kann man hier nicht einfach wegdenken.",
+        "zh": "这里的噪音不能简单地忽略。"
+      }
+    ],
+    "collocations": [
+      "nicht wegdenken können",
+      "sich wegdenken"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "weggedacht"
+    },
+    "level": "B2",
+    "tags": [
+      "思维",
+      "抽象",
+      "B2"
+    ],
+    "synonyms": [
+      "ausblenden",
+      "ignorieren"
+    ],
+    "antonyms": [
+      "einbeziehen",
+      "berücksichtigen"
+    ]
+  },
+  {
+    "word": "Weise",
+    "lemma": "Weise",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Weisen",
+    "meaning": [
+      {
+        "zh": "方式，方法；智者",
+        "en": "way, manner; wise person"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Auf diese Weise können wir das Problem lösen.",
+        "zh": "用这种方式我们可以解决问题。"
+      },
+      {
+        "de": "Der Weise gab ihm einen guten Rat.",
+        "zh": "智者给了他一个好建议。"
+      }
+    ],
+    "collocations": [
+      "auf diese Weise",
+      "in gewisser Weise"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "抽象",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Art",
+      "Methode",
+      "Philosoph"
+    ],
+    "antonyms": [
+      "Torheit"
+    ]
+  },
+  {
+    "word": "weiterhin",
+    "lemma": "weiterhin",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "继续，仍然",
+        "en": "furthermore, still, continue to"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir werden weiterhin an dem Projekt arbeiten.",
+        "zh": "我们将继续在这个项目上工作。"
+      },
+      {
+        "de": "Er ist weiterhin krank.",
+        "zh": "他仍然生病。"
+      }
+    ],
+    "collocations": [
+      "weiterhin bestehen",
+      "weiterhin gültig"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "时间",
+      "抽象",
+      "B1"
+    ],
+    "synonyms": [
+      "noch",
+      "weiter",
+      "außerdem"
+    ],
+    "antonyms": [
+      "nicht mehr",
+      "aufhören"
+    ]
+  },
+  {
+    "word": "werben",
+    "lemma": "werben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "做广告，宣传",
+        "en": "to advertise, to promote"
+      },
+      {
+        "zh": "招募，争取",
+        "en": "to recruit, to canvass"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Firma wirbt für ihr neues Produkt im Fernsehen.",
+        "zh": "这家公司在电视上为它的新产品做广告。"
+      },
+      {
+        "de": "Er wirbt um die Gunst der Wähler.",
+        "zh": "他争取选民的好感。"
+      }
+    ],
+    "collocations": [
+      "für etwas werben",
+      "um jemanden werben",
+      "Werbung machen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geworben"
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "媒体",
+      "B1"
+    ],
+    "synonyms": [
+      "anpreisen",
+      "propagieren",
+      "reklamieren"
+    ],
+    "antonyms": [
+      "verschweigen",
+      "ignorieren"
+    ]
+  },
+  {
+    "word": "widerspiegeln",
+    "lemma": "widerspiegeln",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "反映，体现",
+        "en": "to reflect, to mirror"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kunst widerspiegelt die Gesellschaft.",
+        "zh": "艺术反映社会。"
+      },
+      {
+        "de": "Seine Worte widerspiegeln seine tiefe Enttäuschung.",
+        "zh": "他的话反映了他深深的失望。"
+      }
+    ],
+    "collocations": [
+      "etwas widerspiegelt etwas",
+      "sich in etwas widerspiegeln"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "widerspiegelt"
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "文学",
+      "B2"
+    ],
+    "synonyms": [
+      "abbilden",
+      "spiegeln",
+      "repräsentieren"
+    ],
+    "antonyms": [
+      "verzerren",
+      "verfälschen"
+    ]
+  },
+  {
+    "word": "Windkraft",
+    "lemma": "Windkraft",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "风力，风能",
+        "en": "wind power, wind energy"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Windkraft wird immer wichtiger für die Energieversorgung.",
+        "zh": "风能对能源供应越来越重要。"
+      },
+      {
+        "de": "Deutschland investiert stark in Windkraftanlagen.",
+        "zh": "德国大力投资风力发电设备。"
+      }
+    ],
+    "collocations": [
+      "Windkraft nutzen",
+      "Windkraftanlage",
+      "erneuerbare Energie"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "能源",
+      "环境",
+      "技术",
+      "B1"
+    ],
+    "synonyms": [
+      "Windenergie",
+      "Windstrom"
+    ],
+    "antonyms": [
+      "Kohlekraft",
+      "Atomkraft"
+    ]
+  }
+]

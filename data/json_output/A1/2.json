@@ -1,0 +1,1431 @@
+[
+  {
+    "word": "anziehen",
+    "lemma": "anziehen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "穿上（衣服）",
+        "en": "to put on (clothes)"
+      },
+      {
+        "zh": "吸引",
+        "en": "to attract"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich ziehe mir eine Jacke an.",
+        "zh": "我穿上了一件夹克。"
+      },
+      {
+        "de": "Die Ausstellung zieht viele Besucher an.",
+        "zh": "这个展览吸引了很多参观者。"
+      }
+    ],
+    "collocations": [
+      "sich anziehen",
+      "jemanden anziehen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "angezogen"
+    },
+    "level": "A2",
+    "tags": [
+      "日常",
+      "动作",
+      "A2"
+    ],
+    "synonyms": [
+      "anlegen",
+      "bekleiden"
+    ],
+    "antonyms": [
+      "ausziehen"
+    ]
+  },
+  {
+    "word": "Apfel",
+    "lemma": "Apfel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Äpfel",
+    "meaning": [
+      {
+        "zh": "苹果",
+        "en": "apple"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich esse jeden Tag einen Apfel.",
+        "zh": "我每天吃一个苹果。"
+      },
+      {
+        "de": "Der Apfel ist rot und süß.",
+        "zh": "这个苹果又红又甜。"
+      }
+    ],
+    "collocations": [
+      "einen Apfel essen",
+      "der Apfel fällt nicht weit vom Stamm"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "食物",
+      "日常",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Apotheke",
+    "lemma": "Apotheke",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Apotheken",
+    "meaning": [
+      {
+        "zh": "药店",
+        "en": "pharmacy"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich gehe zur Apotheke, um Medikamente zu kaufen.",
+        "zh": "我去药店买药。"
+      },
+      {
+        "de": "Die Apotheke hat bis 20 Uhr geöffnet.",
+        "zh": "这家药店营业到晚上8点。"
+      }
+    ],
+    "collocations": [
+      "in die Apotheke gehen",
+      "die Apotheke ist geöffnet"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "地点",
+      "健康",
+      "A1"
+    ],
+    "synonyms": [
+      "Drogerie"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Appetit",
+    "lemma": "Appetit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "食欲",
+        "en": "appetite"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe großen Appetit auf Pizza.",
+        "zh": "我很想吃披萨。"
+      },
+      {
+        "de": "Der Appetit kommt beim Essen.",
+        "zh": "胃口是吃出来的。"
+      }
+    ],
+    "collocations": [
+      "Appetit haben",
+      "den Appetit anregen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "Hunger"
+    ],
+    "antonyms": [
+      "Appetitlosigkeit"
+    ]
+  },
+  {
+    "word": "Arbeit",
+    "lemma": "Arbeit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Arbeiten",
+    "meaning": [
+      {
+        "zh": "工作",
+        "en": "work"
+      },
+      {
+        "zh": "作业",
+        "en": "homework"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe heute viel Arbeit.",
+        "zh": "我今天有很多工作。"
+      },
+      {
+        "de": "Die Arbeit macht mir Spaß.",
+        "zh": "工作让我开心。"
+      }
+    ],
+    "collocations": [
+      "zur Arbeit gehen",
+      "die Arbeit erledigen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "职业",
+      "日常",
+      "A1"
+    ],
+    "synonyms": [
+      "Job",
+      "Tätigkeit"
+    ],
+    "antonyms": [
+      "Freizeit"
+    ]
+  },
+  {
+    "word": "arbeiten",
+    "lemma": "arbeiten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "工作",
+        "en": "to work"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich arbeite in einer Firma.",
+        "zh": "我在一家公司工作。"
+      },
+      {
+        "de": "Er arbeitet als Ingenieur.",
+        "zh": "他是一名工程师。"
+      }
+    ],
+    "collocations": [
+      "hart arbeiten",
+      "als etwas arbeiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gearbeitet"
+    },
+    "level": "A1",
+    "tags": [
+      "职业",
+      "动作",
+      "A1"
+    ],
+    "synonyms": [
+      "tätig sein",
+      "schaffen"
+    ],
+    "antonyms": [
+      "faulenzen",
+      "ruhen"
+    ]
+  },
+  {
+    "word": "arbeitslos",
+    "lemma": "arbeitslos",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "失业的",
+        "en": "unemployed"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist seit einem Jahr arbeitslos.",
+        "zh": "他已经失业一年了。"
+      },
+      {
+        "de": "Die Zahl der Arbeitslosen steigt.",
+        "zh": "失业人数在上升。"
+      }
+    ],
+    "collocations": [
+      "arbeitslos sein",
+      "arbeitslos werden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "状态",
+      "B1"
+    ],
+    "synonyms": [
+      "erwerbslos",
+      "stellensuchend"
+    ],
+    "antonyms": [
+      "berufstätig",
+      "angestellt"
+    ]
+  },
+  {
+    "word": "Arm",
+    "lemma": "Arm",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Arme",
+    "meaning": [
+      {
+        "zh": "手臂",
+        "en": "arm"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat sich den Arm gebrochen.",
+        "zh": "他摔断了手臂。"
+      },
+      {
+        "de": "Sie trägt das Kind auf dem Arm.",
+        "zh": "她抱着孩子。"
+      }
+    ],
+    "collocations": [
+      "den Arm heben",
+      "jemanden in den Arm nehmen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "身体",
+      "日常",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "Bein"
+    ]
+  },
+  {
+    "word": "Arzt",
+    "lemma": "Arzt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Ärzte",
+    "meaning": [
+      {
+        "zh": "医生",
+        "en": "doctor"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Arzt verschreibt mir ein Medikament.",
+        "zh": "医生给我开了一种药。"
+      },
+      {
+        "de": "Sie geht regelmäßig zum Arzt.",
+        "zh": "她定期去看医生。"
+      }
+    ],
+    "collocations": [
+      "zum Arzt gehen",
+      "einen Arzttermin vereinbaren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "健康",
+      "职业",
+      "A1"
+    ],
+    "synonyms": [
+      "Mediziner",
+      "Doktor"
+    ],
+    "antonyms": [
+      "Patient"
+    ]
+  },
+  {
+    "word": "Atmosphäre",
+    "lemma": "Atmosphäre",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Atmosphären",
+    "meaning": [
+      {
+        "zh": "气氛；大气层",
+        "en": "atmosphere"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Atmosphäre im Raum war sehr angespannt.",
+        "zh": "房间里的气氛非常紧张。"
+      },
+      {
+        "de": "Die Atmosphäre der Erde schützt uns vor UV-Strahlung.",
+        "zh": "地球的大气层保护我们免受紫外线辐射。"
+      }
+    ],
+    "collocations": [
+      "eine freundliche Atmosphäre schaffen",
+      "die Atmosphäre genießen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "环境",
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "Stimmung",
+      "Luft"
+    ],
+    "antonyms": [
+      "Spannung"
+    ]
+  },
+  {
+    "word": "aufmachen",
+    "lemma": "aufmachen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "打开；开门；开始营业",
+        "en": "to open"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du bitte das Fenster aufmachen?",
+        "zh": "你能打开窗户吗？"
+      },
+      {
+        "de": "Der Supermarkt macht um 8 Uhr auf.",
+        "zh": "超市早上8点开门营业。"
+      }
+    ],
+    "collocations": [
+      "die Tür aufmachen",
+      "ein Geschäft aufmachen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "aufgemacht"
+    },
+    "level": "A2",
+    "tags": [
+      "日常",
+      "动作",
+      "A2"
+    ],
+    "synonyms": [
+      "öffnen",
+      "eröffnen"
+    ],
+    "antonyms": [
+      "zumachen",
+      "schließen"
+    ]
+  },
+  {
+    "word": "aufnehmen",
+    "lemma": "aufnehmen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "接收；录制；开始",
+        "en": "to take in; to record; to start"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Krankenhaus hat den Patienten aufgenommen.",
+        "zh": "医院接收了这位病人。"
+      },
+      {
+        "de": "Wir haben das Konzert auf Video aufgenommen.",
+        "zh": "我们把音乐会录了下来。"
+      }
+    ],
+    "collocations": [
+      "Kontakt aufnehmen",
+      "ein Lied aufnehmen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "aufgenommen"
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "技术",
+      "B1"
+    ],
+    "synonyms": [
+      "empfangen",
+      "aufzeichnen"
+    ],
+    "antonyms": [
+      "ablehnen",
+      "löschen"
+    ]
+  },
+  {
+    "word": "aufstehen",
+    "lemma": "aufstehen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "起床；站起来",
+        "en": "to get up; to stand up"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich stehe jeden Morgen um 7 Uhr auf.",
+        "zh": "我每天早上7点起床。"
+      },
+      {
+        "de": "Bitte stehen Sie auf, wenn der Lehrer hereinkommt.",
+        "zh": "老师进来时请站起来。"
+      }
+    ],
+    "collocations": [
+      "früh aufstehen",
+      "vom Stuhl aufstehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "aufgestanden"
+    },
+    "level": "A1",
+    "tags": [
+      "日常",
+      "动作",
+      "A1"
+    ],
+    "synonyms": [
+      "erwachen",
+      "sich erheben"
+    ],
+    "antonyms": [
+      "sich hinlegen",
+      "sitzen bleiben"
+    ]
+  },
+  {
+    "word": "Auge",
+    "lemma": "Auge",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Augen",
+    "meaning": [
+      {
+        "zh": "眼睛",
+        "en": "eye"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat schöne blaue Augen.",
+        "zh": "她有一双美丽的蓝眼睛。"
+      },
+      {
+        "de": "Ich habe etwas im Auge.",
+        "zh": "我眼睛里进了东西。"
+      }
+    ],
+    "collocations": [
+      "ein Auge auf etwas werfen",
+      "die Augen schließen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "身体",
+      "日常",
+      "A1"
+    ],
+    "synonyms": [
+      "Sehorgan"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "Ausbildung",
+    "lemma": "Ausbildung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Ausbildungen",
+    "meaning": [
+      {
+        "zh": "教育；培训",
+        "en": "education; training"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er macht eine Ausbildung zum Elektriker.",
+        "zh": "他正在接受电工培训。"
+      },
+      {
+        "de": "Eine gute Ausbildung ist wichtig für die Karriere.",
+        "zh": "良好的教育对职业很重要。"
+      }
+    ],
+    "collocations": [
+      "eine Ausbildung absolvieren",
+      "in der Ausbildung sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "教育",
+      "职业",
+      "A2"
+    ],
+    "synonyms": [
+      "Lehre",
+      "Schulung"
+    ],
+    "antonyms": [
+      "Unwissenheit"
+    ]
+  },
+  {
+    "word": "Ausflug",
+    "lemma": "Ausflug",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Ausflüge",
+    "meaning": [
+      {
+        "zh": "短途旅行；远足",
+        "en": "excursion; trip"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir machen am Wochenende einen Ausflug in die Berge.",
+        "zh": "我们周末去山里短途旅行。"
+      },
+      {
+        "de": "Der Schulausflug ins Museum war sehr interessant.",
+        "zh": "去博物馆的学校远足非常有趣。"
+      }
+    ],
+    "collocations": [
+      "einen Ausflug machen",
+      "einen Tagesausflug planen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "旅行",
+      "休闲",
+      "A2"
+    ],
+    "synonyms": [
+      "Trip",
+      "Exkursion"
+    ],
+    "antonyms": [
+      "Bleiben",
+      "Aufenthalt"
+    ]
+  },
+  {
+    "word": "Auskunft",
+    "lemma": "Auskunft",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Auskünfte",
+    "meaning": [
+      {
+        "zh": "信息，咨询，答复",
+        "en": "information, advice, answer"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Können Sie mir eine Auskunft geben?",
+        "zh": "您能给我一个答复吗？"
+      },
+      {
+        "de": "Die Auskunft am Bahnhof ist sehr hilfreich.",
+        "zh": "火车站的咨询处非常有帮助。"
+      }
+    ],
+    "collocations": [
+      "Auskunft geben",
+      "Auskunft erhalten",
+      "um Auskunft bitten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Information",
+      "Auskunftsdienst"
+    ],
+    "antonyms": [
+      "Unwissenheit"
+    ]
+  },
+  {
+    "word": "Ausland",
+    "lemma": "Ausland",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "国外，外国",
+        "en": "abroad, foreign countries"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie lebt seit fünf Jahren im Ausland.",
+        "zh": "她在国外生活了五年。"
+      },
+      {
+        "de": "Der Brief kommt aus dem Ausland.",
+        "zh": "这封信来自国外。"
+      }
+    ],
+    "collocations": [
+      "im Ausland",
+      "ins Ausland reisen",
+      "aus dem Ausland kommen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Fremde",
+      "Übersee"
+    ],
+    "antonyms": [
+      "Inland"
+    ]
+  },
+  {
+    "word": "Ausländer",
+    "lemma": "Ausländer",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Ausländer",
+    "meaning": [
+      {
+        "zh": "外国人",
+        "en": "foreigner"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Viele Ausländer arbeiten in Deutschland.",
+        "zh": "许多外国人在德国工作。"
+      },
+      {
+        "de": "Er ist ein Ausländer und lernt Deutsch.",
+        "zh": "他是一个外国人，正在学德语。"
+      }
+    ],
+    "collocations": [
+      "Ausländerbehörde",
+      "Ausländerfeindlichkeit",
+      "Ausländer integrieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "社会",
+      "A2"
+    ],
+    "synonyms": [
+      "Fremder",
+      "Migrant"
+    ],
+    "antonyms": [
+      "Einheimischer",
+      "Inländer"
+    ]
+  },
+  {
+    "word": "auspacken",
+    "lemma": "auspacken",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "打开（包裹），拆包；坦白",
+        "en": "to unpack; to come clean"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich muss die Koffer auspacken.",
+        "zh": "我必须把行李箱打开。"
+      },
+      {
+        "de": "Nach langem Zögern packte er endlich aus.",
+        "zh": "犹豫了很久之后，他终于坦白了。"
+      }
+    ],
+    "collocations": [
+      "Koffer auspacken",
+      "Geschenke auspacken",
+      "auspacken über"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "ausgepackt"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "entpacken",
+      "offenbaren"
+    ],
+    "antonyms": [
+      "einpacken",
+      "verheimlichen"
+    ]
+  },
+  {
+    "word": "ausruhen",
+    "lemma": "ausruhen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "休息，歇息",
+        "en": "to rest, to relax"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Nach der Arbeit muss ich mich ausruhen.",
+        "zh": "工作后我必须休息一下。"
+      },
+      {
+        "de": "Sie ruht sich im Garten aus.",
+        "zh": "她在花园里休息。"
+      }
+    ],
+    "collocations": [
+      "sich ausruhen",
+      "sich von etwas ausruhen",
+      "sich kurz ausruhen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "ausgeruht"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "entspannen",
+      "erholen"
+    ],
+    "antonyms": [
+      "anstrengen",
+      "arbeiten"
+    ]
+  },
+  {
+    "word": "außerdem",
+    "lemma": "außerdem",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "此外，而且",
+        "en": "besides, moreover"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist intelligent, außerdem sehr fleißig.",
+        "zh": "他很聪明，而且非常勤奋。"
+      },
+      {
+        "de": "Außerdem möchte ich noch etwas sagen.",
+        "zh": "此外，我还想说点事。"
+      }
+    ],
+    "collocations": [
+      "und außerdem",
+      "außerdem noch",
+      "außerdem gibt es"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "语言",
+      "A2"
+    ],
+    "synonyms": [
+      "zudem",
+      "darüber hinaus",
+      "obendrein"
+    ],
+    "antonyms": [
+      "trotzdem",
+      "dennoch"
+    ]
+  },
+  {
+    "word": "ausziehen",
+    "lemma": "ausziehen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "脱（衣服）；搬出（房子）",
+        "en": "to take off (clothes); to move out"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Zieh dich bitte aus, es ist warm.",
+        "zh": "请脱掉衣服，天气很暖和。"
+      },
+      {
+        "de": "Nächste Woche ziehen wir aus der Wohnung aus.",
+        "zh": "下周我们要搬出公寓。"
+      }
+    ],
+    "collocations": [
+      "sich ausziehen",
+      "die Jacke ausziehen",
+      "aus der Wohnung ausziehen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "ausgezogen"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "ablegen",
+      "entkleiden",
+      "umziehen"
+    ],
+    "antonyms": [
+      "anziehen",
+      "einziehen"
+    ]
+  },
+  {
+    "word": "Auto",
+    "lemma": "Auto",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Autos",
+    "meaning": [
+      {
+        "zh": "汽车",
+        "en": "car, automobile"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mein Auto ist kaputt.",
+        "zh": "我的汽车坏了。"
+      },
+      {
+        "de": "Er fährt jeden Tag mit dem Auto zur Arbeit.",
+        "zh": "他每天开车上班。"
+      }
+    ],
+    "collocations": [
+      "Auto fahren",
+      "Auto kaufen",
+      "mit dem Auto"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "交通",
+      "A1"
+    ],
+    "synonyms": [
+      "Fahrzeug",
+      "Wagen",
+      "PKW"
+    ],
+    "antonyms": [
+      "Fahrrad",
+      "Bus"
+    ]
+  },
+  {
+    "word": "Bad",
+    "lemma": "Bad",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Bäder",
+    "meaning": [
+      {
+        "zh": "浴室；洗澡",
+        "en": "bathroom; bath"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich gehe ins Bad, um zu duschen.",
+        "zh": "我去浴室洗澡。"
+      },
+      {
+        "de": "Sie nimmt ein warmes Bad.",
+        "zh": "她洗了个热水澡。"
+      }
+    ],
+    "collocations": [
+      "ein Bad nehmen",
+      "ins Bad gehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "A1"
+    ],
+    "synonyms": [
+      "Badezimmer"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "baden",
+    "lemma": "baden",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "洗澡；游泳",
+        "en": "to bathe; to swim"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kinder baden im See.",
+        "zh": "孩子们在湖里游泳。"
+      },
+      {
+        "de": "Er badet jeden Morgen.",
+        "zh": "他每天早上洗澡。"
+      }
+    ],
+    "collocations": [
+      "im Meer baden",
+      "ein Kind baden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gebadet"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "duschen",
+      "schwimmen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Bahnhof",
+    "lemma": "Bahnhof",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Bahnhöfe",
+    "meaning": [
+      {
+        "zh": "火车站",
+        "en": "train station"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Zug fährt um 8 Uhr vom Bahnhof ab.",
+        "zh": "火车8点从火车站出发。"
+      },
+      {
+        "de": "Wir treffen uns am Bahnhof.",
+        "zh": "我们在火车站见面。"
+      }
+    ],
+    "collocations": [
+      "am Bahnhof",
+      "zum Bahnhof gehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "交通",
+      "A1"
+    ],
+    "synonyms": [
+      "Hauptbahnhof"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Balkon",
+    "lemma": "Balkon",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Balkone",
+    "meaning": [
+      {
+        "zh": "阳台",
+        "en": "balcony"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir frühstücken auf dem Balkon.",
+        "zh": "我们在阳台上吃早餐。"
+      },
+      {
+        "de": "Der Balkon ist sehr sonnig.",
+        "zh": "阳台阳光充足。"
+      }
+    ],
+    "collocations": [
+      "auf dem Balkon sitzen",
+      "einen Balkon haben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Terrasse"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Bank",
+    "lemma": "Bank",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Bänke",
+    "meaning": [
+      {
+        "zh": "长凳；银行",
+        "en": "bench; bank"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er sitzt auf der Bank im Park.",
+        "zh": "他坐在公园的长凳上。"
+      },
+      {
+        "de": "Ich muss zur Bank, um Geld abzuheben.",
+        "zh": "我得去银行取钱。"
+      }
+    ],
+    "collocations": [
+      "auf der Bank sitzen",
+      "zur Bank gehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "A1"
+    ],
+    "synonyms": [
+      "Sitzbank",
+      "Kreditinstitut"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Bauch",
+    "lemma": "Bauch",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Bäuche",
+    "meaning": [
+      {
+        "zh": "肚子；腹部",
+        "en": "belly; stomach"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe Bauchschmerzen.",
+        "zh": "我肚子疼。"
+      },
+      {
+        "de": "Er hat einen dicken Bauch.",
+        "zh": "他有一个大肚子。"
+      }
+    ],
+    "collocations": [
+      "Bauchschmerzen haben",
+      "auf dem Bauch liegen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "身体",
+      "A2"
+    ],
+    "synonyms": [
+      "Magen",
+      "Unterleib"
+    ],
+    "antonyms": [
+      "Rücken"
+    ]
+  }
+]

@@ -1,0 +1,1764 @@
+[
+  {
+    "word": "Macht",
+    "lemma": "Macht",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Mächte",
+    "meaning": [
+      {
+        "zh": "权力，力量",
+        "en": "power, might"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Regierung hat die Macht, neue Gesetze zu erlassen.",
+        "zh": "政府有权制定新法律。"
+      },
+      {
+        "de": "Er hat viel Macht in der Firma.",
+        "zh": "他在公司里很有权力。"
+      }
+    ],
+    "collocations": [
+      "an die Macht kommen",
+      "die Macht ergreifen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "政治",
+      "B1"
+    ],
+    "synonyms": [
+      "Gewalt",
+      "Einfluss"
+    ],
+    "antonyms": [
+      "Ohnmacht"
+    ]
+  },
+  {
+    "word": "Magisterstudiengang",
+    "lemma": "Magisterstudiengang",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Magisterstudiengänge",
+    "meaning": [
+      {
+        "zh": "硕士课程（旧制）",
+        "en": "master's degree program (old system)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat einen Magisterstudiengang in Geschichte abgeschlossen.",
+        "zh": "他完成了历史学硕士课程。"
+      },
+      {
+        "de": "Der Magisterstudiengang wurde durch den Bachelor-Master-Studiengang ersetzt.",
+        "zh": "硕士课程已被学士-硕士课程取代。"
+      }
+    ],
+    "collocations": [
+      "einen Magisterstudiengang belegen",
+      "den Magisterstudiengang abschließen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "教育",
+      "B2"
+    ],
+    "synonyms": [
+      "Masterstudiengang"
+    ],
+    "antonyms": [
+      "Bachelorstudiengang"
+    ]
+  },
+  {
+    "word": "manch",
+    "lemma": "manch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "有些，某些",
+        "en": "some, many a"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Manch einer hat das schon versucht.",
+        "zh": "有些人已经尝试过了。"
+      },
+      {
+        "de": "Manche Leute mögen keine Hunde.",
+        "zh": "有些人不喜欢狗。"
+      }
+    ],
+    "collocations": [
+      "manch einer",
+      "manche Leute"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语法",
+      "B1"
+    ],
+    "synonyms": [
+      "einige",
+      "gewisse"
+    ],
+    "antonyms": [
+      "alle",
+      "keine"
+    ]
+  },
+  {
+    "word": "Mantel",
+    "lemma": "Mantel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Mäntel",
+    "meaning": [
+      {
+        "zh": "大衣，外套",
+        "en": "coat, overcoat"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Winter trage ich einen warmen Mantel.",
+        "zh": "冬天我穿一件暖和的大衣。"
+      },
+      {
+        "de": "Sie hat ihren Mantel an der Garderobe abgegeben.",
+        "zh": "她把大衣寄存在衣帽间。"
+      }
+    ],
+    "collocations": [
+      "einen Mantel anziehen",
+      "den Mantel ausziehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "衣物",
+      "A2"
+    ],
+    "synonyms": [
+      "Jacke",
+      "Überzieher"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Märchen",
+    "lemma": "Märchen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Märchen",
+    "meaning": [
+      {
+        "zh": "童话，传说",
+        "en": "fairy tale, story"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Brüder Grimm haben viele Märchen gesammelt.",
+        "zh": "格林兄弟收集了许多童话。"
+      },
+      {
+        "de": "Das ist doch ein Märchen, das glaube ich nicht.",
+        "zh": "这简直是童话，我不相信。"
+      }
+    ],
+    "collocations": [
+      "ein Märchen erzählen",
+      "ein Märchenbuch lesen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "文学",
+      "A2"
+    ],
+    "synonyms": [
+      "Legende",
+      "Fabel"
+    ],
+    "antonyms": [
+      "Wahrheit"
+    ]
+  },
+  {
+    "word": "Mars",
+    "lemma": "Mars",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "火星",
+        "en": "Mars"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Mars ist der vierte Planet unseres Sonnensystems.",
+        "zh": "火星是我们太阳系的第四颗行星。"
+      },
+      {
+        "de": "Die NASA plant eine bemannte Mission zum Mars.",
+        "zh": "美国宇航局计划载人前往火星。"
+      }
+    ],
+    "collocations": [
+      "zum Mars fliegen",
+      "auf dem Mars landen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "天文",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Maschine",
+    "lemma": "Maschine",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Maschinen",
+    "meaning": [
+      {
+        "zh": "机器，机械",
+        "en": "machine, engine"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Maschine läuft rund um die Uhr.",
+        "zh": "这台机器昼夜不停地运转。"
+      },
+      {
+        "de": "Er bedient die Maschine in der Fabrik.",
+        "zh": "他在工厂里操作机器。"
+      }
+    ],
+    "collocations": [
+      "eine Maschine bedienen",
+      "die Maschine reparieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "技术",
+      "A2"
+    ],
+    "synonyms": [
+      "Gerät",
+      "Apparat"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Maschinenbauindustrie",
+    "lemma": "Maschinenbauindustrie",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Maschinenbauindustrien",
+    "meaning": [
+      {
+        "zh": "机械制造业",
+        "en": "mechanical engineering industry"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Maschinenbauindustrie ist ein wichtiger Wirtschaftszweig in Deutschland.",
+        "zh": "机械制造业是德国的一个重要经济部门。"
+      },
+      {
+        "de": "Viele Unternehmen der Maschinenbauindustrie exportieren ihre Produkte weltweit.",
+        "zh": "许多机械制造企业将其产品出口到世界各地。"
+      }
+    ],
+    "collocations": [
+      "in der Maschinenbauindustrie arbeiten",
+      "die Maschinenbauindustrie fördern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "经济",
+      "工业",
+      "B2"
+    ],
+    "synonyms": [
+      "Maschinenbausektor"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Maßstab",
+    "lemma": "Maßstab",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Maßstäbe",
+    "meaning": [
+      {
+        "zh": "标准，尺度；比例尺",
+        "en": "standard, scale; measuring scale"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieser Test dient als Maßstab für die Leistung der Schüler.",
+        "zh": "这个测试是衡量学生成绩的标准。"
+      },
+      {
+        "de": "Die Karte hat einen Maßstab von 1:100.000.",
+        "zh": "这张地图的比例尺是1:100000。"
+      }
+    ],
+    "collocations": [
+      "einen Maßstab setzen",
+      "als Maßstab dienen",
+      "im Maßstab von"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "测量",
+      "B1"
+    ],
+    "synonyms": [
+      "Kriterium",
+      "Norm",
+      "Skala"
+    ],
+    "antonyms": [
+      "Ausnahme"
+    ]
+  },
+  {
+    "word": "Master",
+    "lemma": "Master",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Master",
+    "meaning": [
+      {
+        "zh": "硕士；主人，大师",
+        "en": "master's degree; master, expert"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat seinen Master in Informatik gemacht.",
+        "zh": "他获得了计算机科学硕士学位。"
+      },
+      {
+        "de": "Der Master des Hundes rief ihn zurück.",
+        "zh": "狗的主人把它叫了回来。"
+      }
+    ],
+    "collocations": [
+      "Master-Studiengang",
+      "Master-Abschluss",
+      "Master werden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Meister",
+      "Experte"
+    ],
+    "antonyms": [
+      "Anfänger"
+    ]
+  },
+  {
+    "word": "Mausklick",
+    "lemma": "Mausklick",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Mausklicks",
+    "meaning": [
+      {
+        "zh": "鼠标点击",
+        "en": "mouse click"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mit einem Mausklick öffnet sich das Programm.",
+        "zh": "只需一次鼠标点击，程序就会打开。"
+      },
+      {
+        "de": "Sie bestellte das Produkt per Mausklick.",
+        "zh": "她通过鼠标点击订购了产品。"
+      }
+    ],
+    "collocations": [
+      "per Mausklick",
+      "ein Mausklick genügt",
+      "mit einem Mausklick"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "科技",
+      "计算机",
+      "A2"
+    ],
+    "synonyms": [
+      "Klick"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "Medizin",
+    "lemma": "Medizin",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Medizinen",
+    "meaning": [
+      {
+        "zh": "医学；药物",
+        "en": "medicine; medication"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie studiert Medizin an der Universität.",
+        "zh": "她在大学学习医学。"
+      },
+      {
+        "de": "Der Arzt verschrieb ihm eine Medizin gegen Husten.",
+        "zh": "医生给他开了一种治咳嗽的药。"
+      }
+    ],
+    "collocations": [
+      "Medizin studieren",
+      "Medizin einnehmen",
+      "alternative Medizin"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "健康",
+      "教育",
+      "A2"
+    ],
+    "synonyms": [
+      "Arznei",
+      "Heilkunde"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "Mehl",
+    "lemma": "Mehl",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Mehle",
+    "meaning": [
+      {
+        "zh": "面粉",
+        "en": "flour"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Für den Kuchen brauchst du Mehl, Zucker und Eier.",
+        "zh": "做蛋糕需要面粉、糖和鸡蛋。"
+      },
+      {
+        "de": "Das Mehl wird aus Weizen gemahlen.",
+        "zh": "面粉是由小麦磨成的。"
+      }
+    ],
+    "collocations": [
+      "Mehl sieben",
+      "Mehl abwiegen",
+      "aus Mehl backen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "食物",
+      "A1"
+    ],
+    "synonyms": null,
+    "antonyms": null
+  },
+  {
+    "word": "mehrere",
+    "lemma": "mehrere",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "几个，若干",
+        "en": "several, multiple"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mehrere Leute haben sich beschwert.",
+        "zh": "有几个人抱怨了。"
+      },
+      {
+        "de": "Er hat mehrere Bücher zu diesem Thema gelesen.",
+        "zh": "他读了几本关于这个主题的书。"
+      }
+    ],
+    "collocations": [
+      "mehrere Male",
+      "mehrere Möglichkeiten",
+      "mehrere Jahre"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "语法",
+      "数量",
+      "A2"
+    ],
+    "synonyms": [
+      "einige",
+      "verschiedene"
+    ],
+    "antonyms": [
+      "einzelne",
+      "wenige"
+    ]
+  },
+  {
+    "word": "Mensch",
+    "lemma": "Mensch",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Menschen",
+    "meaning": [
+      {
+        "zh": "人，人类",
+        "en": "human, person"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Jeder Mensch hat das Recht auf Freiheit.",
+        "zh": "每个人都有自由的权利。"
+      },
+      {
+        "de": "Sie ist ein freundlicher Mensch.",
+        "zh": "她是一个友善的人。"
+      }
+    ],
+    "collocations": [
+      "ein Mensch sein",
+      "Menschenrechte",
+      "viele Menschen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "社会",
+      "生活",
+      "A1"
+    ],
+    "synonyms": [
+      "Person",
+      "Individuum"
+    ],
+    "antonyms": [
+      "Tier"
+    ]
+  },
+  {
+    "word": "merken",
+    "lemma": "merken",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "注意到，记住",
+        "en": "to notice, to remember"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe mir die Telefonnummer gemerkt.",
+        "zh": "我记住了电话号码。"
+      },
+      {
+        "de": "Hast du gemerkt, dass er traurig war?",
+        "zh": "你注意到他伤心了吗？"
+      }
+    ],
+    "collocations": [
+      "sich etwas merken",
+      "jemandem etwas merken",
+      "nichts merken"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gemerkt"
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "认知",
+      "A2"
+    ],
+    "synonyms": [
+      "bemerken",
+      "erinnern",
+      "wahrnehmen"
+    ],
+    "antonyms": [
+      "vergessen",
+      "übersehen"
+    ]
+  },
+  {
+    "word": "Metropole",
+    "lemma": "Metropole",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Metropolen",
+    "meaning": [
+      {
+        "zh": "大都市，主要城市",
+        "en": "metropolis, major city"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Berlin ist eine pulsierende Metropole.",
+        "zh": "柏林是一个充满活力的大都市。"
+      },
+      {
+        "de": "Die Metropole zieht viele Touristen an.",
+        "zh": "这个大都市吸引了许多游客。"
+      }
+    ],
+    "collocations": [
+      "pulsierende Metropole",
+      "Metropole der Kultur"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "地理",
+      "城市",
+      "B1"
+    ],
+    "synonyms": [
+      "Großstadt",
+      "Hauptstadt"
+    ],
+    "antonyms": [
+      "Dorf",
+      "Kleinstadt"
+    ]
+  },
+  {
+    "word": "Milchtopf",
+    "lemma": "Milchtopf",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Milchtöpfe",
+    "meaning": [
+      {
+        "zh": "牛奶锅",
+        "en": "milk pot"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Milchtopf steht auf dem Herd.",
+        "zh": "牛奶锅在炉子上。"
+      },
+      {
+        "de": "Sie kauft einen neuen Milchtopf aus Edelstahl.",
+        "zh": "她买了一个新的不锈钢牛奶锅。"
+      }
+    ],
+    "collocations": [
+      "Milchtopf aus Edelstahl",
+      "den Milchtopf erhitzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "厨房",
+      "日常用品",
+      "A2"
+    ],
+    "synonyms": [
+      "Kochtopf",
+      "Topf"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Minderheit",
+    "lemma": "Minderheit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Minderheiten",
+    "meaning": [
+      {
+        "zh": "少数，少数群体",
+        "en": "minority"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Rechte der Minderheiten müssen geschützt werden.",
+        "zh": "少数群体的权利必须得到保护。"
+      },
+      {
+        "de": "In dieser Stadt leben viele ethnische Minderheiten.",
+        "zh": "在这个城市生活着许多少数民族。"
+      }
+    ],
+    "collocations": [
+      "ethnische Minderheit",
+      "Minderheit schützen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "政治",
+      "B1"
+    ],
+    "synonyms": [
+      "Minderheitengruppe",
+      "Minorität"
+    ],
+    "antonyms": [
+      "Mehrheit"
+    ]
+  },
+  {
+    "word": "Mitbewohnerin",
+    "lemma": "Mitbewohnerin",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Mitbewohnerinnen",
+    "meaning": [
+      {
+        "zh": "女室友，女合租者",
+        "en": "female roommate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Meine Mitbewohnerin ist sehr ordentlich.",
+        "zh": "我的女室友非常整洁。"
+      },
+      {
+        "de": "Die Mitbewohnerin kocht oft für uns.",
+        "zh": "女室友经常为我们做饭。"
+      }
+    ],
+    "collocations": [
+      "Mitbewohnerin suchen",
+      "Mitbewohnerin kennenlernen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "居住",
+      "A2"
+    ],
+    "synonyms": [
+      "Zimmergenossin",
+      "Wohngenossin"
+    ],
+    "antonyms": [
+      "Mitbewohner"
+    ]
+  },
+  {
+    "word": "miteinander",
+    "lemma": "miteinander",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "相互，一起",
+        "en": "with each other, together"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie reden miteinander.",
+        "zh": "他们互相交谈。"
+      },
+      {
+        "de": "Wir arbeiten gut miteinander.",
+        "zh": "我们合作得很好。"
+      }
+    ],
+    "collocations": [
+      "miteinander reden",
+      "miteinander arbeiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "交流",
+      "关系",
+      "A2"
+    ],
+    "synonyms": [
+      "gemeinsam",
+      "zusammen"
+    ],
+    "antonyms": [
+      "getrennt",
+      "einzeln"
+    ]
+  },
+  {
+    "word": "Mitte",
+    "lemma": "Mitte",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "中间，中心",
+        "en": "middle, center"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Mitte des Raumes ist leer.",
+        "zh": "房间的中间是空的。"
+      },
+      {
+        "de": "Er steht in der Mitte der Gruppe.",
+        "zh": "他站在小组的中间。"
+      }
+    ],
+    "collocations": [
+      "in der Mitte",
+      "Mitte des Jahres"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "位置",
+      "时间",
+      "A1"
+    ],
+    "synonyms": [
+      "Zentrum",
+      "Mittelpunkt"
+    ],
+    "antonyms": [
+      "Rand",
+      "Ende"
+    ]
+  },
+  {
+    "word": "Mittelschule",
+    "lemma": "Mittelschule",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Mittelschulen",
+    "meaning": [
+      {
+        "zh": "中学，初中",
+        "en": "secondary school, middle school"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er geht auf die Mittelschule.",
+        "zh": "他上中学。"
+      },
+      {
+        "de": "Die Mittelschule bietet viele Kurse an.",
+        "zh": "这所中学提供许多课程。"
+      }
+    ],
+    "collocations": [
+      "Mittelschule besuchen",
+      "Mittelschule abschließen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "教育",
+      "学校",
+      "A2"
+    ],
+    "synonyms": [
+      "Realschule",
+      "Sekundarschule"
+    ],
+    "antonyms": [
+      "Grundschule",
+      "Hochschule"
+    ]
+  },
+  {
+    "word": "Mitternacht",
+    "lemma": "Mitternacht",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "午夜，半夜",
+        "en": "midnight"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Um Mitternacht beginnt der neue Tag.",
+        "zh": "午夜时分新的一天开始。"
+      },
+      {
+        "de": "Sie arbeitet bis Mitternacht.",
+        "zh": "她工作到午夜。"
+      }
+    ],
+    "collocations": [
+      "um Mitternacht",
+      "Mitternachtssnack"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "时间",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "Nachtmitte",
+      "zwölf Uhr nachts"
+    ],
+    "antonyms": [
+      "Mittag"
+    ]
+  },
+  {
+    "word": "Moderatorin",
+    "lemma": "Moderatorin",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Moderatorinnen",
+    "meaning": [
+      {
+        "zh": "女主持人",
+        "en": "female presenter/moderator"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Moderatorin begrüßte die Gäste im Studio.",
+        "zh": "女主持人在演播室欢迎嘉宾。"
+      },
+      {
+        "de": "Sie arbeitet als Moderatorin bei einer Talkshow.",
+        "zh": "她在一档脱口秀节目中担任主持人。"
+      }
+    ],
+    "collocations": [
+      "als Moderatorin arbeiten",
+      "die Moderatorin einer Sendung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "职业",
+      "媒体",
+      "B1"
+    ],
+    "synonyms": [
+      "Ansagerin",
+      "Präsentatorin"
+    ],
+    "antonyms": [
+      "Moderator"
+    ]
+  },
+  {
+    "word": "Maglichkeit",
+    "lemma": "Maglichkeit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "（罕见词，可能为笔误）可能性",
+        "en": "possibility (rare, possibly a typo for Möglichkeit)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Maglichkeit ist nicht realistisch.",
+        "zh": "这种可能性不现实。"
+      },
+      {
+        "de": "Es gibt keine andere Maglichkeit.",
+        "zh": "没有其他可能性。"
+      }
+    ],
+    "collocations": [
+      "keine Maglichkeit haben",
+      "eine Maglichkeit bieten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "抽象概念",
+      "B1"
+    ],
+    "synonyms": [
+      "Möglichkeit",
+      "Chance"
+    ],
+    "antonyms": [
+      "Unmöglichkeit"
+    ]
+  },
+  {
+    "word": "monatlich",
+    "lemma": "monatlich",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "每月的；每月一次地",
+        "en": "monthly; every month"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die monatliche Miete beträgt 800 Euro.",
+        "zh": "每月租金为800欧元。"
+      },
+      {
+        "de": "Wir treffen uns monatlich zum Austausch.",
+        "zh": "我们每月见面交流。"
+      }
+    ],
+    "collocations": [
+      "monatliche Zahlung",
+      "monatlich erscheinen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "时间",
+      "频率",
+      "A2"
+    ],
+    "synonyms": [
+      "jeden Monat",
+      "einmal im Monat"
+    ],
+    "antonyms": [
+      "jährlich",
+      "täglich"
+    ]
+  },
+  {
+    "word": "Mond",
+    "lemma": "Mond",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Monde",
+    "meaning": [
+      {
+        "zh": "月亮",
+        "en": "moon"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Mond scheint heute besonders hell.",
+        "zh": "今晚月亮特别亮。"
+      },
+      {
+        "de": "Die Astronauten landeten auf dem Mond.",
+        "zh": "宇航员登上了月球。"
+      }
+    ],
+    "collocations": [
+      "der volle Mond",
+      "zum Mond fliegen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "天文",
+      "自然",
+      "A2"
+    ],
+    "synonyms": [
+      "Erdtrabant",
+      "Mondgestein"
+    ],
+    "antonyms": [
+      "Sonne"
+    ]
+  },
+  {
+    "word": "Mondfest",
+    "lemma": "Mondfest",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Mondfeste",
+    "meaning": [
+      {
+        "zh": "中秋节",
+        "en": "Mid-Autumn Festival"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Zum Mondfest essen wir traditionell Mondkuchen.",
+        "zh": "中秋节我们传统上吃月饼。"
+      },
+      {
+        "de": "Das Mondfest wird in vielen asiatischen Ländern gefeiert.",
+        "zh": "许多亚洲国家庆祝中秋节。"
+      }
+    ],
+    "collocations": [
+      "das Mondfest feiern",
+      "zum Mondfest schenken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "节日",
+      "文化",
+      "B1"
+    ],
+    "synonyms": [
+      "Mittherbstfest",
+      "Laternenfest"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Mondkalender",
+    "lemma": "Mondkalender",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Mondkalender",
+    "meaning": [
+      {
+        "zh": "农历；月历",
+        "en": "lunar calendar"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Nach dem Mondkalender beginnt das neue Jahr im Februar.",
+        "zh": "根据农历，新年在二月开始。"
+      },
+      {
+        "de": "Der Mondkalender wird für landwirtschaftliche Arbeiten genutzt.",
+        "zh": "农历用于农业活动。"
+      }
+    ],
+    "collocations": [
+      "nach dem Mondkalender",
+      "den Mondkalender verwenden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "历法",
+      "文化",
+      "B1"
+    ],
+    "synonyms": [
+      "Lunarkalender",
+      "Mondjahr"
+    ],
+    "antonyms": [
+      "Sonnenkalender"
+    ]
+  },
+  {
+    "word": "Mondkuchen",
+    "lemma": "Mondkuchen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Mondkuchen",
+    "meaning": [
+      {
+        "zh": "月饼",
+        "en": "mooncake"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Zum Mondfest backen wir selbst Mondkuchen.",
+        "zh": "中秋节我们自己烤月饼。"
+      },
+      {
+        "de": "Diese Mondkuchen sind mit Lotossamenpaste gefüllt.",
+        "zh": "这些月饼是莲蓉馅的。"
+      }
+    ],
+    "collocations": [
+      "Mondkuchen essen",
+      "Mondkuchen backen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "食物",
+      "节日",
+      "B1"
+    ],
+    "synonyms": [
+      "Mondgebäck",
+      "Mondkuchengebäck"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "mongolisch",
+    "lemma": "mongolisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "蒙古的；蒙古语的",
+        "en": "Mongolian"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die mongolische Kultur ist reich an Traditionen.",
+        "zh": "蒙古文化传统丰富。"
+      },
+      {
+        "de": "Er spricht fließend mongolisch.",
+        "zh": "他蒙古语说得很流利。"
+      }
+    ],
+    "collocations": [
+      "mongolische Sprache",
+      "mongolische Küche"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "国家",
+      "语言",
+      "B1"
+    ],
+    "synonyms": [
+      "aus der Mongolei"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "die",
+    "lemma": "die",
+    "pos": [
+      "article"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "这，那（阴性单数定冠词）",
+        "en": "the (feminine singular definite article)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Frau geht nach Hause.",
+        "zh": "那个女人回家了。"
+      },
+      {
+        "de": "Die Blume ist schön.",
+        "zh": "这朵花很漂亮。"
+      }
+    ],
+    "collocations": [
+      "die Frau",
+      "die Blume"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语法",
+      "冠词",
+      "A1"
+    ],
+    "synonyms": [
+      "der (maskulin)",
+      "das (neutral)"
+    ],
+    "antonyms": [
+      "ein",
+      "kein"
+    ]
+  },
+  {
+    "word": "Musikerfamilie",
+    "lemma": "Musikerfamilie",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Musikerfamilien",
+    "meaning": [
+      {
+        "zh": "音乐家家庭",
+        "en": "musician family"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er wuchs in einer Musikerfamilie auf.",
+        "zh": "他在一个音乐家家庭长大。"
+      },
+      {
+        "de": "Die Musikerfamilie gab ein Konzert im Park.",
+        "zh": "这个音乐家家庭在公园里举办了一场音乐会。"
+      }
+    ],
+    "collocations": [
+      "in einer Musikerfamilie aufwachsen",
+      "aus einer Musikerfamilie stammen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "家庭",
+      "音乐",
+      "B1"
+    ],
+    "synonyms": [
+      "Künstlerfamilie",
+      "Musikerdynastie"
+    ],
+    "antonyms": [
+      "Nicht-Musikerfamilie"
+    ]
+  },
+  {
+    "word": "Muttersprache",
+    "lemma": "Muttersprache",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Muttersprachen",
+    "meaning": [
+      {
+        "zh": "母语",
+        "en": "mother tongue"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Meine Muttersprache ist Deutsch.",
+        "zh": "我的母语是德语。"
+      },
+      {
+        "de": "Sie spricht ihre Muttersprache fließend.",
+        "zh": "她流利地说她的母语。"
+      }
+    ],
+    "collocations": [
+      "Muttersprache lernen",
+      "Muttersprache sprechen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "语言",
+      "教育",
+      "A2"
+    ],
+    "synonyms": [
+      "Erstsprache",
+      "Heimatsprache"
+    ],
+    "antonyms": [
+      "Fremdsprache",
+      "Zweitsprache"
+    ]
+  },
+  {
+    "word": "die",
+    "lemma": "die",
+    "pos": [
+      "article",
+      "pronoun"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "定冠词（阴性单数/复数）",
+        "en": "the (feminine singular/plural)"
+      },
+      {
+        "zh": "关系代词（阴性/复数）",
+        "en": "who/which (feminine/plural)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Frau liest ein Buch.",
+        "zh": "那个女人在读一本书。"
+      },
+      {
+        "de": "Die Kinder spielen im Garten.",
+        "zh": "孩子们在花园里玩。"
+      },
+      {
+        "de": "Das ist die Frau, die mir geholfen hat.",
+        "zh": "这就是那个帮助过我的女人。"
+      }
+    ],
+    "collocations": [
+      "die Frau",
+      "die Kinder",
+      "die Idee"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语法",
+      "冠词",
+      "代词",
+      "A1"
+    ],
+    "synonyms": [
+      "der (maskulin)",
+      "das (neutral)"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "die",
+    "lemma": "die",
+    "pos": [
+      "article"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "这，那（阴性单数定冠词）",
+        "en": "the (feminine singular definite article)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Frau liest ein Buch.",
+        "zh": "那位女士在读一本书。"
+      },
+      {
+        "de": "Die Katze schläft auf dem Sofa.",
+        "zh": "那只猫在沙发上睡觉。"
+      }
+    ],
+    "collocations": [
+      "die Frau",
+      "die Katze"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语法",
+      "冠词",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  }
+]

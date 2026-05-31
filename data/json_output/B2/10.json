@@ -1,0 +1,1775 @@
+[
+  {
+    "word": "der",
+    "lemma": "der",
+    "pos": [
+      "article",
+      "pronoun"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "定冠词（阳性第一格）",
+        "en": "the (masculine nominative)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Mann geht nach Hause.",
+        "zh": "那个男人回家了。"
+      },
+      {
+        "de": "Der Hund ist groß.",
+        "zh": "那只狗很大。"
+      }
+    ],
+    "collocations": [
+      "der gleiche",
+      "derjenige"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语法",
+      "冠词",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Kommentar",
+    "lemma": "Kommentar",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Kommentare",
+    "meaning": [
+      {
+        "zh": "评论，注解",
+        "en": "comment, commentary"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er gab einen kurzen Kommentar zu dem Thema.",
+        "zh": "他对这个话题发表了简短评论。"
+      },
+      {
+        "de": "Der Kommentar des Experten war sehr hilfreich.",
+        "zh": "专家的评论非常有帮助。"
+      }
+    ],
+    "collocations": [
+      "einen Kommentar abgeben",
+      "Kommentar zu etwas"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "媒体",
+      "交流",
+      "B1"
+    ],
+    "synonyms": [
+      "Anmerkung",
+      "Bemerkung"
+    ],
+    "antonyms": [
+      "Schweigen"
+    ]
+  },
+  {
+    "word": "die",
+    "lemma": "die",
+    "pos": [
+      "article",
+      "pronoun"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "定冠词（阴性第一格/复数第一格）",
+        "en": "the (feminine nominative/plural nominative)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Frau liest ein Buch.",
+        "zh": "那个女人在读一本书。"
+      },
+      {
+        "de": "Die Kinder spielen im Garten.",
+        "zh": "孩子们在花园里玩。"
+      }
+    ],
+    "collocations": [
+      "diejenige",
+      "die gleiche"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语法",
+      "冠词",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "komplex",
+    "lemma": "komplex",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "复杂的",
+        "en": "complex"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Problem ist sehr komplex.",
+        "zh": "这个问题非常复杂。"
+      },
+      {
+        "de": "Sie hat eine komplexe Theorie entwickelt.",
+        "zh": "她发展了一个复杂的理论。"
+      }
+    ],
+    "collocations": [
+      "komplexe Situation",
+      "komplexe Struktur"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "抽象",
+      "科学",
+      "B2"
+    ],
+    "synonyms": [
+      "schwierig",
+      "vielschichtig"
+    ],
+    "antonyms": [
+      "einfach",
+      "simpel"
+    ]
+  },
+  {
+    "word": "kommentieren",
+    "lemma": "kommentieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "评论，注解",
+        "en": "to comment, to annotate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er kommentierte den Artikel im Blog.",
+        "zh": "他在博客上评论了那篇文章。"
+      },
+      {
+        "de": "Die Journalistin kommentierte die Wahl live.",
+        "zh": "那位记者现场评论了选举。"
+      }
+    ],
+    "collocations": [
+      "etwas kommentieren",
+      "Kommentar zu etwas"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "kommentiert"
+    },
+    "level": "B1",
+    "tags": [
+      "媒体",
+      "交流",
+      "B1"
+    ],
+    "synonyms": [
+      "erläutern",
+      "besprechen"
+    ],
+    "antonyms": [
+      "ignorieren"
+    ]
+  },
+  {
+    "word": "kompetent",
+    "lemma": "kompetent",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "有能力的，胜任的",
+        "en": "competent"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie ist eine kompetente Ärztin.",
+        "zh": "她是一位称职的医生。"
+      },
+      {
+        "de": "Er hat die Aufgabe kompetent gelöst.",
+        "zh": "他有能力地解决了任务。"
+      }
+    ],
+    "collocations": [
+      "kompetente Person",
+      "kompetent in etwas"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "职业",
+      "能力",
+      "B1"
+    ],
+    "synonyms": [
+      "fähig",
+      "tüchtig"
+    ],
+    "antonyms": [
+      "inkompetent",
+      "unfähig"
+    ]
+  },
+  {
+    "word": "Kompetenz",
+    "lemma": "Kompetenz",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Kompetenzen",
+    "meaning": [
+      {
+        "zh": "能力，权限",
+        "en": "competence, competency"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Für diese Aufgabe fehlt ihm die Kompetenz.",
+        "zh": "他缺乏完成这项任务的能力。"
+      },
+      {
+        "de": "Die Kompetenzen der Abteilung wurden erweitert.",
+        "zh": "该部门的权限被扩大了。"
+      }
+    ],
+    "collocations": [
+      "fachliche Kompetenz",
+      "Kompetenzbereich"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "职业",
+      "能力",
+      "B1"
+    ],
+    "synonyms": [
+      "Fähigkeit",
+      "Qualifikation"
+    ],
+    "antonyms": [
+      "Inkompetenz"
+    ]
+  },
+  {
+    "word": "Konferenz",
+    "lemma": "Konferenz",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Konferenzen",
+    "meaning": [
+      {
+        "zh": "会议，大会",
+        "en": "conference"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Konferenz findet nächste Woche statt.",
+        "zh": "会议将于下周举行。"
+      },
+      {
+        "de": "Er hielt einen Vortrag auf der internationalen Konferenz.",
+        "zh": "他在国际会议上做了一个报告。"
+      }
+    ],
+    "collocations": [
+      "eine Konferenz abhalten",
+      "an einer Konferenz teilnehmen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "工作",
+      "交流",
+      "B1"
+    ],
+    "synonyms": [
+      "Tagung",
+      "Meeting"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Konsum",
+    "lemma": "Konsum",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "消费",
+        "en": "consumption"
+      },
+      {
+        "zh": "消耗",
+        "en": "consumption (of resources)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der private Konsum ist in diesem Jahr gestiegen.",
+        "zh": "今年私人消费有所增长。"
+      },
+      {
+        "de": "Nachhaltiger Konsum wird immer wichtiger.",
+        "zh": "可持续消费变得越来越重要。"
+      }
+    ],
+    "collocations": [
+      "privater Konsum",
+      "Konsum von Gütern",
+      "Konsum steigern",
+      "nachhaltiger Konsum"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Verbrauch",
+      "Konsumtion"
+    ],
+    "antonyms": [
+      "Produktion",
+      "Sparsamkeit"
+    ]
+  },
+  {
+    "word": "Konsument",
+    "lemma": "Konsument",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Konsumenten",
+    "meaning": [
+      {
+        "zh": "消费者",
+        "en": "consumer"
+      },
+      {
+        "zh": "用户",
+        "en": "consumer (of products)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Rechte der Konsumenten werden durch das Gesetz geschützt.",
+        "zh": "消费者的权利受到法律保护。"
+      },
+      {
+        "de": "Viele Konsumenten achten auf Bio-Produkte.",
+        "zh": "许多消费者注重有机产品。"
+      }
+    ],
+    "collocations": [
+      "Konsumenten schützen",
+      "Konsumentenverhalten",
+      "Konsumentenrechte",
+      "Konsumenten befragen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Verbraucher",
+      "Kunde"
+    ],
+    "antonyms": [
+      "Produzent",
+      "Hersteller"
+    ]
+  },
+  {
+    "word": "konventionell",
+    "lemma": "konventionell",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "传统的",
+        "en": "conventional"
+      },
+      {
+        "zh": "常规的",
+        "en": "conventional (standard)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er bevorzugt konventionelle Methoden in der Landwirtschaft.",
+        "zh": "他在农业中偏爱传统方法。"
+      },
+      {
+        "de": "Konventionelle Energiequellen wie Kohle werden zunehmend ersetzt.",
+        "zh": "像煤这样的传统能源正逐渐被取代。"
+      }
+    ],
+    "collocations": [
+      "konventionelle Landwirtschaft",
+      "konventionelle Waffen",
+      "konventionelle Medizin",
+      "konventionelle Denkweise"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "科技",
+      "B2"
+    ],
+    "synonyms": [
+      "traditionell",
+      "herkömmlich"
+    ],
+    "antonyms": [
+      "alternativ",
+      "modern",
+      "unkonventionell"
+    ]
+  },
+  {
+    "word": "konzentrieren",
+    "lemma": "konzentrieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "集中",
+        "en": "to concentrate"
+      },
+      {
+        "zh": "专注于",
+        "en": "to focus on"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich muss mich auf die Arbeit konzentrieren.",
+        "zh": "我必须专注于工作。"
+      },
+      {
+        "de": "Die Firma konzentriert sich auf den europäischen Markt.",
+        "zh": "这家公司专注于欧洲市场。"
+      }
+    ],
+    "collocations": [
+      "sich auf etwas konzentrieren",
+      "die Kräfte konzentrieren",
+      "konzentrierte Lösung",
+      "sich konzentrieren können"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "konzentriert"
+    },
+    "level": "B1",
+    "tags": [
+      "心理",
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "fokussieren",
+      "bündeln"
+    ],
+    "antonyms": [
+      "ablenken",
+      "zerstreuen"
+    ]
+  },
+  {
+    "word": "Konzeption",
+    "lemma": "Konzeption",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Konzeptionen",
+    "meaning": [
+      {
+        "zh": "概念",
+        "en": "conception"
+      },
+      {
+        "zh": "构思",
+        "en": "concept, design"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Konzeption des neuen Projekts ist sehr innovativ.",
+        "zh": "新项目的构思非常创新。"
+      },
+      {
+        "de": "Wir arbeiten an einer Konzeption für die Marketingkampagne.",
+        "zh": "我们正在为营销活动制定一个概念。"
+      }
+    ],
+    "collocations": [
+      "eine Konzeption entwickeln",
+      "Konzeption eines Produkts",
+      "pädagogische Konzeption",
+      "Konzeption vorstellen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "工作",
+      "科技",
+      "B2"
+    ],
+    "synonyms": [
+      "Konzept",
+      "Entwurf",
+      "Planung"
+    ],
+    "antonyms": [
+      "Umsetzung",
+      "Realisation"
+    ]
+  },
+  {
+    "word": "Kooperation",
+    "lemma": "Kooperation",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Kooperationen",
+    "meaning": [
+      {
+        "zh": "合作",
+        "en": "cooperation"
+      },
+      {
+        "zh": "协作",
+        "en": "collaboration"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kooperation zwischen den beiden Firmen war sehr erfolgreich.",
+        "zh": "两家公司之间的合作非常成功。"
+      },
+      {
+        "de": "Eine enge Kooperation mit den Partnern ist notwendig.",
+        "zh": "与合作伙伴的紧密合作是必要的。"
+      }
+    ],
+    "collocations": [
+      "in Kooperation mit",
+      "Kooperation eingehen",
+      "enge Kooperation",
+      "Kooperation fördern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "工作",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Zusammenarbeit",
+      "Partnerschaft"
+    ],
+    "antonyms": [
+      "Konkurrenz",
+      "Wettbewerb"
+    ]
+  },
+  {
+    "word": "kräftig",
+    "lemma": "kräftig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "强壮的",
+        "en": "strong, powerful"
+      },
+      {
+        "zh": "大量的",
+        "en": "hearty, substantial"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat einen kräftigen Körper.",
+        "zh": "他有一个强壮的身体。"
+      },
+      {
+        "de": "Sie aß eine kräftige Portion Suppe.",
+        "zh": "她吃了一大盘汤。"
+      }
+    ],
+    "collocations": [
+      "kräftige Farbe",
+      "kräftiger Wind",
+      "kräftige Mahlzeit",
+      "kräftig zuschlagen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "身体",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "stark",
+      "kräftig",
+      "mächtig"
+    ],
+    "antonyms": [
+      "schwach",
+      "zart",
+      "leicht"
+    ]
+  },
+  {
+    "word": "Kreislauf",
+    "lemma": "Kreislauf",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Kreisläufe",
+    "meaning": [
+      {
+        "zh": "循环",
+        "en": "cycle"
+      },
+      {
+        "zh": "血液循环",
+        "en": "circulation (blood)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Kreislauf des Wassers ist ein natürlicher Prozess.",
+        "zh": "水循环是一个自然过程。"
+      },
+      {
+        "de": "Bei Hitze kann der Kreislauf leicht zusammenbrechen.",
+        "zh": "在炎热天气下，血液循环容易崩溃。"
+      }
+    ],
+    "collocations": [
+      "Kreislauf des Wassers",
+      "Kreislaufprobleme haben",
+      "wirtschaftlicher Kreislauf",
+      "Kreislauf stabilisieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "自然",
+      "医学",
+      "B1"
+    ],
+    "synonyms": [
+      "Zyklus",
+      "Umlauf"
+    ],
+    "antonyms": [
+      "Stillstand",
+      "Unterbrechung"
+    ]
+  },
+  {
+    "word": "kritisieren",
+    "lemma": "kritisieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "批评，指责",
+        "en": "to criticize"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Opposition kritisiert die neue Steuerpolitik der Regierung.",
+        "zh": "反对派批评政府的新税收政策。"
+      },
+      {
+        "de": "Er kritisiert oft die Arbeit seiner Kollegen.",
+        "zh": "他经常批评同事的工作。"
+      }
+    ],
+    "collocations": [
+      "jemanden/etwas kritisieren",
+      "scharf kritisieren"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "kritisiert"
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "beanstanden",
+      "tadeln"
+    ],
+    "antonyms": [
+      "loben",
+      "anerkennen"
+    ]
+  },
+  {
+    "word": "Kugel",
+    "lemma": "Kugel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Kugeln",
+    "meaning": [
+      {
+        "zh": "球，球体；子弹；球状物",
+        "en": "ball, sphere; bullet; ball-shaped object"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Erde ist eine Kugel.",
+        "zh": "地球是一个球体。"
+      },
+      {
+        "de": "Er hat die Kugel ins Tor geschossen.",
+        "zh": "他把球射进了球门。"
+      }
+    ],
+    "collocations": [
+      "eine Kugel formen",
+      "die Kugel rollt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Ball",
+      "Geschoss"
+    ],
+    "antonyms": [
+      "Würfel"
+    ]
+  },
+  {
+    "word": "Künstler",
+    "lemma": "Künstler",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Künstler",
+    "meaning": [
+      {
+        "zh": "艺术家，画家，表演者",
+        "en": "artist, painter, performer"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Künstler stellt seine Werke in einer Galerie aus.",
+        "zh": "这位艺术家在画廊展出他的作品。"
+      },
+      {
+        "de": "Viele Künstler leben von ihrer Kreativität.",
+        "zh": "许多艺术家靠他们的创造力生活。"
+      }
+    ],
+    "collocations": [
+      "ein berühmter Künstler",
+      "Künstler werden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "文化",
+      "A2"
+    ],
+    "synonyms": [
+      "Maler",
+      "Schöpfer"
+    ],
+    "antonyms": [
+      "Laie"
+    ]
+  },
+  {
+    "word": "künstlich",
+    "lemma": "künstlich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "人造的，人工的；虚假的",
+        "en": "artificial, synthetic; fake"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieser Stoff besteht aus künstlichen Fasern.",
+        "zh": "这种布料由人造纤维制成。"
+      },
+      {
+        "de": "Sein Lächeln wirkte sehr künstlich.",
+        "zh": "他的微笑显得很假。"
+      }
+    ],
+    "collocations": [
+      "künstliche Intelligenz",
+      "künstliche Blumen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "unecht",
+      "synthetisch"
+    ],
+    "antonyms": [
+      "natürlich",
+      "echt"
+    ]
+  },
+  {
+    "word": "Küste",
+    "lemma": "Küste",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Küsten",
+    "meaning": [
+      {
+        "zh": "海岸，海滨",
+        "en": "coast, coastline"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Sommer fahren wir an die Küste.",
+        "zh": "夏天我们去海边。"
+      },
+      {
+        "de": "Die Küste ist von vielen Touristen besucht.",
+        "zh": "这条海岸线有很多游客参观。"
+      }
+    ],
+    "collocations": [
+      "an der Küste",
+      "die Küste entlangfahren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "地理",
+      "A2"
+    ],
+    "synonyms": [
+      "Strand",
+      "Ufer"
+    ],
+    "antonyms": [
+      "Binnenland"
+    ]
+  },
+  {
+    "word": "landeskundlich",
+    "lemma": "landeskundlich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "国情学的，关于国家知识的",
+        "en": "relating to regional studies or cultural studies of a country"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Kurs vermittelt landeskundliche Kenntnisse über Deutschland.",
+        "zh": "这门课程传授关于德国的国情知识。"
+      },
+      {
+        "de": "Landeskundliche Themen sind im Sprachunterricht sehr wichtig.",
+        "zh": "国情主题在语言教学中非常重要。"
+      }
+    ],
+    "collocations": [
+      "landeskundliche Informationen",
+      "landeskundliches Wissen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "教育",
+      "B2"
+    ],
+    "synonyms": [
+      "kulturwissenschaftlich"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Langeweile",
+    "lemma": "Langeweile",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "无聊，厌倦",
+        "en": "boredom"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Aus Langeweile hat er den ganzen Tag ferngesehen.",
+        "zh": "因为无聊，他看了一整天电视。"
+      },
+      {
+        "de": "Kinder haben oft Langeweile, wenn es regnet.",
+        "zh": "下雨时孩子们常常感到无聊。"
+      }
+    ],
+    "collocations": [
+      "Langeweile haben",
+      "aus Langeweile"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "Ödnis",
+      "Eintönigkeit"
+    ],
+    "antonyms": [
+      "Spannung",
+      "Interesse"
+    ]
+  },
+  {
+    "word": "längst",
+    "lemma": "längst",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "早已，早就",
+        "en": "long since, already for a long time"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das habe ich längst vergessen.",
+        "zh": "我早就忘了这件事。"
+      },
+      {
+        "de": "Er ist längst nach Hause gegangen.",
+        "zh": "他早就回家了。"
+      }
+    ],
+    "collocations": [
+      "längst nicht",
+      "längst vorbei"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "时间",
+      "B1"
+    ],
+    "synonyms": [
+      "schon lange",
+      "bereits"
+    ],
+    "antonyms": [
+      "noch nicht",
+      "erst"
+    ]
+  },
+  {
+    "word": "Last",
+    "lemma": "Last",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Lasten",
+    "meaning": [
+      {
+        "zh": "负担，重负",
+        "en": "burden, load"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die finanzielle Last ist für viele Familien zu groß.",
+        "zh": "经济负担对许多家庭来说太大了。"
+      },
+      {
+        "de": "Er trägt die Last der Verantwortung allein.",
+        "zh": "他独自承担着责任的重担。"
+      }
+    ],
+    "collocations": [
+      "eine Last tragen",
+      "unter der Last leiden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Belastung",
+      "Bürde"
+    ],
+    "antonyms": [
+      "Entlastung"
+    ]
+  },
+  {
+    "word": "laut",
+    "lemma": "laut",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "大声的/地",
+        "en": "loud, loudly"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bitte nicht so laut sprechen.",
+        "zh": "请不要这么大声说话。"
+      },
+      {
+        "de": "Die Musik war zu laut.",
+        "zh": "音乐太吵了。"
+      }
+    ],
+    "collocations": [
+      "laut lachen",
+      "laut schreien"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "geräuschvoll",
+      "schrill"
+    ],
+    "antonyms": [
+      "leise"
+    ]
+  },
+  {
+    "word": "Leidenschaft",
+    "lemma": "Leidenschaft",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Leidenschaften",
+    "meaning": [
+      {
+        "zh": "热情，激情",
+        "en": "passion"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er verfolgt seine Leidenschaft für die Musik.",
+        "zh": "他追求对音乐的热情。"
+      },
+      {
+        "de": "Mit Leidenschaft kocht sie jeden Tag.",
+        "zh": "她每天都充满热情地做饭。"
+      }
+    ],
+    "collocations": [
+      "mit Leidenschaft",
+      "eine Leidenschaft entwickeln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Begeisterung",
+      "Eifer"
+    ],
+    "antonyms": [
+      "Gleichgültigkeit"
+    ]
+  },
+  {
+    "word": "Leihbücherei",
+    "lemma": "Leihbücherei",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Leihbüchereien",
+    "meaning": [
+      {
+        "zh": "租书图书馆",
+        "en": "lending library"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In der Leihbücherei kann man Bücher für eine Gebühr ausleihen.",
+        "zh": "在租书图书馆，可以付费借书。"
+      },
+      {
+        "de": "Die Leihbücherei hat eine große Auswahl an Romanen.",
+        "zh": "这家租书图书馆有大量小说可供选择。"
+      }
+    ],
+    "collocations": [
+      "in die Leihbücherei gehen",
+      "eine Leihbücherei besuchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "文化",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Bibliothek",
+      "Ausleihe"
+    ],
+    "antonyms": [
+      "Buchhandlung"
+    ]
+  },
+  {
+    "word": "leisten",
+    "lemma": "leisten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "完成，提供，承受",
+        "en": "to achieve, to provide, to afford"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du dir das Auto leisten?",
+        "zh": "你买得起这辆车吗？"
+      },
+      {
+        "de": "Er hat gute Arbeit geleistet.",
+        "zh": "他完成了出色的工作。"
+      }
+    ],
+    "collocations": [
+      "sich etwas leisten",
+      "Arbeit leisten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geleistet"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "erbringen",
+      "schaffen"
+    ],
+    "antonyms": [
+      "versäumen"
+    ]
+  },
+  {
+    "word": "Lektor",
+    "lemma": "Lektor",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Lektoren",
+    "meaning": [
+      {
+        "zh": "编辑，讲师",
+        "en": "editor, lecturer"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Lektor korrigiert die Manuskripte.",
+        "zh": "编辑修改手稿。"
+      },
+      {
+        "de": "Er arbeitet als Lektor an der Universität.",
+        "zh": "他在大学担任讲师。"
+      }
+    ],
+    "collocations": [
+      "als Lektor arbeiten",
+      "ein Lektor für Deutsch"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "职业",
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "Redakteur",
+      "Dozent"
+    ],
+    "antonyms": [
+      "Autor"
+    ]
+  },
+  {
+    "word": "Lektüre",
+    "lemma": "Lektüre",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Lektüren",
+    "meaning": [
+      {
+        "zh": "阅读，读物",
+        "en": "reading, reading material"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Lektüre ist sehr spannend.",
+        "zh": "这本读物非常引人入胜。"
+      },
+      {
+        "de": "Für den Kurs ist die Lektüre des Romans Pflicht.",
+        "zh": "这门课程要求必读这本小说。"
+      }
+    ],
+    "collocations": [
+      "leichte Lektüre",
+      "zur Lektüre empfehlen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "文化",
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "Lesestoff",
+      "Buch"
+    ],
+    "antonyms": [
+      "Schreiben"
+    ]
+  },
+  {
+    "word": "letztlich",
+    "lemma": "letztlich",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "最终，归根结底",
+        "en": "ultimately, in the end"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Letztlich kommt es auf die Qualität an.",
+        "zh": "最终取决于质量。"
+      },
+      {
+        "de": "Letztlich hat er sich doch entschuldigt.",
+        "zh": "最终他还是道歉了。"
+      }
+    ],
+    "collocations": [
+      "letztlich entscheiden",
+      "letztlich doch"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语言",
+      "逻辑",
+      "B1"
+    ],
+    "synonyms": [
+      "schließlich",
+      "endlich"
+    ],
+    "antonyms": [
+      "anfangs"
+    ]
+  },
+  {
+    "word": "lieb",
+    "lemma": "lieb",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "亲爱的，可爱的",
+        "en": "dear, kind, nice"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie ist eine liebe Freundin.",
+        "zh": "她是一个亲爱的朋友。"
+      },
+      {
+        "de": "Das war sehr lieb von dir.",
+        "zh": "你真是太好了。"
+      }
+    ],
+    "collocations": [
+      "lieb haben",
+      "lieb und nett"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "nett",
+      "freundlich"
+    ],
+    "antonyms": [
+      "böse",
+      "unfreundlich"
+    ]
+  },
+  {
+    "word": "lokal",
+    "lemma": "lokal",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "当地的，本地的",
+        "en": "local"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir kaufen lieber lokale Produkte.",
+        "zh": "我们更喜欢购买当地产品。"
+      },
+      {
+        "de": "Die lokale Bevölkerung unterstützt das Projekt.",
+        "zh": "当地居民支持这个项目。"
+      }
+    ],
+    "collocations": [
+      "lokale Wirtschaft",
+      "lokale Zeitung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "örtlich",
+      "regional"
+    ],
+    "antonyms": [
+      "global",
+      "überregional"
+    ]
+  },
+  {
+    "word": "lösen",
+    "lemma": "lösen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "解决，解开",
+        "en": "to solve, to loosen"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du dieses Problem lösen?",
+        "zh": "你能解决这个问题吗？"
+      },
+      {
+        "de": "Er löste den Knoten mit Geduld.",
+        "zh": "他耐心地解开了结。"
+      }
+    ],
+    "collocations": [
+      "ein Problem lösen",
+      "eine Aufgabe lösen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gelöst"
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "klären",
+      "entwirren"
+    ],
+    "antonyms": [
+      "verkomplizieren",
+      "binden"
+    ]
+  },
+  {
+    "word": "Luxus",
+    "lemma": "Luxus",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "奢侈，豪华",
+        "en": "luxury"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie lebt im Luxus.",
+        "zh": "她过着奢侈的生活。"
+      },
+      {
+        "de": "Ein Urlaub im Luxushotel ist teuer.",
+        "zh": "在豪华酒店度假很贵。"
+      }
+    ],
+    "collocations": [
+      "Luxusartikel",
+      "Luxusleben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Pracht",
+      "Überfluss"
+    ],
+    "antonyms": [
+      "Armut",
+      "Einfachheit"
+    ]
+  }
+]

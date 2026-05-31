@@ -1,0 +1,1660 @@
+[
+  {
+    "word": "Menge",
+    "lemma": "Menge",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Mengen",
+    "meaning": [
+      {
+        "zh": "数量；大量",
+        "en": "quantity; large amount"
+      },
+      {
+        "zh": "人群",
+        "en": "crowd"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Eine große Menge Menschen versammelte sich auf dem Platz.",
+        "zh": "一大群人聚集在广场上。"
+      },
+      {
+        "de": "Die Menge der Daten ist enorm.",
+        "zh": "数据量是巨大的。"
+      }
+    ],
+    "collocations": [
+      "eine große Menge",
+      "in großen Mengen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "数量",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Anzahl",
+      "Vielzahl",
+      "Masse"
+    ],
+    "antonyms": [
+      "Wenigkeit",
+      "Mangel"
+    ]
+  },
+  {
+    "word": "merkwürdig",
+    "lemma": "merkwürdig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "奇怪的；引人注意的",
+        "en": "strange; peculiar; noteworthy"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Verhalten des Mannes war sehr merkwürdig.",
+        "zh": "那个男人的行为非常奇怪。"
+      },
+      {
+        "de": "Es ist merkwürdig, dass niemand die Tür geöffnet hat.",
+        "zh": "奇怪的是没有人开门。"
+      }
+    ],
+    "collocations": [
+      "merkwürdiges Verhalten",
+      "merkwürdige Situation"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "描述",
+      "B1"
+    ],
+    "synonyms": [
+      "seltsam",
+      "komisch",
+      "eigenartig"
+    ],
+    "antonyms": [
+      "normal",
+      "gewöhnlich"
+    ]
+  },
+  {
+    "word": "Messe",
+    "lemma": "Messe",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Messen",
+    "meaning": [
+      {
+        "zh": "展览会；交易会",
+        "en": "trade fair; exhibition"
+      },
+      {
+        "zh": "弥撒（宗教）",
+        "en": "mass (religious)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Messe findet jährlich in Frankfurt statt.",
+        "zh": "这个展览会每年在法兰克福举行。"
+      },
+      {
+        "de": "Am Sonntag besuchen wir die Messe in der Kirche.",
+        "zh": "星期天我们去教堂参加弥撒。"
+      }
+    ],
+    "collocations": [
+      "auf der Messe ausstellen",
+      "eine Messe besuchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "商业",
+      "宗教",
+      "B1"
+    ],
+    "synonyms": [
+      "Ausstellung",
+      "Messehalle"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "methodisch",
+    "lemma": "methodisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "有方法的；系统的",
+        "en": "methodical; systematic"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie geht bei ihrer Arbeit sehr methodisch vor.",
+        "zh": "她在工作中非常有条理。"
+      },
+      {
+        "de": "Ein methodischer Ansatz ist für die Forschung wichtig.",
+        "zh": "系统的方法对研究很重要。"
+      }
+    ],
+    "collocations": [
+      "methodisches Vorgehen",
+      "methodische Fehler"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "科学",
+      "方法",
+      "B2"
+    ],
+    "synonyms": [
+      "systematisch",
+      "planmäßig"
+    ],
+    "antonyms": [
+      "chaotisch",
+      "unsystematisch"
+    ]
+  },
+  {
+    "word": "militärisch",
+    "lemma": "militärisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "军事的；军队的",
+        "en": "military"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die militärische Ausbildung dauert mehrere Monate.",
+        "zh": "军事训练持续几个月。"
+      },
+      {
+        "de": "Er hat eine militärische Karriere eingeschlagen.",
+        "zh": "他选择了军事生涯。"
+      }
+    ],
+    "collocations": [
+      "militärische Stärke",
+      "militärischer Konflikt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "政治",
+      "军事",
+      "B1"
+    ],
+    "synonyms": [
+      "wehrtechnisch",
+      "soldatisch"
+    ],
+    "antonyms": [
+      "zivil",
+      "friedlich"
+    ]
+  },
+  {
+    "word": "misstrauisch",
+    "lemma": "misstrauisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "不信任的；怀疑的",
+        "en": "distrustful; suspicious"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist misstrauisch gegenüber Fremden.",
+        "zh": "他对陌生人持怀疑态度。"
+      },
+      {
+        "de": "Sie warf ihm einen misstrauischen Blick zu.",
+        "zh": "她向他投去怀疑的目光。"
+      }
+    ],
+    "collocations": [
+      "misstrauisch sein",
+      "misstrauisch beobachten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "性格",
+      "B1"
+    ],
+    "synonyms": [
+      "argwöhnisch",
+      "skeptisch"
+    ],
+    "antonyms": [
+      "vertrauensvoll",
+      "arglos"
+    ]
+  },
+  {
+    "word": "Mitarbeiter",
+    "lemma": "Mitarbeiter",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Mitarbeiter",
+    "meaning": [
+      {
+        "zh": "同事；员工",
+        "en": "colleague; employee"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Mitarbeiter des Unternehmens sind sehr motiviert.",
+        "zh": "公司的员工非常积极。"
+      },
+      {
+        "de": "Er ist ein langjähriger Mitarbeiter in der Abteilung.",
+        "zh": "他是部门里的一名老员工。"
+      }
+    ],
+    "collocations": [
+      "neue Mitarbeiter einstellen",
+      "mit einem Mitarbeiter zusammenarbeiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "工作",
+      "社会",
+      "A2"
+    ],
+    "synonyms": [
+      "Angestellter",
+      "Kollege"
+    ],
+    "antonyms": [
+      "Arbeitgeber",
+      "Chef"
+    ]
+  },
+  {
+    "word": "Mitgliedschaft",
+    "lemma": "Mitgliedschaft",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Mitgliedschaften",
+    "meaning": [
+      {
+        "zh": "会员身份；成员资格",
+        "en": "membership"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Mitgliedschaft im Verein kostet 50 Euro pro Jahr.",
+        "zh": "协会的会员费每年50欧元。"
+      },
+      {
+        "de": "Er hat seine Mitgliedschaft gekündigt.",
+        "zh": "他终止了他的会员资格。"
+      }
+    ],
+    "collocations": [
+      "eine Mitgliedschaft abschließen",
+      "Mitgliedschaft verlängern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "组织",
+      "B1"
+    ],
+    "synonyms": [
+      "Zugehörigkeit",
+      "Mitgliedsstatus"
+    ],
+    "antonyms": [
+      "Ausschluss",
+      "Austritt"
+    ]
+  },
+  {
+    "word": "mitmachen",
+    "lemma": "mitmachen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "参与，参加",
+        "en": "to participate, to join in"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Alle Schüler müssen bei dem Projekt mitmachen.",
+        "zh": "所有学生都必须参加这个项目。"
+      },
+      {
+        "de": "Kann ich bei eurem Spiel mitmachen?",
+        "zh": "我能加入你们的游戏吗？"
+      }
+    ],
+    "collocations": [
+      "bei etwas mitmachen",
+      "mitmachen bei"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "mitgemacht"
+    },
+    "level": "B1",
+    "tags": [
+      "活动",
+      "社交",
+      "B1"
+    ],
+    "synonyms": [
+      "teilnehmen",
+      "sich beteiligen"
+    ],
+    "antonyms": [
+      "fernbleiben",
+      "aussteigen"
+    ]
+  },
+  {
+    "word": "mitteilen",
+    "lemma": "mitteilen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "告知，通知",
+        "en": "to inform, to communicate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er teilte mir seine Entscheidung mit.",
+        "zh": "他告诉了我他的决定。"
+      },
+      {
+        "de": "Bitte teilen Sie uns Ihre Adresse mit.",
+        "zh": "请告知我们您的地址。"
+      }
+    ],
+    "collocations": [
+      "jemandem etwas mitteilen",
+      "mitteilen, dass"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "mitgeteilt"
+    },
+    "level": "B1",
+    "tags": [
+      "沟通",
+      "信息",
+      "B1"
+    ],
+    "synonyms": [
+      "bekanntgeben",
+      "informieren"
+    ],
+    "antonyms": [
+      "verschweigen",
+      "verheimlichen"
+    ]
+  },
+  {
+    "word": "Mittelpunkt",
+    "lemma": "Mittelpunkt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Mittelpunkte",
+    "meaning": [
+      {
+        "zh": "中心，焦点",
+        "en": "center, focus"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie stand im Mittelpunkt der Aufmerksamkeit.",
+        "zh": "她处于关注的焦点。"
+      },
+      {
+        "de": "Der Mittelpunkt des Kreises ist leicht zu finden.",
+        "zh": "圆的中心很容易找到。"
+      }
+    ],
+    "collocations": [
+      "im Mittelpunkt stehen",
+      "Mittelpunkt des Interesses"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "空间",
+      "抽象",
+      "B1"
+    ],
+    "synonyms": [
+      "Zentrum",
+      "Fokus"
+    ],
+    "antonyms": [
+      "Rand",
+      "Peripherie"
+    ]
+  },
+  {
+    "word": "Mittelstufe",
+    "lemma": "Mittelstufe",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Mittelstufen",
+    "meaning": [
+      {
+        "zh": "中级阶段",
+        "en": "intermediate level"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In der Mittelstufe lernen die Schüler komplexere Grammatik.",
+        "zh": "在中级阶段，学生学习更复杂的语法。"
+      },
+      {
+        "de": "Er besucht einen Deutschkurs auf der Mittelstufe.",
+        "zh": "他参加了一个中级德语课程。"
+      }
+    ],
+    "collocations": [
+      "auf der Mittelstufe",
+      "Mittelstufe des Kurses"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "语言学习",
+      "B1"
+    ],
+    "synonyms": [
+      "mittleres Niveau"
+    ],
+    "antonyms": [
+      "Anfängerstufe",
+      "Oberstufe"
+    ]
+  },
+  {
+    "word": "mittlerweile",
+    "lemma": "mittlerweile",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "与此同时，现在",
+        "en": "meanwhile, by now"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mittlerweile ist es schon dunkel geworden.",
+        "zh": "现在天已经黑了。"
+      },
+      {
+        "de": "Er hat mittlerweile eine neue Arbeit gefunden.",
+        "zh": "他 meantime 找到了一份新工作。"
+      }
+    ],
+    "collocations": [
+      "mittlerweile wissen",
+      "mittlerweile verstehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "时间",
+      "B1"
+    ],
+    "synonyms": [
+      "inzwischen",
+      "unterdessen"
+    ],
+    "antonyms": [
+      "anfangs",
+      "zunächst"
+    ]
+  },
+  {
+    "word": "mobil",
+    "lemma": "mobil",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "移动的，灵活的",
+        "en": "mobile, flexible"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mit dem Rollstuhl ist er wieder mobil.",
+        "zh": "有了轮椅，他又能活动了。"
+      },
+      {
+        "de": "Das Unternehmen setzt auf mobile Arbeitsplätze.",
+        "zh": "这家公司推行移动办公。"
+      }
+    ],
+    "collocations": [
+      "mobil sein",
+      "mobiles Gerät"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "技术",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "beweglich",
+      "flexibel"
+    ],
+    "antonyms": [
+      "stationär",
+      "unbeweglich"
+    ]
+  },
+  {
+    "word": "Modedesigner",
+    "lemma": "Modedesigner",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Modedesigner",
+    "meaning": [
+      {
+        "zh": "时装设计师",
+        "en": "fashion designer"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Modedesigner präsentierte seine neue Kollektion.",
+        "zh": "这位时装设计师展示了他的新系列。"
+      },
+      {
+        "de": "Sie arbeitet als Modedesignerin in Berlin.",
+        "zh": "她在柏林做时装设计师。"
+      }
+    ],
+    "collocations": [
+      "als Modedesigner arbeiten",
+      "Modedesigner werden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "职业",
+      "时尚",
+      "B1"
+    ],
+    "synonyms": [
+      "Modeschöpfer"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Modell",
+    "lemma": "Modell",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Modelle",
+    "meaning": [
+      {
+        "zh": "模型，模特，型号",
+        "en": "model, prototype, type"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieses Auto ist ein neues Modell.",
+        "zh": "这辆车是一个新模型。"
+      },
+      {
+        "de": "Sie arbeitet als Modell für eine Modeagentur.",
+        "zh": "她为一家模特经纪公司做模特。"
+      }
+    ],
+    "collocations": [
+      "ein Modell bauen",
+      "neues Modell"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "技术",
+      "时尚",
+      "科学",
+      "B1"
+    ],
+    "synonyms": [
+      "Prototyp",
+      "Muster"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "modisch",
+    "lemma": "modisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "时尚的，时髦的",
+        "en": "fashionable, trendy"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie trägt immer modische Kleidung.",
+        "zh": "她总是穿时尚的衣服。"
+      },
+      {
+        "de": "Dieser Schnitt ist sehr modisch.",
+        "zh": "这种剪裁非常时髦。"
+      }
+    ],
+    "collocations": [
+      "modische Kleidung",
+      "modisch gekleidet sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "时尚",
+      "B1"
+    ],
+    "synonyms": [
+      "trendy",
+      "aktuell"
+    ],
+    "antonyms": [
+      "altmodisch",
+      "unmodern"
+    ]
+  },
+  {
+    "word": "münden",
+    "lemma": "münden",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "流入，汇入；导致",
+        "en": "to flow into, to lead to"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Rhein mündet in die Nordsee.",
+        "zh": "莱茵河流入北海。"
+      },
+      {
+        "de": "Die Diskussion mündete in einem Streit.",
+        "zh": "讨论最终导致了争吵。"
+      }
+    ],
+    "collocations": [
+      "in etwas münden",
+      "münden in"
+    ],
+    "grammar": {
+      "case": "in + Akkusativ",
+      "separable": false,
+      "auxiliary": "sein",
+      "partizip2": "gemündet"
+    },
+    "level": "B2",
+    "tags": [
+      "地理",
+      "过程",
+      "B2"
+    ],
+    "synonyms": [
+      "einmünden",
+      "enden"
+    ],
+    "antonyms": [
+      "entspringen",
+      "beginnen"
+    ]
+  },
+  {
+    "word": "Münze",
+    "lemma": "Münze",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Münzen",
+    "meaning": [
+      {
+        "zh": "硬币，钱币",
+        "en": "coin"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe eine alte Münze gefunden.",
+        "zh": "我找到了一枚旧硬币。"
+      },
+      {
+        "de": "Er wirft eine Münze in den Automaten.",
+        "zh": "他把一枚硬币投进自动售货机。"
+      }
+    ],
+    "collocations": [
+      "eine Münze werfen",
+      "Münzen sammeln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "货币",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "Geldstück"
+    ],
+    "antonyms": [
+      "Schein",
+      "Banknote"
+    ]
+  },
+  {
+    "word": "Muster",
+    "lemma": "Muster",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Muster",
+    "meaning": [
+      {
+        "zh": "图案，花纹；样品，范例",
+        "en": "pattern, sample, model"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Kleid hat ein schönes Muster.",
+        "zh": "这条裙子有漂亮的图案。"
+      },
+      {
+        "de": "Wir haben ein Muster des Stoffes angefordert.",
+        "zh": "我们索要了布料的样品。"
+      }
+    ],
+    "collocations": [
+      "ein Muster haben",
+      "als Muster dienen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "设计",
+      "商业",
+      "B1"
+    ],
+    "synonyms": [
+      "Vorlage",
+      "Schema"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Mut",
+    "lemma": "Mut",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "勇气，胆量",
+        "en": "courage"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hatte den Mut, die Wahrheit zu sagen.",
+        "zh": "她有勇气说出真相。"
+      },
+      {
+        "de": "Er fasste sich ein Herz und sprach sie an.",
+        "zh": "他鼓起勇气和她搭话。"
+      }
+    ],
+    "collocations": [
+      "Mut haben",
+      "Mut fassen",
+      "den Mut verlieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "品质",
+      "B1"
+    ],
+    "synonyms": [
+      "Tapferkeit",
+      "Courage"
+    ],
+    "antonyms": [
+      "Angst",
+      "Feigheit"
+    ]
+  },
+  {
+    "word": "nachdenken",
+    "lemma": "nachdenken",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "思考，思索",
+        "en": "to think, to reflect"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich muss über das Problem nachdenken.",
+        "zh": "我必须思考这个问题。"
+      },
+      {
+        "de": "Er dachte lange über ihre Worte nach.",
+        "zh": "他长时间思考她的话。"
+      }
+    ],
+    "collocations": [
+      "über etwas nachdenken",
+      "nachdenklich sein"
+    ],
+    "grammar": {
+      "case": "über + Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "nachgedacht"
+    },
+    "level": "A2",
+    "tags": [
+      "思维",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "überlegen",
+      "grübeln"
+    ],
+    "antonyms": [
+      "vergessen",
+      "ignorieren"
+    ]
+  },
+  {
+    "word": "nachreichen",
+    "lemma": "nachreichen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "补交，随后提供",
+        "en": "to submit later, to hand in afterwards"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie können die Unterlagen später nachreichen.",
+        "zh": "您可以稍后补交文件。"
+      },
+      {
+        "de": "Der Student reichte die Hausarbeit eine Woche später nach.",
+        "zh": "学生一周后补交了作业。"
+      }
+    ],
+    "collocations": [
+      "Unterlagen nachreichen",
+      "Dokumente nachreichen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "nachgereicht"
+    },
+    "level": "B1",
+    "tags": [
+      "行政",
+      "学术",
+      "B1"
+    ],
+    "synonyms": [
+      "ergänzen",
+      "nachliefern"
+    ],
+    "antonyms": [
+      "vorlegen",
+      "einreichen"
+    ]
+  },
+  {
+    "word": "nachstehen",
+    "lemma": "nachstehen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "落后于，逊色于",
+        "en": "to be inferior to, to lag behind"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In puncto Qualität steht dieses Produkt dem anderen nicht nach.",
+        "zh": "在质量方面，这个产品并不逊色于另一个。"
+      },
+      {
+        "de": "Er steht seinem Bruder in nichts nach.",
+        "zh": "他在各方面都不比他的兄弟差。"
+      }
+    ],
+    "collocations": [
+      "jemandem in etwas nachstehen",
+      "nicht nachstehen"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "nachgestanden"
+    },
+    "level": "B2",
+    "tags": [
+      "比较",
+      "品质",
+      "B2"
+    ],
+    "synonyms": [
+      "unterlegen sein",
+      "zurückstehen"
+    ],
+    "antonyms": [
+      "überlegen sein",
+      "voraus sein"
+    ]
+  },
+  {
+    "word": "nachweisen",
+    "lemma": "nachweisen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "证明，证实",
+        "en": "to prove, to demonstrate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Wissenschaftler konnte die Existenz des neuen Elements nachweisen.",
+        "zh": "科学家证明了新元素的存在。"
+      },
+      {
+        "de": "Sie musste ihre Identität mit einem Ausweis nachweisen.",
+        "zh": "她必须用证件证明自己的身份。"
+      }
+    ],
+    "collocations": [
+      "etwas nachweisen (können)",
+      "jemandem etwas nachweisen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "nachgewiesen"
+    },
+    "level": "B2",
+    "tags": [
+      "科学",
+      "法律",
+      "B2"
+    ],
+    "synonyms": [
+      "beweisen",
+      "belegen"
+    ],
+    "antonyms": [
+      "widerlegen",
+      "anzweifeln"
+    ]
+  },
+  {
+    "word": "Nährstoffe",
+    "lemma": "Nährstoff",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Nährstoffe",
+    "meaning": [
+      {
+        "zh": "营养素，养分",
+        "en": "nutrients"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Obst und Gemüse enthalten viele wichtige Nährstoffe.",
+        "zh": "水果和蔬菜含有许多重要的营养素。"
+      },
+      {
+        "de": "Der Boden verliert durch intensive Landwirtschaft an Nährstoffen.",
+        "zh": "由于集约化农业，土壤失去了养分。"
+      }
+    ],
+    "collocations": [
+      "wichtige Nährstoffe",
+      "Nährstoffe aufnehmen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "健康",
+      "营养",
+      "B1"
+    ],
+    "synonyms": [
+      "Nahrungsbestandteile",
+      "Vitamine (teilweise)"
+    ],
+    "antonyms": [
+      "Schadstoffe"
+    ]
+  },
+  {
+    "word": "Nation",
+    "lemma": "Nation",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Nationen",
+    "meaning": [
+      {
+        "zh": "国家，民族",
+        "en": "nation"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Vereinten Nationen setzen sich für den Frieden ein.",
+        "zh": "联合国致力于和平。"
+      },
+      {
+        "de": "Jede Nation hat ihre eigenen kulturellen Traditionen.",
+        "zh": "每个国家都有自己的文化传统。"
+      }
+    ],
+    "collocations": [
+      "eine souveräne Nation",
+      "die Nation vertreten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "政治",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Staat",
+      "Land"
+    ],
+    "antonyms": [
+      "Individuum",
+      "Region"
+    ]
+  },
+  {
+    "word": "Nationalsozialist",
+    "lemma": "Nationalsozialist",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Nationalsozialisten",
+    "meaning": [
+      {
+        "zh": "国家社会主义者，纳粹分子",
+        "en": "National Socialist, Nazi"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Nationalsozialisten verübten während des Zweiten Weltkriegs unvorstellbare Verbrechen.",
+        "zh": "国家社会主义者在第二次世界大战期间犯下了难以想象的罪行。"
+      },
+      {
+        "de": "Nach 1945 wurden viele ehemalige Nationalsozialisten vor Gericht gestellt.",
+        "zh": "1945年后，许多前纳粹分子被送上法庭。"
+      }
+    ],
+    "collocations": [
+      "ein überzeugter Nationalsozialist",
+      "die Ideologie der Nationalsozialisten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "C1",
+    "tags": [
+      "历史",
+      "政治",
+      "C1"
+    ],
+    "synonyms": [
+      "Nazi",
+      "Faschist"
+    ],
+    "antonyms": [
+      "Antifaschist",
+      "Demokrat"
+    ]
+  },
+  {
+    "word": "Nebenfach",
+    "lemma": "Nebenfach",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Nebenfächer",
+    "meaning": [
+      {
+        "zh": "辅修专业",
+        "en": "minor subject"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie studiert Biologie als Hauptfach und Chemie als Nebenfach.",
+        "zh": "她主修生物学，辅修化学。"
+      },
+      {
+        "de": "Für das Nebenfach muss man weniger Kurse belegen als für das Hauptfach.",
+        "zh": "辅修专业需要修的课程比主修专业少。"
+      }
+    ],
+    "collocations": [
+      "ein Nebenfach wählen",
+      "Nebenfach studieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "大学",
+      "B1"
+    ],
+    "synonyms": [
+      "Zweitfach"
+    ],
+    "antonyms": [
+      "Hauptfach"
+    ]
+  },
+  {
+    "word": "negativ",
+    "lemma": "negativ",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "消极的，负面的，否定的",
+        "en": "negative"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kritik an dem Projekt war überwiegend negativ.",
+        "zh": "对这个项目的批评主要是负面的。"
+      },
+      {
+        "de": "Das Testergebnis war negativ, sie ist nicht krank.",
+        "zh": "测试结果是阴性的，她没有生病。"
+      }
+    ],
+    "collocations": [
+      "negative Auswirkungen",
+      "negativ beeinflussen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "评价",
+      "B1"
+    ],
+    "synonyms": [
+      "ungünstig",
+      "schlecht"
+    ],
+    "antonyms": [
+      "positiv"
+    ]
+  },
+  {
+    "word": "nerven",
+    "lemma": "nerven",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "使烦恼，惹恼",
+        "en": "to annoy, to get on one's nerves"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ständige Hupen im Verkehr nervt mich.",
+        "zh": "交通中不断的喇叭声让我很烦。"
+      },
+      {
+        "de": "Hör auf, mich mit deinen Fragen zu nerven!",
+        "zh": "别再问问题烦我了！"
+      }
+    ],
+    "collocations": [
+      "jemanden nerven",
+      "nerviges Verhalten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "genervt"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "ärgern",
+      "stören"
+    ],
+    "antonyms": [
+      "beruhigen",
+      "erfreuen"
+    ]
+  },
+  {
+    "word": "Niedrlage",
+    "lemma": "Niederlage",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Niederlagen",
+    "meaning": [
+      {
+        "zh": "失败，败北",
+        "en": "defeat"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Mannschaft musste eine schwere Niederlage hinnehmen.",
+        "zh": "球队不得不接受一场惨败。"
+      },
+      {
+        "de": "Nach der Niederlage im Krieg war das Land am Boden zerstört.",
+        "zh": "战争失败后，这个国家一片废墟。"
+      }
+    ],
+    "collocations": [
+      "eine Niederlage erleiden",
+      "eine knappe Niederlage"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "体育",
+      "战争",
+      "B1"
+    ],
+    "synonyms": [
+      "Verlust",
+      "Misserfolg"
+    ],
+    "antonyms": [
+      "Sieg",
+      "Erfolg"
+    ]
+  },
+  {
+    "word": "Niveau",
+    "lemma": "Niveau",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Niveaus",
+    "meaning": [
+      {
+        "zh": "水平，水准，程度",
+        "en": "level, standard, degree"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Niveau der Diskussion war sehr hoch.",
+        "zh": "讨论的水平非常高。"
+      },
+      {
+        "de": "Er hat ein hohes sprachliches Niveau erreicht.",
+        "zh": "他达到了很高的语言水平。"
+      }
+    ],
+    "collocations": [
+      "das Niveau steigern",
+      "auf einem hohen Niveau"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "Standard",
+      "Stufe"
+    ],
+    "antonyms": [
+      "Mangel",
+      "Tiefstand"
+    ]
+  },
+  {
+    "word": "nutzen",
+    "lemma": "nutzen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "使用，利用",
+        "en": "to use, to utilize"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich nutze die Gelegenheit, um mich zu bedanken.",
+        "zh": "我利用这个机会表示感谢。"
+      },
+      {
+        "de": "Man kann diese App kostenlos nutzen.",
+        "zh": "人们可以免费使用这个应用程序。"
+      }
+    ],
+    "collocations": [
+      "eine Chance nutzen",
+      "die Zeit nutzen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "genutzt"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "verwenden",
+      "gebrauchen"
+    ],
+    "antonyms": [
+      "verschwenden",
+      "verpassen"
+    ]
+  }
+]

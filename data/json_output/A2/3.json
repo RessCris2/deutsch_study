@@ -1,0 +1,1653 @@
+[
+  {
+    "word": "ausschlafen",
+    "lemma": "ausschlafen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "睡够，睡足",
+        "en": "to sleep in, to get enough sleep"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Am Wochenende kann ich endlich ausschlafen.",
+        "zh": "周末我终于可以睡个够了。"
+      },
+      {
+        "de": "Nach der langen Reise musste ich mich erst einmal ausschlafen.",
+        "zh": "长途旅行后，我得先好好睡一觉。"
+      }
+    ],
+    "collocations": [
+      "endlich ausschlafen",
+      "sich ausschlafen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "ausgeschlafen"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "durchschlafen",
+      "sich erholen"
+    ],
+    "antonyms": [
+      "aufwachen",
+      "übermüdet sein"
+    ]
+  },
+  {
+    "word": "Aussehen",
+    "lemma": "Aussehen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "外貌，外观",
+        "en": "appearance, look"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ihr Aussehen hat sich im Laufe der Jahre verändert.",
+        "zh": "她的外貌在岁月中发生了变化。"
+      },
+      {
+        "de": "Das Aussehen des Gebäudes ist sehr modern.",
+        "zh": "这座建筑的外观非常现代。"
+      }
+    ],
+    "collocations": [
+      "äußeres Aussehen",
+      "auf das Aussehen achten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Erscheinung",
+      "Äußerlichkeit"
+    ],
+    "antonyms": [
+      "Inhalt",
+      "Wesen"
+    ]
+  },
+  {
+    "word": "äußern",
+    "lemma": "äußern",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "表达，说出",
+        "en": "to express, to voice"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er äußerte seine Meinung zu dem Thema.",
+        "zh": "他表达了自己对这个话题的看法。"
+      },
+      {
+        "de": "Sie äußerte den Wunsch, früher zu gehen.",
+        "zh": "她表达了想早点走的愿望。"
+      }
+    ],
+    "collocations": [
+      "eine Meinung äußern",
+      "sich äußern zu"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geäußert"
+    },
+    "level": "B1",
+    "tags": [
+      "沟通",
+      "B1"
+    ],
+    "synonyms": [
+      "sagen",
+      "mitteilen",
+      "ausdrücken"
+    ],
+    "antonyms": [
+      "schweigen",
+      "verheimlichen"
+    ]
+  },
+  {
+    "word": "Aussicht",
+    "lemma": "Aussicht",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Aussichten",
+    "meaning": [
+      {
+        "zh": "前景，展望；景色",
+        "en": "prospect, view"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Von hier oben hat man eine wunderbare Aussicht auf die Stadt.",
+        "zh": "从这儿上面可以看到城市的美景。"
+      },
+      {
+        "de": "Die Aussichten auf eine Beförderung sind gut.",
+        "zh": "晋升的前景很好。"
+      }
+    ],
+    "collocations": [
+      "eine gute Aussicht haben",
+      "in Aussicht stellen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "Perspektive",
+      "Blick"
+    ],
+    "antonyms": [
+      "Aussichtslosigkeit"
+    ]
+  },
+  {
+    "word": "ausstatten",
+    "lemma": "ausstatten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "装备，配备",
+        "en": "to equip, to furnish"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Firma stattet ihre Mitarbeiter mit moderner Technik aus.",
+        "zh": "公司为员工配备了现代技术。"
+      },
+      {
+        "de": "Das Labor wurde mit neuen Geräten ausgestattet.",
+        "zh": "实验室配备了新设备。"
+      }
+    ],
+    "collocations": [
+      "mit etwas ausstatten",
+      "gut ausgestattet sein"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "ausgestattet"
+    },
+    "level": "B2",
+    "tags": [
+      "科技",
+      "工作",
+      "B2"
+    ],
+    "synonyms": [
+      "versorgen",
+      "einrichten"
+    ],
+    "antonyms": [
+      "entfernen",
+      "berauben"
+    ]
+  },
+  {
+    "word": "Ausstellung",
+    "lemma": "Ausstellung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Ausstellungen",
+    "meaning": [
+      {
+        "zh": "展览，展览会",
+        "en": "exhibition, exhibit"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Ausstellung moderner Kunst war sehr beeindruckend.",
+        "zh": "现代艺术展览令人印象深刻。"
+      },
+      {
+        "de": "Nächste Woche eröffnet eine neue Ausstellung im Museum.",
+        "zh": "下周博物馆将举办一个新展览。"
+      }
+    ],
+    "collocations": [
+      "eine Ausstellung besuchen",
+      "eine Ausstellung eröffnen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "文化",
+      "B1"
+    ],
+    "synonyms": [
+      "Exposition",
+      "Schau"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "aussterben",
+    "lemma": "aussterben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "灭绝，消亡",
+        "en": "to become extinct, to die out"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Viele Tierarten sind vom Aussterben bedroht.",
+        "zh": "许多动物物种濒临灭绝。"
+      },
+      {
+        "de": "Diese Tradition stirbt langsam aus.",
+        "zh": "这个传统正在慢慢消亡。"
+      }
+    ],
+    "collocations": [
+      "vom Aussterben bedroht sein",
+      "aussterbende Art"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "ausgestorben"
+    },
+    "level": "B2",
+    "tags": [
+      "自然",
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "verschwinden",
+      "untergehen"
+    ],
+    "antonyms": [
+      "überleben",
+      "fortbestehen"
+    ]
+  },
+  {
+    "word": "Austausch",
+    "lemma": "Austausch",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Austausche",
+    "meaning": [
+      {
+        "zh": "交换，交流",
+        "en": "exchange, interchange"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Austausch von Ideen ist wichtig für die Zusammenarbeit.",
+        "zh": "思想交流对合作很重要。"
+      },
+      {
+        "de": "Sie nahm an einem Schüleraustausch teil.",
+        "zh": "她参加了一个学生交流项目。"
+      }
+    ],
+    "collocations": [
+      "im Austausch stehen",
+      "einen Austausch organisieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "沟通",
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "Wechsel",
+      "Tausch"
+    ],
+    "antonyms": [
+      "Isolation"
+    ]
+  },
+  {
+    "word": "Austragungsort",
+    "lemma": "Austragungsort",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Austragungsorte",
+    "meaning": [
+      {
+        "zh": "举办地点，比赛场地",
+        "en": "venue, host city"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Berlin ist der Austragungsort des diesjährigen Finales.",
+        "zh": "柏林是今年决赛的举办地。"
+      },
+      {
+        "de": "Der Austragungsort der Olympischen Spiele wird oft Jahre im Voraus bestimmt.",
+        "zh": "奥运会的举办地点通常提前数年确定。"
+      }
+    ],
+    "collocations": [
+      "Austragungsort der Olympischen Spiele",
+      "als Austragungsort dienen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "体育",
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "Veranstaltungsort",
+      "Spielort"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Auszubildende",
+    "lemma": "Auszubildende",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der/die",
+    "plural": "Auszubildenden",
+    "meaning": [
+      {
+        "zh": "学徒，实习生",
+        "en": "trainee, apprentice"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Auszubildende lernt den Beruf der Kauffrau im Büro.",
+        "zh": "这位学徒正在学习办公室商务员的职业。"
+      },
+      {
+        "de": "Viele Auszubildende erhalten eine Vergütung während ihrer Ausbildung.",
+        "zh": "许多学徒在培训期间获得报酬。"
+      }
+    ],
+    "collocations": [
+      "Auszubildende einstellen",
+      "Auszubildende ausbilden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "职业",
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "Lehrling",
+      "Azubi"
+    ],
+    "antonyms": [
+      "Meister"
+    ]
+  },
+  {
+    "word": "Automobilpionier",
+    "lemma": "Automobilpionier",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Automobilpioniere",
+    "meaning": [
+      {
+        "zh": "汽车先驱，汽车工业的开拓者",
+        "en": "automotive pioneer"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Carl Benz gilt als einer der ersten Automobilpioniere.",
+        "zh": "卡尔·本茨被认为是最早的汽车先驱之一。"
+      },
+      {
+        "de": "Die Geschichte der Automobilpioniere ist voller Erfindungen.",
+        "zh": "汽车先驱的历史充满了发明。"
+      }
+    ],
+    "collocations": [
+      "als Automobilpionier gelten",
+      "Automobilpionier des 19. Jahrhunderts"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "历史",
+      "科技",
+      "B2"
+    ],
+    "synonyms": [
+      "Pionier der Automobilindustrie"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Automobilstadt",
+    "lemma": "Automobilstadt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Automobilstädte",
+    "meaning": [
+      {
+        "zh": "汽车城（以汽车工业闻名的城市）",
+        "en": "automobile city, motor city"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wolfsburg ist eine bekannte Automobilstadt in Deutschland.",
+        "zh": "沃尔夫斯堡是德国著名的汽车城。"
+      },
+      {
+        "de": "Detroit galt lange als die Automobilstadt der USA.",
+        "zh": "底特律长期以来被视为美国的汽车城。"
+      }
+    ],
+    "collocations": [
+      "in einer Automobilstadt leben",
+      "Automobilstadt besuchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "地理",
+      "工业",
+      "B2"
+    ],
+    "synonyms": [
+      "Autostadt"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Autor",
+    "lemma": "Autor",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Autoren",
+    "meaning": [
+      {
+        "zh": "作者，作家",
+        "en": "author"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Autor hat einen neuen Roman veröffentlicht.",
+        "zh": "这位作者出版了一部新小说。"
+      },
+      {
+        "de": "Viele Autoren arbeiten freiberuflich.",
+        "zh": "许多作者是自由职业者。"
+      }
+    ],
+    "collocations": [
+      "Autor eines Buches",
+      "als Autor tätig sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "文化",
+      "职业",
+      "A2"
+    ],
+    "synonyms": [
+      "Schriftsteller",
+      "Verfasser"
+    ],
+    "antonyms": [
+      "Leser"
+    ]
+  },
+  {
+    "word": "Bachelor",
+    "lemma": "Bachelor",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Bachelor",
+    "meaning": [
+      {
+        "zh": "学士学位",
+        "en": "Bachelor's degree"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat ihren Bachelor in Informatik gemacht.",
+        "zh": "她获得了计算机科学学士学位。"
+      },
+      {
+        "de": "Nach dem Bachelor kann man einen Master machen.",
+        "zh": "学士学位之后可以攻读硕士学位。"
+      }
+    ],
+    "collocations": [
+      "Bachelor-Abschluss",
+      "Bachelor-Studium"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "学术",
+      "B1"
+    ],
+    "synonyms": [
+      "Bakkalaureus"
+    ],
+    "antonyms": [
+      "Master"
+    ]
+  },
+  {
+    "word": "basteln",
+    "lemma": "basteln",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "手工制作，做手工",
+        "en": "to do handicrafts, to tinker"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kinder basteln gern mit Papier und Kleber.",
+        "zh": "孩子们喜欢用纸和胶水做手工。"
+      },
+      {
+        "de": "Er bastelt an einem Modellflugzeug.",
+        "zh": "他正在制作一架模型飞机。"
+      }
+    ],
+    "collocations": [
+      "an etwas basteln",
+      "mit Kindern basteln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gebastelt"
+    },
+    "level": "A2",
+    "tags": [
+      "手工",
+      "爱好",
+      "A2"
+    ],
+    "synonyms": [
+      "werken",
+      "handarbeiten"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "bauen",
+    "lemma": "bauen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "建造，建设",
+        "en": "to build, to construct"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Firma baut ein neues Haus.",
+        "zh": "这家公司正在建造一栋新房子。"
+      },
+      {
+        "de": "Kinder bauen gern Sandburgen am Strand.",
+        "zh": "孩子们喜欢在海滩上堆沙堡。"
+      }
+    ],
+    "collocations": [
+      "ein Haus bauen",
+      "auf jemanden bauen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gebaut"
+    },
+    "level": "A1",
+    "tags": [
+      "建筑",
+      "日常",
+      "A1"
+    ],
+    "synonyms": [
+      "errichten",
+      "konstruieren"
+    ],
+    "antonyms": [
+      "abreißen",
+      "zerstören"
+    ]
+  },
+  {
+    "word": "Bauweise",
+    "lemma": "Bauweise",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Bauweisen",
+    "meaning": [
+      {
+        "zh": "建筑方式，建造方法",
+        "en": "construction method, building style"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die traditionelle Bauweise verwendet oft Holz und Lehm.",
+        "zh": "传统的建筑方式常使用木材和粘土。"
+      },
+      {
+        "de": "Moderne Bauweisen sind energieeffizienter.",
+        "zh": "现代建筑方式更节能。"
+      }
+    ],
+    "collocations": [
+      "traditionelle Bauweise",
+      "moderne Bauweise",
+      "nachhaltige Bauweise"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "建筑",
+      "技术",
+      "B1"
+    ],
+    "synonyms": [
+      "Baustil",
+      "Konstruktionsweise"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "bayerisch",
+    "lemma": "bayerisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "巴伐利亚的，巴伐利亚州的",
+        "en": "Bavarian"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das bayerische Bier ist weltweit bekannt.",
+        "zh": "巴伐利亚啤酒世界闻名。"
+      },
+      {
+        "de": "Er spricht mit einem starken bayerischen Akzent.",
+        "zh": "他说话带有浓重的巴伐利亚口音。"
+      }
+    ],
+    "collocations": [
+      "bayerische Küche",
+      "bayerische Tradition",
+      "bayerischer Dialekt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "地理",
+      "文化",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "beabsichtigen",
+    "lemma": "beabsichtigen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "打算，意图",
+        "en": "to intend, to plan"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir beabsichtigen, nächstes Jahr nach Deutschland zu reisen.",
+        "zh": "我们打算明年去德国旅行。"
+      },
+      {
+        "de": "Er beabsichtigt, sein Studium im Ausland fortzusetzen.",
+        "zh": "他打算在国外继续学业。"
+      }
+    ],
+    "collocations": [
+      "etwas beabsichtigen",
+      "beabsichtigen zu + Infinitiv"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "beabsichtigt"
+    },
+    "level": "B1",
+    "tags": [
+      "行为",
+      "意图",
+      "B1"
+    ],
+    "synonyms": [
+      "vorhaben",
+      "planen",
+      "beabsichtigen"
+    ],
+    "antonyms": [
+      "ablehnen",
+      "vermeiden"
+    ]
+  },
+  {
+    "word": "beachten",
+    "lemma": "beachten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "注意，遵守",
+        "en": "to notice, to observe, to pay attention to"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bitte beachten Sie die Verkehrsregeln.",
+        "zh": "请注意交通规则。"
+      },
+      {
+        "de": "Man sollte die Hinweise des Arztes beachten.",
+        "zh": "应该遵守医生的建议。"
+      }
+    ],
+    "collocations": [
+      "die Regeln beachten",
+      "die Hinweise beachten",
+      "etwas beachten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "beachtet"
+    },
+    "level": "A2",
+    "tags": [
+      "行为",
+      "规则",
+      "A2"
+    ],
+    "synonyms": [
+      "berücksichtigen",
+      "einhalten"
+    ],
+    "antonyms": [
+      "ignorieren",
+      "missachten"
+    ]
+  },
+  {
+    "word": "Beamte",
+    "lemma": "Beamte",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Beamten",
+    "meaning": [
+      {
+        "zh": "官员，公务员",
+        "en": "civil servant, official"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Beamte bearbeitet den Antrag.",
+        "zh": "这位官员处理申请。"
+      },
+      {
+        "de": "Viele Beamte arbeiten in der Verwaltung.",
+        "zh": "许多公务员在行政部门工作。"
+      }
+    ],
+    "collocations": [
+      "öffentlicher Beamter",
+      "Beamter im Staatsdienst",
+      "Beamtenstatus"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "职业",
+      "政府",
+      "B1"
+    ],
+    "synonyms": [
+      "Angestellter",
+      "Staatsdiener"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "bearbeiten",
+    "lemma": "bearbeiten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "加工，处理，编辑",
+        "en": "to process, to edit, to work on"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Tischler bearbeitet das Holz mit einer Maschine.",
+        "zh": "木匠用机器加工木材。"
+      },
+      {
+        "de": "Ich muss noch die Daten für den Bericht bearbeiten.",
+        "zh": "我还需要处理报告的数据。"
+      }
+    ],
+    "collocations": [
+      "einen Antrag bearbeiten",
+      "Daten bearbeiten",
+      "Material bearbeiten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "bearbeitet"
+    },
+    "level": "B1",
+    "tags": [
+      "工作",
+      "技术",
+      "B1"
+    ],
+    "synonyms": [
+      "verarbeiten",
+      "editieren",
+      "behandeln"
+    ],
+    "antonyms": [
+      "ignorieren",
+      "vernachlässigen"
+    ]
+  },
+  {
+    "word": "bedeutend",
+    "lemma": "bedeutend",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "重要的，显著的",
+        "en": "significant, important"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist ein bedeutender Fortschritt in der Forschung.",
+        "zh": "这是研究中的一个重要进展。"
+      },
+      {
+        "de": "Er spielt eine bedeutende Rolle in der Firma.",
+        "zh": "他在公司中扮演重要角色。"
+      }
+    ],
+    "collocations": [
+      "bedeutende Rolle",
+      "bedeutender Unterschied",
+      "bedeutende Entwicklung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "评价",
+      "重要性",
+      "B1"
+    ],
+    "synonyms": [
+      "wichtig",
+      "relevant",
+      "signifikant"
+    ],
+    "antonyms": [
+      "unbedeutend",
+      "geringfügig"
+    ]
+  },
+  {
+    "word": "Bedeutung",
+    "lemma": "Bedeutung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Bedeutungen",
+    "meaning": [
+      {
+        "zh": "意义，重要性",
+        "en": "meaning, significance"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Bedeutung dieses Wortes ist mir nicht klar.",
+        "zh": "这个词的意义我不清楚。"
+      },
+      {
+        "de": "Die wirtschaftliche Bedeutung der Region wächst stetig.",
+        "zh": "该地区的经济重要性不断增长。"
+      }
+    ],
+    "collocations": [
+      "große Bedeutung haben",
+      "Bedeutung gewinnen",
+      "von Bedeutung sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "语言",
+      "抽象概念",
+      "A2"
+    ],
+    "synonyms": [
+      "Sinn",
+      "Wichtigkeit",
+      "Relevanz"
+    ],
+    "antonyms": [
+      "Bedeutungslosigkeit"
+    ]
+  },
+  {
+    "word": "beenden",
+    "lemma": "beenden",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "结束，完成",
+        "en": "to end, to finish"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich möchte das Projekt bis Freitag beenden.",
+        "zh": "我想在周五前完成这个项目。"
+      },
+      {
+        "de": "Sie beendete ihre Rede mit einem Zitat.",
+        "zh": "她以一句引文结束了她的演讲。"
+      }
+    ],
+    "collocations": [
+      "das Studium beenden",
+      "die Arbeit beenden"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "beendet"
+    },
+    "level": "B1",
+    "tags": [
+      "动词",
+      "B1",
+      "日常"
+    ],
+    "synonyms": [
+      "abschließen",
+      "aufhören"
+    ],
+    "antonyms": [
+      "beginnen",
+      "anfangen"
+    ]
+  },
+  {
+    "word": "befehlen",
+    "lemma": "befehlen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "命令，指挥",
+        "en": "to command, to order"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der General befahl den Soldaten, vorzurücken.",
+        "zh": "将军命令士兵前进。"
+      },
+      {
+        "de": "Er befahl ihr, sofort zu kommen.",
+        "zh": "他命令她立刻过来。"
+      }
+    ],
+    "collocations": [
+      "jemandem befehlen",
+      "etwas befehlen"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "befohlen"
+    },
+    "level": "B2",
+    "tags": [
+      "动词",
+      "B2",
+      "军事",
+      "权威"
+    ],
+    "synonyms": [
+      "anordnen",
+      "kommandieren"
+    ],
+    "antonyms": [
+      "gehorchen",
+      "befolgen"
+    ]
+  },
+  {
+    "word": "befinden",
+    "lemma": "befinden",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "位于，处于；认为",
+        "en": "to be located, to be; to consider"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Hotel befindet sich im Stadtzentrum.",
+        "zh": "这家酒店位于市中心。"
+      },
+      {
+        "de": "Ich befinde seine Entscheidung für richtig.",
+        "zh": "我认为他的决定是正确的。"
+      }
+    ],
+    "collocations": [
+      "sich befinden in",
+      "etwas für richtig befinden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "befunden"
+    },
+    "level": "B1",
+    "tags": [
+      "动词",
+      "B1",
+      "位置",
+      "判断"
+    ],
+    "synonyms": [
+      "sich aufhalten",
+      "liegen",
+      "einschätzen"
+    ],
+    "antonyms": [
+      "fehlen",
+      "ablehnen"
+    ]
+  },
+  {
+    "word": "behalten",
+    "lemma": "behalten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "保留，记住",
+        "en": "to keep, to retain"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du das Geheimnis für dich behalten?",
+        "zh": "你能保守这个秘密吗？"
+      },
+      {
+        "de": "Sie behielt die Quittung als Beweis.",
+        "zh": "她保留了收据作为证据。"
+      }
+    ],
+    "collocations": [
+      "etwas behalten",
+      "im Gedächtnis behalten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "behalten"
+    },
+    "level": "B1",
+    "tags": [
+      "动词",
+      "B1",
+      "日常",
+      "记忆"
+    ],
+    "synonyms": [
+      "aufbewahren",
+      "merken"
+    ],
+    "antonyms": [
+      "wegwerfen",
+      "vergessen"
+    ]
+  },
+  {
+    "word": "beibringen",
+    "lemma": "beibringen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "教，传授；使遭受",
+        "en": "to teach, to impart; to inflict"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mein Vater brachte mir das Schwimmen bei.",
+        "zh": "我父亲教我游泳。"
+      },
+      {
+        "de": "Der Schock brachte ihm eine schwere Verletzung bei.",
+        "zh": "这次惊吓使他受了重伤。"
+      }
+    ],
+    "collocations": [
+      "jemandem etwas beibringen",
+      "eine Verletzung beibringen"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "beigebracht"
+    },
+    "level": "B1",
+    "tags": [
+      "动词",
+      "B1",
+      "教育",
+      "伤害"
+    ],
+    "synonyms": [
+      "lehren",
+      "vermitteln",
+      "zufügen"
+    ],
+    "antonyms": [
+      "lernen",
+      "heilen"
+    ]
+  },
+  {
+    "word": "beitragen",
+    "lemma": "beitragen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "贡献，有助于",
+        "en": "to contribute, to contribute to"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Jeder sollte zum Umweltschutz beitragen.",
+        "zh": "每个人都应该为环境保护做出贡献。"
+      },
+      {
+        "de": "Seine Idee trug wesentlich zum Erfolg bei.",
+        "zh": "他的想法对成功做出了重要贡献。"
+      }
+    ],
+    "collocations": [
+      "zu etwas beitragen",
+      "einen Beitrag leisten"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "beigetragen"
+    },
+    "level": "B1",
+    "tags": [
+      "动词",
+      "B1",
+      "社会",
+      "合作"
+    ],
+    "synonyms": [
+      "mitwirken",
+      "helfen"
+    ],
+    "antonyms": [
+      "schaden",
+      "hindern"
+    ]
+  },
+  {
+    "word": "bemühen",
+    "lemma": "bemühen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "努力，费力；麻烦",
+        "en": "to make an effort, to trouble"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er bemühte sich um eine bessere Note.",
+        "zh": "他努力争取更好的成绩。"
+      },
+      {
+        "de": "Bitte bemühen Sie sich nicht, ich finde den Weg allein.",
+        "zh": "请不必麻烦，我自己能找到路。"
+      }
+    ],
+    "collocations": [
+      "sich bemühen um",
+      "jemanden bemühen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "bemüht"
+    },
+    "level": "B1",
+    "tags": [
+      "动词",
+      "B1",
+      "努力",
+      "礼貌"
+    ],
+    "synonyms": [
+      "anstrengen",
+      "sich kümmern"
+    ],
+    "antonyms": [
+      "vernachlässigen",
+      "ignorieren"
+    ]
+  },
+  {
+    "word": "benutzen",
+    "lemma": "benutzen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "使用，利用",
+        "en": "to use, to utilize"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Darf ich dein Handy benutzen?",
+        "zh": "我可以用一下你的手机吗？"
+      },
+      {
+        "de": "Sie benutzte die Gelegenheit, um ihn kennenzulernen.",
+        "zh": "她利用这个机会认识了他。"
+      }
+    ],
+    "collocations": [
+      "etwas benutzen",
+      "eine Gelegenheit benutzen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "benutzt"
+    },
+    "level": "A2",
+    "tags": [
+      "动词",
+      "A2",
+      "日常",
+      "工具"
+    ],
+    "synonyms": [
+      "verwenden",
+      "nutzen",
+      "gebrauchen"
+    ],
+    "antonyms": [
+      "verzichten",
+      "lassen"
+    ]
+  },
+  {
+    "word": "Benzinauto",
+    "lemma": "Benzinauto",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Benzinautos",
+    "meaning": [
+      {
+        "zh": "汽油车",
+        "en": "gasoline car"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er fährt ein altes Benzinauto.",
+        "zh": "他开一辆旧汽油车。"
+      },
+      {
+        "de": "Benzinautos sind in vielen Städten bald verboten.",
+        "zh": "汽油车在许多城市很快将被禁止。"
+      }
+    ],
+    "collocations": [
+      "ein Benzinauto fahren",
+      "Benzinauto verkaufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "交通",
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "Verbrennerauto",
+      "Benziner"
+    ],
+    "antonyms": [
+      "Elektroauto"
+    ]
+  },
+  {
+    "word": "beobachten",
+    "lemma": "beobachten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "观察",
+        "en": "to observe"
+      },
+      {
+        "zh": "监视",
+        "en": "to watch"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Wissenschaftler beobachtet die Vögel im Park.",
+        "zh": "科学家观察公园里的鸟。"
+      },
+      {
+        "de": "Die Polizei beobachtet den Verdächtigen seit Wochen.",
+        "zh": "警察几周来一直在监视嫌疑人。"
+      }
+    ],
+    "collocations": [
+      "jemanden/etwas genau beobachten",
+      "das Verhalten beobachten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "beobachtet"
+    },
+    "level": "B1",
+    "tags": [
+      "科学",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "betrachten",
+      "verfolgen"
+    ],
+    "antonyms": [
+      "ignorieren",
+      "übersehen"
+    ]
+  }
+]

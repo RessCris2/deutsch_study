@@ -1,0 +1,1348 @@
+[
+  {
+    "word": "passieren",
+    "lemma": "passieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "发生",
+        "en": "to happen"
+      },
+      {
+        "zh": "通过，经过",
+        "en": "to pass"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Was ist gestern passiert?",
+        "zh": "昨天发生了什么？"
+      },
+      {
+        "de": "Wir passieren gerade die Grenze.",
+        "zh": "我们正在通过边境。"
+      }
+    ],
+    "collocations": [
+      "etwas passiert jemandem",
+      "passieren lassen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "partizip2": "passiert"
+    },
+    "level": "A2",
+    "tags": [
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "geschehen",
+      "vorkommen"
+    ],
+    "antonyms": [
+      "verhindern"
+    ]
+  },
+  {
+    "word": "Person",
+    "lemma": "Person",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Personen",
+    "meaning": [
+      {
+        "zh": "人，个人",
+        "en": "person, individual"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Person kenne ich nicht.",
+        "zh": "我不认识这个人。"
+      },
+      {
+        "de": "Pro Person kostet der Eintritt 10 Euro.",
+        "zh": "每人入场费10欧元。"
+      }
+    ],
+    "collocations": [
+      "eine Person des öffentlichen Lebens",
+      "pro Person"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "社会",
+      "A1"
+    ],
+    "synonyms": [
+      "Mensch",
+      "Individuum"
+    ],
+    "antonyms": [
+      "Sache"
+    ]
+  },
+  {
+    "word": "Persönlichkeit",
+    "lemma": "Persönlichkeit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Persönlichkeiten",
+    "meaning": [
+      {
+        "zh": "个性，人格",
+        "en": "personality"
+      },
+      {
+        "zh": "人物（知名人士）",
+        "en": "personality (public figure)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat eine starke Persönlichkeit.",
+        "zh": "她个性很强。"
+      },
+      {
+        "de": "Er ist eine bekannte Persönlichkeit in der Politik.",
+        "zh": "他是政界的知名人物。"
+      }
+    ],
+    "collocations": [
+      "eine starke Persönlichkeit haben",
+      "öffentliche Persönlichkeit"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "心理",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Charakter",
+      "Individualität"
+    ],
+    "antonyms": [
+      "Anonymität"
+    ]
+  },
+  {
+    "word": "Pferd",
+    "lemma": "Pferd",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Pferde",
+    "meaning": [
+      {
+        "zh": "马",
+        "en": "horse"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Pferd läuft schnell über die Wiese.",
+        "zh": "马在草地上快速奔跑。"
+      },
+      {
+        "de": "Sie reitet jeden Tag auf ihrem Pferd.",
+        "zh": "她每天骑她的马。"
+      }
+    ],
+    "collocations": [
+      "auf einem Pferd reiten",
+      "ein Pferd satteln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "动物",
+      "A2"
+    ],
+    "synonyms": [
+      "Ross",
+      "Gaul"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Pflanzenart",
+    "lemma": "Pflanzenart",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Pflanzenarten",
+    "meaning": [
+      {
+        "zh": "植物种类",
+        "en": "plant species"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Pflanzenart ist in Europa selten.",
+        "zh": "这种植物在欧洲很罕见。"
+      },
+      {
+        "de": "Es gibt viele verschiedene Pflanzenarten im Regenwald.",
+        "zh": "雨林中有许多不同的植物种类。"
+      }
+    ],
+    "collocations": [
+      "eine seltene Pflanzenart",
+      "verschiedene Pflanzenarten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "自然",
+      "科学",
+      "B1"
+    ],
+    "synonyms": [
+      "Spezies",
+      "Gewächsart"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Pflichten",
+    "lemma": "Pflicht",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Pflichten",
+    "meaning": [
+      {
+        "zh": "义务，责任",
+        "en": "duties, obligations"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Jeder Bürger hat Pflichten gegenüber dem Staat.",
+        "zh": "每个公民对国家都有义务。"
+      },
+      {
+        "de": "Sie erfüllt ihre beruflichen Pflichten gewissenhaft.",
+        "zh": "她认真履行她的职业职责。"
+      }
+    ],
+    "collocations": [
+      "seine Pflichten erfüllen",
+      "berufliche Pflichten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "法律",
+      "B1"
+    ],
+    "synonyms": [
+      "Aufgaben",
+      "Verpflichtungen"
+    ],
+    "antonyms": [
+      "Rechte"
+    ]
+  },
+  {
+    "word": "pflücken",
+    "lemma": "pflücken",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "采摘",
+        "en": "to pick, to pluck"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Herbst pflücken wir Äpfel im Garten.",
+        "zh": "秋天我们在花园里摘苹果。"
+      },
+      {
+        "de": "Sie pflückt eine Blume für ihre Mutter.",
+        "zh": "她为妈妈摘了一朵花。"
+      }
+    ],
+    "collocations": [
+      "Blumen pflücken",
+      "Obst pflücken"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gepflückt"
+    },
+    "level": "A2",
+    "tags": [
+      "日常",
+      "自然",
+      "A2"
+    ],
+    "synonyms": [
+      "ernten",
+      "abreißen"
+    ],
+    "antonyms": [
+      "pflanzen",
+      "säen"
+    ]
+  },
+  {
+    "word": "phantasievoll",
+    "lemma": "phantasievoll",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "富有想象力的",
+        "en": "imaginative, creative"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Kind hat eine phantasievolle Geschichte erzählt.",
+        "zh": "这个孩子讲了一个富有想象力的故事。"
+      },
+      {
+        "de": "Ihre phantasievolle Dekoration gefällt allen Gästen.",
+        "zh": "她富有想象力的装饰让所有客人喜欢。"
+      }
+    ],
+    "collocations": [
+      "phantasievolle Ideen haben",
+      "phantasievoll gestalten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "艺术",
+      "B1"
+    ],
+    "synonyms": [
+      "kreativ",
+      "einfallsreich"
+    ],
+    "antonyms": [
+      "fantasielos",
+      "langweilig"
+    ]
+  },
+  {
+    "word": "Picknick",
+    "lemma": "Picknick",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Picknicks",
+    "meaning": [
+      {
+        "zh": "野餐",
+        "en": "picnic"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir machen am Wochenende ein Picknick im Park.",
+        "zh": "我们周末在公园野餐。"
+      },
+      {
+        "de": "Für das Picknick habe ich belegte Brote und Obst eingepackt.",
+        "zh": "我为野餐准备了夹心面包和水果。"
+      }
+    ],
+    "collocations": [
+      "ein Picknick machen",
+      "zum Picknick gehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Pilot",
+    "lemma": "Pilot",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Piloten",
+    "meaning": [
+      {
+        "zh": "飞行员",
+        "en": "pilot"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Pilot hat das Flugzeug sicher gelandet.",
+        "zh": "飞行员安全地降落了飞机。"
+      },
+      {
+        "de": "Viele Piloten arbeiten bei internationalen Fluggesellschaften.",
+        "zh": "许多飞行员在国际航空公司工作。"
+      }
+    ],
+    "collocations": [
+      "als Pilot arbeiten",
+      "Pilot werden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "职业",
+      "交通",
+      "A2"
+    ],
+    "synonyms": [
+      "Flugzeugführer"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Plane",
+    "lemma": "Plane",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Planen",
+    "meaning": [
+      {
+        "zh": "（防水）篷布；帆布",
+        "en": "tarpaulin; canvas cover"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Plane schützt die Ladung vor Regen.",
+        "zh": "篷布保护货物免受雨淋。"
+      },
+      {
+        "de": "Er hat die Plane über das Auto gespannt.",
+        "zh": "他把篷布绷在车上。"
+      }
+    ],
+    "collocations": [
+      "eine Plane spannen",
+      "die Plane abdecken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "物品",
+      "交通",
+      "B1"
+    ],
+    "synonyms": [
+      "Abdeckplane",
+      "Zeltplane"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Planeten",
+    "lemma": "Planet",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Planeten",
+    "meaning": [
+      {
+        "zh": "行星",
+        "en": "planet"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Erde ist einer der acht Planeten unseres Sonnensystems.",
+        "zh": "地球是我们太阳系八大行星之一。"
+      },
+      {
+        "de": "Astronomen entdecken immer neue Planeten in anderen Galaxien.",
+        "zh": "天文学家不断在其他星系发现新的行星。"
+      }
+    ],
+    "collocations": [
+      "einen Planeten entdecken",
+      "auf einem Planeten leben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "天文",
+      "科学",
+      "B1"
+    ],
+    "synonyms": [
+      "Himmelskörper"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Politiker",
+    "lemma": "Politiker",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Politiker",
+    "meaning": [
+      {
+        "zh": "政治家",
+        "en": "politician"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Politiker hielt eine Rede im Parlament.",
+        "zh": "这位政治家在议会发表演讲。"
+      },
+      {
+        "de": "Viele Politiker setzen sich für den Umweltschutz ein.",
+        "zh": "许多政治家致力于环境保护。"
+      }
+    ],
+    "collocations": [
+      "als Politiker arbeiten",
+      "ein bekannter Politiker"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "职业",
+      "政治",
+      "A2"
+    ],
+    "synonyms": [
+      "Staatsmann"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Popmusik",
+    "lemma": "Popmusik",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "流行音乐",
+        "en": "pop music"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Popmusik ist bei Jugendlichen sehr beliebt.",
+        "zh": "流行音乐在年轻人中很受欢迎。"
+      },
+      {
+        "de": "Im Radio läuft den ganzen Tag Popmusik.",
+        "zh": "收音机整天播放流行音乐。"
+      }
+    ],
+    "collocations": [
+      "Popmusik hören",
+      "Popmusik mögen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "音乐",
+      "文化",
+      "A2"
+    ],
+    "synonyms": [
+      "Pop"
+    ],
+    "antonyms": [
+      "Klassik",
+      "Rockmusik"
+    ]
+  },
+  {
+    "word": "preiswert",
+    "lemma": "preiswert",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "价格合理的；物美价廉的",
+        "en": "reasonably priced; good value for money"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieses Restaurant ist sehr preiswert.",
+        "zh": "这家餐厅价格很合理。"
+      },
+      {
+        "de": "Ich habe ein preiswertes Hotel in der Innenstadt gefunden.",
+        "zh": "我在市中心找到了一家价格合理的酒店。"
+      }
+    ],
+    "collocations": [
+      "preiswert essen",
+      "preiswert einkaufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "评价",
+      "B1"
+    ],
+    "synonyms": [
+      "günstig",
+      "billig"
+    ],
+    "antonyms": [
+      "teuer",
+      "kostspielig"
+    ]
+  },
+  {
+    "word": "privat",
+    "lemma": "privat",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "私人的；私下的",
+        "en": "private; personal"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist meine private Meinung.",
+        "zh": "这是我个人的看法。"
+      },
+      {
+        "de": "Er möchte sein Privatleben nicht öffentlich diskutieren.",
+        "zh": "他不想公开讨论他的私生活。"
+      }
+    ],
+    "collocations": [
+      "private Angelegenheit",
+      "privat nutzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "社会",
+      "A2"
+    ],
+    "synonyms": [
+      "persönlich",
+      "eigen"
+    ],
+    "antonyms": [
+      "öffentlich",
+      "beruflich"
+    ]
+  },
+  {
+    "word": "problematisch",
+    "lemma": "problematisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "有问题的，棘手的",
+        "en": "problematic, difficult"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Situation ist sehr problematisch.",
+        "zh": "情况非常棘手。"
+      },
+      {
+        "de": "Diese Entscheidung könnte problematisch werden.",
+        "zh": "这个决定可能会变得有问题。"
+      }
+    ],
+    "collocations": [
+      "problematische Situation",
+      "problematisch sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "schwierig",
+      "kompliziert"
+    ],
+    "antonyms": [
+      "einfach",
+      "unkompliziert"
+    ]
+  },
+  {
+    "word": "Produkt",
+    "lemma": "Produkt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Produkte",
+    "meaning": [
+      {
+        "zh": "产品，产物",
+        "en": "product"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieses Produkt ist sehr beliebt.",
+        "zh": "这个产品很受欢迎。"
+      },
+      {
+        "de": "Wir müssen die Qualität des Produkts verbessern.",
+        "zh": "我们必须提高产品的质量。"
+      }
+    ],
+    "collocations": [
+      "ein neues Produkt",
+      "das Produkt entwickeln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "经济",
+      "科技",
+      "A2"
+    ],
+    "synonyms": [
+      "Ware",
+      "Erzeugnis"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Programm",
+    "lemma": "Programm",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Programme",
+    "meaning": [
+      {
+        "zh": "程序，节目，计划",
+        "en": "program, schedule"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Programm läuft auf meinem Computer.",
+        "zh": "这个程序在我的电脑上运行。"
+      },
+      {
+        "de": "Das Fernsehprogramm heute Abend ist interessant.",
+        "zh": "今晚的电视节目很有趣。"
+      }
+    ],
+    "collocations": [
+      "ein Programm installieren",
+      "das Programm starten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "科技",
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Software",
+      "Plan"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "prüfen",
+    "lemma": "prüfen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "检查，检验，考试",
+        "en": "to check, to examine, to test"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Lehrer prüft die Hausaufgaben.",
+        "zh": "老师检查作业。"
+      },
+      {
+        "de": "Wir müssen die Rechnung prüfen.",
+        "zh": "我们必须检查账单。"
+      }
+    ],
+    "collocations": [
+      "etwas prüfen",
+      "die Qualität prüfen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geprüft"
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "kontrollieren",
+      "testen"
+    ],
+    "antonyms": [
+      "ignorieren",
+      "übersehen"
+    ]
+  },
+  {
+    "word": "pünktlich",
+    "lemma": "pünktlich",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "准时的，守时的",
+        "en": "punctual, on time"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Zug kommt pünktlich an.",
+        "zh": "火车准时到达。"
+      },
+      {
+        "de": "Bitte sei pünktlich zum Termin.",
+        "zh": "请准时赴约。"
+      }
+    ],
+    "collocations": [
+      "pünktlich sein",
+      "pünktlich ankommen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "社会",
+      "A2"
+    ],
+    "synonyms": [
+      "rechtzeitig",
+      "genau"
+    ],
+    "antonyms": [
+      "unpünktlich",
+      "verspätet"
+    ]
+  },
+  {
+    "word": "derdas",
+    "lemma": "derdas",
+    "pos": [
+      "noun"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "（无意义词，可能为输入错误）",
+        "en": "placeholder or error"
+      }
+    ],
+    "examples": [],
+    "collocations": [],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": null,
+    "tags": [],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Rakete",
+    "lemma": "Rakete",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Raketen",
+    "meaning": [
+      {
+        "zh": "火箭",
+        "en": "rocket"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Rakete startet um 10 Uhr.",
+        "zh": "火箭在10点发射。"
+      },
+      {
+        "de": "Eine Rakete fliegt ins All.",
+        "zh": "一枚火箭飞向太空。"
+      }
+    ],
+    "collocations": [
+      "eine Rakete starten",
+      "die Rakete abheben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "军事",
+      "B1"
+    ],
+    "synonyms": [
+      "Flugkörper",
+      "Geschoss"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "reagieren",
+    "lemma": "reagieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "反应，回应",
+        "en": "to react, to respond"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er reagiert schnell auf die Frage.",
+        "zh": "他迅速回应了问题。"
+      },
+      {
+        "de": "Wie hat sie auf die Nachricht reagiert?",
+        "zh": "她对消息有什么反应？"
+      }
+    ],
+    "collocations": [
+      "auf etwas reagieren",
+      "reagieren mit"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "reagiert"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "antworten",
+      "entgegnen"
+    ],
+    "antonyms": [
+      "ignorieren",
+      "schweigen"
+    ]
+  },
+  {
+    "word": "Realschule",
+    "lemma": "Realschule",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Realschulen",
+    "meaning": [
+      {
+        "zh": "实科中学（德国中等教育学校类型）",
+        "en": "secondary school (intermediate level in Germany)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Meine Schwester geht auf die Realschule.",
+        "zh": "我妹妹在上实科中学。"
+      },
+      {
+        "de": "Nach der Realschule kann man eine Ausbildung machen.",
+        "zh": "实科中学毕业后可以开始职业培训。"
+      }
+    ],
+    "collocations": [
+      "die Realschule besuchen",
+      "von der Realschule abgehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "Gymnasium"
+    ]
+  },
+  {
+    "word": "reden",
+    "lemma": "reden",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "说话，交谈",
+        "en": "to talk, to speak"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir haben gestern lange über das Projekt geredet.",
+        "zh": "我们昨天长时间谈论了这个项目。"
+      },
+      {
+        "de": "Er redet immer sehr leise.",
+        "zh": "他说话总是很轻。"
+      }
+    ],
+    "collocations": [
+      "mit jemandem reden",
+      "über etwas reden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geredet"
+    },
+    "level": "A2",
+    "tags": [
+      "交流",
+      "A2"
+    ],
+    "synonyms": [
+      "sprechen",
+      "sich unterhalten"
+    ],
+    "antonyms": [
+      "schweigen"
+    ]
+  },
+  {
+    "word": "Regen",
+    "lemma": "Regen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "雨",
+        "en": "rain"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Heute gibt es viel Regen.",
+        "zh": "今天雨很大。"
+      },
+      {
+        "de": "Der Regen hat endlich aufgehört.",
+        "zh": "雨终于停了。"
+      }
+    ],
+    "collocations": [
+      "starker Regen",
+      "im Regen stehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "天气",
+      "A1"
+    ],
+    "synonyms": [
+      "Niederschlag"
+    ],
+    "antonyms": [
+      "Sonne"
+    ]
+  },
+  {
+    "word": "Regenschirm",
+    "lemma": "Regenschirm",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Regenschirme",
+    "meaning": [
+      {
+        "zh": "雨伞",
+        "en": "umbrella"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Vergiss deinen Regenschirm nicht!",
+        "zh": "别忘了你的雨伞！"
+      },
+      {
+        "de": "Sie hat einen roten Regenschirm gekauft.",
+        "zh": "她买了一把红色的雨伞。"
+      }
+    ],
+    "collocations": [
+      "den Regenschirm aufspannen",
+      "den Regenschirm zuklappen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "日常用品",
+      "A2"
+    ],
+    "synonyms": [
+      "Schirm"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "reich",
+    "lemma": "reich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "富有的，丰富的",
+        "en": "rich, wealthy"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist ein reicher Mann.",
+        "zh": "他是一个富有的人。"
+      },
+      {
+        "de": "Das Land ist reich an Bodenschätzen.",
+        "zh": "这个国家矿产资源丰富。"
+      }
+    ],
+    "collocations": [
+      "reich an etwas sein",
+      "ein reiches Land"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "经济",
+      "A2"
+    ],
+    "synonyms": [
+      "wohlhabend",
+      "vermögend"
+    ],
+    "antonyms": [
+      "arm"
+    ]
+  }
+]

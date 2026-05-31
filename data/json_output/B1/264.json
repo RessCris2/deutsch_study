@@ -1,0 +1,1690 @@
+[
+  {
+    "word": "Stammtisch",
+    "lemma": "Stammtisch",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Stammtische",
+    "meaning": [
+      {
+        "zh": "常客桌；定期聚会（常指酒吧或餐馆中固定群体的聚会）",
+        "en": "regulars' table; regular meeting of a group (often in a pub or restaurant)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Jeden Donnerstag treffen wir uns am Stammtisch.",
+        "zh": "每周四我们都在常客桌聚会。"
+      },
+      {
+        "de": "Am Stammtisch wird oft über Politik diskutiert.",
+        "zh": "在常客桌上经常讨论政治。"
+      }
+    ],
+    "collocations": [
+      "am Stammtisch sitzen",
+      "Stammtischrunde"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Stammtischrunde"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "sder",
+    "lemma": "sder",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "sder",
+    "meaning": [
+      {
+        "zh": "（虚构词或拼写错误，可能指‘Sder’无常见含义）",
+        "en": "fictional or misspelled word, no common meaning"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Wort 'sder' ist nicht im Wörterbuch.",
+        "zh": "单词'sder'不在词典中。"
+      },
+      {
+        "de": "Bitte überprüfen Sie die Schreibweise von 'sder'.",
+        "zh": "请检查'sder'的拼写。"
+      }
+    ],
+    "collocations": [],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "拼写",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "ständig",
+    "lemma": "ständig",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "持续的；不断的；经常的",
+        "en": "constant; continuous; permanent"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist ständig gestresst.",
+        "zh": "他经常感到压力。"
+      },
+      {
+        "de": "Sie arbeitet ständig an ihrem Projekt.",
+        "zh": "她一直在做她的项目。"
+      }
+    ],
+    "collocations": [
+      "ständig in Bewegung",
+      "ständig verbessern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "dauernd",
+      "immer",
+      "permanent"
+    ],
+    "antonyms": [
+      "vorübergehend",
+      "zeitweise"
+    ]
+  },
+  {
+    "word": "Stange",
+    "lemma": "Stange",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Stangen",
+    "meaning": [
+      {
+        "zh": "杆；棒；条状物",
+        "en": "pole; rod; bar; stick"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hielt sich an der Stange fest.",
+        "zh": "他抓住了杆子。"
+      },
+      {
+        "de": "Eine Stange Brot kostet zwei Euro.",
+        "zh": "一根面包条两欧元。"
+      }
+    ],
+    "collocations": [
+      "eine Stange Geld",
+      "an der Stange hängen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "物品",
+      "B1"
+    ],
+    "synonyms": [
+      "Stock",
+      "Stab"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "stärken",
+    "lemma": "stärken",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "加强；增强；使强壮",
+        "en": "to strengthen; to reinforce"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sport stärkt das Immunsystem.",
+        "zh": "运动增强免疫系统。"
+      },
+      {
+        "de": "Wir müssen die Zusammenarbeit stärken.",
+        "zh": "我们必须加强合作。"
+      }
+    ],
+    "collocations": [
+      "die Muskeln stärken",
+      "das Vertrauen stärken"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gestärkt"
+    },
+    "level": "B1",
+    "tags": [
+      "健康",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "verstärken",
+      "kräftigen"
+    ],
+    "antonyms": [
+      "schwächen"
+    ]
+  },
+  {
+    "word": "Statistik",
+    "lemma": "Statistik",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Statistiken",
+    "meaning": [
+      {
+        "zh": "统计学；统计数据",
+        "en": "statistics; statistical data"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Statistik zeigt einen Anstieg der Arbeitslosigkeit.",
+        "zh": "统计数据显示失业率上升。"
+      },
+      {
+        "de": "Er studiert Statistik an der Universität.",
+        "zh": "他在大学学习统计学。"
+      }
+    ],
+    "collocations": [
+      "eine Statistik erstellen",
+      "laut Statistik"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "学术",
+      "B1"
+    ],
+    "synonyms": [
+      "Datenanalyse"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Stellenwert",
+    "lemma": "Stellenwert",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Stellenwerte",
+    "meaning": [
+      {
+        "zh": "重要性；地位；价值",
+        "en": "importance; significance; status"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bildung hat einen hohen Stellenwert in der Gesellschaft.",
+        "zh": "教育在社会中具有很高的地位。"
+      },
+      {
+        "de": "Der Stellenwert von Umweltschutz nimmt zu.",
+        "zh": "环境保护的重要性在增加。"
+      }
+    ],
+    "collocations": [
+      "einen hohen Stellenwert haben",
+      "den Stellenwert erkennen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "情感",
+      "B2"
+    ],
+    "synonyms": [
+      "Bedeutung",
+      "Wichtigkeit"
+    ],
+    "antonyms": [
+      "Unbedeutsamkeit"
+    ]
+  },
+  {
+    "word": "Stellung",
+    "lemma": "Stellung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Stellungen",
+    "meaning": [
+      {
+        "zh": "位置；职位；立场",
+        "en": "position; job; stance"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat eine gute Stellung in der Firma.",
+        "zh": "他在公司里有一个好职位。"
+      },
+      {
+        "de": "Sie bezog eine klare Stellung zu dem Thema.",
+        "zh": "她对这个问题表明了明确的立场。"
+      }
+    ],
+    "collocations": [
+      "eine Stellung beziehen",
+      "in fester Stellung sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "Position",
+      "Posten"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Stil",
+    "lemma": "Stil",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Stile",
+    "meaning": [
+      {
+        "zh": "风格，样式",
+        "en": "style"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieser Künstler hat einen ganz eigenen Stil.",
+        "zh": "这位艺术家有自己独特的风格。"
+      },
+      {
+        "de": "Der Stil des Gebäudes ist modern.",
+        "zh": "这座建筑的风格是现代风格。"
+      }
+    ],
+    "collocations": [
+      "im Stil von",
+      "einen Stil haben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "艺术",
+      "B1"
+    ],
+    "synonyms": [
+      "Art",
+      "Manier"
+    ],
+    "antonyms": [
+      "Stilbruch"
+    ]
+  },
+  {
+    "word": "stillen",
+    "lemma": "stillen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "哺乳，喂奶；满足（需求）",
+        "en": "to breastfeed; to satisfy"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Mutter stillt ihr Baby.",
+        "zh": "母亲在给婴儿喂奶。"
+      },
+      {
+        "de": "Dieses Getränk stillt den Durst.",
+        "zh": "这种饮料能解渴。"
+      }
+    ],
+    "collocations": [
+      "ein Baby stillen",
+      "den Durst stillen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gestillt"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "nähren",
+      "befriedigen"
+    ],
+    "antonyms": [
+      "hungern",
+      "dürsten"
+    ]
+  },
+  {
+    "word": "Stilmerkmal",
+    "lemma": "Stilmerkmal",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Stilmerkmale",
+    "meaning": [
+      {
+        "zh": "风格特征",
+        "en": "style characteristic"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Stilmerkmale der Renaissance sind leicht zu erkennen.",
+        "zh": "文艺复兴的风格特征很容易识别。"
+      },
+      {
+        "de": "Dieses Gemälde weist typische Stilmerkmale des Barock auf.",
+        "zh": "这幅画具有典型的巴洛克风格特征。"
+      }
+    ],
+    "collocations": [
+      "typische Stilmerkmale",
+      "Stilmerkmale erkennen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "艺术",
+      "B2"
+    ],
+    "synonyms": [
+      "Stilelement",
+      "Charakteristikum"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Stratege",
+    "lemma": "Stratege",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Strategen",
+    "meaning": [
+      {
+        "zh": "战略家，策略家",
+        "en": "strategist"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist ein erfahrener Stratege in der Wirtschaft.",
+        "zh": "他是经济领域的一位经验丰富的战略家。"
+      },
+      {
+        "de": "Der Stratege plante den Feldzug genau.",
+        "zh": "这位战略家精确地规划了战役。"
+      }
+    ],
+    "collocations": [
+      "ein guter Stratege",
+      "als Stratege arbeiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "Planer",
+      "Taktiker"
+    ],
+    "antonyms": [
+      "Anfänger"
+    ]
+  },
+  {
+    "word": "Strecke",
+    "lemma": "Strecke",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Strecken",
+    "meaning": [
+      {
+        "zh": "路段，距离",
+        "en": "route, distance"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Strecke von Berlin nach München ist etwa 600 Kilometer lang.",
+        "zh": "从柏林到慕尼黑的路段大约600公里长。"
+      },
+      {
+        "de": "Wir haben die ganze Strecke zu Fuß zurückgelegt.",
+        "zh": "我们全程步行完成了这段路程。"
+      }
+    ],
+    "collocations": [
+      "eine Strecke zurücklegen",
+      "auf der Strecke bleiben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "交通",
+      "B1"
+    ],
+    "synonyms": [
+      "Route",
+      "Weg"
+    ],
+    "antonyms": [
+      "Punkt"
+    ]
+  },
+  {
+    "word": "streicheln",
+    "lemma": "streicheln",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "抚摸，轻抚",
+        "en": "to stroke, to caress"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie streichelt die Katze sanft.",
+        "zh": "她温柔地抚摸着猫。"
+      },
+      {
+        "de": "Er streichelt ihr über das Haar.",
+        "zh": "他轻抚她的头发。"
+      }
+    ],
+    "collocations": [
+      "ein Tier streicheln",
+      "jemanden streicheln"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gestreichelt"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "liebkosen",
+      "berühren"
+    ],
+    "antonyms": [
+      "schlagen",
+      "stoßen"
+    ]
+  },
+  {
+    "word": "Strickjacke",
+    "lemma": "Strickjacke",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Strickjacken",
+    "meaning": [
+      {
+        "zh": "针织开衫",
+        "en": "cardigan"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Herbst trägt sie gerne eine Strickjacke.",
+        "zh": "秋天她喜欢穿一件针织开衫。"
+      },
+      {
+        "de": "Diese Strickjacke ist aus Wolle gestrickt.",
+        "zh": "这件针织开衫是用羊毛织成的。"
+      }
+    ],
+    "collocations": [
+      "eine Strickjacke anziehen",
+      "eine Strickjacke stricken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Jacke",
+      "Pullover"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Studie",
+    "lemma": "Studie",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Studien",
+    "meaning": [
+      {
+        "zh": "研究，调查；习作",
+        "en": "study, survey"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Eine neue Studie zeigt die Auswirkungen des Klimawandels.",
+        "zh": "一项新的研究显示了气候变化的影响。"
+      },
+      {
+        "de": "Der Künstler fertigte eine Studie für das Gemälde an.",
+        "zh": "这位艺术家为这幅画创作了一幅习作。"
+      }
+    ],
+    "collocations": [
+      "eine Studie durchführen",
+      "Ergebnisse einer Studie"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科学",
+      "B1"
+    ],
+    "synonyms": [
+      "Untersuchung",
+      "Forschung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Studienaufenthalt",
+    "lemma": "Studienaufenthalt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Studienaufenthalte",
+    "meaning": [
+      {
+        "zh": "留学居留/学习停留",
+        "en": "study stay/study abroad period"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mein Studienaufenthalt in Berlin war sehr lehrreich.",
+        "zh": "我在柏林的留学经历非常有教育意义。"
+      },
+      {
+        "de": "Sie plant einen einjährigen Studienaufenthalt in Frankreich.",
+        "zh": "她计划在法国进行为期一年的学习停留。"
+      }
+    ],
+    "collocations": [
+      "einen Studienaufenthalt absolvieren",
+      "Studienaufenthalt im Ausland"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "留学",
+      "B1"
+    ],
+    "synonyms": [
+      "Auslandsstudium",
+      "Studienreise"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Studienführer",
+    "lemma": "Studienführer",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Studienführer",
+    "meaning": [
+      {
+        "zh": "学习指南/专业指南",
+        "en": "study guide/course guide"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Studienführer hilft bei der Wahl des richtigen Studiengangs.",
+        "zh": "学习指南有助于选择正确的专业。"
+      },
+      {
+        "de": "Ich habe den Studienführer für Medizin gelesen.",
+        "zh": "我读了医学专业的学习指南。"
+      }
+    ],
+    "collocations": [
+      "einen Studienführer lesen",
+      "Studienführer für Ingenieurwissenschaften"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "参考",
+      "B1"
+    ],
+    "synonyms": [
+      "Ratgeber",
+      "Orientierungshilfe"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Studiengang",
+    "lemma": "Studiengang",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Studiengänge",
+    "meaning": [
+      {
+        "zh": "专业/学习课程",
+        "en": "degree program/course of study"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieser Studiengang dauert vier Jahre.",
+        "zh": "这个专业持续四年。"
+      },
+      {
+        "de": "Sie hat sich für den Studiengang Informatik eingeschrieben.",
+        "zh": "她注册了计算机科学专业。"
+      }
+    ],
+    "collocations": [
+      "einen Studiengang wählen",
+      "Studiengang wechseln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "教育",
+      "大学",
+      "A2"
+    ],
+    "synonyms": [
+      "Fach",
+      "Studienrichtung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Studienplatz",
+    "lemma": "Studienplatz",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Studienplätze",
+    "meaning": [
+      {
+        "zh": "大学学习名额/学位",
+        "en": "study place/university place"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat einen Studienplatz an der Universität München bekommen.",
+        "zh": "她获得了慕尼黑大学的一个学习名额。"
+      },
+      {
+        "de": "Die Bewerbung um einen Studienplatz ist sehr wettbewerbsintensiv.",
+        "zh": "申请大学学习名额竞争非常激烈。"
+      }
+    ],
+    "collocations": [
+      "einen Studienplatz bekommen",
+      "Studienplatz bewerben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "教育",
+      "大学",
+      "A2"
+    ],
+    "synonyms": [
+      "Studienmöglichkeit",
+      "Zulassung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Substanz",
+    "lemma": "Substanz",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Substanzen",
+    "meaning": [
+      {
+        "zh": "物质/实质",
+        "en": "substance/matter"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Substanz ist giftig und sollte vorsichtig behandelt werden.",
+        "zh": "这种物质有毒，应小心处理。"
+      },
+      {
+        "de": "Die chemische Substanz reagiert mit Wasser.",
+        "zh": "这种化学物质与水反应。"
+      }
+    ],
+    "collocations": [
+      "chemische Substanz",
+      "giftige Substanz"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科学",
+      "化学",
+      "B1"
+    ],
+    "synonyms": [
+      "Stoff",
+      "Material"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "subtropisch",
+    "lemma": "subtropisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "亚热带的",
+        "en": "subtropical"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In subtropischen Regionen wachsen viele exotische Pflanzen.",
+        "zh": "在亚热带地区生长着许多异国植物。"
+      },
+      {
+        "de": "Das Klima in Florida ist subtropisch.",
+        "zh": "佛罗里达的气候是亚热带的。"
+      }
+    ],
+    "collocations": [
+      "subtropisches Klima",
+      "subtropische Zone"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "地理",
+      "气候",
+      "B1"
+    ],
+    "synonyms": [
+      "warm",
+      "tropisch"
+    ],
+    "antonyms": [
+      "polar",
+      "gemäßigt"
+    ]
+  },
+  {
+    "word": "Süßwasser",
+    "lemma": "Süßwasser",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "淡水",
+        "en": "freshwater"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Süßwasser ist lebenswichtig für Menschen und Tiere.",
+        "zh": "淡水对人类和动物至关重要。"
+      },
+      {
+        "de": "Der See enthält Süßwasser und ist ein wichtiges Ökosystem.",
+        "zh": "这个湖含有淡水，是一个重要的生态系统。"
+      }
+    ],
+    "collocations": [
+      "Süßwasserressourcen",
+      "Süßwasserfisch"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "环境",
+      "水",
+      "B1"
+    ],
+    "synonyms": [
+      "Trinkwasser",
+      "Frischwasser"
+    ],
+    "antonyms": [
+      "Salzwasser",
+      "Meerwasser"
+    ]
+  },
+  {
+    "word": "System",
+    "lemma": "System",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Systeme",
+    "meaning": [
+      {
+        "zh": "系统/体系",
+        "en": "system"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Betriebssystem des Computers muss aktualisiert werden.",
+        "zh": "计算机的操作系统需要更新。"
+      },
+      {
+        "de": "Das politische System in Deutschland ist eine Demokratie.",
+        "zh": "德国的政治体系是民主制。"
+      }
+    ],
+    "collocations": [
+      "ein System entwickeln",
+      "System analysieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "技术",
+      "社会",
+      "A2"
+    ],
+    "synonyms": [
+      "Struktur",
+      "Ordnung"
+    ],
+    "antonyms": [
+      "Chaos",
+      "Unordnung"
+    ]
+  },
+  {
+    "word": "tabellarisch",
+    "lemma": "tabellarisch",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "表格形式的，列表式的",
+        "en": "tabular, in table form"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Daten sind tabellarisch aufgeführt.",
+        "zh": "数据以表格形式列出。"
+      },
+      {
+        "de": "Bitte stellen Sie die Ergebnisse tabellarisch dar.",
+        "zh": "请将结果以表格形式呈现。"
+      }
+    ],
+    "collocations": [
+      "tabellarische Übersicht",
+      "tabellarisch darstellen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "语言/表达",
+      "B2"
+    ],
+    "synonyms": [
+      "listenartig",
+      "spaltenweise"
+    ],
+    "antonyms": [
+      "fließend",
+      "prosaisch"
+    ]
+  },
+  {
+    "word": "Tafel",
+    "lemma": "Tafel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Tafeln",
+    "meaning": [
+      {
+        "zh": "黑板；板子；牌匾",
+        "en": "blackboard; board; plaque"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Lehrer schreibt die Aufgabe an die Tafel.",
+        "zh": "老师把题目写在黑板上。"
+      },
+      {
+        "de": "An der Wand hängt eine Gedenktafel.",
+        "zh": "墙上挂着一块纪念牌匾。"
+      }
+    ],
+    "collocations": [
+      "an die Tafel schreiben",
+      "von der Tafel abwischen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "教育/学校",
+      "A2"
+    ],
+    "synonyms": [
+      "Schreibtafel",
+      "Anschlagtafel"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Talent",
+    "lemma": "Talent",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Talente",
+    "meaning": [
+      {
+        "zh": "天赋，才能",
+        "en": "talent, gift"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat ein großes Talent für Musik.",
+        "zh": "她在音乐方面很有天赋。"
+      },
+      {
+        "de": "Sein Talent wurde früh entdeckt.",
+        "zh": "他的才能很早就被发现了。"
+      }
+    ],
+    "collocations": [
+      "talentvoll",
+      "sein Talent entfalten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "个人/能力",
+      "B1"
+    ],
+    "synonyms": [
+      "Begabung",
+      "Fähigkeit"
+    ],
+    "antonyms": [
+      "Ungeschick",
+      "Unfähigkeit"
+    ]
+  },
+  {
+    "word": "Täter",
+    "lemma": "Täter",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Täter",
+    "meaning": [
+      {
+        "zh": "作案者，罪犯",
+        "en": "perpetrator, offender"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Polizei sucht noch nach dem Täter.",
+        "zh": "警方仍在搜寻作案者。"
+      },
+      {
+        "de": "Der Täter wurde gefasst.",
+        "zh": "罪犯被抓获了。"
+      }
+    ],
+    "collocations": [
+      "Täterprofil",
+      "den Täter überführen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "法律/犯罪",
+      "B1"
+    ],
+    "synonyms": [
+      "Verbrecher",
+      "Übeltäter"
+    ],
+    "antonyms": [
+      "Opfer",
+      "Unschuldiger"
+    ]
+  },
+  {
+    "word": "tätig",
+    "lemma": "tätig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "从事……工作的，活跃的",
+        "en": "active, working (in a field)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist als Ingenieur tätig.",
+        "zh": "他从事工程师工作。"
+      },
+      {
+        "de": "Sie ist im sozialen Bereich tätig.",
+        "zh": "她在社会领域工作。"
+      }
+    ],
+    "collocations": [
+      "tätig sein als",
+      "tätig werden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "职业/工作",
+      "B1"
+    ],
+    "synonyms": [
+      "arbeitend",
+      "beschäftigt"
+    ],
+    "antonyms": [
+      "untätig",
+      "arbeitslos"
+    ]
+  },
+  {
+    "word": "Taubenzüchter",
+    "lemma": "Taubenzüchter",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Taubenzüchter",
+    "meaning": [
+      {
+        "zh": "鸽子饲养者",
+        "en": "pigeon breeder"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Taubenzüchter hat viele Rassen in seinem Schlag.",
+        "zh": "这位鸽子饲养者在他的鸽舍里有很多品种。"
+      },
+      {
+        "de": "Taubenzüchter treffen sich regelmäßig zu Wettbewerben.",
+        "zh": "鸽子饲养者定期聚会参加比赛。"
+      }
+    ],
+    "collocations": [
+      "Taubenzüchterverein",
+      "Taubenzucht betreiben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "动物/爱好",
+      "B2"
+    ],
+    "synonyms": [
+      "Geflügelzüchter"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "technisch",
+    "lemma": "technisch",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "技术的，工艺的",
+        "en": "technical, technological"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Gerät hat einen technischen Defekt.",
+        "zh": "这个设备有技术故障。"
+      },
+      {
+        "de": "Die technische Entwicklung schreitet schnell voran.",
+        "zh": "技术发展迅速推进。"
+      }
+    ],
+    "collocations": [
+      "technische Probleme",
+      "technische Ausstattung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技/工程",
+      "B1"
+    ],
+    "synonyms": [
+      "maschinell",
+      "ingenieurtechnisch"
+    ],
+    "antonyms": [
+      "manuell",
+      "handwerklich"
+    ]
+  },
+  {
+    "word": "teilnehmen",
+    "lemma": "teilnehmen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "参加，参与",
+        "en": "to participate, to take part"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Möchtest du an dem Wettbewerb teilnehmen?",
+        "zh": "你想参加比赛吗？"
+      },
+      {
+        "de": "Viele Länder nehmen an der Konferenz teil.",
+        "zh": "许多国家参加了会议。"
+      }
+    ],
+    "collocations": [
+      "an etwas teilnehmen",
+      "teilnehmen an"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "teilgenommen"
+    },
+    "level": "A2",
+    "tags": [
+      "活动/社交",
+      "A2"
+    ],
+    "synonyms": [
+      "mitmachen",
+      "sich beteiligen"
+    ],
+    "antonyms": [
+      "fernbleiben",
+      "sich ausschließen"
+    ]
+  },
+  {
+    "word": "Teller",
+    "lemma": "Teller",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Teller",
+    "meaning": [
+      {
+        "zh": "盘子",
+        "en": "plate"
+      },
+      {
+        "zh": "碟子",
+        "en": "dish"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Teller ist aus Porzellan.",
+        "zh": "这个盘子是瓷制的。"
+      },
+      {
+        "de": "Sie hat den Teller mit Suppe gefüllt.",
+        "zh": "她把汤盛在盘子里。"
+      }
+    ],
+    "collocations": [
+      "einen Teller abwaschen",
+      "vom Teller essen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "厨房",
+      "A2"
+    ],
+    "synonyms": [
+      "Schale",
+      "Platte"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Textilindustrie",
+    "lemma": "Textilindustrie",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Textilindustrien",
+    "meaning": [
+      {
+        "zh": "纺织工业",
+        "en": "textile industry"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Textilindustrie ist ein wichtiger Wirtschaftszweig.",
+        "zh": "纺织工业是一个重要的经济部门。"
+      },
+      {
+        "de": "Viele Arbeitsplätze in der Textilindustrie sind gefährdet.",
+        "zh": "纺织工业中的许多工作岗位面临风险。"
+      }
+    ],
+    "collocations": [
+      "in der Textilindustrie arbeiten",
+      "die Textilindustrie fördern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "工业",
+      "B1"
+    ],
+    "synonyms": [
+      "Bekleidungsindustrie",
+      "Modeindustrie"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Theologie",
+    "lemma": "Theologie",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Theologien",
+    "meaning": [
+      {
+        "zh": "神学",
+        "en": "theology"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er studiert Theologie an der Universität.",
+        "zh": "他在大学学习神学。"
+      },
+      {
+        "de": "Die Theologie beschäftigt sich mit dem Glauben.",
+        "zh": "神学探讨信仰问题。"
+      }
+    ],
+    "collocations": [
+      "Theologie studieren",
+      "christliche Theologie"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "学术",
+      "宗教",
+      "B2"
+    ],
+    "synonyms": [
+      "Religionswissenschaft",
+      "Glaubenslehre"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Therapie",
+    "lemma": "Therapie",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Therapien",
+    "meaning": [
+      {
+        "zh": "治疗",
+        "en": "therapy"
+      },
+      {
+        "zh": "疗法",
+        "en": "treatment"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Therapie hat ihm sehr geholfen.",
+        "zh": "这种治疗对他帮助很大。"
+      },
+      {
+        "de": "Sie geht regelmäßig zur Physiotherapie.",
+        "zh": "她定期去做物理治疗。"
+      }
+    ],
+    "collocations": [
+      "eine Therapie machen",
+      "die Therapie abbrechen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "医学",
+      "健康",
+      "B1"
+    ],
+    "synonyms": [
+      "Behandlung",
+      "Heilung"
+    ],
+    "antonyms": []
+  }
+]

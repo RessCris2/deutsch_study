@@ -1,0 +1,1477 @@
+[
+  {
+    "word": "Nachbarland",
+    "lemma": "Nachbarland",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Nachbarländer",
+    "meaning": [
+      {
+        "zh": "邻国",
+        "en": "neighboring country"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Deutschland hat neun Nachbarländer.",
+        "zh": "德国有九个邻国。"
+      },
+      {
+        "de": "Das Nachbarland Frankreich ist bekannt für seine Küche.",
+        "zh": "邻国法国以其美食闻名。"
+      }
+    ],
+    "collocations": [
+      "in ein Nachbarland reisen",
+      "die Beziehungen zum Nachbarland"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "地理",
+      "政治",
+      "B1"
+    ],
+    "synonyms": [
+      "Anrainerstaat",
+      "benachbarter Staat"
+    ],
+    "antonyms": [
+      "fernes Land"
+    ]
+  },
+  {
+    "word": "Nachbarschaft",
+    "lemma": "Nachbarschaft",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Nachbarschaften",
+    "meaning": [
+      {
+        "zh": "邻里；邻居关系",
+        "en": "neighborhood; neighborly relations"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In unserer Nachbarschaft herrscht ein gutes Verhältnis.",
+        "zh": "我们邻里关系很好。"
+      },
+      {
+        "de": "Die Nachbarschaft hilft sich gegenseitig.",
+        "zh": "邻里之间互相帮助。"
+      }
+    ],
+    "collocations": [
+      "gute Nachbarschaft",
+      "in der Nachbarschaft wohnen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Umgebung",
+      "Nachbarschaftsverhältnis"
+    ],
+    "antonyms": [
+      "Fremde",
+      "Anonymität"
+    ]
+  },
+  {
+    "word": "nacheinander",
+    "lemma": "nacheinander",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "一个接一个地",
+        "en": "one after another"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Schüler kamen nacheinander in den Raum.",
+        "zh": "学生们一个接一个地走进房间。"
+      },
+      {
+        "de": "Wir haben nacheinander alle Fragen beantwortet.",
+        "zh": "我们一个接一个地回答了所有问题。"
+      }
+    ],
+    "collocations": [
+      "nacheinander aufrufen",
+      "nacheinander passieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "时间",
+      "顺序",
+      "B1"
+    ],
+    "synonyms": [
+      "hintereinander",
+      "der Reihe nach"
+    ],
+    "antonyms": [
+      "gleichzeitig"
+    ]
+  },
+  {
+    "word": "nachkaufen",
+    "lemma": "nachkaufen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "再买，补购",
+        "en": "to buy more, to replenish"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich muss noch Brot nachkaufen.",
+        "zh": "我还得再买些面包。"
+      },
+      {
+        "de": "Wenn das Produkt ausverkauft ist, kann man es nicht nachkaufen.",
+        "zh": "如果产品售罄，就无法再补购。"
+      }
+    ],
+    "collocations": [
+      "Lebensmittel nachkaufen",
+      "ein Produkt nachkaufen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "nachgekauft"
+    },
+    "level": "B1",
+    "tags": [
+      "购物",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "dazukaufen",
+      "ergänzen"
+    ],
+    "antonyms": [
+      "verkaufen",
+      "abgeben"
+    ]
+  },
+  {
+    "word": "Nachricht",
+    "lemma": "Nachricht",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Nachrichten",
+    "meaning": [
+      {
+        "zh": "消息；新闻",
+        "en": "message; news"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe eine wichtige Nachricht von meinem Chef bekommen.",
+        "zh": "我收到了老板的一条重要消息。"
+      },
+      {
+        "de": "Die Nachrichten um 20 Uhr informieren über das Weltgeschehen.",
+        "zh": "晚上8点的新闻播报世界大事。"
+      }
+    ],
+    "collocations": [
+      "eine Nachricht senden",
+      "die Nachrichten sehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "通信",
+      "媒体",
+      "A2"
+    ],
+    "synonyms": [
+      "Mitteilung",
+      "Meldung"
+    ],
+    "antonyms": [
+      "Stille",
+      "Schweigen"
+    ]
+  },
+  {
+    "word": "Nachteil",
+    "lemma": "Nachteil",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Nachteile",
+    "meaning": [
+      {
+        "zh": "缺点，不利之处",
+        "en": "disadvantage, drawback"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ein Nachteil dieser Methode ist der hohe Zeitaufwand.",
+        "zh": "这种方法的一个缺点是耗时多。"
+      },
+      {
+        "de": "Jede Entscheidung hat Vor- und Nachteile.",
+        "zh": "每个决定都有利有弊。"
+      }
+    ],
+    "collocations": [
+      "einen Nachteil haben",
+      "Nachteile ausgleichen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "评价",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Schattenseite",
+      "Manko"
+    ],
+    "antonyms": [
+      "Vorteil"
+    ]
+  },
+  {
+    "word": "Nationalität",
+    "lemma": "Nationalität",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Nationalitäten",
+    "meaning": [
+      {
+        "zh": "国籍",
+        "en": "nationality"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Welche Nationalität hast du?",
+        "zh": "你是什么国籍？"
+      },
+      {
+        "de": "In diesem Kurs sind viele verschiedene Nationalitäten vertreten.",
+        "zh": "这个课程中有许多不同的国籍。"
+      }
+    ],
+    "collocations": [
+      "die Nationalität angeben",
+      "die Nationalität wechseln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "身份",
+      "社会",
+      "A2"
+    ],
+    "synonyms": [
+      "Staatsangehörigkeit"
+    ],
+    "antonyms": [
+      "Staatenlosigkeit"
+    ]
+  },
+  {
+    "word": "Nationalstadion",
+    "lemma": "Nationalstadion",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Nationalstadien",
+    "meaning": [
+      {
+        "zh": "国家体育场",
+        "en": "national stadium"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Nationalstadion in Berlin wurde für die WM gebaut.",
+        "zh": "柏林的奥林匹克体育场是为世界杯建造的。"
+      },
+      {
+        "de": "Im Nationalstadion finden oft große Konzerte statt.",
+        "zh": "国家体育场经常举办大型音乐会。"
+      }
+    ],
+    "collocations": [
+      "im Nationalstadion spielen",
+      "das Nationalstadion besuchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "体育",
+      "建筑",
+      "B1"
+    ],
+    "synonyms": [
+      "Stadion",
+      "Sportstätte"
+    ],
+    "antonyms": [
+      "Kleinfeld"
+    ]
+  },
+  {
+    "word": "Natur",
+    "lemma": "Natur",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Naturen",
+    "meaning": [
+      {
+        "zh": "自然，自然界",
+        "en": "nature"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Natur ist wunderschön im Frühling.",
+        "zh": "春天的大自然非常美丽。"
+      },
+      {
+        "de": "Er liebt es, in der Natur spazieren zu gehen.",
+        "zh": "他喜欢在大自然中散步。"
+      }
+    ],
+    "collocations": [
+      "die Natur schützen",
+      "in der Natur"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "自然",
+      "环境",
+      "A2"
+    ],
+    "synonyms": [
+      "Umwelt"
+    ],
+    "antonyms": [
+      "Künstlichkeit"
+    ]
+  },
+  {
+    "word": "naturwissenschaftlich",
+    "lemma": "naturwissenschaftlich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "自然科学的",
+        "en": "scientific (natural sciences)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat ein naturwissenschaftliches Studium absolviert.",
+        "zh": "他完成了自然科学的学习。"
+      },
+      {
+        "de": "Das naturwissenschaftliche Experiment war erfolgreich.",
+        "zh": "这个自然科学实验很成功。"
+      }
+    ],
+    "collocations": [
+      "naturwissenschaftliche Forschung",
+      "naturwissenschaftliches Fach"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科学",
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "wissenschaftlich"
+    ],
+    "antonyms": [
+      "geisteswissenschaftlich"
+    ]
+  },
+  {
+    "word": "nennen",
+    "lemma": "nennen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "称为，命名",
+        "en": "to name, to call"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wie nennt man dieses Gerät?",
+        "zh": "这个设备叫什么？"
+      },
+      {
+        "de": "Sie nannte ihn einen Lügner.",
+        "zh": "她称他为骗子。"
+      }
+    ],
+    "collocations": [
+      "jemanden/etwas nennen",
+      "sich nennen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "genannt"
+    },
+    "level": "A2",
+    "tags": [
+      "语言",
+      "交流",
+      "A2"
+    ],
+    "synonyms": [
+      "bezeichnen",
+      "benennen"
+    ],
+    "antonyms": [
+      "verschweigen"
+    ]
+  },
+  {
+    "word": "neugierig",
+    "lemma": "neugierig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "好奇的",
+        "en": "curious"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Kind ist sehr neugierig auf die Welt.",
+        "zh": "这个孩子对世界很好奇。"
+      },
+      {
+        "de": "Er fragte neugierig nach den Neuigkeiten.",
+        "zh": "他好奇地询问新闻。"
+      }
+    ],
+    "collocations": [
+      "neugierig sein",
+      "neugierig auf etwas"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "性格",
+      "A2"
+    ],
+    "synonyms": [
+      "interessiert",
+      "wissbegierig"
+    ],
+    "antonyms": [
+      "gleichgültig",
+      "desinteressiert"
+    ]
+  },
+  {
+    "word": "Neujahr",
+    "lemma": "Neujahr",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "新年",
+        "en": "New Year"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir feiern Neujahr mit Freunden.",
+        "zh": "我们和朋友一起庆祝新年。"
+      },
+      {
+        "de": "Zum Neujahr wünscht man sich viel Glück.",
+        "zh": "新年时人们互相祝福好运。"
+      }
+    ],
+    "collocations": [
+      "zu Neujahr",
+      "Neujahr feiern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "节日",
+      "时间",
+      "A2"
+    ],
+    "synonyms": [
+      "Jahresbeginn"
+    ],
+    "antonyms": [
+      "Jahresende"
+    ]
+  },
+  {
+    "word": "Niederlande",
+    "lemma": "Niederlande",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "荷兰",
+        "en": "Netherlands"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Niederlande sind bekannt für ihre Tulpen.",
+        "zh": "荷兰以其郁金香闻名。"
+      },
+      {
+        "de": "Er reist oft in die Niederlande.",
+        "zh": "他经常去荷兰旅行。"
+      }
+    ],
+    "collocations": [
+      "in die Niederlande reisen",
+      "aus den Niederlanden kommen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "地理",
+      "国家",
+      "A2"
+    ],
+    "synonyms": [
+      "Holland"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "Niederländerin",
+    "lemma": "Niederländerin",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Niederländerinnen",
+    "meaning": [
+      {
+        "zh": "荷兰女性",
+        "en": "Dutch woman"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Niederländerin spricht fließend Deutsch.",
+        "zh": "这位荷兰女性德语说得很流利。"
+      },
+      {
+        "de": "Eine Niederländerin hat den Wettbewerb gewonnen.",
+        "zh": "一位荷兰女性赢得了比赛。"
+      }
+    ],
+    "collocations": [
+      "eine Niederländerin kennenlernen",
+      "als Niederländerin arbeiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "国籍",
+      "人物",
+      "B1"
+    ],
+    "synonyms": null,
+    "antonyms": null
+  },
+  {
+    "word": "niederländisch",
+    "lemma": "niederländisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "荷兰的，荷兰语的",
+        "en": "Dutch"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er spricht niederländisch mit seinen Kollegen.",
+        "zh": "他和同事说荷兰语。"
+      },
+      {
+        "de": "Das niederländische Essen ist sehr lecker.",
+        "zh": "荷兰菜非常好吃。"
+      }
+    ],
+    "collocations": [
+      "niederländische Sprache",
+      "niederländische Kultur"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "语言",
+      "国籍",
+      "A2"
+    ],
+    "synonyms": [
+      "holländisch"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "niemand",
+    "lemma": "niemand",
+    "pos": [
+      "pronoun"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "没有人",
+        "en": "nobody"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Niemand hat mich gesehen.",
+        "zh": "没有人看见我。"
+      },
+      {
+        "de": "Hier ist niemand, der dir helfen kann.",
+        "zh": "这里没有人能帮你。"
+      }
+    ],
+    "collocations": [
+      "niemand anderes",
+      "niemand weiß"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "代词",
+      "否定",
+      "A2"
+    ],
+    "synonyms": [
+      "keiner"
+    ],
+    "antonyms": [
+      "jemand",
+      "alle"
+    ]
+  },
+  {
+    "word": "normalerweise",
+    "lemma": "normalerweise",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "通常",
+        "en": "normally"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Normalerweise fahre ich mit dem Bus zur Arbeit.",
+        "zh": "通常我坐公交车上班。"
+      },
+      {
+        "de": "Normalerweise ist das Wetter im April mild.",
+        "zh": "通常四月的天气温和。"
+      }
+    ],
+    "collocations": [
+      "normalerweise nicht",
+      "normalerweise schon"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "副词",
+      "频率",
+      "A2"
+    ],
+    "synonyms": [
+      "gewöhnlich",
+      "üblicherweise"
+    ],
+    "antonyms": [
+      "ausnahmsweise",
+      "selten"
+    ]
+  },
+  {
+    "word": "Note",
+    "lemma": "Note",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Noten",
+    "meaning": [
+      {
+        "zh": "分数；音符；笔记",
+        "en": "grade; note; musical note"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe eine gute Note in Mathe bekommen.",
+        "zh": "我数学得了好分数。"
+      },
+      {
+        "de": "Sie spielte eine falsche Note auf dem Klavier.",
+        "zh": "她在钢琴上弹错了一个音符。"
+      }
+    ],
+    "collocations": [
+      "eine Note bekommen",
+      "eine Note spielen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "音乐",
+      "B1"
+    ],
+    "synonyms": [
+      "Zensur",
+      "Bewertung",
+      "Ton"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "Notiz",
+    "lemma": "Notiz",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Notizen",
+    "meaning": [
+      {
+        "zh": "笔记；便条",
+        "en": "note; memo"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mach dir bitte eine Notiz davon.",
+        "zh": "请记个笔记。"
+      },
+      {
+        "de": "Er hat eine kurze Notiz hinterlassen.",
+        "zh": "他留了一张便条。"
+      }
+    ],
+    "collocations": [
+      "eine Notiz machen",
+      "Notiz nehmen von"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "学习",
+      "办公",
+      "B1"
+    ],
+    "synonyms": [
+      "Aufzeichnung",
+      "Vermerk"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "notwendig",
+    "lemma": "notwendig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "必要的",
+        "en": "necessary"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Eine gute Vorbereitung ist notwendig.",
+        "zh": "充分的准备是必要的。"
+      },
+      {
+        "de": "Ist es notwendig, dass ich komme?",
+        "zh": "有必要我来吗？"
+      }
+    ],
+    "collocations": [
+      "notwendig sein",
+      "notwendige Maßnahmen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "形容词",
+      "必要性",
+      "B1"
+    ],
+    "synonyms": [
+      "erforderlich",
+      "nötig"
+    ],
+    "antonyms": [
+      "unnötig",
+      "überflüssig"
+    ]
+  },
+  {
+    "word": "Oberseite",
+    "lemma": "Oberseite",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Oberseiten",
+    "meaning": [
+      {
+        "zh": "上面；顶部",
+        "en": "top side; upper surface"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Oberseite des Tisches ist glatt.",
+        "zh": "桌子的上面是光滑的。"
+      },
+      {
+        "de": "Bitte legen Sie das Buch mit der Oberseite nach oben.",
+        "zh": "请把书正面朝上放。"
+      }
+    ],
+    "collocations": [
+      "die Oberseite von etwas",
+      "auf der Oberseite"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "空间",
+      "物体",
+      "B1"
+    ],
+    "synonyms": [
+      "Oberfläche",
+      "Deckseite"
+    ],
+    "antonyms": [
+      "Unterseite"
+    ]
+  },
+  {
+    "word": "obwohl",
+    "lemma": "obwohl",
+    "pos": [
+      "conjunction"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "虽然",
+        "en": "although"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Obwohl es regnete, gingen wir spazieren.",
+        "zh": "虽然下雨了，我们还是去散步了。"
+      },
+      {
+        "de": "Er kam, obwohl er krank war.",
+        "zh": "他虽然生病了，但还是来了。"
+      }
+    ],
+    "collocations": [
+      "obwohl ... doch",
+      "obwohl ... trotzdem"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "连词",
+      "让步",
+      "A2"
+    ],
+    "synonyms": [
+      "obgleich",
+      "wenngleich"
+    ],
+    "antonyms": [
+      "weil",
+      "da"
+    ]
+  },
+  {
+    "word": "offen",
+    "lemma": "offen",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "开放的；敞开的；坦率的",
+        "en": "open; honest"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Tür ist offen.",
+        "zh": "门是开着的。"
+      },
+      {
+        "de": "Er ist ein offener Mensch.",
+        "zh": "他是一个坦率的人。"
+      }
+    ],
+    "collocations": [
+      "offen sein",
+      "offene Fragen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "形容词",
+      "状态",
+      "性格",
+      "A2"
+    ],
+    "synonyms": [
+      "geöffnet",
+      "aufrichtig"
+    ],
+    "antonyms": [
+      "geschlossen",
+      "verschlossen"
+    ]
+  },
+  {
+    "word": "offenbleiben",
+    "lemma": "offenbleiben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "保持开放；未解决",
+        "en": "to remain open; to be unresolved"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Tür sollte offenbleiben, damit frische Luft hereinkommt.",
+        "zh": "门应该保持开着，以便新鲜空气进来。"
+      },
+      {
+        "de": "Die Frage nach der Finanzierung bleibt noch offen.",
+        "zh": "资金问题仍未解决。"
+      }
+    ],
+    "collocations": [
+      "offenbleiben für",
+      "Frage offenbleiben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "offengeblieben"
+    },
+    "level": "B2",
+    "tags": [
+      "状态",
+      "B2"
+    ],
+    "synonyms": [
+      "offen sein",
+      "ungeklärt bleiben"
+    ],
+    "antonyms": [
+      "geschlossen werden",
+      "geklärt werden"
+    ]
+  },
+  {
+    "word": "öffentlich",
+    "lemma": "öffentlich",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "公共的；公开的",
+        "en": "public; open to the public"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die öffentliche Meinung ist wichtig für die Demokratie.",
+        "zh": "公众舆论对民主很重要。"
+      },
+      {
+        "de": "Er hat seine Meinung öffentlich geäußert.",
+        "zh": "他公开表达了自己的意见。"
+      }
+    ],
+    "collocations": [
+      "öffentliche Verkehrsmittel",
+      "öffentliche Meinung",
+      "öffentlich zugänglich"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "allgemein",
+      "offen"
+    ],
+    "antonyms": [
+      "privat",
+      "geheim"
+    ]
+  },
+  {
+    "word": "offiziell",
+    "lemma": "offiziell",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "官方的；正式的",
+        "en": "official; formal"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die offizielle Eröffnung findet morgen statt.",
+        "zh": "正式开幕式明天举行。"
+      },
+      {
+        "de": "Er hat sich offiziell entschuldigt.",
+        "zh": "他正式道歉了。"
+      }
+    ],
+    "collocations": [
+      "offizielle Mitteilung",
+      "offizieller Besuch"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "amtlich",
+      "formell"
+    ],
+    "antonyms": [
+      "inoffiziell",
+      "privat"
+    ]
+  },
+  {
+    "word": "Oktoberfest",
+    "lemma": "Oktoberfest",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "慕尼黑啤酒节",
+        "en": "Oktoberfest (Munich beer festival)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Oktoberfest in München ist weltberühmt.",
+        "zh": "慕尼黑啤酒节世界闻名。"
+      },
+      {
+        "de": "Jedes Jahr besuchen Millionen Menschen das Oktoberfest.",
+        "zh": "每年有数百万人参观啤酒节。"
+      }
+    ],
+    "collocations": [
+      "auf dem Oktoberfest",
+      "Oktoberfest feiern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "文化",
+      "节日",
+      "B1"
+    ],
+    "synonyms": [
+      "Wiesn"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Oper",
+    "lemma": "Oper",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Opern",
+    "meaning": [
+      {
+        "zh": "歌剧；歌剧院",
+        "en": "opera; opera house"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir gehen heute Abend in die Oper.",
+        "zh": "我们今晚去歌剧院。"
+      },
+      {
+        "de": "Diese Oper wurde von Mozart komponiert.",
+        "zh": "这部歌剧是莫扎特创作的。"
+      }
+    ],
+    "collocations": [
+      "in die Oper gehen",
+      "Oper besuchen",
+      "Opernaufführung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "文化",
+      "艺术",
+      "B1"
+    ],
+    "synonyms": [
+      "Opernhaus"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "ordentlich",
+    "lemma": "ordentlich",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "整洁的；有序的；像样的",
+        "en": "tidy; orderly; decent"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sein Schreibtisch ist immer ordentlich.",
+        "zh": "他的办公桌总是很整洁。"
+      },
+      {
+        "de": "Sie hat ordentlich gearbeitet und alles erledigt.",
+        "zh": "她认真地工作，完成了所有事情。"
+      }
+    ],
+    "collocations": [
+      "ordentlich sein",
+      "ordentlich arbeiten",
+      "ordentliche Menge"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "sauber",
+      "aufgeräumt",
+      "anständig"
+    ],
+    "antonyms": [
+      "unordentlich",
+      "schlampig"
+    ]
+  },
+  {
+    "word": "Ozonloch",
+    "lemma": "Ozonloch",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Ozonlöcher",
+    "meaning": [
+      {
+        "zh": "臭氧空洞",
+        "en": "ozone hole"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Ozonloch über der Antarktis wird langsam kleiner.",
+        "zh": "南极上空的臭氧空洞正在慢慢缩小。"
+      },
+      {
+        "de": "Wissenschaftler beobachten das Ozonloch genau.",
+        "zh": "科学家们密切监测臭氧空洞。"
+      }
+    ],
+    "collocations": [
+      "Ozonloch schließen",
+      "Ozonloch über der Antarktis"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "环境",
+      "科学",
+      "B2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  }
+]

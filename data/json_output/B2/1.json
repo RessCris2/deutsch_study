@@ -1,0 +1,1730 @@
+[
+  {
+    "word": "die",
+    "lemma": "der",
+    "pos": [
+      "article"
+    ],
+    "gender": "feminine",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "定冠词（阴性单数/复数）",
+        "en": "the (feminine singular/plural)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Frau geht nach Hause.",
+        "zh": "那个女人回家。"
+      },
+      {
+        "de": "Die Kinder spielen im Park.",
+        "zh": "孩子们在公园里玩。"
+      }
+    ],
+    "collocations": [
+      "die Welt",
+      "die Zeit"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语法",
+      "冠词"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "abbrechen",
+    "lemma": "abbrechen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "中断；折断",
+        "en": "to break off; to cancel"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat das Gespräch abrupt abgebrochen.",
+        "zh": "他突然中断了谈话。"
+      },
+      {
+        "de": "Der Ast ist vom Baum abgebrochen.",
+        "zh": "树枝从树上折断了。"
+      }
+    ],
+    "collocations": [
+      "ein Studium abbrechen",
+      "die Verbindung abbrechen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "abgebrochen"
+    },
+    "level": "B1",
+    "tags": [
+      "动词",
+      "行为"
+    ],
+    "synonyms": [
+      "unterbrechen",
+      "beenden"
+    ],
+    "antonyms": [
+      "fortsetzen",
+      "weiterführen"
+    ]
+  },
+  {
+    "word": "abgehen",
+    "lemma": "abgehen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "脱落；离开；发生",
+        "en": "to come off; to leave; to happen"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Knopf ist von der Jacke abgegangen.",
+        "zh": "纽扣从夹克上脱落了。"
+      },
+      {
+        "de": "Hier geht es heiß ab.",
+        "zh": "这里气氛很热烈。"
+      }
+    ],
+    "collocations": [
+      "vom Weg abgehen",
+      "etwas geht ab"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "abgegangen"
+    },
+    "level": "B1",
+    "tags": [
+      "动词",
+      "运动"
+    ],
+    "synonyms": [
+      "sich lösen",
+      "stattfinden"
+    ],
+    "antonyms": [
+      "anhaften",
+      "bleiben"
+    ]
+  },
+  {
+    "word": "abhängen",
+    "lemma": "abhängen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "取决于；悬挂",
+        "en": "to depend on; to hang down"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das hängt von deiner Entscheidung ab.",
+        "zh": "这取决于你的决定。"
+      },
+      {
+        "de": "Das Bild hängt schief an der Wand ab.",
+        "zh": "画歪挂在墙上。"
+      }
+    ],
+    "collocations": [
+      "von jemandem abhängen",
+      "vom Wetter abhängen"
+    ],
+    "grammar": {
+      "case": "von + Dativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "abgehangen"
+    },
+    "level": "B1",
+    "tags": [
+      "动词",
+      "关系"
+    ],
+    "synonyms": [
+      "abhängig sein",
+      "beruhen"
+    ],
+    "antonyms": [
+      "unabhängig sein"
+    ]
+  },
+  {
+    "word": "ablenken",
+    "lemma": "ablenken",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "分散注意力；转移",
+        "en": "to distract; to divert"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Lärm lenkt mich von der Arbeit ab.",
+        "zh": "噪音分散了我工作的注意力。"
+      },
+      {
+        "de": "Sie lenkte das Gespräch auf ein anderes Thema ab.",
+        "zh": "她把谈话转移到另一个话题上。"
+      }
+    ],
+    "collocations": [
+      "die Aufmerksamkeit ablenken",
+      "vom Thema ablenken"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "abgelenkt"
+    },
+    "level": "B1",
+    "tags": [
+      "动词",
+      "心理"
+    ],
+    "synonyms": [
+      "stören",
+      "umleiten"
+    ],
+    "antonyms": [
+      "konzentrieren",
+      "fokussieren"
+    ]
+  },
+  {
+    "word": "abmildern",
+    "lemma": "abmildern",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "减轻；缓和",
+        "en": "to mitigate; to soften"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Maßnahmen sollen die Auswirkungen der Krise abmildern.",
+        "zh": "这些措施旨在减轻危机的影响。"
+      },
+      {
+        "de": "Er versuchte, seine Kritik mit einem Lächeln abzumildern.",
+        "zh": "他试图用微笑缓和批评。"
+      }
+    ],
+    "collocations": [
+      "die Folgen abmildern",
+      "den Schmerz abmildern"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "abgemildert"
+    },
+    "level": "B2",
+    "tags": [
+      "动词",
+      "情感"
+    ],
+    "synonyms": [
+      "lindern",
+      "entschärfen"
+    ],
+    "antonyms": [
+      "verschärfen",
+      "verstärken"
+    ]
+  },
+  {
+    "word": "abschneiden",
+    "lemma": "abschneiden",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "剪下；表现（结果）",
+        "en": "to cut off; to perform (in a test)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat sich eine Locke abgeschnitten.",
+        "zh": "她剪下了一绺头发。"
+      },
+      {
+        "de": "Er hat bei der Prüfung gut abgeschnitten.",
+        "zh": "他在考试中表现很好。"
+      }
+    ],
+    "collocations": [
+      "gut abschneiden",
+      "die Haare abschneiden"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "abgeschnitten"
+    },
+    "level": "B1",
+    "tags": [
+      "动词",
+      "行为"
+    ],
+    "synonyms": [
+      "abtrennen",
+      "abschließen"
+    ],
+    "antonyms": [
+      "anfügen",
+      "verlieren"
+    ]
+  },
+  {
+    "word": "abwenden",
+    "lemma": "abwenden",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "避免；转开",
+        "en": "to avert; to turn away"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er konnte den Unfall gerade noch abwenden.",
+        "zh": "他刚好避免了事故。"
+      },
+      {
+        "de": "Sie wandte den Blick von ihm ab.",
+        "zh": "她把目光从他身上移开。"
+      }
+    ],
+    "collocations": [
+      "eine Gefahr abwenden",
+      "sich abwenden"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "abgewendet"
+    },
+    "level": "B2",
+    "tags": [
+      "动词",
+      "行为"
+    ],
+    "synonyms": [
+      "verhindern",
+      "abwehren"
+    ],
+    "antonyms": [
+      "zulassen",
+      "hinwenden"
+    ]
+  },
+  {
+    "word": "Abflug",
+    "lemma": "Abflug",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Abflüge",
+    "meaning": [
+      {
+        "zh": "起飞",
+        "en": "departure"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Abflug wurde wegen des Sturms verschoben.",
+        "zh": "起飞因暴风雨推迟了。"
+      },
+      {
+        "de": "Wir müssen rechtzeitig am Gate für den Abflug sein.",
+        "zh": "我们必须准时到达登机口准备起飞。"
+      }
+    ],
+    "collocations": [
+      "Abflug verschieben",
+      "Abflugzeit"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "交通",
+      "旅行"
+    ],
+    "synonyms": [
+      "Start"
+    ],
+    "antonyms": [
+      "Ankunft"
+    ]
+  },
+  {
+    "word": "abhängig",
+    "lemma": "abhängig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "依赖的，取决于",
+        "en": "dependent"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist finanziell von seinen Eltern abhängig.",
+        "zh": "他在经济上依赖父母。"
+      },
+      {
+        "de": "Der Erfolg ist von vielen Faktoren abhängig.",
+        "zh": "成功取决于许多因素。"
+      }
+    ],
+    "collocations": [
+      "abhängig von",
+      "abhängig machen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "情感"
+    ],
+    "synonyms": [
+      "angewiesen",
+      "abhängend"
+    ],
+    "antonyms": [
+      "unabhängig"
+    ]
+  },
+  {
+    "word": "Absolvent",
+    "lemma": "Absolvent",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Absolventen",
+    "meaning": [
+      {
+        "zh": "毕业生",
+        "en": "graduate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Absolventen der Universität feierten ihren Abschluss.",
+        "zh": "大学毕业生庆祝他们的毕业。"
+      },
+      {
+        "de": "Als Absolvent sucht er jetzt einen Job.",
+        "zh": "作为毕业生，他现在在找工作。"
+      }
+    ],
+    "collocations": [
+      "Absolvent einer Universität",
+      "Absolventenfeier"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "职业"
+    ],
+    "synonyms": [
+      "Abgänger"
+    ],
+    "antonyms": [
+      "Student"
+    ]
+  },
+  {
+    "word": "absorbierten",
+    "lemma": "absorbieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "吸收",
+        "en": "absorb"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Schwamm absorbierte das Wasser schnell.",
+        "zh": "海绵迅速吸收了水。"
+      },
+      {
+        "de": "Die Pflanze absorbiert Nährstoffe aus dem Boden.",
+        "zh": "植物从土壤中吸收养分。"
+      }
+    ],
+    "collocations": [
+      "Wasser absorbieren",
+      "Licht absorbieren"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "absorbiert"
+    },
+    "level": "B2",
+    "tags": [
+      "科学",
+      "自然"
+    ],
+    "synonyms": [
+      "aufnehmen",
+      "aufsaugen"
+    ],
+    "antonyms": [
+      "abgeben"
+    ]
+  },
+  {
+    "word": "Abstimmung",
+    "lemma": "Abstimmung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Abstimmungen",
+    "meaning": [
+      {
+        "zh": "投票，协调",
+        "en": "vote, coordination"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Abstimmung über den neuen Gesetzesvorschlag findet morgen statt.",
+        "zh": "关于新法律提案的投票明天举行。"
+      },
+      {
+        "de": "Die Abstimmung zwischen den Abteilungen war erfolgreich.",
+        "zh": "部门之间的协调很成功。"
+      }
+    ],
+    "collocations": [
+      "Abstimmung durchführen",
+      "Abstimmungsergebnis"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "政治",
+      "社会"
+    ],
+    "synonyms": [
+      "Wahl",
+      "Koordination"
+    ],
+    "antonyms": [
+      "Uneinigkeit"
+    ]
+  },
+  {
+    "word": "Abwechslung",
+    "lemma": "Abwechslung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Abwechslungen",
+    "meaning": [
+      {
+        "zh": "变化，调剂",
+        "en": "variety, change"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Urlaub brauche ich viel Abwechslung.",
+        "zh": "度假时我需要很多变化。"
+      },
+      {
+        "de": "Die Arbeit bietet wenig Abwechslung.",
+        "zh": "这份工作缺乏变化。"
+      }
+    ],
+    "collocations": [
+      "Abwechslung bieten",
+      "Abwechslung schaffen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "情感"
+    ],
+    "synonyms": [
+      "Vielfalt",
+      "Variation"
+    ],
+    "antonyms": [
+      "Eintönigkeit"
+    ]
+  },
+  {
+    "word": "abzeichnen",
+    "lemma": "abzeichnen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "描画，签署，显现",
+        "en": "to trace, to sign, to become apparent"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Künstler zeichnete die Vorlage ab.",
+        "zh": "艺术家描画了模板。"
+      },
+      {
+        "de": "Eine Lösung zeichnet sich langsam ab.",
+        "zh": "一个解决方案逐渐显现。"
+      }
+    ],
+    "collocations": [
+      "sich abzeichnen",
+      "etwas abzeichnen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "abgezeichnet"
+    },
+    "level": "B2",
+    "tags": [
+      "艺术",
+      "社会"
+    ],
+    "synonyms": [
+      "nachzeichnen",
+      "signieren",
+      "andeuten"
+    ],
+    "antonyms": [
+      "verwischen"
+    ]
+  },
+  {
+    "word": "Agentur",
+    "lemma": "Agentur",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Agenturen",
+    "meaning": [
+      {
+        "zh": "代理机构，中介",
+        "en": "agency"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Agentur vermittelt Jobs für Absolventen.",
+        "zh": "这家机构为毕业生介绍工作。"
+      },
+      {
+        "de": "Er arbeitet bei einer Werbeagentur.",
+        "zh": "他在一家广告公司工作。"
+      }
+    ],
+    "collocations": [
+      "Agentur gründen",
+      "Werbeagentur"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "职业"
+    ],
+    "synonyms": [
+      "Büro",
+      "Vermittlung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "ähnlich",
+    "lemma": "ähnlich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "相似的，类似的",
+        "en": "similar"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die beiden Häuser sehen sich sehr ähnlich.",
+        "zh": "这两栋房子看起来很相似。"
+      },
+      {
+        "de": "Seine Meinung ist meiner ähnlich.",
+        "zh": "他的意见和我的类似。"
+      }
+    ],
+    "collocations": [
+      "jemandem/etwas ähnlich sein",
+      "sich ähnlich sehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "描述",
+      "比较",
+      "B1"
+    ],
+    "synonyms": [
+      "gleichartig",
+      "vergleichbar"
+    ],
+    "antonyms": [
+      "anders",
+      "verschieden"
+    ]
+  },
+  {
+    "word": "Akte",
+    "lemma": "Akte",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Akten",
+    "meaning": [
+      {
+        "zh": "档案，文件",
+        "en": "file, record"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Anwalt hat die Akte des Mandanten eingesehen.",
+        "zh": "律师查阅了委托人的档案。"
+      },
+      {
+        "de": "Bitte legen Sie die Akte in den Schrank.",
+        "zh": "请把档案放进柜子里。"
+      }
+    ],
+    "collocations": [
+      "eine Akte anlegen",
+      "die Akte einsehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "法律",
+      "办公",
+      "B1"
+    ],
+    "synonyms": [
+      "Dossier",
+      "Unterlage"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "aktualisieren",
+    "lemma": "aktualisieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "更新",
+        "en": "to update"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie müssen die Software regelmäßig aktualisieren.",
+        "zh": "您必须定期更新软件。"
+      },
+      {
+        "de": "Die Webseite wird jeden Monat aktualisiert.",
+        "zh": "这个网站每个月更新一次。"
+      }
+    ],
+    "collocations": [
+      "Software aktualisieren",
+      "Daten aktualisieren"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "aktualisiert"
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "操作",
+      "B1"
+    ],
+    "synonyms": [
+      "erneuern",
+      "updaten"
+    ],
+    "antonyms": [
+      "veralten"
+    ]
+  },
+  {
+    "word": "amüsant",
+    "lemma": "amüsant",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "有趣的，好笑的",
+        "en": "amusing, entertaining"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Film war sehr amüsant.",
+        "zh": "这部电影非常有趣。"
+      },
+      {
+        "de": "Sie erzählte eine amüsante Geschichte.",
+        "zh": "她讲了一个好笑的故事。"
+      }
+    ],
+    "collocations": [
+      "amüsant sein",
+      "eine amüsante Geschichte"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "娱乐",
+      "B1"
+    ],
+    "synonyms": [
+      "lustig",
+      "unterhaltsam"
+    ],
+    "antonyms": [
+      "langweilig",
+      "ernst"
+    ]
+  },
+  {
+    "word": "amüsieren",
+    "lemma": "amüsieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "使开心，逗乐",
+        "en": "to amuse, to entertain"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Clown amüsierte die Kinder.",
+        "zh": "小丑逗乐了孩子们。"
+      },
+      {
+        "de": "Wir haben uns auf der Party sehr amüsiert.",
+        "zh": "我们在派对上玩得很开心。"
+      }
+    ],
+    "collocations": [
+      "sich amüsieren",
+      "jemanden amüsieren"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "amüsiert"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "娱乐",
+      "B1"
+    ],
+    "synonyms": [
+      "unterhalten",
+      "belustigen"
+    ],
+    "antonyms": [
+      "langweilen"
+    ]
+  },
+  {
+    "word": "aneignen",
+    "lemma": "aneignen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "掌握，学会",
+        "en": "to acquire, to learn"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat sich die neue Sprache schnell angeeignet.",
+        "zh": "他很快掌握了这门新语言。"
+      },
+      {
+        "de": "Man muss sich die Fähigkeiten durch Übung aneignen.",
+        "zh": "必须通过练习来掌握技能。"
+      }
+    ],
+    "collocations": [
+      "sich Wissen aneignen",
+      "sich eine Fähigkeit aneignen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "angeeignet"
+    },
+    "level": "B2",
+    "tags": [
+      "学习",
+      "技能",
+      "B2"
+    ],
+    "synonyms": [
+      "erlernen",
+      "erwerben"
+    ],
+    "antonyms": [
+      "verlernen"
+    ]
+  },
+  {
+    "word": "angeben",
+    "lemma": "angeben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "说明，给出；炫耀",
+        "en": "to state, to indicate; to show off"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bitte geben Sie Ihre Adresse an.",
+        "zh": "请说明您的地址。"
+      },
+      {
+        "de": "Er gibt immer mit seinem neuen Auto an.",
+        "zh": "他总是炫耀他的新车。"
+      }
+    ],
+    "collocations": [
+      "eine Adresse angeben",
+      "mit etwas angeben"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "angegeben"
+    },
+    "level": "B1",
+    "tags": [
+      "沟通",
+      "行为",
+      "B1"
+    ],
+    "synonyms": [
+      "nennen",
+      "prahlen"
+    ],
+    "antonyms": [
+      "verschweigen",
+      "bescheiden sein"
+    ]
+  },
+  {
+    "word": "angreifen",
+    "lemma": "angreifen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "攻击，进攻",
+        "en": "to attack"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Hund hat den Fremden angegriffen.",
+        "zh": "狗攻击了陌生人。"
+      },
+      {
+        "de": "Die Armee griff die feindliche Stellung an.",
+        "zh": "军队攻击了敌人的阵地。"
+      }
+    ],
+    "collocations": [
+      "jemanden angreifen",
+      "eine Position angreifen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "angegriffen"
+    },
+    "level": "B1",
+    "tags": [
+      "军事",
+      "冲突",
+      "B1"
+    ],
+    "synonyms": [
+      "attackieren",
+      "überfallen"
+    ],
+    "antonyms": [
+      "verteidigen",
+      "schützen"
+    ]
+  },
+  {
+    "word": "ankommen",
+    "lemma": "ankommen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "到达",
+        "en": "to arrive"
+      },
+      {
+        "zh": "取决于",
+        "en": "to depend on"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Zug kommt um 10 Uhr an.",
+        "zh": "火车10点到达。"
+      },
+      {
+        "de": "Es kommt auf das Wetter an.",
+        "zh": "这取决于天气。"
+      }
+    ],
+    "collocations": [
+      "ankommen in",
+      "ankommen auf"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "angekommen"
+    },
+    "level": "A2",
+    "tags": [
+      "交通",
+      "日常"
+    ],
+    "synonyms": [
+      "eintreffen",
+      "abhangen"
+    ],
+    "antonyms": [
+      "abfahren",
+      "weggehen"
+    ]
+  },
+  {
+    "word": "anlasten",
+    "lemma": "anlasten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "归咎于",
+        "en": "to blame"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Man lastet ihm den Fehler an.",
+        "zh": "人们把错误归咎于他。"
+      },
+      {
+        "de": "Die Kosten wurden dem Unternehmen angelastet.",
+        "zh": "费用被归咎于公司。"
+      }
+    ],
+    "collocations": [
+      "jemandem etwas anlasten",
+      "die Schuld anlasten"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "angelastet"
+    },
+    "level": "B2",
+    "tags": [
+      "法律",
+      "情感"
+    ],
+    "synonyms": [
+      "beschuldigen",
+      "vorwerfen"
+    ],
+    "antonyms": [
+      "entlasten",
+      "freisprechen"
+    ]
+  },
+  {
+    "word": "anschaffen",
+    "lemma": "anschaffen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "购买",
+        "en": "to purchase"
+      },
+      {
+        "zh": "从事性工作（口语）",
+        "en": "to work as a prostitute (colloquial)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir müssen neue Möbel anschaffen.",
+        "zh": "我们必须购买新家具。"
+      },
+      {
+        "de": "Sie hat sich einen neuen Laptop angeschafft.",
+        "zh": "她给自己买了一台新笔记本电脑。"
+      }
+    ],
+    "collocations": [
+      "sich etwas anschaffen",
+      "neu anschaffen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "angeschafft"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "经济"
+    ],
+    "synonyms": [
+      "kaufen",
+      "erwerben"
+    ],
+    "antonyms": [
+      "verkaufen",
+      "abschaffen"
+    ]
+  },
+  {
+    "word": "anschließen",
+    "lemma": "anschließen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "连接",
+        "en": "to connect"
+      },
+      {
+        "zh": "跟随",
+        "en": "to join"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Schließen Sie das Kabel an den Computer an.",
+        "zh": "请将电缆连接到电脑。"
+      },
+      {
+        "de": "Ich schließe mich Ihrer Meinung an.",
+        "zh": "我赞同您的意见。"
+      }
+    ],
+    "collocations": [
+      "anschließen an",
+      "sich anschließen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "angeschlossen"
+    },
+    "level": "B1",
+    "tags": [
+      "技术",
+      "社交"
+    ],
+    "synonyms": [
+      "verbinden",
+      "beitreten"
+    ],
+    "antonyms": [
+      "trennen",
+      "ausschließen"
+    ]
+  },
+  {
+    "word": "ansteigen",
+    "lemma": "ansteigen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "上升",
+        "en": "to rise"
+      },
+      {
+        "zh": "增加",
+        "en": "to increase"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Temperaturen steigen im Sommer an.",
+        "zh": "夏天温度上升。"
+      },
+      {
+        "de": "Die Arbeitslosigkeit ist stark angestiegen.",
+        "zh": "失业率大幅上升。"
+      }
+    ],
+    "collocations": [
+      "ansteigen um",
+      "stark ansteigen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "angestiegen"
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "自然"
+    ],
+    "synonyms": [
+      "zunehmen",
+      "steigen"
+    ],
+    "antonyms": [
+      "sinken",
+      "abnehmen"
+    ]
+  },
+  {
+    "word": "ändern",
+    "lemma": "ändern",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "改变",
+        "en": "to change"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir müssen unsere Pläne ändern.",
+        "zh": "我们必须改变计划。"
+      },
+      {
+        "de": "Das Wetter ändert sich schnell.",
+        "zh": "天气变化很快。"
+      }
+    ],
+    "collocations": [
+      "sich ändern",
+      "etwas ändern"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geändert"
+    },
+    "level": "A2",
+    "tags": [
+      "日常",
+      "社会"
+    ],
+    "synonyms": [
+      "verändern",
+      "modifizieren"
+    ],
+    "antonyms": [
+      "behalten",
+      "stabilisieren"
+    ]
+  },
+  {
+    "word": "anfällig",
+    "lemma": "anfällig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "易受影响的",
+        "en": "susceptible"
+      },
+      {
+        "zh": "脆弱的",
+        "en": "vulnerable"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist anfällig für Erkältungen.",
+        "zh": "他容易感冒。"
+      },
+      {
+        "de": "Das System ist anfällig für Fehler.",
+        "zh": "这个系统容易出错。"
+      }
+    ],
+    "collocations": [
+      "anfällig für",
+      "anfällig sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "健康",
+      "技术"
+    ],
+    "synonyms": [
+      "empfindlich",
+      "verletzlich"
+    ],
+    "antonyms": [
+      "resistent",
+      "widerstandsfähig"
+    ]
+  },
+  {
+    "word": "angeblich",
+    "lemma": "angeblich",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "所谓的",
+        "en": "alleged"
+      },
+      {
+        "zh": "据说",
+        "en": "supposedly"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der angebliche Täter wurde festgenommen.",
+        "zh": "所谓的嫌疑人被逮捕了。"
+      },
+      {
+        "de": "Sie ist angeblich krank.",
+        "zh": "据说她生病了。"
+      }
+    ],
+    "collocations": [
+      "angeblich sein",
+      "angeblich haben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "日常",
+      "媒体"
+    ],
+    "synonyms": [
+      "vermeintlich",
+      "vorgeblich"
+    ],
+    "antonyms": [
+      "tatsächlich",
+      "wirklich"
+    ]
+  },
+  {
+    "word": "angenehm",
+    "lemma": "angenehm",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "令人愉快的，舒适的",
+        "en": "pleasant, agreeable"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Wetter ist heute sehr angenehm.",
+        "zh": "今天天气非常舒适。"
+      },
+      {
+        "de": "Es war ein angenehmes Gespräch.",
+        "zh": "这是一次愉快的谈话。"
+      }
+    ],
+    "collocations": [
+      "angenehme Überraschung",
+      "angenehme Atmosphäre"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "erfreulich",
+      "wohltuend"
+    ],
+    "antonyms": [
+      "unangenehm",
+      "lästig"
+    ]
+  },
+  {
+    "word": "Angestellte",
+    "lemma": "Angestellte",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der/die",
+    "plural": "Angestellten",
+    "meaning": [
+      {
+        "zh": "雇员，职员",
+        "en": "employee, white-collar worker"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Angestellte arbeitet in der Buchhaltung.",
+        "zh": "这位女职员在会计部门工作。"
+      },
+      {
+        "de": "Viele Angestellte haben Homeoffice.",
+        "zh": "许多雇员在家办公。"
+      }
+    ],
+    "collocations": [
+      "Angestellte im öffentlichen Dienst",
+      "Angestellte kündigen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "职业",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Arbeitnehmer",
+      "Beschäftigte"
+    ],
+    "antonyms": [
+      "Arbeitgeber",
+      "Chef"
+    ]
+  },
+  {
+    "word": "Ber",
+    "lemma": "Ber",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Bären",
+    "meaning": [
+      {
+        "zh": "熊",
+        "en": "bear"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Bär lebt im Wald.",
+        "zh": "熊生活在森林里。"
+      },
+      {
+        "de": "Kinder lieben den Teddybären.",
+        "zh": "孩子们喜欢泰迪熊。"
+      }
+    ],
+    "collocations": [
+      "brauner Bär",
+      "Bär im Zoo"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "动物",
+      "自然",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "EIOT",
+    "lemma": "EIOT",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "EIOTs",
+    "meaning": [
+      {
+        "zh": "（专有名词或缩写，可能指特定术语）",
+        "en": "EIOT (proper noun or abbreviation, possibly a specific term)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das EIOT-System wurde implementiert.",
+        "zh": "EIOT系统已实施。"
+      },
+      {
+        "de": "Wir arbeiten mit EIOT zusammen.",
+        "zh": "我们与EIOT合作。"
+      }
+    ],
+    "collocations": [
+      "EIOT-Technologie",
+      "EIOT-Projekt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "C1",
+    "tags": [
+      "科技",
+      "专业术语",
+      "C1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  }
+]

@@ -1,0 +1,1751 @@
+[
+  {
+    "word": "grundlegend",
+    "lemma": "grundlegend",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "基本的，根本的",
+        "en": "fundamental, basic"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Theorie hat grundlegende Bedeutung für die Physik.",
+        "zh": "这个理论对物理学有根本性的意义。"
+      },
+      {
+        "de": "Wir müssen eine grundlegende Änderung vornehmen.",
+        "zh": "我们必须进行一个根本性的改变。"
+      }
+    ],
+    "collocations": [
+      "grundlegende Bedeutung",
+      "grundlegende Änderung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "学术",
+      "B2"
+    ],
+    "synonyms": [
+      "fundamental",
+      "elementar"
+    ],
+    "antonyms": [
+      "oberflächlich"
+    ]
+  },
+  {
+    "word": "grundsätzlich",
+    "lemma": "grundsätzlich",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "原则上，基本上",
+        "en": "in principle, basically"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich bin grundsätzlich mit dem Vorschlag einverstanden.",
+        "zh": "我原则上同意这个建议。"
+      },
+      {
+        "de": "Grundsätzlich ist das eine gute Idee.",
+        "zh": "基本上这是个好主意。"
+      }
+    ],
+    "collocations": [
+      "grundsätzlich einverstanden",
+      "grundsätzlich möglich"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "prinzipiell",
+      "im Grunde"
+    ],
+    "antonyms": [
+      "ausnahmsweise"
+    ]
+  },
+  {
+    "word": "Grundstufe",
+    "lemma": "Grundstufe",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Grundstufen",
+    "meaning": [
+      {
+        "zh": "基础阶段，初级",
+        "en": "basic level, elementary level"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Kurs richtet sich an Teilnehmer der Grundstufe.",
+        "zh": "这个课程面向基础阶段的学员。"
+      },
+      {
+        "de": "Nach der Grundstufe kann man einfache Gespräche führen.",
+        "zh": "基础阶段之后，人们可以进行简单的对话。"
+      }
+    ],
+    "collocations": [
+      "Grundstufe Deutsch",
+      "Grundstufe absolvieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "Anfängerstufe",
+      "Elementarstufe"
+    ],
+    "antonyms": [
+      "Fortgeschrittenenstufe"
+    ]
+  },
+  {
+    "word": "Grundzug",
+    "lemma": "Grundzug",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Grundzüge",
+    "meaning": [
+      {
+        "zh": "基本特征，主要特点",
+        "en": "basic feature, main characteristic"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Grundzüge der Theorie sind leicht zu verstehen.",
+        "zh": "这个理论的基本特征很容易理解。"
+      },
+      {
+        "de": "Er erklärte die Grundzüge des Projekts.",
+        "zh": "他解释了项目的主要特点。"
+      }
+    ],
+    "collocations": [
+      "Grundzüge einer Theorie",
+      "Grundzüge erklären"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "学术",
+      "B2"
+    ],
+    "synonyms": [
+      "Hauptmerkmal",
+      "Grundmerkmal"
+    ],
+    "antonyms": [
+      "Detail"
+    ]
+  },
+  {
+    "word": "Grußformel",
+    "lemma": "Grußformel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Grußformeln",
+    "meaning": [
+      {
+        "zh": "问候语，客套话",
+        "en": "greeting formula, salutation"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In Briefen verwendet man oft formelle Grußformeln.",
+        "zh": "在信中人们经常使用正式的问候语。"
+      },
+      {
+        "de": "Die Grußformel am Ende des Briefes ist 'Mit freundlichen Grüßen'.",
+        "zh": "信末的问候语是'致以友好的问候'。"
+      }
+    ],
+    "collocations": [
+      "formelle Grußformel",
+      "Grußformel verwenden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语言",
+      "B1"
+    ],
+    "synonyms": [
+      "Anredeformel",
+      "Begrüßungsformel"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "günstig",
+    "lemma": "günstig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "便宜的，有利的",
+        "en": "cheap, favorable"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieses Hotel ist sehr günstig.",
+        "zh": "这家酒店非常便宜。"
+      },
+      {
+        "de": "Das ist ein günstiger Zeitpunkt für den Kauf.",
+        "zh": "这是购买的好时机。"
+      }
+    ],
+    "collocations": [
+      "günstiger Preis",
+      "günstige Gelegenheit"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "billig",
+      "preiswert"
+    ],
+    "antonyms": [
+      "teuer",
+      "ungünstig"
+    ]
+  },
+  {
+    "word": "Gürtel",
+    "lemma": "Gürtel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Gürtel",
+    "meaning": [
+      {
+        "zh": "腰带，皮带",
+        "en": "belt"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er trägt einen schwarzen Gürtel.",
+        "zh": "他系着一条黑色腰带。"
+      },
+      {
+        "de": "Der Gürtel ist zu eng, ich muss ihn lockern.",
+        "zh": "腰带太紧了，我得松一松。"
+      }
+    ],
+    "collocations": [
+      "Gürtel tragen",
+      "Gürtel lockern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Ledergürtel",
+      "Hosengürtel"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Hälfte",
+    "lemma": "Hälfte",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Hälften",
+    "meaning": [
+      {
+        "zh": "一半",
+        "en": "half"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Hälfte der Klasse ist krank.",
+        "zh": "班里一半人生病了。"
+      },
+      {
+        "de": "Ich habe nur die Hälfte des Buches gelesen.",
+        "zh": "我只读了这本书的一半。"
+      }
+    ],
+    "collocations": [
+      "die Hälfte von",
+      "erste Hälfte"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "halber Teil"
+    ],
+    "antonyms": [
+      "Ganze"
+    ]
+  },
+  {
+    "word": "Haltung",
+    "lemma": "Haltung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Haltungen",
+    "meaning": [
+      {
+        "zh": "态度，立场",
+        "en": "attitude, stance"
+      },
+      {
+        "zh": "姿势，姿态",
+        "en": "posture, bearing"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat eine kritische Haltung gegenüber der Politik.",
+        "zh": "他对政治持批评态度。"
+      },
+      {
+        "de": "Die Haltung des Tänzers war perfekt.",
+        "zh": "舞者的姿势完美。"
+      }
+    ],
+    "collocations": [
+      "eine Haltung einnehmen",
+      "eine kritische Haltung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "Einstellung",
+      "Position"
+    ],
+    "antonyms": [
+      "Gleichgültigkeit"
+    ]
+  },
+  {
+    "word": "Handel",
+    "lemma": "Handel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "贸易，商业",
+        "en": "trade, commerce"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der internationale Handel wächst stetig.",
+        "zh": "国际贸易不断增长。"
+      },
+      {
+        "de": "Er arbeitet im Handel mit Elektronik.",
+        "zh": "他从事电子产品贸易。"
+      }
+    ],
+    "collocations": [
+      "freier Handel",
+      "im Handel tätig sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Geschäft",
+      "Wirtschaft"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "Hanse",
+    "lemma": "Hanse",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "汉萨同盟",
+        "en": "Hanseatic League"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Hanse war ein mächtiger Städtebund im Mittelalter.",
+        "zh": "汉萨同盟是中世纪一个强大的城市联盟。"
+      },
+      {
+        "de": "Lübeck war eine wichtige Stadt der Hanse.",
+        "zh": "吕贝克是汉萨同盟的一个重要城市。"
+      }
+    ],
+    "collocations": [
+      "die Hanse gründen",
+      "Mitglied der Hanse"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "历史",
+      "社会",
+      "B2"
+    ],
+    "synonyms": null,
+    "antonyms": null
+  },
+  {
+    "word": "Harmonie",
+    "lemma": "Harmonie",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Harmonien",
+    "meaning": [
+      {
+        "zh": "和谐，协调",
+        "en": "harmony, accord"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In der Familie herrscht große Harmonie.",
+        "zh": "家庭中充满和谐。"
+      },
+      {
+        "de": "Die Farben des Gemäldes bilden eine schöne Harmonie.",
+        "zh": "画作的色彩形成美丽的和谐。"
+      }
+    ],
+    "collocations": [
+      "in Harmonie leben",
+      "Harmonie schaffen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "艺术",
+      "B1"
+    ],
+    "synonyms": [
+      "Einklang",
+      "Übereinstimmung"
+    ],
+    "antonyms": [
+      "Disharmonie",
+      "Konflikt"
+    ]
+  },
+  {
+    "word": "hart",
+    "lemma": "hart",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "硬的，坚硬的",
+        "en": "hard, tough"
+      },
+      {
+        "zh": "严厉的，艰难的",
+        "en": "harsh, difficult"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Stein ist sehr hart.",
+        "zh": "这块石头很硬。"
+      },
+      {
+        "de": "Die Prüfung war hart, aber fair.",
+        "zh": "考试很难，但很公平。"
+      }
+    ],
+    "collocations": [
+      "harte Arbeit",
+      "ein harter Winter"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "fest",
+      "schwierig"
+    ],
+    "antonyms": [
+      "weich",
+      "leicht"
+    ]
+  },
+  {
+    "word": "Hauptdarstellerin",
+    "lemma": "Hauptdarstellerin",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Hauptdarstellerinnen",
+    "meaning": [
+      {
+        "zh": "女主角，主要女演员",
+        "en": "leading actress, main female performer"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Hauptdarstellerin des Films wurde für einen Preis nominiert.",
+        "zh": "这部电影的女主角获得了奖项提名。"
+      },
+      {
+        "de": "Sie ist die Hauptdarstellerin in dem neuen Theaterstück.",
+        "zh": "她是这部新剧的女主角。"
+      }
+    ],
+    "collocations": [
+      "die Hauptdarstellerin spielen",
+      "als Hauptdarstellerin auftreten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "艺术",
+      "娱乐",
+      "B1"
+    ],
+    "synonyms": [
+      "Protagonistin",
+      "Star"
+    ],
+    "antonyms": [
+      "Nebendarstellerin"
+    ]
+  },
+  {
+    "word": "Hauptsache",
+    "lemma": "Hauptsache",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "主要的事情，关键",
+        "en": "main thing, essential point"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Hauptsache ist, dass du gesund bist.",
+        "zh": "最重要的是你健康。"
+      },
+      {
+        "de": "Hauptsache, wir haben genug Zeit.",
+        "zh": "关键是我们有足够的时间。"
+      }
+    ],
+    "collocations": [
+      "die Hauptsache sein",
+      "Hauptsache, ..."
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "Kernpunkt",
+      "Wesentliche"
+    ],
+    "antonyms": [
+      "Nebensache"
+    ]
+  },
+  {
+    "word": "Hausarbeit",
+    "lemma": "Hausarbeit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Hausarbeiten",
+    "meaning": [
+      {
+        "zh": "家务活",
+        "en": "housework"
+      },
+      {
+        "zh": "（学术）家庭作业，论文",
+        "en": "homework, term paper"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich muss noch die Hausarbeit erledigen.",
+        "zh": "我还得做家务。"
+      },
+      {
+        "de": "Sie schreibt eine Hausarbeit über Klimawandel.",
+        "zh": "她在写一篇关于气候变化的论文。"
+      }
+    ],
+    "collocations": [
+      "Hausarbeit machen",
+      "eine Hausarbeit schreiben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "教育",
+      "A2"
+    ],
+    "synonyms": [
+      "Haushalt",
+      "Aufgabe"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "heftig",
+    "lemma": "heftig",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "猛烈的，激烈的",
+        "en": "violent, intense"
+      },
+      {
+        "zh": "剧烈的",
+        "en": "severe"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Sturm war sehr heftig.",
+        "zh": "暴风雨非常猛烈。"
+      },
+      {
+        "de": "Sie hat heftig geweint.",
+        "zh": "她哭得很厉害。"
+      }
+    ],
+    "collocations": [
+      "heftiger Regen",
+      "heftige Diskussion"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "自然",
+      "B1"
+    ],
+    "synonyms": [
+      "stark",
+      "intensiv"
+    ],
+    "antonyms": [
+      "schwach",
+      "sanft"
+    ]
+  },
+  {
+    "word": "heilsam",
+    "lemma": "heilsam",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "有益的，治愈的",
+        "en": "healing, beneficial"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ein Spaziergang im Wald ist heilsam für die Seele.",
+        "zh": "在森林里散步对灵魂有益。"
+      },
+      {
+        "de": "Die Ruhe wirkte heilsam auf ihn.",
+        "zh": "宁静对他产生了治愈效果。"
+      }
+    ],
+    "collocations": [
+      "heilsame Wirkung",
+      "heilsame Erfahrung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "健康",
+      "情感",
+      "B2"
+    ],
+    "synonyms": [
+      "wohltuend",
+      "gesund"
+    ],
+    "antonyms": [
+      "schädlich",
+      "ungesund"
+    ]
+  },
+  {
+    "word": "Heim",
+    "lemma": "Heim",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Heime",
+    "meaning": [
+      {
+        "zh": "家，家园",
+        "en": "home"
+      },
+      {
+        "zh": "养老院，收容所",
+        "en": "home (institution)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie fühlt sich in ihrem neuen Heim wohl.",
+        "zh": "她在新家感到舒适。"
+      },
+      {
+        "de": "Mein Großvater lebt in einem Altenheim.",
+        "zh": "我的祖父住在一家养老院里。"
+      }
+    ],
+    "collocations": [
+      "ein Heim gründen",
+      "im Heim leben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "社会",
+      "A2"
+    ],
+    "synonyms": [
+      "Zuhause",
+      "Wohnheim"
+    ],
+    "antonyms": [
+      "Fremde",
+      "Ausland"
+    ]
+  },
+  {
+    "word": "Heizenergie",
+    "lemma": "Heizenergie",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Heizenergien",
+    "meaning": [
+      {
+        "zh": "供暖能源",
+        "en": "heating energy"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Heizenergie in diesem Haus kommt aus erneuerbaren Quellen.",
+        "zh": "这栋房子的供暖能源来自可再生能源。"
+      },
+      {
+        "de": "Wir müssen die Heizenergie effizienter nutzen.",
+        "zh": "我们必须更有效地利用供暖能源。"
+      }
+    ],
+    "collocations": [
+      "Heizenergie sparen",
+      "Heizenergieverbrauch"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "科技",
+      "环境",
+      "B2"
+    ],
+    "synonyms": [
+      "Wärmeenergie"
+    ],
+    "antonyms": [
+      "Kühlenergie"
+    ]
+  },
+  {
+    "word": "herausfinden",
+    "lemma": "herausfinden",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "找出，查明",
+        "en": "find out, discover"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe herausgefunden, dass er gelogen hat.",
+        "zh": "我发现他撒谎了。"
+      },
+      {
+        "de": "Kannst du die Wahrheit herausfinden?",
+        "zh": "你能查明真相吗？"
+      }
+    ],
+    "collocations": [
+      "die Wahrheit herausfinden",
+      "einen Fehler herausfinden"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "herausgefunden"
+    },
+    "level": "B1",
+    "tags": [
+      "认知",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "entdecken",
+      "ermitteln"
+    ],
+    "antonyms": [
+      "verheimlichen",
+      "übersehen"
+    ]
+  },
+  {
+    "word": "Herausforderung",
+    "lemma": "Herausforderung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Herausforderungen",
+    "meaning": [
+      {
+        "zh": "挑战",
+        "en": "challenge"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Aufgabe ist eine große Herausforderung.",
+        "zh": "这个任务是一个巨大的挑战。"
+      },
+      {
+        "de": "Er hat die Herausforderung angenommen.",
+        "zh": "他接受了挑战。"
+      }
+    ],
+    "collocations": [
+      "eine Herausforderung meistern",
+      "vor einer Herausforderung stehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "Schwierigkeit",
+      "Aufgabe"
+    ],
+    "antonyms": [
+      "Leichtigkeit",
+      "Routine"
+    ]
+  },
+  {
+    "word": "herrschen",
+    "lemma": "herrschen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "统治，支配",
+        "en": "rule, reign"
+      },
+      {
+        "zh": "存在，盛行",
+        "en": "prevail, exist"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der König herrschte über das Land.",
+        "zh": "国王统治着这个国家。"
+      },
+      {
+        "de": "In der Stadt herrscht große Aufregung.",
+        "zh": "城里弥漫着巨大的骚动。"
+      }
+    ],
+    "collocations": [
+      "über ein Land herrschen",
+      "Stille herrscht"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geherrscht"
+    },
+    "level": "B2",
+    "tags": [
+      "政治",
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "regieren",
+      "vorherrschen"
+    ],
+    "antonyms": [
+      "dienen",
+      "untergehen"
+    ]
+  },
+  {
+    "word": "hervorheben",
+    "lemma": "hervorheben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "强调，突出",
+        "en": "emphasize, highlight"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Lehrer hob die wichtigsten Punkte hervor.",
+        "zh": "老师强调了最重要的几点。"
+      },
+      {
+        "de": "In seiner Rede hob er die Erfolge des Teams hervor.",
+        "zh": "在他的演讲中，他突出了团队的成就。"
+      }
+    ],
+    "collocations": [
+      "etwas hervorheben",
+      "die Bedeutung hervorheben"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "hervorgehoben"
+    },
+    "level": "B2",
+    "tags": [
+      "沟通",
+      "学术",
+      "B2"
+    ],
+    "synonyms": [
+      "betonen",
+      "unterstreichen"
+    ],
+    "antonyms": [
+      "vernachlässigen",
+      "übersehen"
+    ]
+  },
+  {
+    "word": "Herz",
+    "lemma": "Herz",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Herzen",
+    "meaning": [
+      {
+        "zh": "心脏；心",
+        "en": "heart"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mein Herz schlägt schnell.",
+        "zh": "我的心跳得很快。"
+      },
+      {
+        "de": "Sie hat ein gutes Herz.",
+        "zh": "她有一颗善良的心。"
+      }
+    ],
+    "collocations": [
+      "von ganzem Herzen",
+      "das Herz schlägt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "身体",
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "Seele",
+      "Gemüt"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "heutzutage",
+    "lemma": "heutzutage",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "如今，当今",
+        "en": "nowadays"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Heutzutage arbeiten viele Menschen im Homeoffice.",
+        "zh": "如今很多人居家办公。"
+      },
+      {
+        "de": "Heutzutage ist das Reisen viel einfacher als früher.",
+        "zh": "如今旅行比以前容易多了。"
+      }
+    ],
+    "collocations": [
+      "heutzutage üblich",
+      "heutzutage kaum"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "时间",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "heute",
+      "in der heutigen Zeit"
+    ],
+    "antonyms": [
+      "früher",
+      "damals"
+    ]
+  },
+  {
+    "word": "Hindernislauf",
+    "lemma": "Hindernislauf",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Hindernisläufe",
+    "meaning": [
+      {
+        "zh": "障碍赛跑",
+        "en": "obstacle course"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er nimmt an einem Hindernislauf teil.",
+        "zh": "他参加了一个障碍赛跑。"
+      },
+      {
+        "de": "Der Hindernislauf erfordert viel Ausdauer.",
+        "zh": "障碍赛跑需要很多耐力。"
+      }
+    ],
+    "collocations": [
+      "einen Hindernislauf absolvieren",
+      "beim Hindernislauf"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "体育",
+      "运动",
+      "B1"
+    ],
+    "synonyms": [
+      "Hindernisrennen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "hinlegen",
+    "lemma": "hinlegen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "放下；躺下",
+        "en": "to put down; to lie down"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich lege das Buch auf den Tisch hin.",
+        "zh": "我把书放在桌子上。"
+      },
+      {
+        "de": "Er legt sich auf das Sofa hin.",
+        "zh": "他躺到沙发上。"
+      }
+    ],
+    "collocations": [
+      "sich hinlegen",
+      "etwas hinlegen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "hingelegt"
+    },
+    "level": "B1",
+    "tags": [
+      "动作",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "ablegen",
+      "niederlegen"
+    ],
+    "antonyms": [
+      "aufheben",
+      "aufstehen"
+    ]
+  },
+  {
+    "word": "hinübersehen",
+    "lemma": "hinübersehen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "朝那边看",
+        "en": "to look over there"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie sieht zum Fenster hinüber.",
+        "zh": "她朝窗户那边看。"
+      },
+      {
+        "de": "Er sieht über den Zaun hinüber.",
+        "zh": "他朝篱笆那边看。"
+      }
+    ],
+    "collocations": [
+      "zu jemandem hinübersehen",
+      "hinübersehen auf"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "hinübergesehen"
+    },
+    "level": "B2",
+    "tags": [
+      "动作",
+      "视觉",
+      "B2"
+    ],
+    "synonyms": [
+      "hinschauen",
+      "hinüberblicken"
+    ],
+    "antonyms": [
+      "wegsehen"
+    ]
+  },
+  {
+    "word": "hinzufügen",
+    "lemma": "hinzufügen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "添加，补充",
+        "en": "to add"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Fügen Sie bitte noch etwas Salz hinzu.",
+        "zh": "请再加一点盐。"
+      },
+      {
+        "de": "Er fügte seiner Rede ein Zitat hinzu.",
+        "zh": "他在演讲中补充了一句引文。"
+      }
+    ],
+    "collocations": [
+      "etwas hinzufügen",
+      "hinzufügen zu"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "hinzugefügt"
+    },
+    "level": "B1",
+    "tags": [
+      "动作",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "ergänzen",
+      "beifügen"
+    ],
+    "antonyms": [
+      "entfernen",
+      "wegnehmen"
+    ]
+  },
+  {
+    "word": "Höhle",
+    "lemma": "Höhle",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Höhlen",
+    "meaning": [
+      {
+        "zh": "洞穴",
+        "en": "cave"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Höhle ist sehr dunkel.",
+        "zh": "这个洞穴很暗。"
+      },
+      {
+        "de": "Sie erforschen eine alte Höhle.",
+        "zh": "他们探索一个古老的洞穴。"
+      }
+    ],
+    "collocations": [
+      "in einer Höhle leben",
+      "eine Höhle entdecken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "自然",
+      "地理",
+      "A2"
+    ],
+    "synonyms": [
+      "Grotte",
+      "Kaverne"
+    ],
+    "antonyms": [
+      "Berg",
+      "Hügel"
+    ]
+  },
+  {
+    "word": "Hort",
+    "lemma": "Hort",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Horte",
+    "meaning": [
+      {
+        "zh": "托儿所；庇护所",
+        "en": "after-school care; refuge"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kinder gehen nach der Schule in den Hort.",
+        "zh": "孩子们放学后去托儿所。"
+      },
+      {
+        "de": "Der Garten ist ein Hort der Ruhe.",
+        "zh": "这个花园是一个宁静的庇护所。"
+      }
+    ],
+    "collocations": [
+      "im Hort sein",
+      "ein Hort des Friedens"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Kinderbetreuung",
+      "Zufluchtsort"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "hinzufügen",
+    "lemma": "hinzufügen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "添加，补充",
+        "en": "to add, to append"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du bitte noch etwas Wasser hinzufügen?",
+        "zh": "你能再加点水吗？"
+      },
+      {
+        "de": "Er fügte seiner Rede einige wichtige Punkte hinzu.",
+        "zh": "他在演讲中补充了一些重要观点。"
+      }
+    ],
+    "collocations": [
+      "etwas zu einer Liste hinzufügen",
+      "einen Kommentar hinzufügen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "hinzugefügt"
+    },
+    "level": "B1",
+    "tags": [
+      "语言",
+      "操作",
+      "B1"
+    ],
+    "synonyms": [
+      "ergänzen",
+      "beifügen",
+      "dazugeben"
+    ],
+    "antonyms": [
+      "entfernen",
+      "streichen",
+      "wegnehmen"
+    ]
+  },
+  {
+    "word": "hinzufügen",
+    "lemma": "hinzufügen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "添加，补充",
+        "en": "to add, to append"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du bitte noch etwas Wasser hinzufügen?",
+        "zh": "你能再加点水吗？"
+      },
+      {
+        "de": "Er fügte seiner Rede einige wichtige Punkte hinzu.",
+        "zh": "他在演讲中补充了一些重要观点。"
+      }
+    ],
+    "collocations": [
+      "etwas zu etwas hinzufügen",
+      "eine Bemerkung hinzufügen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "hinzugefügt"
+    },
+    "level": "B1",
+    "tags": [
+      "语言/交流",
+      "B1"
+    ],
+    "synonyms": [
+      "ergänzen",
+      "beifügen",
+      "dazutun"
+    ],
+    "antonyms": [
+      "entfernen",
+      "wegnehmen",
+      "streichen"
+    ]
+  },
+  {
+    "word": "Hütte",
+    "lemma": "Hütte",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Hütten",
+    "meaning": [
+      {
+        "zh": "小屋，棚屋",
+        "en": "hut, cabin"
+      },
+      {
+        "zh": "山间小屋",
+        "en": "mountain hut"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Hütte liegt mitten im Wald.",
+        "zh": "小屋位于森林中央。"
+      },
+      {
+        "de": "Wir übernachteten in einer Berghütte.",
+        "zh": "我们在山间小屋过夜。"
+      }
+    ],
+    "collocations": [
+      "eine Hütte bauen",
+      "in einer Hütte wohnen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "建筑",
+      "生活",
+      "自然",
+      "B1"
+    ],
+    "synonyms": [
+      "Haus",
+      "Unterkunft",
+      "Berghütte"
+    ],
+    "antonyms": [
+      "Palast",
+      "Villa"
+    ]
+  },
+  {
+    "word": "Glossar",
+    "lemma": "Glossar",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Glossare",
+    "meaning": [
+      {
+        "zh": "词汇表，术语表",
+        "en": "glossary"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Am Ende des Buches befindet sich ein Glossar.",
+        "zh": "书末附有词汇表。"
+      },
+      {
+        "de": "Das Glossar erklärt die wichtigsten Fachbegriffe.",
+        "zh": "词汇表解释了最重要的专业术语。"
+      }
+    ],
+    "collocations": [
+      "ein Glossar erstellen",
+      "im Glossar nachschlagen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "语言",
+      "学术",
+      "B1"
+    ],
+    "synonyms": [
+      "Wörterverzeichnis",
+      "Terminologie"
+    ],
+    "antonyms": []
+  }
+]

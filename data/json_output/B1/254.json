@@ -1,0 +1,1992 @@
+[
+  {
+    "word": "Gedenktafel",
+    "lemma": "Gedenktafel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Gedenktafeln",
+    "meaning": [
+      {
+        "zh": "纪念牌匾",
+        "en": "memorial plaque"
+      }
+    ],
+    "examples": [
+      {
+        "de": "An der Wand hängt eine Gedenktafel für die Opfer des Krieges.",
+        "zh": "墙上挂着一块纪念战争受害者的牌匾。"
+      },
+      {
+        "de": "Die Gedenktafel wurde feierlich enthüllt.",
+        "zh": "纪念牌匾被隆重揭幕。"
+      }
+    ],
+    "collocations": [
+      "eine Gedenktafel anbringen",
+      "eine Gedenktafel enthüllen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "历史",
+      "B1"
+    ],
+    "synonyms": [
+      "Denkmal",
+      "Mahnmal"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Gedicht",
+    "lemma": "Gedicht",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Gedichte",
+    "meaning": [
+      {
+        "zh": "诗歌",
+        "en": "poem"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat ein Gedicht über die Natur geschrieben.",
+        "zh": "她写了一首关于自然的诗。"
+      },
+      {
+        "de": "Das Gedicht besteht aus vier Strophen.",
+        "zh": "这首诗由四节组成。"
+      }
+    ],
+    "collocations": [
+      "ein Gedicht schreiben",
+      "ein Gedicht vortragen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "文学",
+      "文化",
+      "A2"
+    ],
+    "synonyms": [
+      "Lyrik",
+      "Poem"
+    ],
+    "antonyms": [
+      "Prosa"
+    ]
+  },
+  {
+    "word": "gefährlich",
+    "lemma": "gefährlich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "危险的",
+        "en": "dangerous"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Straße ist nachts sehr gefährlich.",
+        "zh": "这条路晚上很危险。"
+      },
+      {
+        "de": "Es ist gefährlich, ohne Schutz zu klettern.",
+        "zh": "没有保护攀爬是危险的。"
+      }
+    ],
+    "collocations": [
+      "gefährliche Situation",
+      "gefährlich werden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "安全",
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "riskant",
+      "bedrohlich"
+    ],
+    "antonyms": [
+      "ungefährlich",
+      "sicher"
+    ]
+  },
+  {
+    "word": "gefragt",
+    "lemma": "gefragt",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "受欢迎的，抢手的",
+        "en": "in demand, popular"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In der IT-Branche sind Programmierer sehr gefragt.",
+        "zh": "在IT行业，程序员很抢手。"
+      },
+      {
+        "de": "Dieses Produkt ist derzeit sehr gefragt.",
+        "zh": "这款产品目前很受欢迎。"
+      }
+    ],
+    "collocations": [
+      "sehr gefragt sein",
+      "gefragte Fachkräfte"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "职业",
+      "B1"
+    ],
+    "synonyms": [
+      "begehrt",
+      "beliebt"
+    ],
+    "antonyms": [
+      "unbeliebt",
+      "ungenutzt"
+    ]
+  },
+  {
+    "word": "Gefühl",
+    "lemma": "Gefühl",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Gefühle",
+    "meaning": [
+      {
+        "zh": "感觉，情感",
+        "en": "feeling, emotion"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe das Gefühl, dass etwas nicht stimmt.",
+        "zh": "我有种感觉，有些不对劲。"
+      },
+      {
+        "de": "Sie konnte ihre Gefühle nicht verbergen.",
+        "zh": "她无法掩饰自己的情感。"
+      }
+    ],
+    "collocations": [
+      "ein Gefühl haben",
+      "Gefühle zeigen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "心理",
+      "A2"
+    ],
+    "synonyms": [
+      "Empfindung",
+      "Emotion"
+    ],
+    "antonyms": [
+      "Gleichgültigkeit"
+    ]
+  },
+  {
+    "word": "gegensätzlich",
+    "lemma": "gegensätzlich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "相反的，对立的",
+        "en": "contrary, opposing"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die beiden haben gegensätzliche Meinungen zu diesem Thema.",
+        "zh": "两人对这个话题有相反的意见。"
+      },
+      {
+        "de": "Ihre Interessen sind völlig gegensätzlich.",
+        "zh": "他们的兴趣完全对立。"
+      }
+    ],
+    "collocations": [
+      "gegensätzliche Ansichten",
+      "gegensätzliche Positionen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "关系",
+      "思想",
+      "B1"
+    ],
+    "synonyms": [
+      "entgegengesetzt",
+      "konträr"
+    ],
+    "antonyms": [
+      "gleichartig",
+      "übereinstimmend"
+    ]
+  },
+  {
+    "word": "gegenseitig",
+    "lemma": "gegenseitig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "相互的，彼此的",
+        "en": "mutual, reciprocal"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie haben sich gegenseitig geholfen.",
+        "zh": "他们互相帮助。"
+      },
+      {
+        "de": "Gegenseitiges Vertrauen ist wichtig in einer Beziehung.",
+        "zh": "相互信任在一段关系中很重要。"
+      }
+    ],
+    "collocations": [
+      "gegenseitige Hilfe",
+      "gegenseitiges Verständnis"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "关系",
+      "社会",
+      "A2"
+    ],
+    "synonyms": [
+      "wechselseitig",
+      "reziprok"
+    ],
+    "antonyms": [
+      "einseitig"
+    ]
+  },
+  {
+    "word": "Gegenteil",
+    "lemma": "Gegenteil",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Gegenteile",
+    "meaning": [
+      {
+        "zh": "相反，对立面",
+        "en": "opposite, contrary"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Gegenteil von 'groß' ist 'klein'.",
+        "zh": "'大'的反义词是'小'。"
+      },
+      {
+        "de": "Er behauptet das Gegenteil von dem, was ich sage.",
+        "zh": "他声称与我说的话相反。"
+      }
+    ],
+    "collocations": [
+      "das Gegenteil beweisen",
+      "im Gegenteil"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "语言",
+      "逻辑",
+      "A2"
+    ],
+    "synonyms": [
+      "Gegenstück",
+      "Widerspruch"
+    ],
+    "antonyms": [
+      "Gleiche",
+      "Übereinstimmung"
+    ]
+  },
+  {
+    "word": "gegenüberstehen",
+    "lemma": "gegenüberstehen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "面对，面临",
+        "en": "to face, to be confronted with"
+      },
+      {
+        "zh": "对立，相对",
+        "en": "to be opposite, to stand against"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir stehen großen Herausforderungen gegenüber.",
+        "zh": "我们面临着巨大的挑战。"
+      },
+      {
+        "de": "Den beiden Parteien stehen unterschiedliche Meinungen gegenüber.",
+        "zh": "两方持有不同的意见。"
+      }
+    ],
+    "collocations": [
+      "einer Situation gegenüberstehen",
+      "einem Problem gegenüberstehen"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "gegenübergestanden"
+    },
+    "level": "B2",
+    "tags": [
+      "动词",
+      "抽象关系",
+      "B2"
+    ],
+    "synonyms": [
+      "konfrontiert sein",
+      "entgegentreten"
+    ],
+    "antonyms": [
+      "ausweichen",
+      "vermeiden"
+    ]
+  },
+  {
+    "word": "Gehalt",
+    "lemma": "Gehalt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Gehälter",
+    "meaning": [
+      {
+        "zh": "工资，薪水",
+        "en": "salary"
+      },
+      {
+        "zh": "含量，内容",
+        "en": "content, substance"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sein monatliches Gehalt beträgt 4000 Euro.",
+        "zh": "他的月薪是4000欧元。"
+      },
+      {
+        "de": "Der Gehalt an Vitamin C in dieser Frucht ist hoch.",
+        "zh": "这种水果的维生素C含量很高。"
+      }
+    ],
+    "collocations": [
+      "ein hohes Gehalt",
+      "das Gehalt verhandeln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "名词",
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "Lohn",
+      "Verdienst",
+      "Einkommen"
+    ],
+    "antonyms": [
+      "Armut",
+      "Mangel"
+    ]
+  },
+  {
+    "word": "Gehirnpotential",
+    "lemma": "Gehirnpotential",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Gehirnpotentiale",
+    "meaning": [
+      {
+        "zh": "大脑潜力",
+        "en": "brain potential"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Gehirnpotential des Menschen ist noch nicht vollständig erforscht.",
+        "zh": "人类的大脑潜力尚未被完全探索。"
+      },
+      {
+        "de": "Durch Training kann man sein Gehirnpotential besser nutzen.",
+        "zh": "通过训练可以更好地利用大脑潜力。"
+      }
+    ],
+    "collocations": [
+      "das Gehirnpotential ausschöpfen",
+      "das Gehirnpotential fördern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "C1",
+    "tags": [
+      "名词",
+      "科学",
+      "C1"
+    ],
+    "synonyms": [
+      "kognitive Fähigkeit",
+      "Gehirnleistung"
+    ],
+    "antonyms": [
+      "Gehirnschwäche",
+      "kognitive Einschränkung"
+    ]
+  },
+  {
+    "word": "geistig",
+    "lemma": "geistig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "精神的，智力的",
+        "en": "mental, intellectual"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat eine geistige Behinderung.",
+        "zh": "他有智力障碍。"
+      },
+      {
+        "de": "Diese Arbeit erfordert viel geistige Anstrengung.",
+        "zh": "这项工作需要很多脑力劳动。"
+      }
+    ],
+    "collocations": [
+      "geistige Gesundheit",
+      "geistige Fähigkeiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "形容词",
+      "心理",
+      "B1"
+    ],
+    "synonyms": [
+      "intellektuell",
+      "mental",
+      "kognitiv"
+    ],
+    "antonyms": [
+      "körperlich",
+      "physisch"
+    ]
+  },
+  {
+    "word": "gelten",
+    "lemma": "gelten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "有效，适用",
+        "en": "to be valid, to apply"
+      },
+      {
+        "zh": "被视为，被认为",
+        "en": "to be considered, to count as"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Regel gilt für alle Mitarbeiter.",
+        "zh": "这条规则适用于所有员工。"
+      },
+      {
+        "de": "Er gilt als Experte auf diesem Gebiet.",
+        "zh": "他被视为这个领域的专家。"
+      }
+    ],
+    "collocations": [
+      "für etwas gelten",
+      "als etwas gelten"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gegolten"
+    },
+    "level": "B1",
+    "tags": [
+      "动词",
+      "抽象关系",
+      "B1"
+    ],
+    "synonyms": [
+      "zutreffen",
+      "angesehen werden als"
+    ],
+    "antonyms": [
+      "ungültig sein",
+      "nicht zutreffen"
+    ]
+  },
+  {
+    "word": "gemeinsam",
+    "lemma": "gemeinsam",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "共同的，一起的",
+        "en": "common, joint, together"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir haben ein gemeinsames Ziel.",
+        "zh": "我们有一个共同的目标。"
+      },
+      {
+        "de": "Sie arbeiten gemeinsam an dem Projekt.",
+        "zh": "他们一起在这个项目上工作。"
+      }
+    ],
+    "collocations": [
+      "gemeinsam etwas unternehmen",
+      "gemeinsame Interessen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "形容词",
+      "副词",
+      "社交",
+      "A2"
+    ],
+    "synonyms": [
+      "zusammen",
+      "vereint",
+      "kollektiv"
+    ],
+    "antonyms": [
+      "einzeln",
+      "getrennt",
+      "individuell"
+    ]
+  },
+  {
+    "word": "Gemüse",
+    "lemma": "Gemüse",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "蔬菜",
+        "en": "vegetables"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich esse jeden Tag frisches Gemüse.",
+        "zh": "我每天吃新鲜蔬菜。"
+      },
+      {
+        "de": "Das Gemüse im Supermarkt ist sehr teuer.",
+        "zh": "超市里的蔬菜很贵。"
+      }
+    ],
+    "collocations": [
+      "frisches Gemüse",
+      "Gemüse anbauen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "名词",
+      "食物",
+      "A1"
+    ],
+    "synonyms": [
+      "Pflanzenkost",
+      "Grünzeug"
+    ],
+    "antonyms": [
+      "Fleisch",
+      "Obst"
+    ]
+  },
+  {
+    "word": "gepflegt",
+    "lemma": "gepflegt",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "保养良好的，整洁的",
+        "en": "well-groomed, well-maintained"
+      },
+      {
+        "zh": "优雅的，有教养的",
+        "en": "refined, cultured"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat immer gepflegte Hände.",
+        "zh": "她的手总是保养得很好。"
+      },
+      {
+        "de": "Das Restaurant hat eine gepflegte Atmosphäre.",
+        "zh": "这家餐厅有一种优雅的氛围。"
+      }
+    ],
+    "collocations": [
+      "gepflegtes Äußeres",
+      "gepflegte Sprache"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "形容词",
+      "外表",
+      "B1"
+    ],
+    "synonyms": [
+      "ordentlich",
+      "kultiviert",
+      "stilvoll"
+    ],
+    "antonyms": [
+      "ungepflegt",
+      "vernachlässigt",
+      "schmutzig"
+    ]
+  },
+  {
+    "word": "Geräusch",
+    "lemma": "Geräusch",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Geräusche",
+    "meaning": [
+      {
+        "zh": "声音，噪音",
+        "en": "noise, sound"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich höre ein seltsames Geräusch aus dem Keller.",
+        "zh": "我听到地下室传来奇怪的声音。"
+      },
+      {
+        "de": "Das Geräusch des Regens beruhigt mich.",
+        "zh": "雨声让我平静。"
+      }
+    ],
+    "collocations": [
+      "ein Geräusch machen",
+      "ein leises Geräusch"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "感官",
+      "B1"
+    ],
+    "synonyms": [
+      "Lärm",
+      "Klang"
+    ],
+    "antonyms": [
+      "Stille"
+    ]
+  },
+  {
+    "word": "Geruch",
+    "lemma": "Geruch",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Gerüche",
+    "meaning": [
+      {
+        "zh": "气味",
+        "en": "smell, odor"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Geruch von frischem Brot ist wunderbar.",
+        "zh": "新鲜面包的气味很棒。"
+      },
+      {
+        "de": "Ein unangenehmer Geruch kommt aus der Küche.",
+        "zh": "厨房传来难闻的气味。"
+      }
+    ],
+    "collocations": [
+      "einen Geruch wahrnehmen",
+      "ein starker Geruch"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "感官",
+      "B1"
+    ],
+    "synonyms": [
+      "Duft",
+      "Gestank"
+    ],
+    "antonyms": [
+      "Geruchlosigkeit"
+    ]
+  },
+  {
+    "word": "Gesamteindruck",
+    "lemma": "Gesamteindruck",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Gesamteindrücke",
+    "meaning": [
+      {
+        "zh": "整体印象",
+        "en": "overall impression"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Gesamteindruck des Hotels war positiv.",
+        "zh": "这家酒店的整体印象是积极的。"
+      },
+      {
+        "de": "Sein Gesamteindruck von der Stadt ist gemischt.",
+        "zh": "他对这座城市的整体印象是复杂的。"
+      }
+    ],
+    "collocations": [
+      "einen Gesamteindruck gewinnen",
+      "der Gesamteindruck ist gut"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "评价",
+      "B2"
+    ],
+    "synonyms": [
+      "Eindruck",
+      "Gesamtbild"
+    ],
+    "antonyms": [
+      "Detail"
+    ]
+  },
+  {
+    "word": "Gesang",
+    "lemma": "Gesang",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Gesänge",
+    "meaning": [
+      {
+        "zh": "歌唱，歌声",
+        "en": "singing, song"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ihr Gesang war sehr emotional.",
+        "zh": "她的歌声非常动人。"
+      },
+      {
+        "de": "Der Gesang der Vögel weckt mich jeden Morgen.",
+        "zh": "鸟儿的歌声每天早晨唤醒我。"
+      }
+    ],
+    "collocations": [
+      "im Gesang üben",
+      "ein schöner Gesang"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "艺术",
+      "B1"
+    ],
+    "synonyms": [
+      "Singen",
+      "Lied"
+    ],
+    "antonyms": [
+      "Schweigen"
+    ]
+  },
+  {
+    "word": "geschieden",
+    "lemma": "geschieden",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "离婚的",
+        "en": "divorced"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie ist seit zwei Jahren geschieden.",
+        "zh": "她离婚两年了。"
+      },
+      {
+        "de": "Er lebt als geschiedener Mann allein.",
+        "zh": "他作为离婚男人独自生活。"
+      }
+    ],
+    "collocations": [
+      "geschieden sein",
+      "ein geschiedener Partner"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "家庭",
+      "B1"
+    ],
+    "synonyms": [
+      "getrennt"
+    ],
+    "antonyms": [
+      "verheiratet"
+    ]
+  },
+  {
+    "word": "Geschmack",
+    "lemma": "Geschmack",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Geschmäcker",
+    "meaning": [
+      {
+        "zh": "味道，品味",
+        "en": "taste, flavor"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Geschmack des Kuchens ist süß.",
+        "zh": "蛋糕的味道是甜的。"
+      },
+      {
+        "de": "Sie hat einen guten Geschmack in Mode.",
+        "zh": "她在时尚方面有很好的品味。"
+      }
+    ],
+    "collocations": [
+      "einen Geschmack haben",
+      "nach Geschmack"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "感官",
+      "B1"
+    ],
+    "synonyms": [
+      "Aroma",
+      "Stil"
+    ],
+    "antonyms": [
+      "Geschmacklosigkeit"
+    ]
+  },
+  {
+    "word": "gesellig",
+    "lemma": "gesellig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "好交际的，社交的",
+        "en": "sociable, convivial"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist ein sehr geselliger Mensch.",
+        "zh": "他是一个非常善于交际的人。"
+      },
+      {
+        "de": "Wir hatten einen geselligen Abend.",
+        "zh": "我们度过了一个愉快的社交之夜。"
+      }
+    ],
+    "collocations": [
+      "gesellig sein",
+      "ein geselliges Beisammensein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "性格",
+      "B1"
+    ],
+    "synonyms": [
+      "kontaktfreudig",
+      "umgänglich"
+    ],
+    "antonyms": [
+      "ungesellig",
+      "einsam"
+    ]
+  },
+  {
+    "word": "Geselligkeit",
+    "lemma": "Geselligkeit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "社交，交际",
+        "en": "sociability, conviviality"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Geselligkeit ist ihm sehr wichtig.",
+        "zh": "社交对他来说非常重要。"
+      },
+      {
+        "de": "Die Geselligkeit auf der Party war großartig.",
+        "zh": "派对上的社交氛围很棒。"
+      }
+    ],
+    "collocations": [
+      "die Geselligkeit genießen",
+      "zur Geselligkeit beitragen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "社交",
+      "B2"
+    ],
+    "synonyms": [
+      "Gemeinschaft",
+      "Umgänglichkeit"
+    ],
+    "antonyms": [
+      "Einsamkeit",
+      "Zurückgezogenheit"
+    ]
+  },
+  {
+    "word": "Gesicht",
+    "lemma": "Gesicht",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Gesichter",
+    "meaning": [
+      {
+        "zh": "脸，面孔",
+        "en": "face"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat ein freundliches Gesicht.",
+        "zh": "她有一张友善的脸。"
+      },
+      {
+        "de": "Er verlor das Gesicht vor seinen Kollegen.",
+        "zh": "他在同事面前丢了面子。"
+      }
+    ],
+    "collocations": [
+      "ein Gesicht machen",
+      "das Gesicht verlieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "身体",
+      "A2"
+    ],
+    "synonyms": [
+      "Antlitz"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "gestalten",
+    "lemma": "gestalten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "设计，塑造，安排",
+        "en": "to design, to shape, to arrange"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir müssen den Unterricht interessanter gestalten.",
+        "zh": "我们必须把课上得更有趣。"
+      },
+      {
+        "de": "Sie gestaltete ihr Leben nach eigenen Vorstellungen.",
+        "zh": "她按照自己的想法塑造自己的生活。"
+      }
+    ],
+    "collocations": [
+      "etwas aktiv gestalten",
+      "den Alltag gestalten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gestaltet"
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "formen",
+      "entwerfen"
+    ],
+    "antonyms": [
+      "zerstören"
+    ]
+  },
+  {
+    "word": "gestehen",
+    "lemma": "gestehen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "承认，供认",
+        "en": "to confess, to admit"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er gestand den Diebstahl.",
+        "zh": "他承认了偷窃。"
+      },
+      {
+        "de": "Sie gestand ihm ihre Liebe.",
+        "zh": "她向他表白了自己的爱意。"
+      }
+    ],
+    "collocations": [
+      "ein Verbrechen gestehen",
+      "offen gestehen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gestanden"
+    },
+    "level": "B2",
+    "tags": [
+      "情感",
+      "B2"
+    ],
+    "synonyms": [
+      "zugeben",
+      "eingestehen"
+    ],
+    "antonyms": [
+      "leugnen"
+    ]
+  },
+  {
+    "word": "Getreide",
+    "lemma": "Getreide",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Getreide",
+    "meaning": [
+      {
+        "zh": "谷物，粮食",
+        "en": "grain, cereal"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In dieser Region wird viel Getreide angebaut.",
+        "zh": "这个地区种植很多谷物。"
+      },
+      {
+        "de": "Getreide ist eine wichtige Nahrungsquelle.",
+        "zh": "谷物是重要的食物来源。"
+      }
+    ],
+    "collocations": [
+      "Getreide ernten",
+      "Getreide anbauen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "农业",
+      "B1"
+    ],
+    "synonyms": [
+      "Korn",
+      "Körnerfrucht"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "gewalttätig",
+    "lemma": "gewalttätig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "暴力的，使用暴力的",
+        "en": "violent"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er wurde wegen gewalttätigen Verhaltens verhaftet.",
+        "zh": "他因暴力行为被捕。"
+      },
+      {
+        "de": "Die Demonstration verlief gewalttätig.",
+        "zh": "示威游行演变成了暴力事件。"
+      }
+    ],
+    "collocations": [
+      "gewalttätig werden",
+      "gewalttätiges Verhalten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "brutal",
+      "aggressiv"
+    ],
+    "antonyms": [
+      "friedlich",
+      "sanft"
+    ]
+  },
+  {
+    "word": "Gewand",
+    "lemma": "Gewand",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Gewänder",
+    "meaning": [
+      {
+        "zh": "长袍，礼服，服装",
+        "en": "robe, garment"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Priester trug ein weißes Gewand.",
+        "zh": "牧师穿着一件白色长袍。"
+      },
+      {
+        "de": "Sie erschien in einem prächtigen Gewand.",
+        "zh": "她穿着一件华丽的礼服出现。"
+      }
+    ],
+    "collocations": [
+      "ein festliches Gewand",
+      "im Gewand von etwas"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "生活",
+      "B2"
+    ],
+    "synonyms": [
+      "Kleid",
+      "Robe"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "gewiss",
+    "lemma": "gewiss",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "确定的，一定的；当然",
+        "en": "certain, sure; certainly"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Es ist gewiss, dass er kommt.",
+        "zh": "他肯定会来。"
+      },
+      {
+        "de": "Gewiss hast du recht.",
+        "zh": "你当然是对的。"
+      }
+    ],
+    "collocations": [
+      "ganz gewiss",
+      "gewiss sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "sicher",
+      "bestimmt"
+    ],
+    "antonyms": [
+      "unsicher",
+      "zweifelhaft"
+    ]
+  },
+  {
+    "word": "gewöhnlich",
+    "lemma": "gewöhnlich",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "通常的，普通的；通常",
+        "en": "usual, ordinary; usually"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist ein gewöhnlicher Tag.",
+        "zh": "这是普通的一天。"
+      },
+      {
+        "de": "Gewöhnlich frühstücke ich um sieben Uhr.",
+        "zh": "我通常七点吃早餐。"
+      }
+    ],
+    "collocations": [
+      "wie gewöhnlich",
+      "gewöhnliche Leute"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "normal",
+      "üblich"
+    ],
+    "antonyms": [
+      "außergewöhnlich",
+      "ungewöhnlich"
+    ]
+  },
+  {
+    "word": "giftig",
+    "lemma": "giftig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "有毒的",
+        "en": "poisonous, toxic"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Schlange ist sehr giftig.",
+        "zh": "这条蛇毒性很强。"
+      },
+      {
+        "de": "Die Chemikalie darf nicht eingeatmet werden, sie ist giftig.",
+        "zh": "这种化学物质不能吸入，它有毒。"
+      }
+    ],
+    "collocations": [
+      "giftige Pflanze",
+      "giftiger Stoff"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "自然",
+      "健康",
+      "B1"
+    ],
+    "synonyms": [
+      "toxisch",
+      "schädlich"
+    ],
+    "antonyms": [
+      "ungiftig",
+      "harmlos"
+    ]
+  },
+  {
+    "word": "glänzen",
+    "lemma": "glänzen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "发光，闪耀",
+        "en": "to shine, to glitter"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Sonne glänzt auf dem Wasser.",
+        "zh": "阳光在水面上闪耀。"
+      },
+      {
+        "de": "Ihre Augen glänzten vor Freude.",
+        "zh": "她的眼睛因喜悦而闪闪发光。"
+      }
+    ],
+    "collocations": [
+      "glänzende Oberfläche",
+      "vor Freude glänzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geglänzt"
+    },
+    "level": "B1",
+    "tags": [
+      "自然",
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "leuchten",
+      "strahlen"
+    ],
+    "antonyms": [
+      "matt sein",
+      "trüb sein"
+    ]
+  },
+  {
+    "word": "gleichermaßen",
+    "lemma": "gleichermaßen",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "同样地",
+        "en": "equally, likewise"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Beide Kandidaten sind gleichermaßen qualifiziert.",
+        "zh": "两位候选人同样合格。"
+      },
+      {
+        "de": "Die Regel gilt für alle gleichermaßen.",
+        "zh": "这条规则对所有人都同样适用。"
+      }
+    ],
+    "collocations": [
+      "gleichermaßen wichtig",
+      "gleichermaßen betroffen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "语言",
+      "逻辑",
+      "B2"
+    ],
+    "synonyms": [
+      "ebenso",
+      "genauso"
+    ],
+    "antonyms": [
+      "unterschiedlich",
+      "verschieden"
+    ]
+  },
+  {
+    "word": "Glühbirne",
+    "lemma": "Glühbirne",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Glühbirnen",
+    "meaning": [
+      {
+        "zh": "灯泡",
+        "en": "light bulb"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Glühbirne in der Lampe ist durchgebrannt.",
+        "zh": "灯里的灯泡烧坏了。"
+      },
+      {
+        "de": "Er wechselte die Glühbirne im Wohnzimmer aus.",
+        "zh": "他更换了客厅的灯泡。"
+      }
+    ],
+    "collocations": [
+      "Glühbirne wechseln",
+      "Glühbirne durchbrennen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "科技",
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Lampe",
+      "Leuchtmittel"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Grafik",
+    "lemma": "Grafik",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Grafiken",
+    "meaning": [
+      {
+        "zh": "图形，图表",
+        "en": "graphic, chart"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Grafik zeigt den Umsatz der letzten Jahre.",
+        "zh": "这张图表显示了近几年的销售额。"
+      },
+      {
+        "de": "Er hat eine Grafik zur Präsentation erstellt.",
+        "zh": "他为演示制作了一张图表。"
+      }
+    ],
+    "collocations": [
+      "Grafik erstellen",
+      "Grafik anzeigen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "Diagramm",
+      "Abbildung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "greifen",
+    "lemma": "greifen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "抓，拿",
+        "en": "to grab, to grasp"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er griff nach dem Glas Wasser.",
+        "zh": "他伸手去拿那杯水。"
+      },
+      {
+        "de": "Sie griff in ihre Tasche und holte den Schlüssel heraus.",
+        "zh": "她伸手到包里拿出钥匙。"
+      }
+    ],
+    "collocations": [
+      "nach etwas greifen",
+      "in die Tasche greifen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gegriffen"
+    },
+    "level": "B1",
+    "tags": [
+      "动作",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "fassen",
+      "nehmen"
+    ],
+    "antonyms": [
+      "loslassen",
+      "fallen lassen"
+    ]
+  },
+  {
+    "word": "grenzenan",
+    "lemma": "grenzen an",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "与...接壤，接近",
+        "en": "to border on, to be adjacent to"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Deutschland grenzt an Frankreich.",
+        "zh": "德国与法国接壤。"
+      },
+      {
+        "de": "Sein Verhalten grenzt an Arroganz.",
+        "zh": "他的行为近乎傲慢。"
+      }
+    ],
+    "collocations": [
+      "an etwas grenzen",
+      "grenzen an + Land"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "gegrenzt"
+    },
+    "level": "B2",
+    "tags": [
+      "地理",
+      "抽象",
+      "B2"
+    ],
+    "synonyms": [
+      "angrenzen",
+      "stoßen an"
+    ],
+    "antonyms": [
+      "entfernt sein von"
+    ]
+  },
+  {
+    "word": "grenzenan",
+    "lemma": "angrenzen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "接壤，毗邻",
+        "en": "to border on, to adjoin"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Deutschland grenzt an mehrere Länder an.",
+        "zh": "德国与多个国家接壤。"
+      },
+      {
+        "de": "Unser Garten grenzt direkt an den Wald an.",
+        "zh": "我们的花园直接毗邻森林。"
+      }
+    ],
+    "collocations": [
+      "an etwas angrenzen",
+      "direkt angrenzen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "angrenzt"
+    },
+    "level": "B1",
+    "tags": [
+      "地理",
+      "B1"
+    ],
+    "synonyms": [
+      "anstoßen",
+      "benachbart sein"
+    ],
+    "antonyms": [
+      "entfernt sein"
+    ]
+  },
+  {
+    "word": "grenzenan",
+    "lemma": "grenzen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "接壤，毗邻",
+        "en": "to border on"
+      },
+      {
+        "zh": "接近，近乎",
+        "en": "to verge on, to border on"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Deutschland grenzt an mehrere Länder.",
+        "zh": "德国与多个国家接壤。"
+      },
+      {
+        "de": "Sein Verhalten grenzt an Arroganz.",
+        "zh": "他的行为近乎傲慢。"
+      }
+    ],
+    "collocations": [
+      "an etwas grenzen",
+      "an ein Wunder grenzen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gegrenzt"
+    },
+    "level": "B1",
+    "tags": [
+      "地理",
+      "抽象关系",
+      "B1"
+    ],
+    "synonyms": [
+      "angrenzen",
+      "berühren",
+      "nahekommen"
+    ],
+    "antonyms": [
+      "entfernt sein",
+      "abweichen"
+    ]
+  }
+]

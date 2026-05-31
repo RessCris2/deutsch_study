@@ -1,0 +1,1524 @@
+[
+  {
+    "word": "Tag",
+    "lemma": "Tag",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Tage",
+    "meaning": [
+      {
+        "zh": "天，日子",
+        "en": "day"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Heute ist ein schöner Tag.",
+        "zh": "今天是个好日子。"
+      },
+      {
+        "de": "Ich habe den ganzen Tag gearbeitet.",
+        "zh": "我工作了一整天。"
+      }
+    ],
+    "collocations": [
+      "guten Tag",
+      "am nächsten Tag"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "时间",
+      "A1"
+    ],
+    "synonyms": [
+      "Tag"
+    ],
+    "antonyms": [
+      "Nacht"
+    ]
+  },
+  {
+    "word": "Tante",
+    "lemma": "Tante",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Tanten",
+    "meaning": [
+      {
+        "zh": "阿姨，姑姑，婶婶",
+        "en": "aunt"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Meine Tante wohnt in Berlin.",
+        "zh": "我的阿姨住在柏林。"
+      },
+      {
+        "de": "Die Tante hat mir ein Geschenk gegeben.",
+        "zh": "阿姨给了我一个礼物。"
+      }
+    ],
+    "collocations": [
+      "liebe Tante",
+      "Tante besuchen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "家庭",
+      "A1"
+    ],
+    "synonyms": [
+      "Verwandte"
+    ],
+    "antonyms": [
+      "Onkel"
+    ]
+  },
+  {
+    "word": "Tasse",
+    "lemma": "Tasse",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Tassen",
+    "meaning": [
+      {
+        "zh": "杯子",
+        "en": "cup"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich trinke Kaffee aus einer Tasse.",
+        "zh": "我用杯子喝咖啡。"
+      },
+      {
+        "de": "Die Tasse ist aus Porzellan.",
+        "zh": "这个杯子是瓷的。"
+      }
+    ],
+    "collocations": [
+      "eine Tasse Kaffee",
+      "Tasse Tee"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "日常用品",
+      "A1"
+    ],
+    "synonyms": [
+      "Becher"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "tatsächlich",
+    "lemma": "tatsächlich",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "实际上，确实",
+        "en": "actually, indeed"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat tatsächlich gewonnen.",
+        "zh": "他确实赢了。"
+      },
+      {
+        "de": "Das ist tatsächlich wahr.",
+        "zh": "这实际上是真的。"
+      }
+    ],
+    "collocations": [
+      "tatsächlich passieren",
+      "tatsächlich sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语气",
+      "B1"
+    ],
+    "synonyms": [
+      "wirklich",
+      "echt"
+    ],
+    "antonyms": [
+      "angeblich"
+    ]
+  },
+  {
+    "word": "tauschen",
+    "lemma": "tauschen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "交换",
+        "en": "to exchange, to swap"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir tauschen die Geschenke.",
+        "zh": "我们交换礼物。"
+      },
+      {
+        "de": "Kannst du mit mir den Platz tauschen?",
+        "zh": "你能和我换座位吗？"
+      }
+    ],
+    "collocations": [
+      "tauschen gegen",
+      "tauschen mit"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "getauscht"
+    },
+    "level": "B1",
+    "tags": [
+      "行为",
+      "B1"
+    ],
+    "synonyms": [
+      "wechseln",
+      "austauschen"
+    ],
+    "antonyms": [
+      "behalten"
+    ]
+  },
+  {
+    "word": "tausend",
+    "lemma": "tausend",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "一千",
+        "en": "thousand"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das kostet tausend Euro.",
+        "zh": "这值一千欧元。"
+      },
+      {
+        "de": "Es waren tausend Menschen da.",
+        "zh": "那里有一千人。"
+      }
+    ],
+    "collocations": [
+      "tausend Euro",
+      "tausend Mal"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "数字",
+      "A2"
+    ],
+    "synonyms": [
+      "eintausend"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Taxi",
+    "lemma": "Taxi",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Taxis",
+    "meaning": [
+      {
+        "zh": "出租车",
+        "en": "taxi"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir nehmen ein Taxi zum Flughafen.",
+        "zh": "我们坐出租车去机场。"
+      },
+      {
+        "de": "Das Taxi kommt in fünf Minuten.",
+        "zh": "出租车五分钟后到。"
+      }
+    ],
+    "collocations": [
+      "Taxi fahren",
+      "Taxi rufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "交通",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Tee",
+    "lemma": "Tee",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Tees",
+    "meaning": [
+      {
+        "zh": "茶",
+        "en": "tea"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich trinke gerne Tee.",
+        "zh": "我喜欢喝茶。"
+      },
+      {
+        "de": "Möchtest du eine Tasse Tee?",
+        "zh": "你想要一杯茶吗？"
+      }
+    ],
+    "collocations": [
+      "Tee trinken",
+      "grüner Tee"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "饮食",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "Kaffee"
+    ]
+  },
+  {
+    "word": "Telefon",
+    "lemma": "Telefon",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Telefone",
+    "meaning": [
+      {
+        "zh": "电话",
+        "en": "telephone"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe ein neues Telefon gekauft.",
+        "zh": "我买了一部新电话。"
+      },
+      {
+        "de": "Kannst du mich bitte am Telefon anrufen?",
+        "zh": "你能给我打电话吗？"
+      }
+    ],
+    "collocations": [
+      "am Telefon sein",
+      "Telefon klingelt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "科技",
+      "A1"
+    ],
+    "synonyms": [
+      "Apparat"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Telefonnummer",
+    "lemma": "Telefonnummer",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Telefonnummern",
+    "meaning": [
+      {
+        "zh": "电话号码",
+        "en": "telephone number"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du mir deine Telefonnummer geben?",
+        "zh": "你能给我你的电话号码吗？"
+      },
+      {
+        "de": "Ich habe seine Telefonnummer verloren.",
+        "zh": "我丢了他的电话号码。"
+      }
+    ],
+    "collocations": [
+      "Telefonnummer notieren",
+      "Telefonnummer wählen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "科技",
+      "A1"
+    ],
+    "synonyms": [
+      "Nummer"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Tempel",
+    "lemma": "Tempel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Tempel",
+    "meaning": [
+      {
+        "zh": "寺庙",
+        "en": "temple"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Tempel ist sehr alt und schön.",
+        "zh": "这座寺庙非常古老而美丽。"
+      },
+      {
+        "de": "Wir haben den Tempel im Urlaub besucht.",
+        "zh": "我们在度假时参观了这座寺庙。"
+      }
+    ],
+    "collocations": [
+      "einen Tempel besuchen",
+      "im Tempel beten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "文化",
+      "B1"
+    ],
+    "synonyms": [
+      "Heiligtum"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Termin",
+    "lemma": "Termin",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Termine",
+    "meaning": [
+      {
+        "zh": "预约；日期",
+        "en": "appointment; deadline"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe einen Termin beim Arzt.",
+        "zh": "我和医生有个预约。"
+      },
+      {
+        "de": "Der Termin für die Prüfung ist nächste Woche.",
+        "zh": "考试日期是下周。"
+      }
+    ],
+    "collocations": [
+      "einen Termin vereinbaren",
+      "Termin einhalten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Verabredung",
+      "Frist"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "teuer",
+    "lemma": "teuer",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "昂贵的",
+        "en": "expensive"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Auto ist zu teuer für mich.",
+        "zh": "这辆车对我来说太贵了。"
+      },
+      {
+        "de": "In diesem Restaurant ist das Essen sehr teuer.",
+        "zh": "这家餐厅的食物非常贵。"
+      }
+    ],
+    "collocations": [
+      "teuer bezahlen",
+      "teuer sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "A1"
+    ],
+    "synonyms": [
+      "kostspielig"
+    ],
+    "antonyms": [
+      "billig",
+      "günstig"
+    ]
+  },
+  {
+    "word": "Text",
+    "lemma": "Text",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Texte",
+    "meaning": [
+      {
+        "zh": "文本；文章",
+        "en": "text"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Lies den Text und beantworte die Fragen.",
+        "zh": "阅读文本并回答问题。"
+      },
+      {
+        "de": "Der Text ist schwer zu verstehen.",
+        "zh": "这篇文章很难理解。"
+      }
+    ],
+    "collocations": [
+      "einen Text schreiben",
+      "Text analysieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "教育",
+      "A2"
+    ],
+    "synonyms": [
+      "Schriftstück"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Theater",
+    "lemma": "Theater",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Theater",
+    "meaning": [
+      {
+        "zh": "剧院；戏剧",
+        "en": "theater; drama"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir gehen heute Abend ins Theater.",
+        "zh": "我们今晚去剧院。"
+      },
+      {
+        "de": "Das Theaterstück war sehr lustig.",
+        "zh": "这部戏剧非常有趣。"
+      }
+    ],
+    "collocations": [
+      "ins Theater gehen",
+      "Theater spielen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "文化",
+      "A2"
+    ],
+    "synonyms": [
+      "Bühne"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "tief",
+    "lemma": "tief",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "深的",
+        "en": "deep"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der See ist sehr tief.",
+        "zh": "这个湖很深。"
+      },
+      {
+        "de": "Sie hat eine tiefe Stimme.",
+        "zh": "她有一副低沉的声音。"
+      }
+    ],
+    "collocations": [
+      "tief tauchen",
+      "tief schlafen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "描述",
+      "A2"
+    ],
+    "synonyms": [
+      "tiefgründig"
+    ],
+    "antonyms": [
+      "flach",
+      "seicht"
+    ]
+  },
+  {
+    "word": "Tier",
+    "lemma": "Tier",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Tiere",
+    "meaning": [
+      {
+        "zh": "动物",
+        "en": "animal"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Zoo gibt es viele verschiedene Tiere.",
+        "zh": "动物园里有很多不同的动物。"
+      },
+      {
+        "de": "Mein Bruder hat ein Haustier, einen Hund.",
+        "zh": "我哥哥有一只宠物，一条狗。"
+      }
+    ],
+    "collocations": [
+      "wildes Tier",
+      "Haustier"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生物",
+      "A1"
+    ],
+    "synonyms": [
+      "Lebewesen"
+    ],
+    "antonyms": [
+      "Pflanze"
+    ]
+  },
+  {
+    "word": "tippen",
+    "lemma": "tippen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "打字；猜测",
+        "en": "to type; to guess"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie tippt den Brief am Computer.",
+        "zh": "她在电脑上打这封信。"
+      },
+      {
+        "de": "Ich tippe auf Regen morgen.",
+        "zh": "我猜明天会下雨。"
+      }
+    ],
+    "collocations": [
+      "einen Text tippen",
+      "auf etwas tippen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "getippt"
+    },
+    "level": "B1",
+    "tags": [
+      "技术",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "schreiben",
+      "vermuten"
+    ],
+    "antonyms": [
+      "löschen"
+    ]
+  },
+  {
+    "word": "Tisch",
+    "lemma": "Tisch",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Tische",
+    "meaning": [
+      {
+        "zh": "桌子",
+        "en": "table"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Tisch ist aus Holz.",
+        "zh": "这张桌子是木制的。"
+      },
+      {
+        "de": "Wir essen am Tisch.",
+        "zh": "我们在桌子上吃饭。"
+      }
+    ],
+    "collocations": [
+      "am Tisch sitzen",
+      "den Tisch decken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "家具",
+      "日常",
+      "A1"
+    ],
+    "synonyms": [
+      "Schreibtisch"
+    ],
+    "antonyms": [
+      "Stuhl"
+    ]
+  },
+  {
+    "word": "Tochter",
+    "lemma": "Tochter",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Töchter",
+    "meaning": [
+      {
+        "zh": "女儿",
+        "en": "daughter"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Meine Tochter geht zur Schule.",
+        "zh": "我的女儿去上学。"
+      },
+      {
+        "de": "Sie ist die Tochter des Arztes.",
+        "zh": "她是医生的女儿。"
+      }
+    ],
+    "collocations": [
+      "die älteste Tochter",
+      "Tochter und Sohn"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "家庭",
+      "A1"
+    ],
+    "synonyms": [
+      "Kind"
+    ],
+    "antonyms": [
+      "Sohn"
+    ]
+  },
+  {
+    "word": "Toilette",
+    "lemma": "Toilette",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Toiletten",
+    "meaning": [
+      {
+        "zh": "厕所；卫生间",
+        "en": "toilet; restroom"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wo ist die Toilette?",
+        "zh": "厕所在哪里？"
+      },
+      {
+        "de": "Die Toilette ist sauber.",
+        "zh": "卫生间很干净。"
+      }
+    ],
+    "collocations": [
+      "die Toilette benutzen",
+      "öffentliche Toilette"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "建筑",
+      "日常",
+      "A1"
+    ],
+    "synonyms": [
+      "WC",
+      "Klo"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "toll",
+    "lemma": "toll",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "极好的；很棒的",
+        "en": "great; fantastic"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist eine tolle Idee!",
+        "zh": "这是一个很棒的主意！"
+      },
+      {
+        "de": "Wir hatten einen tollen Urlaub.",
+        "zh": "我们度过了一个很棒的假期。"
+      }
+    ],
+    "collocations": [
+      "toll finden",
+      "toll aussehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "评价",
+      "A2"
+    ],
+    "synonyms": [
+      "super",
+      "großartig"
+    ],
+    "antonyms": [
+      "schlecht",
+      "langweilig"
+    ]
+  },
+  {
+    "word": "Tor",
+    "lemma": "Tor",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Tore",
+    "meaning": [
+      {
+        "zh": "大门；球门",
+        "en": "gate; goal"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Tor zum Garten ist offen.",
+        "zh": "花园的门是开着的。"
+      },
+      {
+        "de": "Der Spieler schießt ein Tor.",
+        "zh": "球员射进了一个球。"
+      }
+    ],
+    "collocations": [
+      "das Tor öffnen",
+      "ein Tor schießen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "建筑",
+      "体育",
+      "A2"
+    ],
+    "synonyms": [
+      "Eingang",
+      "Treffer"
+    ],
+    "antonyms": [
+      "Ausgang"
+    ]
+  },
+  {
+    "word": "Torte",
+    "lemma": "Torte",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Torten",
+    "meaning": [
+      {
+        "zh": "蛋糕；大蛋糕",
+        "en": "cake; torte"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Zum Geburtstag gibt es eine Torte.",
+        "zh": "生日时有一个大蛋糕。"
+      },
+      {
+        "de": "Diese Torte schmeckt sehr gut.",
+        "zh": "这个蛋糕味道很好。"
+      }
+    ],
+    "collocations": [
+      "eine Torte backen",
+      "Stück Torte"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "食物",
+      "A1"
+    ],
+    "synonyms": [
+      "Kuchen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Toufu",
+    "lemma": "Tofu",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "豆腐",
+        "en": "tofu"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich esse gerne Tofu mit Gemüse.",
+        "zh": "我喜欢吃豆腐配蔬菜。"
+      },
+      {
+        "de": "Tofu ist eine gute Proteinquelle für Vegetarier.",
+        "zh": "豆腐是素食者的良好蛋白质来源。"
+      }
+    ],
+    "collocations": [
+      "Tofu braten",
+      "Tofu marinieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "食物",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Tourist",
+    "lemma": "Tourist",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Touristen",
+    "meaning": [
+      {
+        "zh": "游客",
+        "en": "tourist"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Viele Touristen besuchen jedes Jahr Berlin.",
+        "zh": "每年有许多游客参观柏林。"
+      },
+      {
+        "de": "Der Tourist fragte nach dem Weg zum Museum.",
+        "zh": "游客询问去博物馆的路。"
+      }
+    ],
+    "collocations": [
+      "Touristen anziehen",
+      "Touristen informieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "旅游",
+      "A2"
+    ],
+    "synonyms": [
+      "Besucher",
+      "Urlauber"
+    ],
+    "antonyms": [
+      "Einheimischer"
+    ]
+  },
+  {
+    "word": "tragen",
+    "lemma": "tragen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "携带；穿；承担",
+        "en": "to carry; to wear; to bear"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie trägt eine schwere Tasche.",
+        "zh": "她提着一个沉重的包。"
+      },
+      {
+        "de": "Er trägt heute einen blauen Anzug.",
+        "zh": "他今天穿着一套蓝色西装。"
+      }
+    ],
+    "collocations": [
+      "Verantwortung tragen",
+      "Kleidung tragen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "getragen"
+    },
+    "level": "A2",
+    "tags": [
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "befördern",
+      "anhaben"
+    ],
+    "antonyms": [
+      "ablegen",
+      "fallen lassen"
+    ]
+  },
+  {
+    "word": "treffen",
+    "lemma": "treffen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "遇见；击中；会面",
+        "en": "to meet; to hit; to encounter"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich treffe meine Freunde im Café.",
+        "zh": "我在咖啡馆见我的朋友。"
+      },
+      {
+        "de": "Der Schuss hat das Ziel getroffen.",
+        "zh": "子弹击中了目标。"
+      }
+    ],
+    "collocations": [
+      "eine Entscheidung treffen",
+      "sich mit jemandem treffen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "getroffen"
+    },
+    "level": "A2",
+    "tags": [
+      "社交",
+      "A2"
+    ],
+    "synonyms": [
+      "begegnen",
+      "sehen"
+    ],
+    "antonyms": [
+      "verpassen",
+      "verfehlen"
+    ]
+  },
+  {
+    "word": "treiben",
+    "lemma": "treiben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "驱动；进行；漂浮",
+        "en": "to drive; to pursue; to float"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Wind treibt die Wolken vor sich her.",
+        "zh": "风驱赶着云彩。"
+      },
+      {
+        "de": "Er treibt viel Sport.",
+        "zh": "他进行很多运动。"
+      }
+    ],
+    "collocations": [
+      "Sport treiben",
+      "Handel treiben"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "getrieben"
+    },
+    "level": "B1",
+    "tags": [
+      "活动",
+      "B1"
+    ],
+    "synonyms": [
+      "betreiben",
+      "ausüben"
+    ],
+    "antonyms": [
+      "stoppen",
+      "ruhen"
+    ]
+  },
+  {
+    "word": "tschüs",
+    "lemma": "tschüs",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "再见（口语）",
+        "en": "bye (informal)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Tschüs, bis morgen!",
+        "zh": "再见，明天见！"
+      },
+      {
+        "de": "Sie sagte tschüs und ging.",
+        "zh": "她说了再见就走了。"
+      }
+    ],
+    "collocations": [
+      "tschüs sagen",
+      "tschüs winken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "日常用语",
+      "A1"
+    ],
+    "synonyms": [
+      "auf Wiedersehen",
+      "bis bald"
+    ],
+    "antonyms": [
+      "hallo",
+      "guten Tag"
+    ]
+  },
+  {
+    "word": "türkisch",
+    "lemma": "türkisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "土耳其的；土耳其语的",
+        "en": "Turkish"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich mag türkisches Essen.",
+        "zh": "我喜欢土耳其菜。"
+      },
+      {
+        "de": "Sie spricht fließend türkisch.",
+        "zh": "她流利地说土耳其语。"
+      }
+    ],
+    "collocations": [
+      "türkische Küche",
+      "türkische Kultur"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "国家",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "typisch",
+    "lemma": "typisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "典型的",
+        "en": "typical"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist typisch für ihn.",
+        "zh": "这对他来说很典型。"
+      },
+      {
+        "de": "Typisch deutsch ist Pünktlichkeit.",
+        "zh": "准时是典型的德国特点。"
+      }
+    ],
+    "collocations": [
+      "typisch sein",
+      "typisches Beispiel"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "描述",
+      "A2"
+    ],
+    "synonyms": [
+      "charakteristisch",
+      "kennzeichnend"
+    ],
+    "antonyms": [
+      "untypisch",
+      "außergewöhnlich"
+    ]
+  },
+  {
+    "word": "Klick",
+    "lemma": "Klick",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Klicks",
+    "meaning": [
+      {
+        "zh": "点击（鼠标或键盘的按键动作）",
+        "en": "click (action of pressing a mouse or keyboard button)"
+      },
+      {
+        "zh": "（非正式）瞬间，片刻",
+        "en": "moment, instant (informal)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mit einem Klick auf den Link öffnet sich die Seite.",
+        "zh": "点击链接，页面就会打开。"
+      },
+      {
+        "de": "Der Klick der Maus war laut zu hören.",
+        "zh": "鼠标的点击声很响。"
+      },
+      {
+        "de": "Ich bin in einem Klick wieder da.",
+        "zh": "我马上回来。"
+      }
+    ],
+    "collocations": [
+      "ein Klick auf etwas",
+      "mit einem Klick",
+      "per Mausklick",
+      "Klick für Klick"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "Mausklick",
+      "Druck",
+      "Moment"
+    ],
+    "antonyms": []
+  }
+]

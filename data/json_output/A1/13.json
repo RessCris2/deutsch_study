@@ -1,0 +1,1549 @@
+[
+  {
+    "word": "Landschaft",
+    "lemma": "Landschaft",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Landschaften",
+    "meaning": [
+      {
+        "zh": "风景，景色，地貌",
+        "en": "landscape, scenery"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Landschaft in der Schweiz ist atemberaubend.",
+        "zh": "瑞士的风景令人叹为观止。"
+      },
+      {
+        "de": "Diese Landschaft erinnert mich an meine Heimat.",
+        "zh": "这片景色让我想起我的家乡。"
+      }
+    ],
+    "collocations": [
+      "eine schöne Landschaft",
+      "die Landschaft genießen",
+      "die Landschaft verändern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "自然",
+      "地理",
+      "B1"
+    ],
+    "synonyms": [
+      "Gegend",
+      "Umgebung",
+      "Natur"
+    ],
+    "antonyms": [
+      "Stadt",
+      "Wüste"
+    ]
+  },
+  {
+    "word": "Landschaftsaufnahme",
+    "lemma": "Landschaftsaufnahme",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Landschaftsaufnahmen",
+    "meaning": [
+      {
+        "zh": "风景照片，风景拍摄",
+        "en": "landscape shot, landscape photograph"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er machte eine beeindruckende Landschaftsaufnahme vom Berggipfel.",
+        "zh": "他在山顶拍了一张令人印象深刻的风景照片。"
+      },
+      {
+        "de": "Für diese Landschaftsaufnahme brauchte er ein Stativ.",
+        "zh": "为了这张风景照，他需要一个三脚架。"
+      }
+    ],
+    "collocations": [
+      "eine Landschaftsaufnahme machen",
+      "digitale Landschaftsaufnahme",
+      "die Landschaftsaufnahme bearbeiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "摄影",
+      "技术",
+      "B2"
+    ],
+    "synonyms": [
+      "Landschaftsfoto",
+      "Landschaftsbild"
+    ],
+    "antonyms": [
+      "Porträtaufnahme"
+    ]
+  },
+  {
+    "word": "Laptop",
+    "lemma": "Laptop",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Laptops",
+    "meaning": [
+      {
+        "zh": "笔记本电脑",
+        "en": "laptop"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe meinen Laptop im Café vergessen.",
+        "zh": "我把笔记本电脑忘在咖啡馆了。"
+      },
+      {
+        "de": "Dieser Laptop ist sehr leicht und ideal für Reisen.",
+        "zh": "这台笔记本电脑很轻，非常适合旅行。"
+      }
+    ],
+    "collocations": [
+      "einen Laptop kaufen",
+      "den Laptop einschalten",
+      "am Laptop arbeiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "科技",
+      "设备",
+      "A2"
+    ],
+    "synonyms": [
+      "Notebook",
+      "Computer"
+    ],
+    "antonyms": [
+      "Desktop",
+      "Tablet"
+    ]
+  },
+  {
+    "word": "Lärm",
+    "lemma": "Lärm",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "噪音，喧闹",
+        "en": "noise, din"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Lärm von der Baustelle stört mich sehr.",
+        "zh": "工地的噪音很打扰我。"
+      },
+      {
+        "de": "Kannst du bitte den Lärm reduzieren?",
+        "zh": "你能减少噪音吗？"
+      }
+    ],
+    "collocations": [
+      "Lärm machen",
+      "Lärm vermeiden",
+      "vor Lärm schützen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "环境",
+      "A2"
+    ],
+    "synonyms": [
+      "Geräusch",
+      "Krach",
+      "Getöse"
+    ],
+    "antonyms": [
+      "Stille",
+      "Ruhe"
+    ]
+  },
+  {
+    "word": "laut",
+    "lemma": "laut",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "大声的，吵闹的；根据",
+        "en": "loud, noisy; according to"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Musik ist zu laut.",
+        "zh": "音乐太大声了。"
+      },
+      {
+        "de": "Laut dem Bericht steigen die Temperaturen.",
+        "zh": "根据报告，温度在上升。"
+      }
+    ],
+    "collocations": [
+      "laut sprechen",
+      "laut sein",
+      "laut Gesetz"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "语言",
+      "A2"
+    ],
+    "synonyms": [
+      "geräuschvoll",
+      "schrill"
+    ],
+    "antonyms": [
+      "leise",
+      "ruhig"
+    ]
+  },
+  {
+    "word": "Leben",
+    "lemma": "Leben",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Leben",
+    "meaning": [
+      {
+        "zh": "生活，生命",
+        "en": "life"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Leben in der Stadt ist teurer.",
+        "zh": "城市生活更昂贵。"
+      },
+      {
+        "de": "Er hat sein ganzes Leben in Berlin verbracht.",
+        "zh": "他一生都在柏林度过。"
+      }
+    ],
+    "collocations": [
+      "das Leben genießen",
+      "ein neues Leben beginnen",
+      "das Leben retten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "情感",
+      "A1"
+    ],
+    "synonyms": [
+      "Dasein",
+      "Existenz"
+    ],
+    "antonyms": [
+      "Tod"
+    ]
+  },
+  {
+    "word": "Lebkuchen",
+    "lemma": "Lebkuchen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Lebkuchen",
+    "meaning": [
+      {
+        "zh": "姜饼（圣诞传统糕点）",
+        "en": "gingerbread"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Zu Weihnachten essen wir gerne Lebkuchen.",
+        "zh": "圣诞节我们喜欢吃姜饼。"
+      },
+      {
+        "de": "Dieser Lebkuchen schmeckt nach Zimt und Honig.",
+        "zh": "这块姜饼尝起来有肉桂和蜂蜜的味道。"
+      }
+    ],
+    "collocations": [
+      "Lebkuchen backen",
+      "Lebkuchen kaufen",
+      "Lebkuchenherz"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "食物",
+      "节日",
+      "B1"
+    ],
+    "synonyms": [
+      "Pfefferkuchen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "lecker",
+    "lemma": "lecker",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "美味的，好吃的",
+        "en": "delicious, tasty"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Essen schmeckt sehr lecker.",
+        "zh": "这食物尝起来非常美味。"
+      },
+      {
+        "de": "Hast du das leckere Dessert probiert?",
+        "zh": "你尝过那个美味的甜点了吗？"
+      }
+    ],
+    "collocations": [
+      "lecker essen",
+      "lecker kochen",
+      "lecker schmecken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "食物",
+      "生活",
+      "A1"
+    ],
+    "synonyms": [
+      "köstlich",
+      "schmackhaft",
+      "wohlschmeckend"
+    ],
+    "antonyms": [
+      "ungenießbar",
+      "eklig"
+    ]
+  },
+  {
+    "word": "legen",
+    "lemma": "legen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "放置，平放",
+        "en": "to lay, to put"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich lege das Buch auf den Tisch.",
+        "zh": "我把书放在桌子上。"
+      },
+      {
+        "de": "Sie legt sich ins Bett.",
+        "zh": "她躺到床上。"
+      }
+    ],
+    "collocations": [
+      "Wert auf etwas legen",
+      "sich ins Zeug legen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gelegt"
+    },
+    "level": "B1",
+    "tags": [
+      "日常动作",
+      "B1"
+    ],
+    "synonyms": [
+      "stellen",
+      "setzen"
+    ],
+    "antonyms": [
+      "nehmen",
+      "heben"
+    ]
+  },
+  {
+    "word": "Lehrer",
+    "lemma": "Lehrer",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Lehrer",
+    "meaning": [
+      {
+        "zh": "老师，教师",
+        "en": "teacher"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Lehrer erklärt die Grammatik.",
+        "zh": "老师解释语法。"
+      },
+      {
+        "de": "Mein Lehrer hilft mir bei den Hausaufgaben.",
+        "zh": "我的老师帮我做作业。"
+      }
+    ],
+    "collocations": [
+      "Lehrer werden",
+      "als Lehrer arbeiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "职业",
+      "教育",
+      "A2"
+    ],
+    "synonyms": [
+      "Pädagoge",
+      "Dozent"
+    ],
+    "antonyms": [
+      "Schüler",
+      "Student"
+    ]
+  },
+  {
+    "word": "leider",
+    "lemma": "leider",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "遗憾地，可惜",
+        "en": "unfortunately"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Leider kann ich nicht kommen.",
+        "zh": "可惜我不能来。"
+      },
+      {
+        "de": "Das ist leider wahr.",
+        "zh": "这很不幸是真的。"
+      }
+    ],
+    "collocations": [
+      "leider nicht",
+      "leider ja"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "语气",
+      "A2"
+    ],
+    "synonyms": [
+      "bedauerlicherweise",
+      "unglücklicherweise"
+    ],
+    "antonyms": [
+      "glücklicherweise",
+      "zum Glück"
+    ]
+  },
+  {
+    "word": "eidtun",
+    "lemma": "eidtun",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "（标准德语中不存在，可能为拼写错误）",
+        "en": "non-standard, possibly misspelled"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieses Wort ist im Deutschen nicht gebräuchlich.",
+        "zh": "这个词在德语中不常用。"
+      },
+      {
+        "de": "Bitte überprüfen Sie die Schreibweise.",
+        "zh": "请检查拼写。"
+      }
+    ],
+    "collocations": [],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": null,
+    "tags": [
+      "拼写错误",
+      "未知"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "eise",
+    "lemma": "eise",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "eisen",
+    "meaning": [
+      {
+        "zh": "（标准德语中不存在，可能为拼写错误或古语）",
+        "en": "non-standard, possibly archaic"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieses Wort ist im modernen Deutsch unbekannt.",
+        "zh": "这个词在现代德语中未知。"
+      },
+      {
+        "de": "Vielleicht meinen Sie 'Eis' oder 'Reise'.",
+        "zh": "也许您指的是'Eis'或'Reise'。"
+      }
+    ],
+    "collocations": [],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": null,
+    "tags": [
+      "拼写错误",
+      "未知"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "lernen",
+    "lemma": "lernen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "学习",
+        "en": "to learn"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich lerne Deutsch.",
+        "zh": "我学习德语。"
+      },
+      {
+        "de": "Sie lernt für die Prüfung.",
+        "zh": "她为考试而学习。"
+      }
+    ],
+    "collocations": [
+      "etwas auswendig lernen",
+      "voneinander lernen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gelernt"
+    },
+    "level": "A1",
+    "tags": [
+      "教育",
+      "日常",
+      "A1"
+    ],
+    "synonyms": [
+      "studieren",
+      "sich aneignen"
+    ],
+    "antonyms": [
+      "vergessen",
+      "verlernen"
+    ]
+  },
+  {
+    "word": "esen",
+    "lemma": "esen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "（标准德语中不存在，可能为拼写错误，应为'essen'）",
+        "en": "non-standard, likely misspelling of 'essen'"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Wort 'esen' ist nicht korrekt.",
+        "zh": "单词'esen'不正确。"
+      },
+      {
+        "de": "Richtig heißt es 'essen'.",
+        "zh": "正确写法是'essen'。"
+      }
+    ],
+    "collocations": [],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": null,
+    "tags": [
+      "拼写错误",
+      "未知"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Leser",
+    "lemma": "Leser",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Leser",
+    "meaning": [
+      {
+        "zh": "读者",
+        "en": "reader"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Leser hat den Artikel kommentiert.",
+        "zh": "读者评论了这篇文章。"
+      },
+      {
+        "de": "Viele Leser schreiben Briefe an die Redaktion.",
+        "zh": "许多读者给编辑部写信。"
+      }
+    ],
+    "collocations": [
+      "Leserbrief",
+      "Leser fragen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "媒体",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Leserin",
+      "Abonnent"
+    ],
+    "antonyms": [
+      "Autor",
+      "Schreiber"
+    ]
+  },
+  {
+    "word": "etzt",
+    "lemma": "etzt",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "现在",
+        "en": "now"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er kommt etzt.",
+        "zh": "他现在来了。"
+      },
+      {
+        "de": "Was machen wir etzt?",
+        "zh": "我们现在做什么？"
+      }
+    ],
+    "collocations": [
+      "etzt sofort",
+      "etzt gleich"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "时间",
+      "A1"
+    ],
+    "synonyms": [
+      "nun",
+      "jetzt"
+    ],
+    "antonyms": [
+      "später",
+      "damals"
+    ]
+  },
+  {
+    "word": "Leute",
+    "lemma": "Leute",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Leute",
+    "meaning": [
+      {
+        "zh": "人们",
+        "en": "people"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Leute auf der Straße sind freundlich.",
+        "zh": "街上的人们很友好。"
+      },
+      {
+        "de": "Viele Leute kommen zum Fest.",
+        "zh": "很多人来参加节日。"
+      }
+    ],
+    "collocations": [
+      "junge Leute",
+      "die Leute von heute"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "社会",
+      "A1"
+    ],
+    "synonyms": [
+      "Menschen",
+      "Bevölkerung"
+    ],
+    "antonyms": [
+      "Einzelperson"
+    ]
+  },
+  {
+    "word": "Licht",
+    "lemma": "Licht",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Lichter",
+    "meaning": [
+      {
+        "zh": "光",
+        "en": "light"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Licht ist zu hell.",
+        "zh": "光太亮了。"
+      },
+      {
+        "de": "Bitte mach das Licht an.",
+        "zh": "请把灯打开。"
+      }
+    ],
+    "collocations": [
+      "Licht anmachen",
+      "Licht ausmachen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Helligkeit",
+      "Schein"
+    ],
+    "antonyms": [
+      "Dunkelheit",
+      "Schatten"
+    ]
+  },
+  {
+    "word": "ieb",
+    "lemma": "lieb",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "亲爱的；友好的",
+        "en": "dear; kind"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie ist eine liebe Frau.",
+        "zh": "她是一个友好的女人。"
+      },
+      {
+        "de": "Das war sehr lieb von dir.",
+        "zh": "你真是太好了。"
+      }
+    ],
+    "collocations": [
+      "lieb haben",
+      "lieb sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "nett",
+      "freundlich"
+    ],
+    "antonyms": [
+      "böse",
+      "unfreundlich"
+    ]
+  },
+  {
+    "word": "ieben",
+    "lemma": "lieben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "爱",
+        "en": "to love"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich liebe dich.",
+        "zh": "我爱你。"
+      },
+      {
+        "de": "Sie liebt es, zu reisen.",
+        "zh": "她喜欢旅行。"
+      }
+    ],
+    "collocations": [
+      "jemanden lieben",
+      "etwas lieben"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geliebt"
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "mögen",
+      "verehren"
+    ],
+    "antonyms": [
+      "hassen",
+      "verabscheuen"
+    ]
+  },
+  {
+    "word": "Lied",
+    "lemma": "Lied",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Lieder",
+    "meaning": [
+      {
+        "zh": "歌曲",
+        "en": "song"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie singt ein schönes Lied.",
+        "zh": "她唱一首美丽的歌。"
+      },
+      {
+        "de": "Das Lied ist sehr bekannt.",
+        "zh": "这首歌很有名。"
+      }
+    ],
+    "collocations": [
+      "ein Lied singen",
+      "ein Lied hören"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "文化",
+      "A2"
+    ],
+    "synonyms": [
+      "Song",
+      "Melodie"
+    ],
+    "antonyms": [
+      "Stille",
+      "Lärm"
+    ]
+  },
+  {
+    "word": "iegen",
+    "lemma": "liegen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "躺；位于",
+        "en": "to lie; to be located"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Buch liegt auf dem Tisch.",
+        "zh": "书在桌子上。"
+      },
+      {
+        "de": "Er liegt im Bett.",
+        "zh": "他躺在床上。"
+      }
+    ],
+    "collocations": [
+      "auf dem Boden liegen",
+      "im Krankenhaus liegen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gelegen"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "sich befinden",
+      "ruhen"
+    ],
+    "antonyms": [
+      "stehen",
+      "sitzen"
+    ]
+  },
+  {
+    "word": "Linie",
+    "lemma": "Linie",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Linien",
+    "meaning": [
+      {
+        "zh": "线；线路",
+        "en": "line; route"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Linie 5 fährt zum Bahnhof.",
+        "zh": "5路车去火车站。"
+      },
+      {
+        "de": "Zeichne eine gerade Linie.",
+        "zh": "画一条直线。"
+      }
+    ],
+    "collocations": [
+      "in der Linie",
+      "die Linie halten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "交通",
+      "B1"
+    ],
+    "synonyms": [
+      "Strecke",
+      "Route"
+    ],
+    "antonyms": [
+      "Kurve",
+      "Punkt"
+    ]
+  },
+  {
+    "word": "Lokal",
+    "lemma": "Lokal",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Lokale",
+    "meaning": [
+      {
+        "zh": "餐馆，酒馆",
+        "en": "restaurant, pub"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir essen heute Abend in einem italienischen Lokal.",
+        "zh": "我们今晚在一家意大利餐馆吃饭。"
+      },
+      {
+        "de": "Dieses Lokal hat bis Mitternacht geöffnet.",
+        "zh": "这家酒馆营业到午夜。"
+      }
+    ],
+    "collocations": [
+      "ein Lokal besuchen",
+      "in einem Lokal essen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Restaurant",
+      "Gaststätte"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "AdjAdv",
+    "lemma": "AdjAdv",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "（输入错误，应为形容词或副词，但此处作为占位）",
+        "en": "placeholder for adjective/adverb"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieses Wort ist ein Platzhalter.",
+        "zh": "这个词是一个占位符。"
+      },
+      {
+        "de": "Bitte überprüfen Sie die Eingabe.",
+        "zh": "请检查输入。"
+      }
+    ],
+    "collocations": [],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "其他",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Luft",
+    "lemma": "Luft",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Lüfte",
+    "meaning": [
+      {
+        "zh": "空气",
+        "en": "air"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Luft ist heute sehr frisch.",
+        "zh": "今天空气很清新。"
+      },
+      {
+        "de": "Er atmete tief die kalte Luft ein.",
+        "zh": "他深深地吸了一口冷空气。"
+      }
+    ],
+    "collocations": [
+      "frische Luft",
+      "an die frische Luft gehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "自然",
+      "A2"
+    ],
+    "synonyms": [
+      "Atmosphäre"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Lust",
+    "lemma": "Lust",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Lüste",
+    "meaning": [
+      {
+        "zh": "兴趣，乐趣，欲望",
+        "en": "desire, pleasure, interest"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe keine Lust, heute Abend auszugehen.",
+        "zh": "我今晚没兴趣出去。"
+      },
+      {
+        "de": "Sie hat große Lust auf ein Eis.",
+        "zh": "她很想吃冰淇淋。"
+      }
+    ],
+    "collocations": [
+      "Lust haben",
+      "mit Lust und Liebe"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "Freude",
+      "Interesse"
+    ],
+    "antonyms": [
+      "Unlust"
+    ]
+  },
+  {
+    "word": "machen",
+    "lemma": "machen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "做，制作",
+        "en": "to do, to make"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Was machst du gerade?",
+        "zh": "你正在做什么？"
+      },
+      {
+        "de": "Sie macht einen Kuchen.",
+        "zh": "她正在做一个蛋糕。"
+      }
+    ],
+    "collocations": [
+      "Hausaufgaben machen",
+      "einen Fehler machen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gemacht"
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "A1"
+    ],
+    "synonyms": [
+      "tun",
+      "erledigen"
+    ],
+    "antonyms": [
+      "lassen"
+    ]
+  },
+  {
+    "word": "Mädchen",
+    "lemma": "Mädchen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Mädchen",
+    "meaning": [
+      {
+        "zh": "女孩，少女",
+        "en": "girl"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das kleine Mädchen spielt im Garten.",
+        "zh": "那个小女孩在花园里玩。"
+      },
+      {
+        "de": "Die Mädchen gehen zusammen zur Schule.",
+        "zh": "女孩们一起上学。"
+      }
+    ],
+    "collocations": [
+      "ein junges Mädchen",
+      "Mädchen und Jungen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "人物",
+      "A1"
+    ],
+    "synonyms": [
+      "Kind",
+      "Jugendliche"
+    ],
+    "antonyms": [
+      "Junge"
+    ]
+  },
+  {
+    "word": "Magen",
+    "lemma": "Magen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Mägen",
+    "meaning": [
+      {
+        "zh": "胃",
+        "en": "stomach"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mir tut der Magen weh.",
+        "zh": "我胃疼。"
+      },
+      {
+        "de": "Er hat einen empfindlichen Magen.",
+        "zh": "他胃很敏感。"
+      }
+    ],
+    "collocations": [
+      "auf nüchternen Magen",
+      "Magenprobleme haben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "身体",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Mail",
+    "lemma": "Mail",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Mails",
+    "meaning": [
+      {
+        "zh": "电子邮件",
+        "en": "email"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe eine Mail von meinem Chef bekommen.",
+        "zh": "我收到了一封老板的邮件。"
+      },
+      {
+        "de": "Kannst du mir die Mail weiterleiten?",
+        "zh": "你能把这封邮件转发给我吗？"
+      }
+    ],
+    "collocations": [
+      "eine Mail schreiben",
+      "eine Mail beantworten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "科技",
+      "A2"
+    ],
+    "synonyms": [
+      "E-Mail",
+      "Nachricht"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Klick",
+    "lemma": "Klick",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Klicks",
+    "meaning": [
+      {
+        "zh": "点击（鼠标）",
+        "en": "click (mouse)"
+      },
+      {
+        "zh": "咔嚓声",
+        "en": "click sound"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mit einem Klick öffnet sich das Fenster.",
+        "zh": "点击一下，窗口就打开了。"
+      },
+      {
+        "de": "Der Klick der Tür war laut.",
+        "zh": "门的咔嚓声很响。"
+      }
+    ],
+    "collocations": [
+      "ein Klick auf die Maus",
+      "mit einem Klick bestätigen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "日常"
+    ],
+    "synonyms": [
+      "Mausklick"
+    ],
+    "antonyms": []
+  }
+]

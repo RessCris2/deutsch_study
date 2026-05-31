@@ -1,0 +1,4 @@
+lemma,part_of_speech,word_category,gender,article,plural_form,meanings,collocations,example_de,example_zh,tags,extra_data
+die Frist,noun,formal,feminine,die,die Fristen,"期限|截止时间","eine Frist verlaengern::延长期限|die Frist verpassen::错过期限","Die Frist endet morgen.","截止日期明天结束。","bureaucracy|B1","{""topic"":""office"",""difficulty"":""mid""}"
+zuverlaessig,adjective,daily,,,,"可靠|可信赖","zuverlaessig arbeiten::可靠地工作","Er ist immer sehr zuverlaessig.","他一直都很可靠。","character|A2","{""topic"":""personality""}"
+

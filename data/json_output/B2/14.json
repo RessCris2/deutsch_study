@@ -1,0 +1,1555 @@
+[
+  {
+    "word": "EIT",
+    "lemma": "EIT",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "EITs",
+    "meaning": [
+      {
+        "zh": "电子与信息技术",
+        "en": "Electronics and Information Technology"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er studiert EIT an der Universität.",
+        "zh": "他在大学学习电子与信息技术。"
+      },
+      {
+        "de": "Die Firma sucht einen Experten für EIT.",
+        "zh": "这家公司正在寻找一位电子与信息技术专家。"
+      }
+    ],
+    "collocations": [
+      "EIT-Studium",
+      "EIT-Bereich"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "科技",
+      "教育",
+      "B2"
+    ],
+    "synonyms": [
+      "Informationstechnologie"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Eid",
+    "lemma": "Eid",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Eide",
+    "meaning": [
+      {
+        "zh": "誓言",
+        "en": "oath"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er legte einen Eid auf die Verfassung ab.",
+        "zh": "他对着宪法宣誓。"
+      },
+      {
+        "de": "Der Zeuge sprach den Eid vor Gericht.",
+        "zh": "证人在法庭上宣誓。"
+      }
+    ],
+    "collocations": [
+      "einen Eid ablegen",
+      "unter Eid aussagen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "法律",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Schwur"
+    ],
+    "antonyms": [
+      "Lüge"
+    ]
+  },
+  {
+    "word": "Rotor",
+    "lemma": "Rotor",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Rotoren",
+    "meaning": [
+      {
+        "zh": "转子",
+        "en": "rotor"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Rotor des Hubschraubers dreht sich schnell.",
+        "zh": "直升机的转子快速旋转。"
+      },
+      {
+        "de": "Ein defekter Rotor kann die Maschine beschädigen.",
+        "zh": "损坏的转子可能会损坏机器。"
+      }
+    ],
+    "collocations": [
+      "Rotorblatt",
+      "Rotor dreht sich"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "科技",
+      "机械",
+      "B2"
+    ],
+    "synonyms": [
+      "Drehflügel"
+    ],
+    "antonyms": [
+      "Stator"
+    ]
+  },
+  {
+    "word": "Rubrik",
+    "lemma": "Rubrik",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Rubriken",
+    "meaning": [
+      {
+        "zh": "栏目",
+        "en": "column, category"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In der Rubrik 'Wirtschaft' finden Sie aktuelle Nachrichten.",
+        "zh": "在'经济'栏目中，您可以找到最新新闻。"
+      },
+      {
+        "de": "Bitte tragen Sie Ihre Daten in die richtige Rubrik ein.",
+        "zh": "请将您的数据填入正确的栏目。"
+      }
+    ],
+    "collocations": [
+      "Rubrik einer Zeitung",
+      "Rubrik ausfüllen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "媒体",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Kategorie",
+      "Spalte"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Schalter",
+    "lemma": "Schalter",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Schalter",
+    "meaning": [
+      {
+        "zh": "开关；柜台",
+        "en": "switch; counter"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Drücken Sie den Schalter, um das Licht einzuschalten.",
+        "zh": "按下开关打开灯。"
+      },
+      {
+        "de": "Am Schalter können Sie Fahrkarten kaufen.",
+        "zh": "在柜台您可以购买车票。"
+      }
+    ],
+    "collocations": [
+      "Lichtschalter",
+      "Schalter am Bahnhof"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "科技",
+      "A2"
+    ],
+    "synonyms": [
+      "Kippschalter",
+      "Taste",
+      "Büro"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Scham",
+    "lemma": "Scham",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "羞耻",
+        "en": "shame"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er fühlte tiefe Scham wegen seines Fehlers.",
+        "zh": "他为自己的错误感到深深的羞耻。"
+      },
+      {
+        "de": "Sie errötete vor Scham.",
+        "zh": "她因羞耻而脸红。"
+      }
+    ],
+    "collocations": [
+      "Scham empfinden",
+      "vor Scham erröten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "心理",
+      "B1"
+    ],
+    "synonyms": [
+      "Schamgefühl",
+      "Verlegenheit"
+    ],
+    "antonyms": [
+      "Stolz"
+    ]
+  },
+  {
+    "word": "schämen",
+    "lemma": "schämen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "感到羞愧",
+        "en": "to be ashamed"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich schäme mich für mein Verhalten.",
+        "zh": "我为自己的行为感到羞愧。"
+      },
+      {
+        "de": "Sie schämt sich, die Wahrheit zu sagen.",
+        "zh": "她羞于说出真相。"
+      }
+    ],
+    "collocations": [
+      "sich für etwas schämen",
+      "sich schämen zu tun"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geschämt"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "心理",
+      "B1"
+    ],
+    "synonyms": [
+      "sich genieren"
+    ],
+    "antonyms": [
+      "stolz sein"
+    ]
+  },
+  {
+    "word": "Schiedsrichter",
+    "lemma": "Schiedsrichter",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Schiedsrichter",
+    "meaning": [
+      {
+        "zh": "裁判",
+        "en": "referee, umpire"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Schiedsrichter pfiff das Spiel ab.",
+        "zh": "裁判吹响了比赛结束的哨声。"
+      },
+      {
+        "de": "Der Schiedsrichter entschied auf Elfmeter.",
+        "zh": "裁判判罚了点球。"
+      }
+    ],
+    "collocations": [
+      "Schiedsrichter im Fußball",
+      "Schiedsrichterentscheidung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "体育",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Unparteiischer",
+      "Referee"
+    ],
+    "antonyms": [
+      "Spieler"
+    ]
+  },
+  {
+    "word": "schief",
+    "lemma": "schief",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "歪斜的，弯曲的",
+        "en": "crooked, tilted"
+      },
+      {
+        "zh": "错误的，不顺利的",
+        "en": "wrong, awry"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Bild hängt schief an der Wand.",
+        "zh": "这幅画歪挂在墙上。"
+      },
+      {
+        "de": "Der Plan ist schiefgegangen.",
+        "zh": "计划失败了。"
+      }
+    ],
+    "collocations": [
+      "schief gehen",
+      "schief hängen",
+      "schief lachen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "形容词",
+      "副词",
+      "状态",
+      "B1"
+    ],
+    "synonyms": [
+      "krumm",
+      "verkehrt"
+    ],
+    "antonyms": [
+      "gerade",
+      "richtig"
+    ]
+  },
+  {
+    "word": "schießen",
+    "lemma": "schießen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "射击，开枪",
+        "en": "to shoot"
+      },
+      {
+        "zh": "射门，投篮",
+        "en": "to kick, to shoot (sports)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Jäger hat auf den Hasen geschossen.",
+        "zh": "猎人向兔子开枪了。"
+      },
+      {
+        "de": "Er hat den Ball ins Tor geschossen.",
+        "zh": "他把球射进了球门。"
+      }
+    ],
+    "collocations": [
+      "auf jemanden schießen",
+      "ein Tor schießen",
+      "schießen lassen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geschossen"
+    },
+    "level": "B1",
+    "tags": [
+      "动词",
+      "动作",
+      "体育",
+      "B1"
+    ],
+    "synonyms": [
+      "feuern",
+      "abdrücken"
+    ],
+    "antonyms": [
+      "halten",
+      "stoppen"
+    ]
+  },
+  {
+    "word": "Schlägerei",
+    "lemma": "Schlägerei",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Schlägereien",
+    "meaning": [
+      {
+        "zh": "斗殴，打架",
+        "en": "brawl, fight"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Auf dem Schulhof gab es eine heftige Schlägerei.",
+        "zh": "操场上发生了一场激烈的斗殴。"
+      },
+      {
+        "de": "Die Polizei musste die Schlägerei auflösen.",
+        "zh": "警察不得不制止这场斗殴。"
+      }
+    ],
+    "collocations": [
+      "eine Schlägerei anzetteln",
+      "in eine Schlägerei geraten",
+      "Schlägerei vermeiden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "名词",
+      "社会",
+      "冲突",
+      "B1"
+    ],
+    "synonyms": [
+      "Prügelei",
+      "Handgemenge"
+    ],
+    "antonyms": [
+      "Frieden",
+      "Ruhe"
+    ]
+  },
+  {
+    "word": "Schlange",
+    "lemma": "Schlange",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Schlangen",
+    "meaning": [
+      {
+        "zh": "蛇",
+        "en": "snake"
+      },
+      {
+        "zh": "长队，队列",
+        "en": "queue, line"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Zoo habe ich eine große Schlange gesehen.",
+        "zh": "我在动物园看到了一条大蛇。"
+      },
+      {
+        "de": "Wir mussten eine Stunde in der Schlange warten.",
+        "zh": "我们不得不在队伍里等了一个小时。"
+      }
+    ],
+    "collocations": [
+      "Schlange stehen",
+      "eine Schlange bilden",
+      "vor der Schlange"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "名词",
+      "动物",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "Reihe",
+      "Warteschlange"
+    ],
+    "antonyms": [
+      "Einzelperson",
+      "Leere"
+    ]
+  },
+  {
+    "word": "Schleimhaut",
+    "lemma": "Schleimhaut",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Schleimhäute",
+    "meaning": [
+      {
+        "zh": "黏膜",
+        "en": "mucous membrane"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Schleimhaut in der Nase schützt vor Viren.",
+        "zh": "鼻子里的黏膜保护免受病毒侵害。"
+      },
+      {
+        "de": "Bei einer Erkältung ist die Schleimhaut oft gereizt.",
+        "zh": "感冒时黏膜常常受到刺激。"
+      }
+    ],
+    "collocations": [
+      "Nasenschleimhaut",
+      "Schleimhautentzündung",
+      "Schleimhaut schützen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "名词",
+      "医学",
+      "身体",
+      "B2"
+    ],
+    "synonyms": [
+      "Mukosa"
+    ],
+    "antonyms": [
+      "Haut"
+    ]
+  },
+  {
+    "word": "Schluss",
+    "lemma": "Schluss",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Schlüsse",
+    "meaning": [
+      {
+        "zh": "结束，结尾",
+        "en": "end, conclusion"
+      },
+      {
+        "zh": "结论",
+        "en": "conclusion (in logic)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Am Schluss des Films gab es eine Überraschung.",
+        "zh": "电影结尾有一个惊喜。"
+      },
+      {
+        "de": "Er zog den Schluss, dass er mehr lernen muss.",
+        "zh": "他得出结论，他必须多学习。"
+      }
+    ],
+    "collocations": [
+      "Schluss machen",
+      "zum Schluss",
+      "einen Schluss ziehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "名词",
+      "时间",
+      "逻辑",
+      "A2"
+    ],
+    "synonyms": [
+      "Ende",
+      "Abschluss"
+    ],
+    "antonyms": [
+      "Anfang",
+      "Beginn"
+    ]
+  },
+  {
+    "word": "schmutzig",
+    "lemma": "schmutzig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "脏的，污秽的",
+        "en": "dirty, filthy"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kinder haben schmutzige Hände.",
+        "zh": "孩子们的手很脏。"
+      },
+      {
+        "de": "Der Tisch ist schmutzig und muss geputzt werden.",
+        "zh": "桌子很脏，需要擦干净。"
+      }
+    ],
+    "collocations": [
+      "schmutzige Wäsche",
+      "schmutzig machen",
+      "schmutzig werden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "形容词",
+      "状态",
+      "日常",
+      "A1"
+    ],
+    "synonyms": [
+      "dreckig",
+      "unrein"
+    ],
+    "antonyms": [
+      "sauber",
+      "rein"
+    ]
+  },
+  {
+    "word": "Schriften",
+    "lemma": "Schrift",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Schriften",
+    "meaning": [
+      {
+        "zh": "文字，字体",
+        "en": "script, writing"
+      },
+      {
+        "zh": "著作，文献",
+        "en": "writings, publications"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die alten Schriften sind schwer zu lesen.",
+        "zh": "这些古老的文字很难读。"
+      },
+      {
+        "de": "Er hat mehrere wissenschaftliche Schriften veröffentlicht.",
+        "zh": "他发表了几部科学著作。"
+      }
+    ],
+    "collocations": [
+      "heilige Schriften",
+      "Schriften verfassen",
+      "alte Schriften"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "名词",
+      "文化",
+      "学术",
+      "B1"
+    ],
+    "synonyms": [
+      "Texte",
+      "Werke"
+    ],
+    "antonyms": [
+      "Mündlichkeit",
+      "Rede"
+    ]
+  },
+  {
+    "word": "Schuld",
+    "lemma": "Schuld",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "罪责，过错",
+        "en": "guilt, fault"
+      },
+      {
+        "zh": "债务",
+        "en": "debt"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat die Schuld auf sich genommen.",
+        "zh": "他承担了责任。"
+      },
+      {
+        "de": "Sie steckt tief in Schulden.",
+        "zh": "她深陷债务之中。"
+      }
+    ],
+    "collocations": [
+      "die Schuld eingestehen",
+      "Schulden machen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "法律",
+      "情感",
+      "经济"
+    ],
+    "synonyms": [
+      "Verantwortung",
+      "Verschuldung"
+    ],
+    "antonyms": [
+      "Unschuld"
+    ]
+  },
+  {
+    "word": "Schwäche",
+    "lemma": "Schwäche",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Schwächen",
+    "meaning": [
+      {
+        "zh": "弱点，虚弱",
+        "en": "weakness, frailty"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Jeder Mensch hat seine Schwächen.",
+        "zh": "每个人都有他的弱点。"
+      },
+      {
+        "de": "Nach der Krankheit fühlte sie eine große Schwäche.",
+        "zh": "生病后她感到非常虚弱。"
+      }
+    ],
+    "collocations": [
+      "eine Schwäche haben",
+      "Schwäche zeigen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "健康",
+      "性格"
+    ],
+    "synonyms": [
+      "Mangel",
+      "Gebrechlichkeit"
+    ],
+    "antonyms": [
+      "Stärke"
+    ]
+  },
+  {
+    "word": "schwerfallen",
+    "lemma": "schwerfallen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "感到困难，难以做到",
+        "en": "to be difficult for someone"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Es fällt mir schwer, mich zu konzentrieren.",
+        "zh": "我很难集中注意力。"
+      },
+      {
+        "de": "Ihm fällt das Lernen schwer.",
+        "zh": "他学习很吃力。"
+      }
+    ],
+    "collocations": [
+      "jemandem schwerfallen",
+      "etwas fällt jemandem schwer"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": true,
+      "auxiliary": "sein",
+      "partizip2": "schwergefallen"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "学习",
+      "日常"
+    ],
+    "synonyms": [
+      "Mühe machen",
+      "schwer sein"
+    ],
+    "antonyms": [
+      "leichtfallen"
+    ]
+  },
+  {
+    "word": "schwierig",
+    "lemma": "schwierig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "困难的，棘手的",
+        "en": "difficult, tricky"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Prüfung war sehr schwierig.",
+        "zh": "考试非常难。"
+      },
+      {
+        "de": "Er ist ein schwieriger Mensch.",
+        "zh": "他是个难相处的人。"
+      }
+    ],
+    "collocations": [
+      "eine schwierige Aufgabe",
+      "schwierige Zeiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "日常",
+      "性格",
+      "学习"
+    ],
+    "synonyms": [
+      "kompliziert",
+      "anstrengend"
+    ],
+    "antonyms": [
+      "einfach",
+      "leicht"
+    ]
+  },
+  {
+    "word": "Seemeile",
+    "lemma": "Seemeile",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Seemeilen",
+    "meaning": [
+      {
+        "zh": "海里",
+        "en": "nautical mile"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Schiff legt 20 Seemeilen pro Stunde zurück.",
+        "zh": "这艘船每小时行驶20海里。"
+      },
+      {
+        "de": "Die Küste ist noch fünf Seemeilen entfernt.",
+        "zh": "海岸还有五海里远。"
+      }
+    ],
+    "collocations": [
+      "eine Seemeile zurücklegen",
+      "in Seemeilen messen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "航海",
+      "测量",
+      "科技"
+    ],
+    "synonyms": [
+      "nautische Meile"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Sehnsucht",
+    "lemma": "Sehnsucht",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Sehnsüchte",
+    "meaning": [
+      {
+        "zh": "渴望，思念",
+        "en": "longing, yearning"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat Sehnsucht nach ihrer Heimat.",
+        "zh": "她思念家乡。"
+      },
+      {
+        "de": "Die Sehnsucht nach Freiheit ist groß.",
+        "zh": "对自由的渴望很强烈。"
+      }
+    ],
+    "collocations": [
+      "Sehnsucht haben",
+      "Sehnsucht nach etwas"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "心理",
+      "日常"
+    ],
+    "synonyms": [
+      "Verlangen",
+      "Heimweh"
+    ],
+    "antonyms": [
+      "Gleichgültigkeit"
+    ]
+  },
+  {
+    "word": "Sektor",
+    "lemma": "Sektor",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Sektoren",
+    "meaning": [
+      {
+        "zh": "部门，领域，扇区",
+        "en": "sector, area"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der private Sektor wächst schnell.",
+        "zh": "私营部门增长迅速。"
+      },
+      {
+        "de": "In diesem Sektor der Stadt gibt es viele Restaurants.",
+        "zh": "在这个城市区域有很多餐馆。"
+      }
+    ],
+    "collocations": [
+      "der öffentliche Sektor",
+      "der Dienstleistungssektor"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "社会",
+      "科技"
+    ],
+    "synonyms": [
+      "Bereich",
+      "Branche"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Sekunde",
+    "lemma": "Sekunde",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Sekunden",
+    "meaning": [
+      {
+        "zh": "秒",
+        "en": "second"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Vorgang dauert nur eine Sekunde.",
+        "zh": "这个过程只持续一秒钟。"
+      },
+      {
+        "de": "Bitte warten Sie einen Sekunde.",
+        "zh": "请稍等一秒钟。"
+      }
+    ],
+    "collocations": [
+      "pro Sekunde",
+      "in Sekundenschnelle"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "时间",
+      "科技",
+      "日常"
+    ],
+    "synonyms": [
+      "Augenblick",
+      "Moment"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "senden",
+    "lemma": "senden",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "发送，寄出",
+        "en": "to send"
+      },
+      {
+        "zh": "播送，播放",
+        "en": "to broadcast"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich sende dir eine E-Mail.",
+        "zh": "我给你发一封电子邮件。"
+      },
+      {
+        "de": "Der Sender sendet die Nachrichten um 20 Uhr.",
+        "zh": "电台在晚上8点播送新闻。"
+      }
+    ],
+    "collocations": [
+      "eine Nachricht senden",
+      "ein Paket senden",
+      "ein Signal senden",
+      "live senden"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gesendet"
+    },
+    "level": "B1",
+    "tags": [
+      "通信",
+      "媒体",
+      "B1"
+    ],
+    "synonyms": [
+      "schicken",
+      "übermitteln",
+      "ausstrahlen"
+    ],
+    "antonyms": [
+      "empfangen"
+    ]
+  },
+  {
+    "word": "Senken",
+    "lemma": "Senke",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Senken",
+    "meaning": [
+      {
+        "zh": "洼地，低地",
+        "en": "depression, hollow"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Wasser sammelt sich in der Senke.",
+        "zh": "水聚集在洼地里。"
+      },
+      {
+        "de": "Die Senke ist von Wiesen umgeben.",
+        "zh": "洼地被草地环绕。"
+      }
+    ],
+    "collocations": [
+      "eine natürliche Senke",
+      "in der Senke liegen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "地理",
+      "自然",
+      "B2"
+    ],
+    "synonyms": [
+      "Vertiefung",
+      "Mulde"
+    ],
+    "antonyms": [
+      "Erhebung",
+      "Hügel"
+    ]
+  },
+  {
+    "word": "Service",
+    "lemma": "Service",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Services",
+    "meaning": [
+      {
+        "zh": "服务，客服",
+        "en": "service, customer service"
+      },
+      {
+        "zh": "（体育）发球",
+        "en": "serve (sports)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Service in diesem Restaurant ist ausgezeichnet.",
+        "zh": "这家餐厅的服务非常好。"
+      },
+      {
+        "de": "Sein Service im Tennis ist sehr stark.",
+        "zh": "他的网球发球非常有力。"
+      }
+    ],
+    "collocations": [
+      "Kundenservice",
+      "Service anbieten",
+      "Service verbessern",
+      "Aufschlag (im Tennis)"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "商业",
+      "体育",
+      "B1"
+    ],
+    "synonyms": [
+      "Dienstleistung",
+      "Betreuung",
+      "Aufschlag"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "setzen",
+    "lemma": "setzen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "放置，安放",
+        "en": "to put, to place"
+      },
+      {
+        "zh": "坐下（反身）",
+        "en": "to sit down (reflexive)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er setzt die Vase auf den Tisch.",
+        "zh": "他把花瓶放在桌子上。"
+      },
+      {
+        "de": "Setz dich bitte!",
+        "zh": "请坐下！"
+      }
+    ],
+    "collocations": [
+      "sich setzen",
+      "etwas auf etwas setzen",
+      "einen Punkt setzen",
+      "sich zur Wehr setzen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gesetzt"
+    },
+    "level": "A2",
+    "tags": [
+      "日常",
+      "动作",
+      "A2"
+    ],
+    "synonyms": [
+      "stellen",
+      "legen",
+      "platzieren"
+    ],
+    "antonyms": [
+      "nehmen",
+      "entfernen"
+    ]
+  },
+  {
+    "word": "Sieger",
+    "lemma": "Sieger",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Sieger",
+    "meaning": [
+      {
+        "zh": "胜利者，获胜者",
+        "en": "winner, victor"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Sieger des Wettbewerbs erhält einen Preis.",
+        "zh": "比赛的获胜者获得一个奖项。"
+      },
+      {
+        "de": "Er ist der Sieger im Finale.",
+        "zh": "他是决赛的胜利者。"
+      }
+    ],
+    "collocations": [
+      "der Sieger sein",
+      "als Sieger hervorgehen",
+      "Sieger des Tages",
+      "Siegerland (Region)"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "体育",
+      "竞争",
+      "B1"
+    ],
+    "synonyms": [
+      "Gewinner",
+      "Champion",
+      "Erster"
+    ],
+    "antonyms": [
+      "Verlierer",
+      "Besiegter"
+    ]
+  },
+  {
+    "word": "Sinn",
+    "lemma": "Sinn",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Sinne",
+    "meaning": [
+      {
+        "zh": "意义，含义",
+        "en": "meaning, sense"
+      },
+      {
+        "zh": "感官",
+        "en": "sense (faculty)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Sinn des Lebens ist nicht immer klar.",
+        "zh": "生命的意义并不总是清楚的。"
+      },
+      {
+        "de": "Der Geruchssinn ist einer der fünf Sinne.",
+        "zh": "嗅觉是五种感官之一。"
+      }
+    ],
+    "collocations": [
+      "Sinn haben",
+      "Sinn ergeben",
+      "im Sinne von",
+      "Sinn und Zweck"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "哲学",
+      "生理",
+      "B1"
+    ],
+    "synonyms": [
+      "Bedeutung",
+      "Zweck",
+      "Wahrnehmung"
+    ],
+    "antonyms": [
+      "Unsinn",
+      "Sinnlosigkeit"
+    ]
+  },
+  {
+    "word": "Skelett",
+    "lemma": "Skelett",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Skelette",
+    "meaning": [
+      {
+        "zh": "骨骼，骨架",
+        "en": "skeleton"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Skelett des Menschen besteht aus vielen Knochen.",
+        "zh": "人类的骨骼由许多骨头组成。"
+      },
+      {
+        "de": "Im Museum ist ein Dinosaurier-Skelett ausgestellt.",
+        "zh": "博物馆里展出了一个恐龙骨架。"
+      }
+    ],
+    "collocations": [
+      "menschliches Skelett",
+      "Skelett eines Gebäudes",
+      "Skelettfund",
+      "Skelettsystem"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "生物",
+      "医学",
+      "B2"
+    ],
+    "synonyms": [
+      "Knochengerüst",
+      "Gerippe"
+    ],
+    "antonyms": []
+  }
+]

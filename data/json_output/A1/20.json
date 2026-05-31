@@ -1,0 +1,1833 @@
+[
+  {
+    "word": "spielen",
+    "lemma": "spielen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "玩，游戏",
+        "en": "to play"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kinder spielen im Park.",
+        "zh": "孩子们在公园里玩。"
+      },
+      {
+        "de": "Er spielt gerne Fußball.",
+        "zh": "他喜欢踢足球。"
+      }
+    ],
+    "collocations": [
+      "Fußball spielen",
+      "Klavier spielen",
+      "eine Rolle spielen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gespielt"
+    },
+    "level": "A1",
+    "tags": [
+      "活动",
+      "A1"
+    ],
+    "synonyms": [
+      "sich vergnügen",
+      "ein Spiel machen"
+    ],
+    "antonyms": [
+      "arbeiten"
+    ]
+  },
+  {
+    "word": "Sport",
+    "lemma": "Sport",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Sportarten",
+    "meaning": [
+      {
+        "zh": "运动，体育",
+        "en": "sport"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sport ist wichtig für die Gesundheit.",
+        "zh": "运动对健康很重要。"
+      },
+      {
+        "de": "Sie treibt regelmäßig Sport.",
+        "zh": "她定期做运动。"
+      }
+    ],
+    "collocations": [
+      "Sport treiben",
+      "Sport machen",
+      "eine Sportart"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "体育",
+      "A1"
+    ],
+    "synonyms": [
+      "Bewegung",
+      "Leibesübung"
+    ],
+    "antonyms": [
+      "Ruhe",
+      "Inaktivität"
+    ]
+  },
+  {
+    "word": "Sportbekleidung",
+    "lemma": "Sportbekleidung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "运动服装",
+        "en": "sportswear"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich kaufe neue Sportbekleidung für das Training.",
+        "zh": "我为训练买新的运动服装。"
+      },
+      {
+        "de": "Diese Sportbekleidung ist sehr atmungsaktiv.",
+        "zh": "这件运动服装非常透气。"
+      }
+    ],
+    "collocations": [
+      "Sportbekleidung tragen",
+      "Sportbekleidung kaufen",
+      "funktionelle Sportbekleidung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "体育",
+      "服装",
+      "B1"
+    ],
+    "synonyms": [
+      "Sportkleidung",
+      "Trainingskleidung"
+    ],
+    "antonyms": [
+      "Alltagskleidung"
+    ]
+  },
+  {
+    "word": "Sprache",
+    "lemma": "Sprache",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Sprachen",
+    "meaning": [
+      {
+        "zh": "语言",
+        "en": "language"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Welche Sprache sprichst du?",
+        "zh": "你说哪种语言？"
+      },
+      {
+        "de": "Die deutsche Sprache ist nicht einfach.",
+        "zh": "德语不容易。"
+      }
+    ],
+    "collocations": [
+      "eine Sprache lernen",
+      "eine Sprache sprechen",
+      "Muttersprache"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语言",
+      "A1"
+    ],
+    "synonyms": [
+      "Sprachsystem",
+      "Idiom"
+    ],
+    "antonyms": [
+      "Schweigen"
+    ]
+  },
+  {
+    "word": "sprechen",
+    "lemma": "sprechen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "说话，讲",
+        "en": "to speak"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er spricht sehr schnell.",
+        "zh": "他说得很快。"
+      },
+      {
+        "de": "Wir sprechen über das Wetter.",
+        "zh": "我们谈论天气。"
+      }
+    ],
+    "collocations": [
+      "Deutsch sprechen",
+      "mit jemandem sprechen",
+      "über etwas sprechen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gesprochen"
+    },
+    "level": "A1",
+    "tags": [
+      "交流",
+      "A1"
+    ],
+    "synonyms": [
+      "reden",
+      "sich unterhalten"
+    ],
+    "antonyms": [
+      "schweigen"
+    ]
+  },
+  {
+    "word": "Sprechstundenhilfe",
+    "lemma": "Sprechstundenhilfe",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Sprechstundenhilfen",
+    "meaning": [
+      {
+        "zh": "诊所助理，医生助手",
+        "en": "medical assistant (in a doctor's office)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Sprechstundenhilfe nimmt die Patienten an.",
+        "zh": "诊所助理接待病人。"
+      },
+      {
+        "de": "Sie arbeitet als Sprechstundenhilfe in einer Praxis.",
+        "zh": "她在诊所里做助理工作。"
+      }
+    ],
+    "collocations": [
+      "als Sprechstundenhilfe arbeiten",
+      "die Sprechstundenhilfe fragen",
+      "Sprechstundenhilfe im Krankenhaus"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "医疗",
+      "职业",
+      "B1"
+    ],
+    "synonyms": [
+      "Arzthelferin",
+      "medizinische Fachangestellte"
+    ],
+    "antonyms": [
+      "Patient"
+    ]
+  },
+  {
+    "word": "Sprechzimmer",
+    "lemma": "Sprechzimmer",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Sprechzimmer",
+    "meaning": [
+      {
+        "zh": "诊室，谈话室",
+        "en": "consulting room"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Arzt bittet mich ins Sprechzimmer.",
+        "zh": "医生请我进诊室。"
+      },
+      {
+        "de": "Im Sprechzimmer herrscht eine ruhige Atmosphäre.",
+        "zh": "诊室里气氛安静。"
+      }
+    ],
+    "collocations": [
+      "ins Sprechzimmer gehen",
+      "im Sprechzimmer warten",
+      "das Sprechzimmer betreten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "医疗",
+      "场所",
+      "B1"
+    ],
+    "synonyms": [
+      "Behandlungszimmer",
+      "Arztzimmer"
+    ],
+    "antonyms": [
+      "Wartezimmer"
+    ]
+  },
+  {
+    "word": "springen",
+    "lemma": "springen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "跳，跳跃",
+        "en": "to jump"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Kind springt über die Pfütze.",
+        "zh": "孩子跳过水坑。"
+      },
+      {
+        "de": "Er springt ins kalte Wasser.",
+        "zh": "他跳进冷水里。"
+      }
+    ],
+    "collocations": [
+      "über etwas springen",
+      "ins Wasser springen",
+      "Seil springen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "partizip2": "gesprungen"
+    },
+    "level": "A2",
+    "tags": [
+      "动作",
+      "A2"
+    ],
+    "synonyms": [
+      "hüpfen",
+      "hopsen"
+    ],
+    "antonyms": [
+      "stehen",
+      "liegen"
+    ]
+  },
+  {
+    "word": "Sprite",
+    "lemma": "Sprite",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Sprites",
+    "meaning": [
+      {
+        "zh": "雪碧（饮料）",
+        "en": "Sprite (soft drink)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich trinke gerne eine kalte Sprite.",
+        "zh": "我喜欢喝一杯冰凉的雪碧。"
+      },
+      {
+        "de": "Kannst du mir eine Sprite aus dem Kühlschrank holen?",
+        "zh": "你能从冰箱里给我拿一瓶雪碧吗？"
+      }
+    ],
+    "collocations": [
+      "eine Sprite trinken",
+      "eine Dose Sprite"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "饮料",
+      "生活"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Staat",
+    "lemma": "Staat",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Staaten",
+    "meaning": [
+      {
+        "zh": "国家",
+        "en": "state, country"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Staat sorgt für die Sicherheit seiner Bürger.",
+        "zh": "国家保障其公民的安全。"
+      },
+      {
+        "de": "Viele Staaten arbeiten in der EU zusammen.",
+        "zh": "许多国家在欧盟内合作。"
+      }
+    ],
+    "collocations": [
+      "der Staat und die Gesellschaft",
+      "ein souveräner Staat"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "政治",
+      "社会"
+    ],
+    "synonyms": [
+      "Land",
+      "Nation"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Stadt",
+    "lemma": "Stadt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Städte",
+    "meaning": [
+      {
+        "zh": "城市",
+        "en": "city, town"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Berlin ist eine große Stadt.",
+        "zh": "柏林是一个大城市。"
+      },
+      {
+        "de": "In der Stadt gibt es viele Geschäfte.",
+        "zh": "城市里有很多商店。"
+      }
+    ],
+    "collocations": [
+      "in der Stadt wohnen",
+      "das Stadtzentrum"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "地理",
+      "生活"
+    ],
+    "synonyms": [
+      "Gemeinde",
+      "Metropole"
+    ],
+    "antonyms": [
+      "Dorf"
+    ]
+  },
+  {
+    "word": "Station",
+    "lemma": "Station",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Stationen",
+    "meaning": [
+      {
+        "zh": "车站；站；阶段",
+        "en": "station; stop; stage"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die nächste Station ist der Hauptbahnhof.",
+        "zh": "下一站是中央火车站。"
+      },
+      {
+        "de": "Er arbeitet auf der Intensivstation im Krankenhaus.",
+        "zh": "他在医院的重症监护室工作。"
+      }
+    ],
+    "collocations": [
+      "an der Station ankommen",
+      "eine Station im Leben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "交通",
+      "医疗"
+    ],
+    "synonyms": [
+      "Haltestelle",
+      "Abschnitt"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Steckdose",
+    "lemma": "Steckdose",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Steckdosen",
+    "meaning": [
+      {
+        "zh": "插座",
+        "en": "socket, power outlet"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Steck den Stecker in die Steckdose.",
+        "zh": "把插头插进插座里。"
+      },
+      {
+        "de": "Die Steckdose ist kaputt.",
+        "zh": "这个插座坏了。"
+      }
+    ],
+    "collocations": [
+      "eine Steckdose installieren",
+      "die Steckdose benutzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "科技",
+      "生活"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "stecken",
+    "lemma": "stecken",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "插；放；藏",
+        "en": "to put, to stick, to insert"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Steck den Schlüssel ins Schloss.",
+        "zh": "把钥匙插进锁里。"
+      },
+      {
+        "de": "Wo steckt mein Handy?",
+        "zh": "我的手机在哪儿？"
+      }
+    ],
+    "collocations": [
+      "etwas in die Tasche stecken",
+      "den Stecker in die Steckdose stecken"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gesteckt"
+    },
+    "level": "B1",
+    "tags": [
+      "动作",
+      "生活"
+    ],
+    "synonyms": [
+      "hineinstecken",
+      "einfügen"
+    ],
+    "antonyms": [
+      "herausziehen"
+    ]
+  },
+  {
+    "word": "Stecker",
+    "lemma": "Stecker",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Stecker",
+    "meaning": [
+      {
+        "zh": "插头",
+        "en": "plug"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Zieh den Stecker aus der Steckdose.",
+        "zh": "把插头从插座里拔出来。"
+      },
+      {
+        "de": "Der Stecker passt nicht in diese Steckdose.",
+        "zh": "这个插头不适合这个插座。"
+      }
+    ],
+    "collocations": [
+      "den Stecker einstecken",
+      "den Stecker herausziehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "科技",
+      "生活"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "Steckdose"
+    ]
+  },
+  {
+    "word": "stehen",
+    "lemma": "stehen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "站；处于；适合",
+        "en": "to stand, to be located, to suit"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Buch steht im Regal.",
+        "zh": "书在书架上。"
+      },
+      {
+        "de": "Wie steht es um deine Gesundheit?",
+        "zh": "你的健康状况如何？"
+      }
+    ],
+    "collocations": [
+      "auf dem Tisch stehen",
+      "jemandem gut stehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gestanden"
+    },
+    "level": "A1",
+    "tags": [
+      "动作",
+      "状态"
+    ],
+    "synonyms": [
+      "sich befinden",
+      "liegen"
+    ],
+    "antonyms": [
+      "sitzen",
+      "liegen"
+    ]
+  },
+  {
+    "word": "steigen",
+    "lemma": "steigen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "上升，攀登",
+        "en": "to rise, to climb"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Temperatur steigt im Sommer oft über 30 Grad.",
+        "zh": "夏天温度经常上升到30度以上。"
+      },
+      {
+        "de": "Er steigt die Treppe hinauf.",
+        "zh": "他爬上楼梯。"
+      }
+    ],
+    "collocations": [
+      "in den Bus steigen",
+      "die Preise steigen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "partizip2": "gestiegen"
+    },
+    "level": "B1",
+    "tags": [
+      "运动",
+      "变化",
+      "B1"
+    ],
+    "synonyms": [
+      "klettern",
+      "zunehmen"
+    ],
+    "antonyms": [
+      "fallen",
+      "sinken"
+    ]
+  },
+  {
+    "word": "Stelle",
+    "lemma": "Stelle",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Stellen",
+    "meaning": [
+      {
+        "zh": "位置，职位",
+        "en": "place, position"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat eine neue Stelle bei der Bank gefunden.",
+        "zh": "他在银行找到了一个新职位。"
+      },
+      {
+        "de": "An dieser Stelle steht ein alter Baum.",
+        "zh": "在这个位置有一棵老树。"
+      }
+    ],
+    "collocations": [
+      "eine Stelle suchen",
+      "an erster Stelle"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "工作",
+      "位置",
+      "B1"
+    ],
+    "synonyms": [
+      "Position",
+      "Arbeitsplatz"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "Stern",
+    "lemma": "Stern",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Sterne",
+    "meaning": [
+      {
+        "zh": "星星",
+        "en": "star"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Nachts kann man viele Sterne am Himmel sehen.",
+        "zh": "晚上可以在天空中看到许多星星。"
+      },
+      {
+        "de": "Der Stern leuchtet hell.",
+        "zh": "这颗星星很亮。"
+      }
+    ],
+    "collocations": [
+      "ein Stern am Himmel",
+      "fünf Sterne Hotel"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "自然",
+      "天文",
+      "A2"
+    ],
+    "synonyms": [
+      "Himmelskörper"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "stimmen",
+    "lemma": "stimmen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "正确，符合；调音",
+        "en": "to be correct, to tune"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Rechnung stimmt nicht.",
+        "zh": "账单不对。"
+      },
+      {
+        "de": "Er stimmt die Gitarre.",
+        "zh": "他在调吉他。"
+      }
+    ],
+    "collocations": [
+      "das stimmt",
+      "für etwas stimmen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gestimmt"
+    },
+    "level": "B1",
+    "tags": [
+      "判断",
+      "音乐",
+      "B1"
+    ],
+    "synonyms": [
+      "passen",
+      "richtig sein"
+    ],
+    "antonyms": [
+      "falsch sein"
+    ]
+  },
+  {
+    "word": "Stock",
+    "lemma": "Stock",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Stöcke",
+    "meaning": [
+      {
+        "zh": "棍子；楼层",
+        "en": "stick; floor"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er geht mit einem Stock spazieren.",
+        "zh": "他拄着拐杖散步。"
+      },
+      {
+        "de": "Sie wohnt im dritten Stock.",
+        "zh": "她住在三楼。"
+      }
+    ],
+    "collocations": [
+      "ein Stock im Haus",
+      "mit dem Stock schlagen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "物品",
+      "建筑",
+      "B1"
+    ],
+    "synonyms": [
+      "Stab",
+      "Etage"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "Strand",
+    "lemma": "Strand",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Strände",
+    "meaning": [
+      {
+        "zh": "海滩",
+        "en": "beach"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Sommer gehen wir oft an den Strand.",
+        "zh": "夏天我们经常去海滩。"
+      },
+      {
+        "de": "Der Strand ist sehr sauber.",
+        "zh": "这个海滩很干净。"
+      }
+    ],
+    "collocations": [
+      "am Strand liegen",
+      "zum Strand gehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "自然",
+      "旅游",
+      "A2"
+    ],
+    "synonyms": [
+      "Küste",
+      "Sandstrand"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "Straße",
+    "lemma": "Straße",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Straßen",
+    "meaning": [
+      {
+        "zh": "街道，马路",
+        "en": "street, road"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kinder spielen auf der Straße.",
+        "zh": "孩子们在街上玩。"
+      },
+      {
+        "de": "Diese Straße führt zum Bahnhof.",
+        "zh": "这条路通往火车站。"
+      }
+    ],
+    "collocations": [
+      "über die Straße gehen",
+      "in der Straße wohnen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "交通",
+      "地点",
+      "A1"
+    ],
+    "synonyms": [
+      "Gasse",
+      "Allee"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "streiten",
+    "lemma": "streiten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "争吵，争论",
+        "en": "to argue, to quarrel"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die beiden Kinder streiten um das Spielzeug.",
+        "zh": "两个孩子为玩具争吵。"
+      },
+      {
+        "de": "Sie streiten oft über politische Themen.",
+        "zh": "他们经常争论政治话题。"
+      }
+    ],
+    "collocations": [
+      "miteinander streiten",
+      "um etwas streiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gestritten"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "冲突",
+      "B1"
+    ],
+    "synonyms": [
+      "diskutieren",
+      "sich zanken"
+    ],
+    "antonyms": [
+      "sich vertragen"
+    ]
+  },
+  {
+    "word": "streng",
+    "lemma": "streng",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "严格的，严厉的",
+        "en": "strict, severe"
+      },
+      {
+        "zh": "强烈的，浓烈的（气味、味道）",
+        "en": "strong, pungent"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Lehrer ist sehr streng zu den Schülern.",
+        "zh": "老师对学生非常严格。"
+      },
+      {
+        "de": "Der Käse riecht streng.",
+        "zh": "这块奶酪气味很浓烈。"
+      }
+    ],
+    "collocations": [
+      "streng sein (zu jdm.)",
+      "streng riechen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "hart",
+      "rigoros"
+    ],
+    "antonyms": [
+      "mild",
+      "nachgiebig"
+    ]
+  },
+  {
+    "word": "Student",
+    "lemma": "Student",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Studenten",
+    "meaning": [
+      {
+        "zh": "大学生",
+        "en": "student (university)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Student lernt für die Prüfung.",
+        "zh": "这位大学生正在为考试学习。"
+      },
+      {
+        "de": "Viele Studenten wohnen in WGs.",
+        "zh": "许多大学生住在合租公寓里。"
+      }
+    ],
+    "collocations": [
+      "als Student",
+      "Student der Medizin"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "教育",
+      "A2"
+    ],
+    "synonyms": [
+      "Studierender"
+    ],
+    "antonyms": [
+      "Professor"
+    ]
+  },
+  {
+    "word": "Studentenwohnheim",
+    "lemma": "Studentenwohnheim",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Studentenwohnheime",
+    "meaning": [
+      {
+        "zh": "学生宿舍",
+        "en": "student dormitory"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er wohnt im Studentenwohnheim.",
+        "zh": "他住在学生宿舍里。"
+      },
+      {
+        "de": "Das Studentenwohnheim liegt in der Nähe der Universität.",
+        "zh": "学生宿舍靠近大学。"
+      }
+    ],
+    "collocations": [
+      "im Studentenwohnheim wohnen",
+      "ein Zimmer im Studentenwohnheim"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Wohnheim"
+    ],
+    "antonyms": [
+      "Eigentumswohnung"
+    ]
+  },
+  {
+    "word": "studieren",
+    "lemma": "studieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "学习，攻读（大学）",
+        "en": "to study (at university)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie studiert Medizin an der Universität.",
+        "zh": "她在大学攻读医学。"
+      },
+      {
+        "de": "Ich habe zwei Jahre in Berlin studiert.",
+        "zh": "我在柏林学习了两年。"
+      }
+    ],
+    "collocations": [
+      "Medizin studieren",
+      "an der Universität studieren"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "studiert"
+    },
+    "level": "A2",
+    "tags": [
+      "教育",
+      "A2"
+    ],
+    "synonyms": [
+      "lernen"
+    ],
+    "antonyms": [
+      "arbeiten"
+    ]
+  },
+  {
+    "word": "Stuhl",
+    "lemma": "Stuhl",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Stühle",
+    "meaning": [
+      {
+        "zh": "椅子",
+        "en": "chair"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Setz dich auf den Stuhl!",
+        "zh": "坐到椅子上去！"
+      },
+      {
+        "de": "Der Stuhl ist aus Holz.",
+        "zh": "这把椅子是木制的。"
+      }
+    ],
+    "collocations": [
+      "auf dem Stuhl sitzen",
+      "einen Stuhl holen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "A1"
+    ],
+    "synonyms": [
+      "Sessel"
+    ],
+    "antonyms": [
+      "Tisch"
+    ]
+  },
+  {
+    "word": "Stunde",
+    "lemma": "Stunde",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Stunden",
+    "meaning": [
+      {
+        "zh": "小时",
+        "en": "hour"
+      },
+      {
+        "zh": "课时，课程",
+        "en": "lesson, class"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Stunde hat 60 Minuten.",
+        "zh": "一小时有60分钟。"
+      },
+      {
+        "de": "Wir haben heute zwei Stunden Deutsch.",
+        "zh": "我们今天有两节德语课。"
+      }
+    ],
+    "collocations": [
+      "eine Stunde lang",
+      "in der Stunde"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "时间",
+      "教育",
+      "A1"
+    ],
+    "synonyms": [
+      "Unterrichtsstunde"
+    ],
+    "antonyms": [
+      "Minute"
+    ]
+  },
+  {
+    "word": "Suche",
+    "lemma": "Suche",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Suchen",
+    "meaning": [
+      {
+        "zh": "寻找，搜索",
+        "en": "search, quest"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Suche nach dem Schlüssel dauerte lange.",
+        "zh": "寻找钥匙花了很长时间。"
+      },
+      {
+        "de": "Er ist auf der Suche nach einem Job.",
+        "zh": "他正在找工作。"
+      }
+    ],
+    "collocations": [
+      "auf der Suche nach",
+      "die Suche nach"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Fahndung",
+      "Sucherei"
+    ],
+    "antonyms": [
+      "Fund"
+    ]
+  },
+  {
+    "word": "suchen",
+    "lemma": "suchen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "寻找",
+        "en": "to search, to look for"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich suche meine Brille.",
+        "zh": "我在找我的眼镜。"
+      },
+      {
+        "de": "Sie sucht einen neuen Job.",
+        "zh": "她在找一份新工作。"
+      }
+    ],
+    "collocations": [
+      "nach etwas suchen",
+      "jemanden suchen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gesucht"
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "A1"
+    ],
+    "synonyms": [
+      "suchen nach",
+      "fahnden"
+    ],
+    "antonyms": [
+      "finden"
+    ]
+  },
+  {
+    "word": "Süden",
+    "lemma": "Süden",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "南方",
+        "en": "south"
+      },
+      {
+        "zh": "南部地区",
+        "en": "southern region"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Wind kommt aus dem Süden.",
+        "zh": "风从南方来。"
+      },
+      {
+        "de": "Im Süden Deutschlands ist es wärmer.",
+        "zh": "德国南部更温暖。"
+      }
+    ],
+    "collocations": [
+      "im Süden",
+      "nach Süden",
+      "aus dem Süden",
+      "der tiefe Süden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "地理",
+      "方向",
+      "A2"
+    ],
+    "synonyms": [
+      "Südrichtung"
+    ],
+    "antonyms": [
+      "Norden"
+    ]
+  },
+  {
+    "word": "Südfrankreich",
+    "lemma": "Südfrankreich",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "法国南部",
+        "en": "southern France"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir fahren im Sommer nach Südfrankreich.",
+        "zh": "我们夏天去法国南部。"
+      },
+      {
+        "de": "Südfrankreich ist bekannt für seine Lavendelfelder.",
+        "zh": "法国南部以薰衣草田闻名。"
+      }
+    ],
+    "collocations": [
+      "in Südfrankreich",
+      "nach Südfrankreich reisen",
+      "aus Südfrankreich kommen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "地理",
+      "旅游",
+      "B1"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "Nordfrankreich"
+    ]
+  },
+  {
+    "word": "super",
+    "lemma": "super",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "超级的，极好的",
+        "en": "super, great"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Essen war super!",
+        "zh": "这顿饭太棒了！"
+      },
+      {
+        "de": "Super, dass du kommen kannst!",
+        "zh": "你能来太好了！"
+      }
+    ],
+    "collocations": [
+      "super gut",
+      "super Idee",
+      "super nett"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "评价",
+      "日常",
+      "A1"
+    ],
+    "synonyms": [
+      "toll",
+      "großartig",
+      "fantastisch"
+    ],
+    "antonyms": [
+      "schlecht",
+      "mies"
+    ]
+  },
+  {
+    "word": "Suppe",
+    "lemma": "Suppe",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Suppen",
+    "meaning": [
+      {
+        "zh": "汤",
+        "en": "soup"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Suppe schmeckt sehr gut.",
+        "zh": "这汤味道很好。"
+      },
+      {
+        "de": "Ich möchte eine Tasse Suppe bestellen.",
+        "zh": "我想点一碗汤。"
+      }
+    ],
+    "collocations": [
+      "Suppe essen",
+      "Suppe kochen",
+      "eine heiße Suppe",
+      "Hühnersuppe"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "食物",
+      "日常",
+      "A1"
+    ],
+    "synonyms": [
+      "Brühe"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "surfen",
+    "lemma": "surfen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "冲浪",
+        "en": "to surf"
+      },
+      {
+        "zh": "上网",
+        "en": "to surf the internet"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er surft jeden Sommer in Australien.",
+        "zh": "他每年夏天在澳大利亚冲浪。"
+      },
+      {
+        "de": "Ich surfe oft im Internet nach Informationen.",
+        "zh": "我经常上网搜索信息。"
+      }
+    ],
+    "collocations": [
+      "im Internet surfen",
+      "Wellen surfen",
+      "surfen gehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gesurft"
+    },
+    "level": "A2",
+    "tags": [
+      "运动",
+      "科技",
+      "A2"
+    ],
+    "synonyms": [
+      "reiten (Wellen)",
+      "browsen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "süß",
+    "lemma": "süß",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "甜的",
+        "en": "sweet"
+      },
+      {
+        "zh": "可爱的",
+        "en": "cute"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Kuchen ist sehr süß.",
+        "zh": "这个蛋糕很甜。"
+      },
+      {
+        "de": "Das Baby ist so süß!",
+        "zh": "这个宝宝真可爱！"
+      }
+    ],
+    "collocations": [
+      "süß schmecken",
+      "süß aussehen",
+      "süßer Wein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "味道",
+      "情感",
+      "A1"
+    ],
+    "synonyms": [
+      "zuckerhaltig",
+      "lieb",
+      "niedlich"
+    ],
+    "antonyms": [
+      "sauer",
+      "bitter",
+      "salzig"
+    ]
+  },
+  {
+    "word": "tdie",
+    "lemma": "tdie",
+    "pos": [],
+    "gender": null,
+    "plural": null,
+    "meaning": [],
+    "examples": [],
+    "collocations": [],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": null,
+    "tags": [],
+    "synonyms": [],
+    "antonyms": []
+  }
+]

@@ -1,0 +1,203 @@
+[
+  {
+    "word": "Zuschauer",
+    "lemma": "Zuschauer",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Zuschauer",
+    "meaning": [
+      {
+        "zh": "观众",
+        "en": "spectator"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Zuschauer applaudierten laut.",
+        "zh": "观众们大声鼓掌。"
+      },
+      {
+        "de": "Im Stadion waren tausende Zuschauer.",
+        "zh": "体育场里有成千上万的观众。"
+      }
+    ],
+    "collocations": [
+      "die Zuschauer begeistern",
+      "vor den Zuschauern auftreten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Publikum",
+      "Betrachter"
+    ],
+    "antonyms": [
+      "Darsteller",
+      "Akteur"
+    ]
+  },
+  {
+    "word": "zuschauen",
+    "lemma": "zuschauen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "观看，旁观",
+        "en": "to watch"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kinder schauen dem Spiel zu.",
+        "zh": "孩子们观看比赛。"
+      },
+      {
+        "de": "Er schaut nur zu, ohne zu helfen.",
+        "zh": "他只是旁观，不帮忙。"
+      }
+    ],
+    "collocations": [
+      "jemandem beim Spiel zuschauen",
+      "tatenlos zuschauen"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "zugeschaut"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "beobachten",
+      "zusehen"
+    ],
+    "antonyms": [
+      "teilnehmen",
+      "mitmachen"
+    ]
+  },
+  {
+    "word": "Zwischenprüfung",
+    "lemma": "Zwischenprüfung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Zwischenprüfungen",
+    "meaning": [
+      {
+        "zh": "期中考试",
+        "en": "intermediate exam"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Zwischenprüfung findet im Januar statt.",
+        "zh": "期中考试在一月举行。"
+      },
+      {
+        "de": "Er hat die Zwischenprüfung mit gut bestanden.",
+        "zh": "他以良好成绩通过了期中考试。"
+      }
+    ],
+    "collocations": [
+      "eine Zwischenprüfung ablegen",
+      "die Zwischenprüfung bestehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "Test",
+      "Klausur"
+    ],
+    "antonyms": [
+      "Abschlussprüfung"
+    ]
+  },
+  {
+    "word": "EBCH",
+    "lemma": "EBCH",
+    "pos": [
+      "noun"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "未知缩写",
+        "en": "unknown abbreviation"
+      }
+    ],
+    "examples": [],
+    "collocations": [],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": null,
+    "tags": [
+      "未知"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "EZENMV",
+    "lemma": "EZENMV",
+    "pos": [
+      "noun"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "未知缩写",
+        "en": "unknown abbreviation"
+      }
+    ],
+    "examples": [],
+    "collocations": [],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": null,
+    "tags": [
+      "未知"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  }
+]

@@ -1,0 +1,1706 @@
+[
+  {
+    "word": "Lachs",
+    "lemma": "Lachs",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Lachse",
+    "meaning": [
+      {
+        "zh": "鲑鱼，三文鱼",
+        "en": "salmon"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Zum Abendessen gibt es gegrillten Lachs mit Reis.",
+        "zh": "晚餐有烤三文鱼配米饭。"
+      },
+      {
+        "de": "Lachse schwimmen flussaufwärts, um zu laichen.",
+        "zh": "鲑鱼逆流而上产卵。"
+      }
+    ],
+    "collocations": [
+      "geräucherter Lachs",
+      "Lachsfilet"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "食物",
+      "动物",
+      "B1"
+    ],
+    "synonyms": [
+      "Forelle",
+      "Makrele"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Lagerplatz",
+    "lemma": "Lagerplatz",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Lagerplätze",
+    "meaning": [
+      {
+        "zh": "仓库，存储场地",
+        "en": "storage space, warehouse"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir brauchen einen größeren Lagerplatz für die neuen Waren.",
+        "zh": "我们需要一个更大的仓库来存放新货物。"
+      },
+      {
+        "de": "Der Lagerplatz ist voll mit Baumaterialien.",
+        "zh": "存储场地上堆满了建筑材料。"
+      }
+    ],
+    "collocations": [
+      "Lagerplatz mieten",
+      "Lagerplatz räumen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "商业",
+      "物流",
+      "B1"
+    ],
+    "synonyms": [
+      "Lager",
+      "Depot"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "landesweit",
+    "lemma": "landesweit",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "全国范围的",
+        "en": "nationwide"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die landesweite Umfrage zeigt eine hohe Zufriedenheit.",
+        "zh": "全国范围的调查显示满意度很高。"
+      },
+      {
+        "de": "Der Streik wurde landesweit durchgeführt.",
+        "zh": "罢工在全国范围内进行。"
+      }
+    ],
+    "collocations": [
+      "landesweite Aktion",
+      "landesweit bekannt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "政治",
+      "B1"
+    ],
+    "synonyms": [
+      "national",
+      "gesamtstaatlich"
+    ],
+    "antonyms": [
+      "regional",
+      "lokal"
+    ]
+  },
+  {
+    "word": "leben",
+    "lemma": "leben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "生活，活着",
+        "en": "to live"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie lebt seit zehn Jahren in Berlin.",
+        "zh": "她在柏林生活了十年。"
+      },
+      {
+        "de": "Man sollte jeden Tag so leben, als wäre es der letzte.",
+        "zh": "人应该把每一天都当作最后一天来活。"
+      }
+    ],
+    "collocations": [
+      "in der Stadt leben",
+      "gesund leben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gelebt"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "existieren",
+      "wohnen"
+    ],
+    "antonyms": [
+      "sterben"
+    ]
+  },
+  {
+    "word": "Lebensabschnitt",
+    "lemma": "Lebensabschnitt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Lebensabschnitte",
+    "meaning": [
+      {
+        "zh": "人生阶段",
+        "en": "life stage, phase of life"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Studienzeit war ein wichtiger Lebensabschnitt für ihn.",
+        "zh": "大学时光对他来说是重要的人生阶段。"
+      },
+      {
+        "de": "Jeder Lebensabschnitt bringt neue Herausforderungen mit sich.",
+        "zh": "每个人生阶段都带来新的挑战。"
+      }
+    ],
+    "collocations": [
+      "neuer Lebensabschnitt",
+      "wichtiger Lebensabschnitt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "心理",
+      "B1"
+    ],
+    "synonyms": [
+      "Lebensphase",
+      "Lebensperiode"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Lebensgefahr",
+    "lemma": "Lebensgefahr",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Lebensgefahren",
+    "meaning": [
+      {
+        "zh": "生命危险",
+        "en": "mortal danger, life-threatening situation"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bei dem Unfall schwebte er in Lebensgefahr.",
+        "zh": "在那场事故中他生命垂危。"
+      },
+      {
+        "de": "Die Ärzte konnten ihn aus der Lebensgefahr retten.",
+        "zh": "医生们把他从生命危险中救了出来。"
+      }
+    ],
+    "collocations": [
+      "in Lebensgefahr schweben",
+      "Lebensgefahr bestehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "健康",
+      "危险",
+      "B1"
+    ],
+    "synonyms": [
+      "Todesgefahr",
+      "Gefahr"
+    ],
+    "antonyms": [
+      "Sicherheit"
+    ]
+  },
+  {
+    "word": "Lebenslauf",
+    "lemma": "Lebenslauf",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Lebensläufe",
+    "meaning": [
+      {
+        "zh": "简历，履历",
+        "en": "curriculum vitae, résumé"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bitte senden Sie Ihren Lebenslauf mit Bewerbungsfoto.",
+        "zh": "请附上您的简历和证件照。"
+      },
+      {
+        "de": "Sein Lebenslauf zeigt eine beeindruckende Karriere.",
+        "zh": "他的履历展示了一段令人印象深刻的职业生涯。"
+      }
+    ],
+    "collocations": [
+      "Lebenslauf schreiben",
+      "Lebenslauf aktualisieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "工作",
+      "教育",
+      "A2"
+    ],
+    "synonyms": [
+      "CV",
+      "Werdegang"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Lebensmittel",
+    "lemma": "Lebensmittel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Lebensmittel",
+    "meaning": [
+      {
+        "zh": "食品，食物",
+        "en": "food, groceries"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Supermarkt kaufen wir frische Lebensmittel ein.",
+        "zh": "我们在超市购买新鲜食品。"
+      },
+      {
+        "de": "Lebensmittel sollten kühl und trocken gelagert werden.",
+        "zh": "食品应存放在阴凉干燥处。"
+      }
+    ],
+    "collocations": [
+      "Lebensmittel kaufen",
+      "Lebensmittel lagern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "食物",
+      "日常",
+      "A1"
+    ],
+    "synonyms": [
+      "Nahrungsmittel",
+      "Essen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "lebenswichtig",
+    "lemma": "lebenswichtig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "至关重要的，生命攸关的",
+        "en": "vital, essential for life"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sauberes Trinkwasser ist lebenswichtig für den Menschen.",
+        "zh": "干净的饮用水对人类至关重要。"
+      },
+      {
+        "de": "Eine ausgewogene Ernährung ist lebenswichtig für die Gesundheit.",
+        "zh": "均衡的饮食对健康至关重要。"
+      }
+    ],
+    "collocations": [
+      "lebenswichtig sein",
+      "lebenswichtige Organe"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "生活",
+      "健康",
+      "B2"
+    ],
+    "synonyms": [
+      "essenziell",
+      "unverzichtbar"
+    ],
+    "antonyms": [
+      "unwichtig",
+      "nebensächlich"
+    ]
+  },
+  {
+    "word": "Lederschuh",
+    "lemma": "Lederschuh",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Lederschuhe",
+    "meaning": [
+      {
+        "zh": "皮鞋",
+        "en": "leather shoe"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er trägt heute elegante Lederschuhe zur Arbeit.",
+        "zh": "他今天穿着优雅的皮鞋去上班。"
+      },
+      {
+        "de": "Diese Lederschuhe sind sehr bequem und langlebig.",
+        "zh": "这双皮鞋非常舒适且耐用。"
+      }
+    ],
+    "collocations": [
+      "Lederschuhe tragen",
+      "Lederschuhe putzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "服饰",
+      "A2"
+    ],
+    "synonyms": [
+      "Schuh aus Leder"
+    ],
+    "antonyms": [
+      "Stoffschuh",
+      "Turnschuh"
+    ]
+  },
+  {
+    "word": "ledig",
+    "lemma": "ledig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "未婚的，单身的",
+        "en": "unmarried, single"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie ist ledig und hat keine Kinder.",
+        "zh": "她未婚，没有孩子。"
+      },
+      {
+        "de": "In seinem Pass steht der Familienstand 'ledig'.",
+        "zh": "他的护照上写着婚姻状况为'未婚'。"
+      }
+    ],
+    "collocations": [
+      "ledig sein",
+      "ledig bleiben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "个人状态",
+      "B1"
+    ],
+    "synonyms": [
+      "unverheiratet",
+      "alleinstehend"
+    ],
+    "antonyms": [
+      "verheiratet",
+      "geschieden"
+    ]
+  },
+  {
+    "word": "leer",
+    "lemma": "leer",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "空的",
+        "en": "empty"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Flasche ist leer, ich muss eine neue kaufen.",
+        "zh": "瓶子空了，我得买一瓶新的。"
+      },
+      {
+        "de": "Der Parkplatz war völlig leer.",
+        "zh": "停车场完全空着。"
+      }
+    ],
+    "collocations": [
+      "leer sein",
+      "leer stehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "生活",
+      "描述",
+      "A1"
+    ],
+    "synonyms": [
+      "unbesetzt",
+      "hohl"
+    ],
+    "antonyms": [
+      "voll",
+      "gefüllt"
+    ]
+  },
+  {
+    "word": "leeren",
+    "lemma": "leeren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "清空，倒空",
+        "en": "to empty"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du bitte den Mülleimer leeren?",
+        "zh": "你能把垃圾桶倒空吗？"
+      },
+      {
+        "de": "Er leerte sein Glas in einem Zug.",
+        "zh": "他一口气喝干了杯子。"
+      }
+    ],
+    "collocations": [
+      "den Müll leeren",
+      "ein Glas leeren"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geleert"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "动作",
+      "B1"
+    ],
+    "synonyms": [
+      "ausleeren",
+      "entleeren"
+    ],
+    "antonyms": [
+      "füllen",
+      "befüllen"
+    ]
+  },
+  {
+    "word": "Leistungsfähigkeit",
+    "lemma": "Leistungsfähigkeit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "性能，效率，能力",
+        "en": "performance, efficiency, capacity"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Leistungsfähigkeit des neuen Computers ist beeindruckend.",
+        "zh": "新电脑的性能令人印象深刻。"
+      },
+      {
+        "de": "Regelmäßiger Sport verbessert die körperliche Leistungsfähigkeit.",
+        "zh": "定期运动能提高身体机能。"
+      }
+    ],
+    "collocations": [
+      "die Leistungsfähigkeit steigern",
+      "körperliche Leistungsfähigkeit"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "科技",
+      "健康",
+      "B2"
+    ],
+    "synonyms": [
+      "Effizienz",
+      "Kapazität"
+    ],
+    "antonyms": [
+      "Schwäche",
+      "Unfähigkeit"
+    ]
+  },
+  {
+    "word": "leiten",
+    "lemma": "leiten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "领导，引导，传导",
+        "en": "to lead, to guide, to conduct"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie leitet das Projekt seit zwei Jahren.",
+        "zh": "她领导这个项目已经两年了。"
+      },
+      {
+        "de": "Metalle leiten Strom gut.",
+        "zh": "金属导电性能好。"
+      }
+    ],
+    "collocations": [
+      "ein Team leiten",
+      "Strom leiten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geleitet"
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "führen",
+      "dirigieren"
+    ],
+    "antonyms": [
+      "folgen",
+      "unterordnen"
+    ]
+  },
+  {
+    "word": "die",
+    "lemma": "der",
+    "pos": [
+      "article"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "定冠词（阴性单数/复数）",
+        "en": "the (feminine singular/plural)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Frau geht nach Hause.",
+        "zh": "那个女人回家。"
+      },
+      {
+        "de": "Die Kinder spielen im Garten.",
+        "zh": "孩子们在花园里玩。"
+      }
+    ],
+    "collocations": [
+      "die Frau",
+      "die Kinder"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语法",
+      "冠词",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Leiterin",
+    "lemma": "Leiterin",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Leiterinnen",
+    "meaning": [
+      {
+        "zh": "女领导，女负责人",
+        "en": "female leader, female manager"
+      },
+      {
+        "zh": "女指挥",
+        "en": "female conductor"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Leiterin der Abteilung hat heute eine wichtige Besprechung.",
+        "zh": "部门女领导今天有一个重要会议。"
+      },
+      {
+        "de": "Sie ist die Leiterin des Orchesters.",
+        "zh": "她是这个乐队的女指挥。"
+      }
+    ],
+    "collocations": [
+      "Abteilungsleiterin",
+      "Projektleiterin",
+      "als Leiterin arbeiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "职业",
+      "领导",
+      "B1"
+    ],
+    "synonyms": [
+      "Chefin",
+      "Vorgesetzte"
+    ],
+    "antonyms": [
+      "Mitarbeiterin",
+      "Untergebene"
+    ]
+  },
+  {
+    "word": "Liebhaber",
+    "lemma": "Liebhaber",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Liebhaber",
+    "meaning": [
+      {
+        "zh": "爱好者，热爱者",
+        "en": "lover, enthusiast"
+      },
+      {
+        "zh": "情人（男性）",
+        "en": "lover (male)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist ein großer Liebhaber klassischer Musik.",
+        "zh": "他是古典音乐的忠实爱好者。"
+      },
+      {
+        "de": "Sie traf sich heimlich mit ihrem Liebhaber.",
+        "zh": "她偷偷与她的情人见面。"
+      }
+    ],
+    "collocations": [
+      "Kunstliebhaber",
+      "Weinliebhaber",
+      "ein Liebhaber von etwas sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "爱好",
+      "B1"
+    ],
+    "synonyms": [
+      "Fan",
+      "Enthusiast",
+      "Geliebter"
+    ],
+    "antonyms": [
+      "Hasser",
+      "Gegner"
+    ]
+  },
+  {
+    "word": "Liebling",
+    "lemma": "Liebling",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Lieblinge",
+    "meaning": [
+      {
+        "zh": "最爱，宠儿",
+        "en": "favorite, darling"
+      },
+      {
+        "zh": "亲爱的（用作称呼）",
+        "en": "darling (as a term of endearment)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist mein Lieblingsbuch.",
+        "zh": "这是我最喜欢的书。"
+      },
+      {
+        "de": "Komm her, mein Liebling!",
+        "zh": "过来，亲爱的！"
+      }
+    ],
+    "collocations": [
+      "Lieblingsfarbe",
+      "Lieblingsgericht",
+      "der Liebling der Familie"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "Schatz",
+      "Liebste",
+      "Favorit"
+    ],
+    "antonyms": [
+      "Feind",
+      "Gegner"
+    ]
+  },
+  {
+    "word": "liefern",
+    "lemma": "liefern",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "提供，交付",
+        "en": "to deliver, to supply"
+      },
+      {
+        "zh": "产生（结果）",
+        "en": "to produce (a result)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Bote liefert die Bestellung morgen.",
+        "zh": "快递员明天送货。"
+      },
+      {
+        "de": "Die Untersuchung liefert interessante Ergebnisse.",
+        "zh": "这项调查得出了有趣的结果。"
+      }
+    ],
+    "collocations": [
+      "Waren liefern",
+      "einen Beweis liefern",
+      "pünktlich liefern"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geliefert"
+    },
+    "level": "B1",
+    "tags": [
+      "商业",
+      "物流",
+      "B1"
+    ],
+    "synonyms": [
+      "ausliefern",
+      "bringen",
+      "übergeben"
+    ],
+    "antonyms": [
+      "abholen",
+      "zurücknehmen"
+    ]
+  },
+  {
+    "word": "Limo",
+    "lemma": "Limo",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Limos",
+    "meaning": [
+      {
+        "zh": "柠檬汽水（口语）",
+        "en": "lemonade, soda (colloquial)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich möchte eine Limo, bitte.",
+        "zh": "请给我一杯柠檬汽水。"
+      },
+      {
+        "de": "Die Limo ist zu süß.",
+        "zh": "这汽水太甜了。"
+      }
+    ],
+    "collocations": [
+      "eine Limo bestellen",
+      "Limo trinken",
+      "kalte Limo"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "饮食",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "Limonade",
+      "Sprudel"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "derdas",
+    "lemma": "derdas",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "（无实际意义，可能为打字错误或特定语境词）",
+        "en": "(no actual meaning, possibly a typo or context-specific term)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieses Wort ist nicht gebräuchlich.",
+        "zh": "这个词不常用。"
+      },
+      {
+        "de": "Bitte überprüfen Sie die Eingabe.",
+        "zh": "请检查输入。"
+      }
+    ],
+    "collocations": [],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "特殊",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "logisch",
+    "lemma": "logisch",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "逻辑的，合乎逻辑的",
+        "en": "logical"
+      },
+      {
+        "zh": "当然（口语）",
+        "en": "of course (colloquial)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist eine logische Schlussfolgerung.",
+        "zh": "这是一个合乎逻辑的结论。"
+      },
+      {
+        "de": "Logisch, dass ich komme!",
+        "zh": "我当然会来！"
+      }
+    ],
+    "collocations": [
+      "logisch denken",
+      "logische Erklärung",
+      "völlig logisch"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "思维",
+      "语言",
+      "B1"
+    ],
+    "synonyms": [
+      "rational",
+      "folgerichtig",
+      "klar"
+    ],
+    "antonyms": [
+      "unlogisch",
+      "irrational"
+    ]
+  },
+  {
+    "word": "Look",
+    "lemma": "Look",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Looks",
+    "meaning": [
+      {
+        "zh": "外观，风格",
+        "en": "look, style"
+      },
+      {
+        "zh": "时尚造型",
+        "en": "fashion style"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie trägt einen modernen Look.",
+        "zh": "她穿着现代风格。"
+      },
+      {
+        "de": "Der Look des neuen Autos gefällt mir.",
+        "zh": "我喜欢这辆新车的外观。"
+      }
+    ],
+    "collocations": [
+      "einen neuen Look haben",
+      "modischer Look",
+      "Look verändern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "时尚",
+      "外观",
+      "B1"
+    ],
+    "synonyms": [
+      "Stil",
+      "Aussehen",
+      "Erscheinungsbild"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Mahlzeit",
+    "lemma": "Mahlzeit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Mahlzeiten",
+    "meaning": [
+      {
+        "zh": "餐，饭；用餐时间",
+        "en": "meal; mealtime"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir essen drei Mahlzeiten am Tag.",
+        "zh": "我们一天吃三顿饭。"
+      },
+      {
+        "de": "Die Mittagsmahlzeit ist um 12 Uhr.",
+        "zh": "午餐在12点。"
+      }
+    ],
+    "collocations": [
+      "eine Mahlzeit einnehmen",
+      "warme Mahlzeit"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "饮食",
+      "A2"
+    ],
+    "synonyms": [
+      "Essen",
+      "Gericht"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Mangel",
+    "lemma": "Mangel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Mängel",
+    "meaning": [
+      {
+        "zh": "缺乏，不足；缺陷",
+        "en": "lack, shortage; defect"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Es herrscht ein Mangel an Fachkräften.",
+        "zh": "缺乏专业人才。"
+      },
+      {
+        "de": "Das Produkt hat mehrere Mängel.",
+        "zh": "该产品有多个缺陷。"
+      }
+    ],
+    "collocations": [
+      "Mangel an",
+      "einen Mangel beheben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "Defizit",
+      "Fehler"
+    ],
+    "antonyms": [
+      "Überfluss",
+      "Perfektion"
+    ]
+  },
+  {
+    "word": "männlich",
+    "lemma": "männlich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "男性的，雄性的",
+        "en": "male, masculine"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist ein männlicher Kollege.",
+        "zh": "他是一位男同事。"
+      },
+      {
+        "de": "Das Wort hat ein männliches Geschlecht.",
+        "zh": "这个词是阳性。"
+      }
+    ],
+    "collocations": [
+      "männliche Person",
+      "männliches Geschlecht"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "语言",
+      "性别",
+      "A2"
+    ],
+    "synonyms": [
+      "maskulin",
+      "männergeschlechtlich"
+    ],
+    "antonyms": [
+      "weiblich",
+      "feminin"
+    ]
+  },
+  {
+    "word": "Material",
+    "lemma": "Material",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Materialien",
+    "meaning": [
+      {
+        "zh": "材料，原料；资料",
+        "en": "material; data"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Für den Bau wird hochwertiges Material verwendet.",
+        "zh": "建筑使用了高质量材料。"
+      },
+      {
+        "de": "Das Unterrichtsmaterial ist sehr hilfreich.",
+        "zh": "教学材料非常有帮助。"
+      }
+    ],
+    "collocations": [
+      "Baumaterial",
+      "Unterrichtsmaterial"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "Stoff",
+      "Werkstoff"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Mauer",
+    "lemma": "Mauer",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Mauern",
+    "meaning": [
+      {
+        "zh": "墙，城墙",
+        "en": "wall"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Mauer ist drei Meter hoch.",
+        "zh": "这堵墙有三米高。"
+      },
+      {
+        "de": "Sie haben eine Mauer um den Garten gebaut.",
+        "zh": "他们在花园周围建了一堵墙。"
+      }
+    ],
+    "collocations": [
+      "eine Mauer bauen",
+      "die Berliner Mauer"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "建筑",
+      "历史",
+      "A2"
+    ],
+    "synonyms": [
+      "Wand",
+      "Grenzmauer"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Medium",
+    "lemma": "Medium",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Medien",
+    "meaning": [
+      {
+        "zh": "媒介，媒体；介质",
+        "en": "medium; media"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Internet ist ein wichtiges Medium.",
+        "zh": "互联网是一种重要的媒体。"
+      },
+      {
+        "de": "Die Medien berichten über das Ereignis.",
+        "zh": "媒体在报道这一事件。"
+      }
+    ],
+    "collocations": [
+      "soziale Medien",
+      "Massenmedien"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Kommunikationsmittel",
+      "Presse"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "medizinisch",
+    "lemma": "medizinisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "医学的，医疗的",
+        "en": "medical"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er bekommt eine medizinische Behandlung.",
+        "zh": "他接受医学治疗。"
+      },
+      {
+        "de": "Das ist ein medizinisches Gerät.",
+        "zh": "这是一个医疗设备。"
+      }
+    ],
+    "collocations": [
+      "medizinische Versorgung",
+      "medizinische Forschung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "健康",
+      "科学",
+      "B1"
+    ],
+    "synonyms": [
+      "ärztlich",
+      "klinisch"
+    ],
+    "antonyms": [
+      "unmedizinisch"
+    ]
+  },
+  {
+    "word": "Mehrfamilienhaus",
+    "lemma": "Mehrfamilienhaus",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Mehrfamilienhäuser",
+    "meaning": [
+      {
+        "zh": "多户住宅楼",
+        "en": "apartment building, multi-family house"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie wohnen in einem Mehrfamilienhaus.",
+        "zh": "他们住在一栋多户住宅楼里。"
+      },
+      {
+        "de": "Das Mehrfamilienhaus hat sechs Wohnungen.",
+        "zh": "这栋多户住宅楼有六套公寓。"
+      }
+    ],
+    "collocations": [
+      "in einem Mehrfamilienhaus wohnen",
+      "Mehrfamilienhaus bauen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "建筑",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Wohnhaus",
+      "Mietshaus"
+    ],
+    "antonyms": [
+      "Einfamilienhaus"
+    ]
+  },
+  {
+    "word": "Mehrwegflasche",
+    "lemma": "Mehrwegflasche",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Mehrwegflaschen",
+    "meaning": [
+      {
+        "zh": "可回收瓶",
+        "en": "returnable bottle"
+      },
+      {
+        "zh": "多次使用瓶",
+        "en": "reusable bottle"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich kaufe lieber Getränke in Mehrwegflaschen.",
+        "zh": "我更喜欢买可回收瓶装的饮料。"
+      },
+      {
+        "de": "Die Mehrwegflasche wird nach der Rückgabe gereinigt und wieder befüllt.",
+        "zh": "可回收瓶在退回后被清洗并重新灌装。"
+      }
+    ],
+    "collocations": [
+      "Mehrwegflasche pfandfrei",
+      "Mehrwegflasche zurückgeben",
+      "Mehrwegflasche kaufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "环境",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Pfandflasche"
+    ],
+    "antonyms": [
+      "Einwegflasche"
+    ]
+  },
+  {
+    "word": "meist",
+    "lemma": "meist",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "大多数情况下",
+        "en": "mostly"
+      },
+      {
+        "zh": "通常",
+        "en": "usually"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Meist fahre ich mit dem Bus zur Arbeit.",
+        "zh": "我通常坐公交车去上班。"
+      },
+      {
+        "de": "Im Winter ist es hier meist kalt.",
+        "zh": "冬天这里通常很冷。"
+      }
+    ],
+    "collocations": [
+      "meistens",
+      "am meisten",
+      "meist der Fall"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "频率",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "meistens",
+      "in der Regel"
+    ],
+    "antonyms": [
+      "selten"
+    ]
+  },
+  {
+    "word": "bsp",
+    "lemma": "Beispiel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Beispiele",
+    "meaning": [
+      {
+        "zh": "例子",
+        "en": "example"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du mir ein bsp für diese Regel geben?",
+        "zh": "你能给我一个这条规则的例子吗？"
+      },
+      {
+        "de": "Im Text stehen mehrere bsp.",
+        "zh": "文本中有几个例子。"
+      }
+    ],
+    "collocations": [
+      "zum Beispiel",
+      "ein bsp anführen",
+      "als bsp dienen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "语言",
+      "学习",
+      "A2"
+    ],
+    "synonyms": [
+      "Beispiel",
+      "Exempel"
+    ],
+    "antonyms": []
+  }
+]

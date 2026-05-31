@@ -1,0 +1,1367 @@
+[
+  {
+    "word": "entmutigen",
+    "lemma": "entmutigen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "使气馁，使沮丧",
+        "en": "to discourage, to dishearten"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Lass dich nicht von den ersten Schwierigkeiten entmutigen.",
+        "zh": "不要被最初的困难所气馁。"
+      },
+      {
+        "de": "Die ständige Kritik entmutigte ihn völlig.",
+        "zh": "不断的批评使他完全沮丧了。"
+      }
+    ],
+    "collocations": [
+      "jemanden entmutigen",
+      "sich entmutigen lassen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "entmutigt"
+    },
+    "level": "B2",
+    "tags": [
+      "情感",
+      "B2"
+    ],
+    "synonyms": [
+      "demoralisieren",
+      "entkräften"
+    ],
+    "antonyms": [
+      "ermutigen",
+      "anfeuern"
+    ]
+  },
+  {
+    "word": "entscheidend",
+    "lemma": "entscheidend",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "决定性的，关键的",
+        "en": "decisive, crucial"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das war der entscheidende Moment im Spiel.",
+        "zh": "那是比赛中的关键时刻。"
+      },
+      {
+        "de": "Eine entscheidende Rolle spielt die Zusammenarbeit.",
+        "zh": "合作起着决定性作用。"
+      }
+    ],
+    "collocations": [
+      "entscheidender Faktor",
+      "entscheidende Rolle"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "ausschlaggebend",
+      "wesentlich"
+    ],
+    "antonyms": [
+      "unbedeutend",
+      "nebensächlich"
+    ]
+  },
+  {
+    "word": "Entschluss",
+    "lemma": "Entschluss",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Entschlüsse",
+    "meaning": [
+      {
+        "zh": "决定，决心",
+        "en": "decision, resolution"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er fasste den Entschluss, sein Studium abzubrechen.",
+        "zh": "他下定决心辍学。"
+      },
+      {
+        "de": "Nach langem Zögern traf sie einen endgültigen Entschluss.",
+        "zh": "经过长时间的犹豫，她做出了最终决定。"
+      }
+    ],
+    "collocations": [
+      "einen Entschluss fassen",
+      "zu einem Entschluss kommen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Beschluss",
+      "Entscheidung"
+    ],
+    "antonyms": [
+      "Unentschlossenheit",
+      "Zögern"
+    ]
+  },
+  {
+    "word": "erbringen",
+    "lemma": "erbringen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "带来，产生（结果、证据等）",
+        "en": "to yield, to produce, to provide"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Untersuchung erbrachte keine neuen Erkenntnisse.",
+        "zh": "调查没有带来新的发现。"
+      },
+      {
+        "de": "Er musste den Nachweis seiner Fähigkeiten erbringen.",
+        "zh": "他必须提供自己能力的证明。"
+      }
+    ],
+    "collocations": [
+      "einen Nachweis erbringen",
+      "Leistung erbringen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "erbracht"
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "liefern",
+      "hervorbringen"
+    ],
+    "antonyms": [
+      "verfehlen",
+      "versäumen"
+    ]
+  },
+  {
+    "word": "erfassen",
+    "lemma": "erfassen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "理解，掌握；记录，登记",
+        "en": "to grasp, to comprehend; to record, to capture"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er konnte die komplexe Situation nicht sofort erfassen.",
+        "zh": "他无法立即理解复杂的情况。"
+      },
+      {
+        "de": "Die Daten werden automatisch im System erfasst.",
+        "zh": "数据被自动记录在系统中。"
+      }
+    ],
+    "collocations": [
+      "Daten erfassen",
+      "den Sinn erfassen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "erfasst"
+    },
+    "level": "B2",
+    "tags": [
+      "科技",
+      "B2"
+    ],
+    "synonyms": [
+      "begreifen",
+      "registrieren"
+    ],
+    "antonyms": [
+      "übersehen",
+      "ignorieren"
+    ]
+  },
+  {
+    "word": "erforschen",
+    "lemma": "erforschen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "研究，探索",
+        "en": "to research, to explore"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wissenschaftler erforschen die Ursachen des Klimawandels.",
+        "zh": "科学家们研究气候变化的原因。"
+      },
+      {
+        "de": "Sie erforschte die Geschichte ihrer Familie.",
+        "zh": "她探索了自己家族的历史。"
+      }
+    ],
+    "collocations": [
+      "ein Thema erforschen",
+      "die Ursachen erforschen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "erforscht"
+    },
+    "level": "B2",
+    "tags": [
+      "科技",
+      "B2"
+    ],
+    "synonyms": [
+      "untersuchen",
+      "analysieren"
+    ],
+    "antonyms": [
+      "vernachlässigen",
+      "ignorieren"
+    ]
+  },
+  {
+    "word": "ergattern",
+    "lemma": "ergattern",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "（费力地）弄到，搞到",
+        "en": "to get hold of, to snag"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ergatterte die letzten Karten für das Konzert.",
+        "zh": "他搞到了音乐会的最后几张票。"
+      },
+      {
+        "de": "Sie ergatterte einen begehrten Praktikumsplatz.",
+        "zh": "她弄到了一个抢手的实习位置。"
+      }
+    ],
+    "collocations": [
+      "ein Ticket ergattern",
+      "einen Platz ergattern"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "ergattert"
+    },
+    "level": "B2",
+    "tags": [
+      "生活",
+      "B2"
+    ],
+    "synonyms": [
+      "erhaschen",
+      "erwischen"
+    ],
+    "antonyms": [
+      "verpassen",
+      "verlieren"
+    ]
+  },
+  {
+    "word": "erkranken",
+    "lemma": "erkranken",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "生病，患病",
+        "en": "to fall ill, to become sick"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Viele Menschen erkrankten an der Grippe.",
+        "zh": "许多人患上了流感。"
+      },
+      {
+        "de": "Er ist schwer erkrankt und musste ins Krankenhaus.",
+        "zh": "他病得很重，必须住院。"
+      }
+    ],
+    "collocations": [
+      "an etwas erkranken",
+      "schwer erkranken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "sein",
+      "partizip2": "erkrankt"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "krank werden",
+      "sich infizieren"
+    ],
+    "antonyms": [
+      "gesunden",
+      "genesen"
+    ]
+  },
+  {
+    "word": "errechnen",
+    "lemma": "errechnen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "计算出",
+        "en": "to calculate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Computer kann die Summe schnell errechnen.",
+        "zh": "计算机可以快速计算出总和。"
+      },
+      {
+        "de": "Wir müssen die Kosten genau errechnen.",
+        "zh": "我们必须精确计算出成本。"
+      }
+    ],
+    "collocations": [
+      "die Summe errechnen",
+      "die Kosten errechnen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "errechnet"
+    },
+    "level": "B1",
+    "tags": [
+      "数学",
+      "B1"
+    ],
+    "synonyms": [
+      "berechnen",
+      "ausrechnen"
+    ],
+    "antonyms": [
+      "schätzen"
+    ]
+  },
+  {
+    "word": "erschrecken",
+    "lemma": "erschrecken",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "惊吓，使害怕",
+        "en": "to frighten, to scare"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der laute Knall erschreckte die Kinder.",
+        "zh": "巨大的响声吓到了孩子们。"
+      },
+      {
+        "de": "Er erschrak, als er die Nachricht hörte.",
+        "zh": "他听到消息时吓了一跳。"
+      }
+    ],
+    "collocations": [
+      "jemanden erschrecken",
+      "vor etwas erschrecken"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "erschreckt"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "ängstigen",
+      "verängstigen"
+    ],
+    "antonyms": [
+      "beruhigen"
+    ]
+  },
+  {
+    "word": "erschweren",
+    "lemma": "erschweren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "使困难，加重",
+        "en": "to make difficult, to complicate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Regen erschwerte die Rettungsarbeiten.",
+        "zh": "雨水使救援工作变得困难。"
+      },
+      {
+        "de": "Die neuen Regeln erschweren den Zugang zu Informationen.",
+        "zh": "新规定使获取信息变得更加困难。"
+      }
+    ],
+    "collocations": [
+      "die Arbeit erschweren",
+      "den Zugang erschweren"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "erschwert"
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "komplizieren",
+      "behindern"
+    ],
+    "antonyms": [
+      "erleichtern",
+      "vereinfachen"
+    ]
+  },
+  {
+    "word": "erstaunlicherweise",
+    "lemma": "erstaunlicherweise",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "令人惊讶地",
+        "en": "surprisingly"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Erstaunlicherweise hat er die Prüfung bestanden.",
+        "zh": "令人惊讶的是，他通过了考试。"
+      },
+      {
+        "de": "Erstaunlicherweise war das Wetter am Wochenende schön.",
+        "zh": "令人惊讶的是，周末天气很好。"
+      }
+    ],
+    "collocations": [
+      "erstaunlicherweise gut",
+      "erstaunlicherweise schnell"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "überraschenderweise",
+      "unglaublicherweise"
+    ],
+    "antonyms": [
+      "erwartungsgemäß"
+    ]
+  },
+  {
+    "word": "erwarten",
+    "lemma": "erwarten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "期待，预料",
+        "en": "to expect"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich erwarte einen wichtigen Anruf.",
+        "zh": "我在等一个重要的电话。"
+      },
+      {
+        "de": "Die Firma erwartet ein gutes Ergebnis.",
+        "zh": "公司期待一个好的结果。"
+      }
+    ],
+    "collocations": [
+      "etwas erwarten",
+      "von jemandem erwarten"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "erwartet"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "hoffen",
+      "rechnen mit"
+    ],
+    "antonyms": [
+      "befürchten"
+    ]
+  },
+  {
+    "word": "erweitern",
+    "lemma": "erweitern",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "扩大，扩展",
+        "en": "to expand, to extend"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Firma möchte ihr Geschäft erweitern.",
+        "zh": "公司想扩大业务。"
+      },
+      {
+        "de": "Wir müssen unseren Wortschatz erweitern.",
+        "zh": "我们必须扩大词汇量。"
+      }
+    ],
+    "collocations": [
+      "das Geschäft erweitern",
+      "den Wortschatz erweitern"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "erweitert"
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "B1"
+    ],
+    "synonyms": [
+      "ausdehnen",
+      "vergrößern"
+    ],
+    "antonyms": [
+      "einschränken",
+      "verkleinern"
+    ]
+  },
+  {
+    "word": "Erzählung",
+    "lemma": "Erzählung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Erzählungen",
+    "meaning": [
+      {
+        "zh": "故事，叙述",
+        "en": "story, narrative"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie las eine spannende Erzählung vor.",
+        "zh": "她朗读了一个激动人心的故事。"
+      },
+      {
+        "de": "Seine Erzählung war sehr lebendig.",
+        "zh": "他的叙述非常生动。"
+      }
+    ],
+    "collocations": [
+      "eine Erzählung vorlesen",
+      "eine kurze Erzählung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "文学",
+      "B1"
+    ],
+    "synonyms": [
+      "Geschichte",
+      "Märchen"
+    ],
+    "antonyms": [
+      "Tatsache",
+      "Bericht"
+    ]
+  },
+  {
+    "word": "erziehen",
+    "lemma": "erziehen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "教育，培养",
+        "en": "to educate, to bring up"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Eltern erziehen ihre Kinder zu verantwortungsbewussten Menschen.",
+        "zh": "父母把孩子教育成有责任心的人。"
+      },
+      {
+        "de": "Die Schule erzieht die Schüler zu Toleranz.",
+        "zh": "学校教育学生要宽容。"
+      }
+    ],
+    "collocations": [
+      "Kinder erziehen",
+      "zu etwas erziehen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "erzogen"
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "ausbilden",
+      "lehren"
+    ],
+    "antonyms": [
+      "vernachlässigen"
+    ]
+  },
+  {
+    "word": "erzielen",
+    "lemma": "erzielen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "获得，取得（成果、分数等）",
+        "en": "to achieve, to attain, to score"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Mannschaft konnte einen wichtigen Sieg erzielen.",
+        "zh": "这支队伍取得了一场重要的胜利。"
+      },
+      {
+        "de": "Mit dieser Strategie erzielte das Unternehmen hohe Gewinne.",
+        "zh": "通过这一策略，该公司获得了高额利润。"
+      }
+    ],
+    "collocations": [
+      "ein Ergebnis erzielen",
+      "einen Erfolg erzielen",
+      "einen Treffer erzielen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "erzielt"
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "体育",
+      "B1"
+    ],
+    "synonyms": [
+      "erreichen",
+      "gewinnen",
+      "erlangen"
+    ],
+    "antonyms": [
+      "verfehlen",
+      "verlieren"
+    ]
+  },
+  {
+    "word": "Euphorie",
+    "lemma": "Euphorie",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "兴奋，狂喜，高涨的情绪",
+        "en": "euphoria, elation"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Nach dem Sieg herrschte große Euphorie im Stadion.",
+        "zh": "胜利后，体育场内充满了巨大的兴奋情绪。"
+      },
+      {
+        "de": "Die Euphorie an der Börse ließ allmählich nach.",
+        "zh": "股市的狂热逐渐消退。"
+      }
+    ],
+    "collocations": [
+      "in Euphorie verfallen",
+      "Euphorie auslösen",
+      "die anfängliche Euphorie"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "情感",
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "Begeisterung",
+      "Hochgefühl",
+      "Rausch"
+    ],
+    "antonyms": [
+      "Depression",
+      "Niedergeschlagenheit",
+      "Apathie"
+    ]
+  },
+  {
+    "word": "Experiment",
+    "lemma": "Experiment",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Experimente",
+    "meaning": [
+      {
+        "zh": "实验，试验",
+        "en": "experiment"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Wissenschaftler führten ein wichtiges Experiment durch.",
+        "zh": "科学家们进行了一项重要的实验。"
+      },
+      {
+        "de": "Das Experiment verlief erfolgreich und lieferte neue Daten.",
+        "zh": "实验成功进行，并提供了新的数据。"
+      }
+    ],
+    "collocations": [
+      "ein Experiment durchführen",
+      "ein Experiment wagen",
+      "ein gescheitertes Experiment"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科学",
+      "技术",
+      "B1"
+    ],
+    "synonyms": [
+      "Versuch",
+      "Test",
+      "Erprobung"
+    ],
+    "antonyms": [
+      "Routine",
+      "Praxis"
+    ]
+  },
+  {
+    "word": "Fabrikant",
+    "lemma": "Fabrikant",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Fabrikanten",
+    "meaning": [
+      {
+        "zh": "工厂主，制造商",
+        "en": "manufacturer, factory owner"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Fabrikant stellte neue Maschinen in seiner Fabrik auf.",
+        "zh": "工厂主在他的工厂里安装了新机器。"
+      },
+      {
+        "de": "Viele Fabrikanten mussten wegen der Krise ihre Produktion drosseln.",
+        "zh": "许多制造商因危机不得不缩减生产。"
+      }
+    ],
+    "collocations": [
+      "ein Fabrikant von Autoteilen",
+      "der Fabrikant eines Unternehmens",
+      "als Fabrikant tätig sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "经济",
+      "职业",
+      "B2"
+    ],
+    "synonyms": [
+      "Hersteller",
+      "Produzent",
+      "Unternehmer"
+    ],
+    "antonyms": [
+      "Kunde",
+      "Verbraucher"
+    ]
+  },
+  {
+    "word": "Fachmann",
+    "lemma": "Fachmann",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Fachleute",
+    "meaning": [
+      {
+        "zh": "专家，行家",
+        "en": "expert, specialist"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Für diese Reparatur brauchen wir einen Fachmann.",
+        "zh": "这次修理我们需要一位专家。"
+      },
+      {
+        "de": "Der Fachmann erklärte uns die komplizierte Technik.",
+        "zh": "专家向我们解释了复杂的技术。"
+      }
+    ],
+    "collocations": [
+      "einen Fachmann hinzuziehen",
+      "als Fachmann gelten",
+      "ein Fachmann auf einem Gebiet"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "职业",
+      "知识",
+      "B1"
+    ],
+    "synonyms": [
+      "Experte",
+      "Spezialist",
+      "Kenner"
+    ],
+    "antonyms": [
+      "Laie",
+      "Amateur",
+      "Anfänger"
+    ]
+  },
+  {
+    "word": "falsch",
+    "lemma": "falsch",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "错误的，假的，不正确的",
+        "en": "wrong, false, incorrect"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Antwort ist leider falsch.",
+        "zh": "这个答案可惜是错的。"
+      },
+      {
+        "de": "Er hat die falsche Entscheidung getroffen.",
+        "zh": "他做出了错误的决定。"
+      }
+    ],
+    "collocations": [
+      "falsch liegen",
+      "falsch verstehen",
+      "falsche Informationen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "日常",
+      "评价",
+      "A2"
+    ],
+    "synonyms": [
+      "inkorrekt",
+      "unrichtig",
+      "fehlerhaft"
+    ],
+    "antonyms": [
+      "richtig",
+      "korrekt",
+      "wahr"
+    ]
+  },
+  {
+    "word": "faltbar",
+    "lemma": "faltbar",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "可折叠的",
+        "en": "foldable, collapsible"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieser Tisch ist faltbar und nimmt wenig Platz weg.",
+        "zh": "这张桌子是可折叠的，占用空间小。"
+      },
+      {
+        "de": "Faltbare Handys werden immer beliebter.",
+        "zh": "可折叠手机越来越受欢迎。"
+      }
+    ],
+    "collocations": [
+      "ein faltbarer Stuhl",
+      "faltbare Möbel",
+      "faltbares Display"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "技术",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "zusammenklappbar",
+      "klappbar"
+    ],
+    "antonyms": [
+      "starr",
+      "unbeweglich",
+      "fest"
+    ]
+  },
+  {
+    "word": "familiär",
+    "lemma": "familiär",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "家庭的，亲切的，像家人一样的",
+        "en": "familial, family-like, informal"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In diesem Restaurant herrscht eine familiäre Atmosphäre.",
+        "zh": "这家餐厅有一种家庭般的氛围。"
+      },
+      {
+        "de": "Die familiären Beziehungen sind ihm sehr wichtig.",
+        "zh": "家庭关系对他来说非常重要。"
+      }
+    ],
+    "collocations": [
+      "familiäre Bindung",
+      "familiäres Umfeld",
+      "familiärer Umgang"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "vertraut",
+      "häuslich",
+      "gemütlich"
+    ],
+    "antonyms": [
+      "geschäftlich",
+      "förmlich",
+      "unpersönlich"
+    ]
+  },
+  {
+    "word": "farbig",
+    "lemma": "farbig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "彩色的，有颜色的",
+        "en": "colored, colorful"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie trägt ein farbiges Kleid.",
+        "zh": "她穿着一件彩色的连衣裙。"
+      },
+      {
+        "de": "Die Zeitschrift ist farbig illustriert.",
+        "zh": "这本杂志是彩色插图的。"
+      }
+    ],
+    "collocations": [
+      "farbige Bilder",
+      "farbig gestalten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "视觉",
+      "描述",
+      "B1"
+    ],
+    "synonyms": [
+      "bunt",
+      "koloriert"
+    ],
+    "antonyms": [
+      "einfarbig",
+      "schwarz-weiß"
+    ]
+  },
+  {
+    "word": "faul",
+    "lemma": "faul",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "懒惰的；腐烂的",
+        "en": "lazy; rotten"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist zu faul, um aufzuräumen.",
+        "zh": "他太懒了，不想收拾。"
+      },
+      {
+        "de": "Die Äpfel sind faul und müssen weggeworfen werden.",
+        "zh": "这些苹果腐烂了，必须扔掉。"
+      }
+    ],
+    "collocations": [
+      "faul sein",
+      "faule Eier"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "性格",
+      "食物",
+      "A2"
+    ],
+    "synonyms": [
+      "träge",
+      "verfault"
+    ],
+    "antonyms": [
+      "fleißig",
+      "frisch"
+    ]
+  },
+  {
+    "word": "Fax",
+    "lemma": "Fax",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Faxen",
+    "meaning": [
+      {
+        "zh": "传真；传真机",
+        "en": "fax; fax machine"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bitte senden Sie das Dokument per Fax.",
+        "zh": "请通过传真发送文件。"
+      },
+      {
+        "de": "Das Fax ist kaputt, wir müssen ein neues kaufen.",
+        "zh": "传真机坏了，我们必须买一台新的。"
+      }
+    ],
+    "collocations": [
+      "ein Fax senden",
+      "per Fax"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "通信",
+      "办公",
+      "B1"
+    ],
+    "synonyms": [
+      "Telefax"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Feedback",
+    "lemma": "Feedback",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Feedbacks",
+    "meaning": [
+      {
+        "zh": "反馈，回馈",
+        "en": "feedback"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir freuen uns über Ihr Feedback.",
+        "zh": "我们期待您的反馈。"
+      },
+      {
+        "de": "Das Feedback der Kunden war positiv.",
+        "zh": "客户的反馈是积极的。"
+      }
+    ],
+    "collocations": [
+      "Feedback geben",
+      "positives Feedback"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "沟通",
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "Rückmeldung",
+      "Rückkopplung"
+    ],
+    "antonyms": []
+  }
+]

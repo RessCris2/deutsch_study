@@ -1,0 +1,1612 @@
+[
+  {
+    "word": "Werk",
+    "lemma": "Werk",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Werke",
+    "meaning": [
+      {
+        "zh": "作品；工厂；工程",
+        "en": "work; factory; piece of work"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieses Werk wurde im 18. Jahrhundert geschrieben.",
+        "zh": "这部作品写于18世纪。"
+      },
+      {
+        "de": "Er arbeitet in einem chemischen Werk.",
+        "zh": "他在一家化工厂工作。"
+      }
+    ],
+    "collocations": [
+      "ein Werk veröffentlichen",
+      "im Werk arbeiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "文化",
+      "工业",
+      "B1"
+    ],
+    "synonyms": [
+      "Fabrik",
+      "Schöpfung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Werkstatt",
+    "lemma": "Werkstatt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Werkstätten",
+    "meaning": [
+      {
+        "zh": "车间；工作室",
+        "en": "workshop; studio"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Werkstatt ist voller Werkzeuge.",
+        "zh": "车间里满是工具。"
+      },
+      {
+        "de": "Er repariert sein Auto in der Werkstatt.",
+        "zh": "他在车间里修车。"
+      }
+    ],
+    "collocations": [
+      "in die Werkstatt gehen",
+      "eine Werkstatt einrichten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "工作",
+      "技术",
+      "B1"
+    ],
+    "synonyms": [
+      "Arbeitsraum",
+      "Atelier"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Werkzeug",
+    "lemma": "Werkzeug",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Werkzeuge",
+    "meaning": [
+      {
+        "zh": "工具",
+        "en": "tool"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieses Werkzeug ist sehr nützlich.",
+        "zh": "这个工具很有用。"
+      },
+      {
+        "de": "Er hat das Werkzeug in der Schublade gefunden.",
+        "zh": "他在抽屉里找到了工具。"
+      }
+    ],
+    "collocations": [
+      "Werkzeug benutzen",
+      "Werkzeug kaufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "技术",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "Gerät",
+      "Instrument"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Widerspruch",
+    "lemma": "Widerspruch",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Widersprüche",
+    "meaning": [
+      {
+        "zh": "矛盾；反对；异议",
+        "en": "contradiction; objection"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Seine Aussage steht im Widerspruch zu den Fakten.",
+        "zh": "他的陈述与事实相矛盾。"
+      },
+      {
+        "de": "Sie erhob keinen Widerspruch gegen den Plan.",
+        "zh": "她对计划没有提出异议。"
+      }
+    ],
+    "collocations": [
+      "im Widerspruch stehen",
+      "Widerspruch einlegen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "逻辑",
+      "法律",
+      "B2"
+    ],
+    "synonyms": [
+      "Gegensatz",
+      "Einwand"
+    ],
+    "antonyms": [
+      "Zustimmung",
+      "Einklang"
+    ]
+  },
+  {
+    "word": "wiederholen",
+    "lemma": "wiederholen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "重复；复习",
+        "en": "to repeat; to review"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bitte wiederholen Sie die Frage.",
+        "zh": "请重复一下问题。"
+      },
+      {
+        "de": "Ich muss die Vokabeln wiederholen.",
+        "zh": "我必须复习单词。"
+      }
+    ],
+    "collocations": [
+      "etwas wiederholen",
+      "sich wiederholen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "wiederholt"
+    },
+    "level": "A2",
+    "tags": [
+      "学习",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "wiederaufnehmen",
+      "rekapitulieren"
+    ],
+    "antonyms": [
+      "vergessen",
+      "unterlassen"
+    ]
+  },
+  {
+    "word": "willkommen",
+    "lemma": "willkommen",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "受欢迎的",
+        "en": "welcome"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Herzlich willkommen in Deutschland!",
+        "zh": "热烈欢迎来到德国！"
+      },
+      {
+        "de": "Deine Hilfe ist immer willkommen.",
+        "zh": "你的帮助总是受欢迎的。"
+      }
+    ],
+    "collocations": [
+      "willkommen heißen",
+      "sich willkommen fühlen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "社交",
+      "情感",
+      "A1"
+    ],
+    "synonyms": [
+      "erwünscht",
+      "gern gesehen"
+    ],
+    "antonyms": [
+      "unerwünscht",
+      "unwillkommen"
+    ]
+  },
+  {
+    "word": "Wissenschaftszentrum",
+    "lemma": "Wissenschaftszentrum",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Wissenschaftszentren",
+    "meaning": [
+      {
+        "zh": "科学中心",
+        "en": "science center"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Wissenschaftszentrum bietet viele Experimente für Kinder.",
+        "zh": "科学中心为孩子们提供许多实验。"
+      },
+      {
+        "de": "Er arbeitet in einem renommierten Wissenschaftszentrum.",
+        "zh": "他在一家著名的科学中心工作。"
+      }
+    ],
+    "collocations": [
+      "ein Wissenschaftszentrum besuchen",
+      "im Wissenschaftszentrum forschen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "科学",
+      "教育",
+      "B2"
+    ],
+    "synonyms": [
+      "Forschungszentrum",
+      "Institut"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Witz",
+    "lemma": "Witz",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Witze",
+    "meaning": [
+      {
+        "zh": "笑话；幽默",
+        "en": "joke; wit"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat einen lustigen Witz erzählt.",
+        "zh": "他讲了一个有趣的笑话。"
+      },
+      {
+        "de": "Der Witz kam bei allen gut an.",
+        "zh": "这个笑话很受欢迎。"
+      }
+    ],
+    "collocations": [
+      "einen Witz erzählen",
+      "Witze machen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "娱乐",
+      "社交",
+      "A2"
+    ],
+    "synonyms": [
+      "Scherz",
+      "Gag"
+    ],
+    "antonyms": [
+      "Ernst",
+      "Ernsthaftigkeit"
+    ]
+  },
+  {
+    "word": "Wohnungsnot",
+    "lemma": "Wohnungsnot",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "住房短缺",
+        "en": "housing shortage"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In vielen Großstädten herrscht akute Wohnungsnot.",
+        "zh": "许多大城市存在严重的住房短缺。"
+      },
+      {
+        "de": "Die Regierung versucht, die Wohnungsnot durch den Bau neuer Wohnungen zu lindern.",
+        "zh": "政府试图通过建造新住房来缓解住房短缺。"
+      }
+    ],
+    "collocations": [
+      "akute Wohnungsnot",
+      "die Wohnungsnot bekämpfen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "住房",
+      "B1"
+    ],
+    "synonyms": [
+      "Wohnungsknappheit"
+    ],
+    "antonyms": [
+      "Wohnungsüberfluss"
+    ]
+  },
+  {
+    "word": "ider",
+    "lemma": "ider",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "ider",
+    "meaning": [
+      {
+        "zh": "（虚构词，无实际意义）",
+        "en": "fictional word, no real meaning"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Dieses Wort 'ider' ist nicht gebräuchlich.",
+        "zh": "这个词'ider'并不常用。"
+      },
+      {
+        "de": "Der Begriff 'ider' existiert nicht im Deutschen.",
+        "zh": "概念'ider'在德语中不存在。"
+      }
+    ],
+    "collocations": [],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "虚构",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "wunderbar",
+    "lemma": "wunderbar",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "美妙的，极好的",
+        "en": "wonderful, marvelous"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Wetter ist heute wunderbar.",
+        "zh": "今天天气真好。"
+      },
+      {
+        "de": "Sie hat eine wunderbare Stimme.",
+        "zh": "她有一副美妙的嗓音。"
+      }
+    ],
+    "collocations": [
+      "wunderbar schmecken",
+      "wunderbar gelingen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "评价",
+      "A2"
+    ],
+    "synonyms": [
+      "herrlich",
+      "fantastisch"
+    ],
+    "antonyms": [
+      "schrecklich",
+      "furchtbar"
+    ]
+  },
+  {
+    "word": "Wunderkind",
+    "lemma": "Wunderkind",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Wunderkinder",
+    "meaning": [
+      {
+        "zh": "神童",
+        "en": "child prodigy"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mozart war ein musikalisches Wunderkind.",
+        "zh": "莫扎特是一个音乐神童。"
+      },
+      {
+        "de": "Das junge Mädchen gilt als Wunderkind in Mathematik.",
+        "zh": "这个小女孩被认为是数学神童。"
+      }
+    ],
+    "collocations": [
+      "ein Wunderkind sein",
+      "als Wunderkind gelten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "教育",
+      "B1"
+    ],
+    "synonyms": [
+      "Genie",
+      "Talent"
+    ],
+    "antonyms": [
+      "Durchschnittskind"
+    ]
+  },
+  {
+    "word": "xder",
+    "lemma": "xder",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "xder",
+    "meaning": [
+      {
+        "zh": "（虚构词，无实际意义）",
+        "en": "fictional word, no real meaning"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Wort 'xder' ist nicht im Wörterbuch.",
+        "zh": "这个词'xder'不在词典中。"
+      },
+      {
+        "de": "Man kann 'xder' nicht verwenden.",
+        "zh": "不能使用'xder'。"
+      }
+    ],
+    "collocations": [],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "虚构",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "zählen",
+    "lemma": "zählen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "数，计数；算作",
+        "en": "to count; to be considered"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du bis zehn zählen?",
+        "zh": "你能数到十吗？"
+      },
+      {
+        "de": "Er zählt zu den besten Spielern der Mannschaft.",
+        "zh": "他被认为是队里最好的球员之一。"
+      }
+    ],
+    "collocations": [
+      "zu etwas zählen",
+      "die Kosten zählen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gezählt"
+    },
+    "level": "A2",
+    "tags": [
+      "日常",
+      "数学",
+      "A2"
+    ],
+    "synonyms": [
+      "rechnen",
+      "berechnen"
+    ],
+    "antonyms": [
+      "vergessen",
+      "übersehen"
+    ]
+  },
+  {
+    "word": "zahlreich",
+    "lemma": "zahlreich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "众多的，大量的",
+        "en": "numerous, many"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Es gab zahlreiche Besucher auf der Messe.",
+        "zh": "展会上有众多参观者。"
+      },
+      {
+        "de": "Zahlreiche Studien belegen diesen Effekt.",
+        "zh": "大量研究证实了这一效果。"
+      }
+    ],
+    "collocations": [
+      "zahlreiche Möglichkeiten",
+      "zahlreiche Beispiele"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "数量",
+      "描述",
+      "B1"
+    ],
+    "synonyms": [
+      "viele",
+      "unzählige"
+    ],
+    "antonyms": [
+      "wenige",
+      "selten"
+    ]
+  },
+  {
+    "word": "sdie",
+    "lemma": "sdie",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "sdie",
+    "meaning": [
+      {
+        "zh": "（虚构词，无实际意义）",
+        "en": "fictional word, no real meaning"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Wort 'sdie' ist nicht korrekt.",
+        "zh": "这个词'sdie'不正确。"
+      },
+      {
+        "de": "In der deutschen Sprache gibt es 'sdie' nicht.",
+        "zh": "在德语中没有'sdie'这个词。"
+      }
+    ],
+    "collocations": [],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "虚构",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "zentral",
+    "lemma": "zentral",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "中心的，中央的",
+        "en": "central"
+      },
+      {
+        "zh": "主要的，关键的",
+        "en": "key, crucial"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die zentrale Lage des Hotels ist sehr praktisch.",
+        "zh": "酒店的中心位置非常方便。"
+      },
+      {
+        "de": "Das ist ein zentrales Problem unserer Gesellschaft.",
+        "zh": "这是我们社会的一个核心问题。"
+      }
+    ],
+    "collocations": [
+      "zentrale Lage",
+      "zentrale Rolle",
+      "zentrale Frage",
+      "zentrales Thema"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "形容词",
+      "位置",
+      "重要性",
+      "B1"
+    ],
+    "synonyms": [
+      "wichtig",
+      "wesentlich",
+      "hauptsächlich"
+    ],
+    "antonyms": [
+      "unwichtig",
+      "nebensächlich",
+      "peripher"
+    ]
+  },
+  {
+    "word": "Zentralbank",
+    "lemma": "Zentralbank",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Zentralbanken",
+    "meaning": [
+      {
+        "zh": "中央银行",
+        "en": "central bank"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Europäische Zentralbank entscheidet über die Geldpolitik.",
+        "zh": "欧洲央行决定货币政策。"
+      },
+      {
+        "de": "Die Zentralbank hat die Leitzinsen gesenkt.",
+        "zh": "央行降低了基准利率。"
+      }
+    ],
+    "collocations": [
+      "Europäische Zentralbank",
+      "Zentralbankpolitik",
+      "Zentralbankgeld",
+      "Zentralbankrat"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "名词",
+      "经济",
+      "金融",
+      "B2"
+    ],
+    "synonyms": [
+      "Notenbank",
+      "Nationalbank"
+    ],
+    "antonyms": [
+      "Geschäftsbank",
+      "Privatbank"
+    ]
+  },
+  {
+    "word": "zerstören",
+    "lemma": "zerstören",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "摧毁，破坏",
+        "en": "to destroy, to ruin"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Erdbeben hat viele Häuser zerstört.",
+        "zh": "地震摧毁了许多房屋。"
+      },
+      {
+        "de": "Seine Kritik hat ihr Selbstvertrauen völlig zerstört.",
+        "zh": "他的批评彻底摧毁了她的自信心。"
+      }
+    ],
+    "collocations": [
+      "etwas zerstören",
+      "zerstört werden",
+      "zerstörende Wirkung",
+      "völlig zerstören"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "zerstört"
+    },
+    "level": "B1",
+    "tags": [
+      "动词",
+      "破坏",
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "kaputtmachen",
+      "vernichten",
+      "ruinieren"
+    ],
+    "antonyms": [
+      "aufbauen",
+      "erhalten",
+      "reparieren"
+    ]
+  },
+  {
+    "word": "Zeugnis",
+    "lemma": "Zeugnis",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Zeugnisse",
+    "meaning": [
+      {
+        "zh": "证书，证明",
+        "en": "certificate, report card"
+      },
+      {
+        "zh": "证词，见证",
+        "en": "testimony, witness"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat ein sehr gutes Zeugnis bekommen.",
+        "zh": "他得到了一份非常好的成绩单。"
+      },
+      {
+        "de": "Das Denkmal legt Zeugnis von der Geschichte der Stadt ab.",
+        "zh": "这座纪念碑见证了这座城市的历史。"
+      }
+    ],
+    "collocations": [
+      "ein Zeugnis ausstellen",
+      "Zeugnis ablegen",
+      "Schulzeugnis",
+      "Arbeitszeugnis"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "名词",
+      "教育",
+      "工作",
+      "法律",
+      "B1"
+    ],
+    "synonyms": [
+      "Bescheinigung",
+      "Attest",
+      "Zertifikat"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "ziehen",
+    "lemma": "ziehen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "拉，拖",
+        "en": "to pull, to drag"
+      },
+      {
+        "zh": "移动，迁移",
+        "en": "to move, to migrate"
+      },
+      {
+        "zh": "抽出，拔出",
+        "en": "to draw, to extract"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er zieht den Wagen hinter sich her.",
+        "zh": "他拉着车跟在后面。"
+      },
+      {
+        "de": "Sie ist letztes Jahr nach Berlin gezogen.",
+        "zh": "她去年搬到了柏林。"
+      },
+      {
+        "de": "Der Arzt zieht den Zahn.",
+        "zh": "医生拔牙。"
+      }
+    ],
+    "collocations": [
+      "an etwas ziehen",
+      "umziehen",
+      "eine Bilanz ziehen",
+      "Schlüsse ziehen",
+      "in Betracht ziehen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gezogen"
+    },
+    "level": "A2",
+    "tags": [
+      "动词",
+      "运动",
+      "迁移",
+      "医疗",
+      "A2"
+    ],
+    "synonyms": [
+      "zerren",
+      "schleppen",
+      "umziehen",
+      "entfernen"
+    ],
+    "antonyms": [
+      "drücken",
+      "schieben",
+      "bleiben"
+    ]
+  },
+  {
+    "word": "Ziel",
+    "lemma": "Ziel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Ziele",
+    "meaning": [
+      {
+        "zh": "目标，目的",
+        "en": "goal, objective"
+      },
+      {
+        "zh": "目的地",
+        "en": "destination"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Unser Ziel ist es, den Umsatz zu steigern.",
+        "zh": "我们的目标是提高销售额。"
+      },
+      {
+        "de": "Wir haben unser Reiseziel endlich erreicht.",
+        "zh": "我们终于到达了旅行目的地。"
+      }
+    ],
+    "collocations": [
+      "ein Ziel erreichen",
+      "sich ein Ziel setzen",
+      "das Ziel verfolgen",
+      "am Ziel sein"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "名词",
+      "目标",
+      "旅行",
+      "A2"
+    ],
+    "synonyms": [
+      "Absicht",
+      "Zweck",
+      "Bestimmungsort"
+    ],
+    "antonyms": [
+      "Start",
+      "Anfang",
+      "Mittel"
+    ]
+  },
+  {
+    "word": "Zitat",
+    "lemma": "Zitat",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Zitate",
+    "meaning": [
+      {
+        "zh": "引文，引语",
+        "en": "quotation, citation"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In seinem Vortrag verwendete er ein bekanntes Zitat von Goethe.",
+        "zh": "他在演讲中引用了歌德的一句名言。"
+      },
+      {
+        "de": "Bitte geben Sie alle Zitate in Ihrer Arbeit korrekt an.",
+        "zh": "请在你的论文中正确注明所有引文。"
+      }
+    ],
+    "collocations": [
+      "ein Zitat anführen",
+      "Zitate sammeln",
+      "berühmtes Zitat",
+      "wörtliches Zitat"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "名词",
+      "文学",
+      "学术",
+      "B2"
+    ],
+    "synonyms": [
+      "Anführung",
+      "Beleg",
+      "Auszug"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "zudem",
+    "lemma": "zudem",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "此外，而且",
+        "en": "in addition, moreover"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Hotel ist günstig gelegen, zudem ist es sehr sauber.",
+        "zh": "这家酒店位置便利，而且非常干净。"
+      },
+      {
+        "de": "Er ist erfahren, zudem sehr motiviert.",
+        "zh": "他经验丰富，而且非常有动力。"
+      }
+    ],
+    "collocations": [
+      "und zudem",
+      "zudem auch",
+      "zudem noch"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "副词",
+      "连接",
+      "B1"
+    ],
+    "synonyms": [
+      "außerdem",
+      "darüber hinaus",
+      "ferner"
+    ],
+    "antonyms": [
+      "allerdings",
+      "jedoch"
+    ]
+  },
+  {
+    "word": "Zufriedenheit",
+    "lemma": "Zufriedenheit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "满足，满意",
+        "en": "satisfaction, contentment"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Zufriedenheit der Kunden ist uns sehr wichtig.",
+        "zh": "客户的满意对我们非常重要。"
+      },
+      {
+        "de": "Er strahlte vor Zufriedenheit über das gelungene Projekt.",
+        "zh": "他对成功的项目流露出满足的神情。"
+      }
+    ],
+    "collocations": [
+      "große Zufriedenheit",
+      "mit Zufriedenheit feststellen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "Befriedigung",
+      "Glück"
+    ],
+    "antonyms": [
+      "Unzufriedenheit"
+    ]
+  },
+  {
+    "word": "Zugspitze",
+    "lemma": "Zugspitze",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "楚格峰（德国最高峰）",
+        "en": "Zugspitze (highest mountain in Germany)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Zugspitze ist 2962 Meter hoch.",
+        "zh": "楚格峰高2962米。"
+      },
+      {
+        "de": "Im Winter fahren viele Touristen zur Zugspitze.",
+        "zh": "冬天许多游客去楚格峰。"
+      }
+    ],
+    "collocations": [
+      "auf die Zugspitze fahren",
+      "die Zugspitze besteigen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "地理",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "zumindest",
+    "lemma": "zumindest",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "至少",
+        "en": "at least"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Zumindest hast du es versucht.",
+        "zh": "至少你尝试过了。"
+      },
+      {
+        "de": "Er ist zumindest nicht unhöflich.",
+        "zh": "他至少不粗鲁。"
+      }
+    ],
+    "collocations": [
+      "zumindest einmal",
+      "zumindest nicht"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语法",
+      "B1"
+    ],
+    "synonyms": [
+      "wenigstens",
+      "mindestens"
+    ],
+    "antonyms": [
+      "höchstens"
+    ]
+  },
+  {
+    "word": "zunähen",
+    "lemma": "zunähen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "缝合，缝上",
+        "en": "to sew up"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie muss das Loch in der Hose zunähen.",
+        "zh": "她必须把裤子上的洞缝上。"
+      },
+      {
+        "de": "Der Arzt hat die Wunde zugenäht.",
+        "zh": "医生缝合了伤口。"
+      }
+    ],
+    "collocations": [
+      "eine Wunde zunähen",
+      "ein Loch zunähen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "zugenäht"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "vernähen",
+      "schließen"
+    ],
+    "antonyms": [
+      "aufschneiden"
+    ]
+  },
+  {
+    "word": "zunehmen",
+    "lemma": "zunehmen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "增加，增长；体重增加",
+        "en": "to increase, to gain weight"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Temperaturen nehmen im Sommer zu.",
+        "zh": "夏天温度升高。"
+      },
+      {
+        "de": "Sie hat in letzter Zeit fünf Kilo zugenommen.",
+        "zh": "她最近胖了五公斤。"
+      }
+    ],
+    "collocations": [
+      "an Gewicht zunehmen",
+      "an Bedeutung zunehmen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "zugenommen"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "steigen",
+      "wachsen"
+    ],
+    "antonyms": [
+      "abnehmen"
+    ]
+  },
+  {
+    "word": "zunehmend",
+    "lemma": "zunehmend",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "日益增长的，越来越",
+        "en": "increasing, increasingly"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die zunehmende Digitalisierung verändert unseren Alltag.",
+        "zh": "日益增长的数字化改变了我们的日常生活。"
+      },
+      {
+        "de": "Er wird zunehmend ungeduldig.",
+        "zh": "他变得越来越不耐烦。"
+      }
+    ],
+    "collocations": [
+      "zunehmende Bedeutung",
+      "zunehmend schwierig"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "steigend",
+      "wachsend"
+    ],
+    "antonyms": [
+      "abnehmend"
+    ]
+  },
+  {
+    "word": "zurückgeben",
+    "lemma": "zurückgeben",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "归还，返回",
+        "en": "to give back, to return"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du mir das Buch bis morgen zurückgeben?",
+        "zh": "你能明天之前把书还给我吗？"
+      },
+      {
+        "de": "Er hat das Geld zurückgegeben.",
+        "zh": "他把钱还了。"
+      }
+    ],
+    "collocations": [
+      "etwas zurückgeben",
+      "jemandem etwas zurückgeben"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "zurückgegeben"
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "zurückbringen",
+      "wiedergeben"
+    ],
+    "antonyms": [
+      "behalten"
+    ]
+  },
+  {
+    "word": "zusammenschlagen",
+    "lemma": "zusammenschlagen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "打碎，殴打；合并（较少用）",
+        "en": "to smash, to beat up"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Diebe haben ihn zusammengeschlagen.",
+        "zh": "小偷把他打了一顿。"
+      },
+      {
+        "de": "Er schlug die Tassen vor Wut zusammen.",
+        "zh": "他愤怒地把杯子打碎了。"
+      }
+    ],
+    "collocations": [
+      "jemanden zusammenschlagen",
+      "Geschirr zusammenschlagen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "zusammengeschlagen"
+    },
+    "level": "B2",
+    "tags": [
+      "暴力",
+      "B2"
+    ],
+    "synonyms": [
+      "verprügeln",
+      "zertrümmern"
+    ],
+    "antonyms": [
+      "schonen"
+    ]
+  },
+  {
+    "word": "zusammenstellen",
+    "lemma": "zusammenstellen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "整理，汇编，组合",
+        "en": "to compile, to put together, to assemble"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich muss die Unterlagen für die Besprechung zusammenstellen.",
+        "zh": "我必须整理会议用的文件。"
+      },
+      {
+        "de": "Sie hat ein Menü aus verschiedenen Gerichten zusammengestellt.",
+        "zh": "她将不同的菜肴组合成了一份菜单。"
+      }
+    ],
+    "collocations": [
+      "eine Liste zusammenstellen",
+      "ein Team zusammenstellen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "zusammengestellt"
+    },
+    "level": "B1",
+    "tags": [
+      "动词",
+      "B1",
+      "工作",
+      "生活"
+    ],
+    "synonyms": [
+      "kompilieren",
+      "arrangieren",
+      "zusammenfügen"
+    ],
+    "antonyms": [
+      "auseinandernehmen",
+      "trennen"
+    ]
+  }
+]

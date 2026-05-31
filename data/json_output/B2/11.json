@@ -1,0 +1,1881 @@
+[
+  {
+    "word": "das",
+    "lemma": "der",
+    "pos": [
+      "article"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "定冠词（中性主格/宾格）",
+        "en": "the (neuter nominative/accusative)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Buch ist interessant.",
+        "zh": "这本书很有趣。"
+      },
+      {
+        "de": "Ich lese das Buch.",
+        "zh": "我在读这本书。"
+      }
+    ],
+    "collocations": [
+      "das Haus",
+      "das Kind"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语法",
+      "冠词",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "der",
+    "lemma": "der",
+    "pos": [
+      "article"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "定冠词（阳性主格）",
+        "en": "the (masculine nominative)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Mann arbeitet.",
+        "zh": "那个男人在工作。"
+      },
+      {
+        "de": "Der Hund bellt.",
+        "zh": "那只狗在叫。"
+      }
+    ],
+    "collocations": [
+      "der Tisch",
+      "der Baum"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语法",
+      "冠词",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "die",
+    "lemma": "der",
+    "pos": [
+      "article"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "定冠词（阴性主格/宾格，复数主格/宾格）",
+        "en": "the (feminine nominative/accusative, plural nominative/accusative)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Frau lacht.",
+        "zh": "那个女人在笑。"
+      },
+      {
+        "de": "Die Kinder spielen.",
+        "zh": "孩子们在玩。"
+      }
+    ],
+    "collocations": [
+      "die Blume",
+      "die Bücher"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语法",
+      "冠词",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Magazin",
+    "lemma": "Magazin",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Magazine",
+    "meaning": [
+      {
+        "zh": "杂志；仓库",
+        "en": "magazine; warehouse"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich lese ein interessantes Magazin.",
+        "zh": "我在读一本有趣的杂志。"
+      },
+      {
+        "de": "Das Magazin ist voller alter Möbel.",
+        "zh": "仓库里堆满了旧家具。"
+      }
+    ],
+    "collocations": [
+      "ein Magazin abonnieren",
+      "im Magazin lagern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "媒体",
+      "物品",
+      "B1"
+    ],
+    "synonyms": [
+      "Zeitschrift",
+      "Lager"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Manager",
+    "lemma": "Manager",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Manager",
+    "meaning": [
+      {
+        "zh": "经理；管理者",
+        "en": "manager"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Manager leitet das Team.",
+        "zh": "经理领导团队。"
+      },
+      {
+        "de": "Sie arbeitet als Managerin in einer Firma.",
+        "zh": "她在一家公司担任经理。"
+      }
+    ],
+    "collocations": [
+      "ein guter Manager",
+      "den Manager treffen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "职业",
+      "商业",
+      "B1"
+    ],
+    "synonyms": [
+      "Leiter",
+      "Chef"
+    ],
+    "antonyms": [
+      "Mitarbeiter"
+    ]
+  },
+  {
+    "word": "Marke",
+    "lemma": "Marke",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Marken",
+    "meaning": [
+      {
+        "zh": "品牌；商标；邮票",
+        "en": "brand; trademark; stamp"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Marke ist sehr bekannt.",
+        "zh": "这个品牌很有名。"
+      },
+      {
+        "de": "Ich sammle Briefmarken.",
+        "zh": "我收集邮票。"
+      }
+    ],
+    "collocations": [
+      "eine Marke kaufen",
+      "die Marke schützen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "商业",
+      "物品",
+      "B1"
+    ],
+    "synonyms": [
+      "Label",
+      "Warenzeichen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Maskottchen",
+    "lemma": "Maskottchen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Maskottchen",
+    "meaning": [
+      {
+        "zh": "吉祥物",
+        "en": "mascot"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Maskottchen des Vereins ist ein Löwe.",
+        "zh": "俱乐部的吉祥物是一头狮子。"
+      },
+      {
+        "de": "Die Kinder lieben das Maskottchen.",
+        "zh": "孩子们喜欢这个吉祥物。"
+      }
+    ],
+    "collocations": [
+      "ein Maskottchen entwerfen",
+      "das Maskottchen tragen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "文化",
+      "物品",
+      "B1"
+    ],
+    "synonyms": [
+      "Glücksbringer"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Maße",
+    "lemma": "Maß",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Maße",
+    "meaning": [
+      {
+        "zh": "尺寸；度量（复数形式）",
+        "en": "measurements; dimensions"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Maße des Tisches sind 120x80 cm.",
+        "zh": "桌子的尺寸是120x80厘米。"
+      },
+      {
+        "de": "Bitte geben Sie Ihre Maße an.",
+        "zh": "请提供您的尺寸。"
+      }
+    ],
+    "collocations": [
+      "die Maße nehmen",
+      "genaue Maße"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "测量",
+      "物品",
+      "B1"
+    ],
+    "synonyms": [
+      "Abmessungen",
+      "Dimensionen"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Masse",
+    "lemma": "Masse",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Massen",
+    "meaning": [
+      {
+        "zh": "质量；大量；群众",
+        "en": "mass; large quantity; the masses"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Masse des Objekts beträgt 5 Kilogramm.",
+        "zh": "该物体的质量为5公斤。"
+      },
+      {
+        "de": "Eine große Masse von Menschen versammelte sich auf dem Platz.",
+        "zh": "一大群人聚集在广场上。"
+      }
+    ],
+    "collocations": [
+      "die breite Masse",
+      "Masse und Energie"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "物理",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Menge",
+      "Masse"
+    ],
+    "antonyms": [
+      "Einzelheit",
+      "Individuum"
+    ]
+  },
+  {
+    "word": "materiell",
+    "lemma": "materiell",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "物质的；经济上的",
+        "en": "material; financial"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Materielle Güter sind nicht das Wichtigste im Leben.",
+        "zh": "物质财富不是生活中最重要的。"
+      },
+      {
+        "de": "Er hat große materielle Probleme.",
+        "zh": "他有很大的经济问题。"
+      }
+    ],
+    "collocations": [
+      "materielle Werte",
+      "materielle Unterstützung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "哲学",
+      "经济",
+      "B2"
+    ],
+    "synonyms": [
+      "stofflich",
+      "finanziell"
+    ],
+    "antonyms": [
+      "ideell",
+      "geistig"
+    ]
+  },
+  {
+    "word": "Matraze",
+    "lemma": "Matratze",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Matratzen",
+    "meaning": [
+      {
+        "zh": "床垫",
+        "en": "mattress"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich brauche eine neue Matratze für mein Bett.",
+        "zh": "我需要一张新床垫。"
+      },
+      {
+        "de": "Die Matratze ist zu hart.",
+        "zh": "这张床垫太硬了。"
+      }
+    ],
+    "collocations": [
+      "eine Matratze kaufen",
+      "auf der Matratze schlafen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "家居",
+      "A2"
+    ],
+    "synonyms": [
+      "Bettauflage"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "medial",
+    "lemma": "medial",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "媒体的；媒介的",
+        "en": "media; medial"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die mediale Berichterstattung über das Ereignis war sehr umfangreich.",
+        "zh": "媒体对该事件的报道非常广泛。"
+      },
+      {
+        "de": "Mediale Kompetenz ist heute sehr wichtig.",
+        "zh": "媒体素养如今非常重要。"
+      }
+    ],
+    "collocations": [
+      "mediale Aufmerksamkeit",
+      "mediale Darstellung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "媒体",
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "medienbezogen"
+    ],
+    "antonyms": [
+      "privat",
+      "persönlich"
+    ]
+  },
+  {
+    "word": "menschlich",
+    "lemma": "menschlich",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "人类的；人性的",
+        "en": "human; humane"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Jeder macht Fehler, das ist menschlich.",
+        "zh": "每个人都会犯错，这是人之常情。"
+      },
+      {
+        "de": "Die menschliche Gesellschaft entwickelt sich ständig weiter.",
+        "zh": "人类社会不断发展。"
+      }
+    ],
+    "collocations": [
+      "menschliche Beziehungen",
+      "menschliches Verhalten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "社会",
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "human",
+      "menschheitsbezogen"
+    ],
+    "antonyms": [
+      "unmenschlich",
+      "tierisch"
+    ]
+  },
+  {
+    "word": "Mentalität",
+    "lemma": "Mentalität",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Mentalitäten",
+    "meaning": [
+      {
+        "zh": "心态；思维方式",
+        "en": "mentality; mindset"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die deutsche Mentalität ist oft sehr direkt.",
+        "zh": "德国人的心态通常非常直接。"
+      },
+      {
+        "de": "Eine positive Mentalität kann viel bewirken.",
+        "zh": "积极的心态可以产生很大影响。"
+      }
+    ],
+    "collocations": [
+      "die Mentalität eines Volkes",
+      "eine offene Mentalität haben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "心理",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Denkweise",
+      "Einstellung"
+    ],
+    "antonyms": null
+  },
+  {
+    "word": "Metall",
+    "lemma": "Metall",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Metalle",
+    "meaning": [
+      {
+        "zh": "金属",
+        "en": "metal"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Eisen ist ein wichtiges Metall.",
+        "zh": "铁是一种重要的金属。"
+      },
+      {
+        "de": "Dieses Werkzeug besteht aus hartem Metall.",
+        "zh": "这个工具由硬金属制成。"
+      }
+    ],
+    "collocations": [
+      "Metall verarbeiten",
+      "ein Stück Metall"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "材料",
+      "科技",
+      "A2"
+    ],
+    "synonyms": [
+      "Werkstoff",
+      "Legierung"
+    ],
+    "antonyms": [
+      "Holz",
+      "Kunststoff"
+    ]
+  },
+  {
+    "word": "Metapher",
+    "lemma": "Metapher",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Metaphern",
+    "meaning": [
+      {
+        "zh": "隐喻；比喻",
+        "en": "metaphor"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Metapher veranschaulicht das Konzept sehr gut.",
+        "zh": "这个隐喻很好地说明了这个概念。"
+      },
+      {
+        "de": "In der Literatur werden oft Metaphern verwendet.",
+        "zh": "文学中经常使用隐喻。"
+      }
+    ],
+    "collocations": [
+      "eine Metapher verwenden",
+      "als Metapher für etwas stehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "语言",
+      "文学",
+      "B2"
+    ],
+    "synonyms": [
+      "Bild",
+      "Gleichnis"
+    ],
+    "antonyms": [
+      "wörtliche Bedeutung"
+    ]
+  },
+  {
+    "word": "Misserfolg",
+    "lemma": "Misserfolg",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Misserfolge",
+    "meaning": [
+      {
+        "zh": "失败，不成功",
+        "en": "failure, lack of success"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Misserfolg des Projekts war für alle eine Enttäuschung.",
+        "zh": "项目的失败对所有人来说都是一个失望。"
+      },
+      {
+        "de": "Trotz vieler Misserfolge gab er nicht auf.",
+        "zh": "尽管多次失败，他没有放弃。"
+      }
+    ],
+    "collocations": [
+      "einen Misserfolg erleiden",
+      "vor Misserfolgen zurückschrecken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "B1"
+    ],
+    "synonyms": [
+      "Niederlage",
+      "Fehlschlag"
+    ],
+    "antonyms": [
+      "Erfolg"
+    ]
+  },
+  {
+    "word": "kein",
+    "lemma": "kein",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "没有，无",
+        "en": "no, not any"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe kein Geld dabei.",
+        "zh": "我身上没有钱。"
+      },
+      {
+        "de": "Er hat keine Zeit für Hobbys.",
+        "zh": "他没有时间做爱好。"
+      }
+    ],
+    "collocations": [
+      "kein Problem",
+      "keine Ahnung haben"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语法",
+      "A1"
+    ],
+    "synonyms": [
+      "null"
+    ],
+    "antonyms": [
+      "ein",
+      "jeder"
+    ]
+  },
+  {
+    "word": "Missverständnis",
+    "lemma": "Missverständnis",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Missverständnisse",
+    "meaning": [
+      {
+        "zh": "误解，误会",
+        "en": "misunderstanding"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Missverständnis konnte schnell aufgeklärt werden.",
+        "zh": "这个误解很快就被澄清了。"
+      },
+      {
+        "de": "Ein Missverständnis führte zum Streit zwischen den Kollegen.",
+        "zh": "一个误解导致了同事之间的争吵。"
+      }
+    ],
+    "collocations": [
+      "ein Missverständnis ausräumen",
+      "zu einem Missverständnis führen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Irrtum",
+      "Verwechslung"
+    ],
+    "antonyms": [
+      "Einverständnis",
+      "Klarheit"
+    ]
+  },
+  {
+    "word": "mithalten",
+    "lemma": "mithalten",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "跟上，保持同步",
+        "en": "keep up, keep pace"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In diesem Tempo kann ich nicht mithalten.",
+        "zh": "以这个速度我跟不上。"
+      },
+      {
+        "de": "Er versucht, mit den neuesten Trends mitzuhalten.",
+        "zh": "他试图跟上最新的潮流。"
+      }
+    ],
+    "collocations": [
+      "mit jemandem mithalten",
+      "mit der Entwicklung mithalten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "mitgehalten"
+    },
+    "level": "B2",
+    "tags": [
+      "生活",
+      "B2"
+    ],
+    "synonyms": [
+      "Schritt halten",
+      "gleichziehen"
+    ],
+    "antonyms": [
+      "zurückbleiben",
+      "nachstehen"
+    ]
+  },
+  {
+    "word": "Mittel",
+    "lemma": "Mittel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Mittel",
+    "meaning": [
+      {
+        "zh": "手段，方法；资金",
+        "en": "means, method; funds"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir müssen ein geeignetes Mittel finden, um das Problem zu lösen.",
+        "zh": "我们必须找到合适的方法来解决这个问题。"
+      },
+      {
+        "de": "Die Firma hat nicht genug Mittel für das neue Projekt.",
+        "zh": "公司没有足够的资金用于新项目。"
+      }
+    ],
+    "collocations": [
+      "finanzielle Mittel",
+      "mit allen Mitteln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "Methode",
+      "Ressourcen"
+    ],
+    "antonyms": [
+      "Zweck",
+      "Ziel"
+    ]
+  },
+  {
+    "word": "Mobilität",
+    "lemma": "Mobilität",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "流动性，移动性",
+        "en": "mobility"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Mobilität der Bevölkerung hat in den letzten Jahrzehnten zugenommen.",
+        "zh": "近几十年来，人口的流动性增加了。"
+      },
+      {
+        "de": "Elektroautos tragen zur nachhaltigen Mobilität bei.",
+        "zh": "电动汽车有助于可持续的移动性。"
+      }
+    ],
+    "collocations": [
+      "berufliche Mobilität",
+      "Mobilität fördern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "科技",
+      "B2"
+    ],
+    "synonyms": [
+      "Beweglichkeit",
+      "Flexibilität"
+    ],
+    "antonyms": [
+      "Immobilität",
+      "Starre"
+    ]
+  },
+  {
+    "word": "Mode",
+    "lemma": "Mode",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Moden",
+    "meaning": [
+      {
+        "zh": "时尚，潮流",
+        "en": "fashion, trend"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Farbe ist in diesem Jahr sehr in Mode.",
+        "zh": "这种颜色今年非常流行。"
+      },
+      {
+        "de": "Die Mode ändert sich jedes Jahr.",
+        "zh": "时尚每年都在变化。"
+      }
+    ],
+    "collocations": [
+      "in Mode sein",
+      "aus der Mode kommen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "Trend",
+      "Stil"
+    ],
+    "antonyms": [
+      "Tradition",
+      "Klassik"
+    ]
+  },
+  {
+    "word": "moderieren",
+    "lemma": "moderieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "主持，调解",
+        "en": "to moderate, to host"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie moderiert die Diskussion im Fernsehen.",
+        "zh": "她在电视上主持讨论。"
+      },
+      {
+        "de": "Der Lehrer moderierte die Debatte zwischen den Schülern.",
+        "zh": "老师调解了学生之间的辩论。"
+      }
+    ],
+    "collocations": [
+      "eine Sendung moderieren",
+      "eine Diskussion moderieren"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "moderiert"
+    },
+    "level": "B2",
+    "tags": [
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "leiten",
+      "führen"
+    ],
+    "antonyms": [
+      "stören",
+      "unterbrechen"
+    ]
+  },
+  {
+    "word": "modernisieren",
+    "lemma": "modernisieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "现代化，使现代化",
+        "en": "to modernize"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Firma möchte ihre Produktionsanlagen modernisieren.",
+        "zh": "这家公司想使其生产设备现代化。"
+      },
+      {
+        "de": "Wir müssen die Software modernisieren, um wettbewerbsfähig zu bleiben.",
+        "zh": "我们必须使软件现代化以保持竞争力。"
+      }
+    ],
+    "collocations": [
+      "die Anlage modernisieren",
+      "die Infrastruktur modernisieren"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "modernisiert"
+    },
+    "level": "B2",
+    "tags": [
+      "科技",
+      "经济",
+      "B2"
+    ],
+    "synonyms": [
+      "erneuern",
+      "aktualisieren"
+    ],
+    "antonyms": [
+      "veralten",
+      "stilllegen"
+    ]
+  },
+  {
+    "word": "möglicherweise",
+    "lemma": "möglicherweise",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "可能，也许",
+        "en": "possibly, maybe"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er wird möglicherweise später kommen.",
+        "zh": "他可能会晚点到。"
+      },
+      {
+        "de": "Möglicherweise regnet es morgen.",
+        "zh": "明天可能会下雨。"
+      }
+    ],
+    "collocations": [
+      "möglicherweise richtig",
+      "möglicherweise falsch"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语言",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "vielleicht",
+      "eventuell"
+    ],
+    "antonyms": [
+      "sicherlich",
+      "bestimmt"
+    ]
+  },
+  {
+    "word": "momentan",
+    "lemma": "momentan",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "目前，暂时",
+        "en": "currently, at the moment"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Momentan habe ich keine Zeit.",
+        "zh": "目前我没有时间。"
+      },
+      {
+        "de": "Die Situation ist momentan schwierig.",
+        "zh": "目前情况很困难。"
+      }
+    ],
+    "collocations": [
+      "momentan arbeiten",
+      "momentan verfügbar"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "时间",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "derzeit",
+      "jetzt"
+    ],
+    "antonyms": [
+      "später",
+      "damals"
+    ]
+  },
+  {
+    "word": "Motivation",
+    "lemma": "Motivation",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Motivationen",
+    "meaning": [
+      {
+        "zh": "动机，积极性",
+        "en": "motivation"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ohne Motivation kann man nichts erreichen.",
+        "zh": "没有动机就一事无成。"
+      },
+      {
+        "de": "Die Motivation der Mitarbeiter ist sehr wichtig.",
+        "zh": "员工的积极性非常重要。"
+      }
+    ],
+    "collocations": [
+      "die Motivation steigern",
+      "aus eigener Motivation"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "心理",
+      "工作",
+      "B2"
+    ],
+    "synonyms": [
+      "Antrieb",
+      "Ansporn"
+    ],
+    "antonyms": [
+      "Demotivation",
+      "Frustration"
+    ]
+  },
+  {
+    "word": "motivieren",
+    "lemma": "motivieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "激励，激发",
+        "en": "to motivate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Lehrer motiviert die Schüler zum Lernen.",
+        "zh": "老师激励学生学习。"
+      },
+      {
+        "de": "Ein gutes Gehalt kann die Mitarbeiter motivieren.",
+        "zh": "好的薪水可以激励员工。"
+      }
+    ],
+    "collocations": [
+      "jemanden motivieren",
+      "sich motivieren lassen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "motiviert"
+    },
+    "level": "B2",
+    "tags": [
+      "心理",
+      "教育",
+      "B2"
+    ],
+    "synonyms": [
+      "anregen",
+      "begeistern"
+    ],
+    "antonyms": [
+      "demotivieren",
+      "entmutigen"
+    ]
+  },
+  {
+    "word": "Motor",
+    "lemma": "Motor",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Motoren",
+    "meaning": [
+      {
+        "zh": "发动机，马达",
+        "en": "engine, motor"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Motor des Autos läuft ruhig.",
+        "zh": "汽车的发动机运转平稳。"
+      },
+      {
+        "de": "Ein Elektromotor ist umweltfreundlicher.",
+        "zh": "电动机更环保。"
+      }
+    ],
+    "collocations": [
+      "den Motor starten",
+      "der Motor läuft"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "交通",
+      "B1"
+    ],
+    "synonyms": [
+      "Antrieb",
+      "Maschine"
+    ],
+    "antonyms": [
+      "Stillstand",
+      "Bremse"
+    ]
+  },
+  {
+    "word": "multimedial",
+    "lemma": "multimedial",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "多媒体的",
+        "en": "multimedia"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Unternehmen bietet multimediale Lernprogramme an.",
+        "zh": "这家公司提供多媒体学习程序。"
+      },
+      {
+        "de": "Eine multimediale Präsentation ist oft überzeugender.",
+        "zh": "多媒体演示通常更有说服力。"
+      }
+    ],
+    "collocations": [
+      "multimediale Inhalte",
+      "multimedial aufbereiten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "科技",
+      "媒体",
+      "B2"
+    ],
+    "synonyms": [
+      "digital",
+      "interaktiv"
+    ],
+    "antonyms": [
+      "einfach",
+      "analog"
+    ]
+  },
+  {
+    "word": "Muskulatur",
+    "lemma": "Muskulatur",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "肌肉组织，肌肉系统",
+        "en": "musculature, muscles"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Regelmäßiges Training stärkt die Muskulatur.",
+        "zh": "定期锻炼能增强肌肉组织。"
+      },
+      {
+        "de": "Die Muskulatur des Rückens ist oft verspannt.",
+        "zh": "背部的肌肉经常紧张。"
+      }
+    ],
+    "collocations": [
+      "die Muskulatur trainieren",
+      "die Muskulatur entspannen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "医学",
+      "体育",
+      "B2"
+    ],
+    "synonyms": [
+      "Muskeln",
+      "Muskelgewebe"
+    ],
+    "antonyms": [
+      "Fettgewebe",
+      "Knochen"
+    ]
+  },
+  {
+    "word": "nachlassen",
+    "lemma": "nachlassen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "减弱，减轻；松懈；遗留",
+        "en": "to decrease, to diminish; to slacken; to leave behind"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Regen hat endlich nachgelassen.",
+        "zh": "雨终于小了。"
+      },
+      {
+        "de": "Seine Konzentration ließ im Laufe des Tages nach.",
+        "zh": "他的注意力在一天中逐渐减弱。"
+      },
+      {
+        "de": "Er hat seine Jacke im Bus nachgelassen.",
+        "zh": "他把夹克忘在公交车上了。"
+      }
+    ],
+    "collocations": [
+      "nachlassende Kräfte",
+      "nachlassendes Interesse",
+      "etwas nachlassen lassen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "nachgelassen"
+    },
+    "level": "B1",
+    "tags": [
+      "动词",
+      "变化",
+      "日常"
+    ],
+    "synonyms": [
+      "abnehmen",
+      "schwächer werden",
+      "zurückgehen"
+    ],
+    "antonyms": [
+      "zunehmen",
+      "steigen",
+      "sich verstärken"
+    ]
+  },
+  {
+    "word": "mutig",
+    "lemma": "mutig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "勇敢的，有勇气的",
+        "en": "brave, courageous"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das war eine mutige Entscheidung.",
+        "zh": "那是一个勇敢的决定。"
+      },
+      {
+        "de": "Sie ist mutig genug, ihre Meinung zu sagen.",
+        "zh": "她足够勇敢，敢于说出自己的意见。"
+      }
+    ],
+    "collocations": [
+      "mutige Tat",
+      "mutiger Mensch",
+      "sich mutig zeigen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "形容词",
+      "性格",
+      "情感"
+    ],
+    "synonyms": [
+      "tapfer",
+      "kühn",
+      "beherzt"
+    ],
+    "antonyms": [
+      "feige",
+      "ängstlich",
+      "zaghaft"
+    ]
+  },
+  {
+    "word": "nachhaltig",
+    "lemma": "nachhaltig",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "可持续的；持久的",
+        "en": "sustainable; lasting, enduring"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir müssen nachhaltiger wirtschaften.",
+        "zh": "我们必须更可持续地经营。"
+      },
+      {
+        "de": "Der Film hat mich nachhaltig beeindruckt.",
+        "zh": "这部电影给我留下了持久的印象。"
+      }
+    ],
+    "collocations": [
+      "nachhaltige Entwicklung",
+      "nachhaltige Energie",
+      "nachhaltig wirken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "形容词",
+      "环境",
+      "社会"
+    ],
+    "synonyms": [
+      "dauerhaft",
+      "umweltfreundlich",
+      "langfristig"
+    ],
+    "antonyms": [
+      "kurzfristig",
+      "unökologisch",
+      "vergänglich"
+    ]
+  },
+  {
+    "word": "nahezu",
+    "lemma": "nahezu",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "几乎，差不多",
+        "en": "almost, nearly"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Projekt ist nahezu abgeschlossen.",
+        "zh": "这个项目几乎完成了。"
+      },
+      {
+        "de": "Sie hat nahezu alle Prüfungen bestanden.",
+        "zh": "她几乎通过了所有考试。"
+      }
+    ],
+    "collocations": [
+      "nahezu unmöglich",
+      "nahezu perfekt",
+      "nahezu alle"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "副词",
+      "程度",
+      "日常"
+    ],
+    "synonyms": [
+      "fast",
+      "beinahe",
+      "annähernd"
+    ],
+    "antonyms": [
+      "gar nicht",
+      "keineswegs"
+    ]
+  },
+  {
+    "word": "Nacken",
+    "lemma": "Nacken",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Nacken",
+    "meaning": [
+      {
+        "zh": "颈背，后颈",
+        "en": "nape, back of the neck"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe Schmerzen im Nacken.",
+        "zh": "我脖子后面疼。"
+      },
+      {
+        "de": "Er legte den Schal um den Nacken.",
+        "zh": "他把围巾围在脖子上。"
+      }
+    ],
+    "collocations": [
+      "steifer Nacken",
+      "den Nacken beugen",
+      "im Nacken sitzen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "名词",
+      "身体",
+      "日常"
+    ],
+    "synonyms": [
+      "Genick",
+      "Hals (teilweise)"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Nerv",
+    "lemma": "Nerv",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Nerven",
+    "meaning": [
+      {
+        "zh": "神经；神经质，烦躁",
+        "en": "nerve; (plural) nerves, anxiety"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Arzt untersuchte den Nerv im Arm.",
+        "zh": "医生检查了手臂的神经。"
+      },
+      {
+        "de": "Sie hat starke Nerven.",
+        "zh": "她很有胆量/神经坚强。"
+      },
+      {
+        "de": "Das ständige Klopfen geht mir auf die Nerven.",
+        "zh": "持续的敲击声让我烦躁。"
+      }
+    ],
+    "collocations": [
+      "die Nerven verlieren",
+      "starke Nerven haben",
+      "den Nerv treffen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "名词",
+      "身体",
+      "情感"
+    ],
+    "synonyms": [
+      "Nervenstrang",
+      "Gefühlsnerv"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Nervosität",
+    "lemma": "Nervosität",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "紧张，焦虑不安",
+        "en": "nervousness, anxiety"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Vor der Prüfung spürte sie große Nervosität.",
+        "zh": "考试前她感到非常紧张。"
+      },
+      {
+        "de": "Seine Nervosität war deutlich zu erkennen.",
+        "zh": "他的紧张显而易见。"
+      }
+    ],
+    "collocations": [
+      "Nervosität abbauen",
+      "vor Nervosität zittern",
+      "innere Nervosität"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "名词",
+      "情感",
+      "心理"
+    ],
+    "synonyms": [
+      "Unruhe",
+      "Anspannung",
+      "Aufregung"
+    ],
+    "antonyms": [
+      "Ruhe",
+      "Gelassenheit",
+      "Entspanntheit"
+    ]
+  }
+]

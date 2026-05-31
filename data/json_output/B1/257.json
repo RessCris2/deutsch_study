@@ -1,0 +1,1969 @@
+[
+  {
+    "word": "Knie",
+    "lemma": "Knie",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Knie",
+    "meaning": [
+      {
+        "zh": "膝盖",
+        "en": "knee"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat sich am Knie verletzt.",
+        "zh": "他伤到了膝盖。"
+      },
+      {
+        "de": "Sie kniete auf dem weichen Kissen.",
+        "zh": "她跪在柔软的垫子上。"
+      }
+    ],
+    "collocations": [
+      "das Knie beugen",
+      "auf den Knien rutschen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "身体部位",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Knopf",
+    "lemma": "Knopf",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Knöpfe",
+    "meaning": [
+      {
+        "zh": "纽扣；按钮",
+        "en": "button"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Drücke den roten Knopf, um das Gerät zu starten.",
+        "zh": "按下红色按钮启动设备。"
+      },
+      {
+        "de": "Der Knopf an seinem Hemd ist abgefallen.",
+        "zh": "他衬衫上的纽扣掉了。"
+      }
+    ],
+    "collocations": [
+      "einen Knopf annähen",
+      "den Knopf drücken"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "日常物品",
+      "A2"
+    ],
+    "synonyms": [
+      "Taste"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "knüpfen",
+    "lemma": "knüpfen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "编织；联系",
+        "en": "to knot; to establish (a connection)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie knüpft einen Teppich aus Wolle.",
+        "zh": "她用羊毛编织地毯。"
+      },
+      {
+        "de": "Auf der Konferenz konnte er neue Kontakte knüpfen.",
+        "zh": "在会议上他建立了新的联系。"
+      }
+    ],
+    "collocations": [
+      "Kontakte knüpfen",
+      "einen Knoten knüpfen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geknüpft"
+    },
+    "level": "B1",
+    "tags": [
+      "手工",
+      "社交",
+      "B1"
+    ],
+    "synonyms": [
+      "verbinden",
+      "anknüpfen"
+    ],
+    "antonyms": [
+      "lösen",
+      "trennen"
+    ]
+  },
+  {
+    "word": "Kohle",
+    "lemma": "Kohle",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Kohlen",
+    "meaning": [
+      {
+        "zh": "煤；炭",
+        "en": "coal; charcoal"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Fabrik verbrennt Kohle zur Energiegewinnung.",
+        "zh": "工厂燃烧煤来发电。"
+      },
+      {
+        "de": "Er legte frische Kohle auf den Grill.",
+        "zh": "他在烤架上放了新炭。"
+      }
+    ],
+    "collocations": [
+      "Kohle abbauen",
+      "Kohle verbrennen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "能源",
+      "材料",
+      "B1"
+    ],
+    "synonyms": [
+      "Steinkohle",
+      "Braunkohle"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Kohlendioxid",
+    "lemma": "Kohlendioxid",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "二氧化碳",
+        "en": "carbon dioxide"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kohlendioxid ist ein Treibhausgas.",
+        "zh": "二氧化碳是一种温室气体。"
+      },
+      {
+        "de": "Pflanzen wandeln Kohlendioxid in Sauerstoff um.",
+        "zh": "植物将二氧化碳转化为氧气。"
+      }
+    ],
+    "collocations": [
+      "Kohlendioxid ausstoßen",
+      "Kohlendioxid reduzieren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "化学",
+      "环境",
+      "B2"
+    ],
+    "synonyms": [
+      "CO2"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Komitee",
+    "lemma": "Komitee",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Komitees",
+    "meaning": [
+      {
+        "zh": "委员会",
+        "en": "committee"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Komitee tagt jeden Monat.",
+        "zh": "委员会每月开会。"
+      },
+      {
+        "de": "Sie wurde in das Organisationskomitee gewählt.",
+        "zh": "她被选入组织委员会。"
+      }
+    ],
+    "collocations": [
+      "ein Komitee bilden",
+      "dem Komitee angehören"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "组织",
+      "政治",
+      "B1"
+    ],
+    "synonyms": [
+      "Ausschuss",
+      "Gremium"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Kommilitone",
+    "lemma": "Kommilitone",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Kommilitonen",
+    "meaning": [
+      {
+        "zh": "大学同学",
+        "en": "fellow student"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mein Kommilitone hilft mir bei den Hausaufgaben.",
+        "zh": "我的大学同学帮我做作业。"
+      },
+      {
+        "de": "Sie traf ihre Kommilitonen in der Bibliothek.",
+        "zh": "她在图书馆遇到了她的大学同学。"
+      }
+    ],
+    "collocations": [
+      "mit Kommilitonen lernen",
+      "ein Kommilitone aus dem Kurs"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "教育",
+      "社交",
+      "B1"
+    ],
+    "synonyms": [
+      "Studienkollege",
+      "Mitstudent"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Kommissar",
+    "lemma": "Kommissar",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Kommissare",
+    "meaning": [
+      {
+        "zh": "专员；警长",
+        "en": "commissioner; inspector"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Kommissar leitet die Ermittlungen.",
+        "zh": "警长领导调查。"
+      },
+      {
+        "de": "Der EU-Kommissar für Handel besuchte Berlin.",
+        "zh": "欧盟贸易专员访问了柏林。"
+      }
+    ],
+    "collocations": [
+      "der zuständige Kommissar",
+      "Kommissar werden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "职业",
+      "法律",
+      "B1"
+    ],
+    "synonyms": [
+      "Ermittler",
+      "Beauftragter"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Kommunikationsmittel",
+    "lemma": "Kommunikationsmittel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Kommunikationsmittel",
+    "meaning": [
+      {
+        "zh": "通信工具，沟通手段",
+        "en": "means of communication"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Smartphone ist heute das wichtigste Kommunikationsmittel.",
+        "zh": "智能手机是当今最重要的通信工具。"
+      },
+      {
+        "de": "In vielen Unternehmen sind E-Mails das bevorzugte Kommunikationsmittel.",
+        "zh": "在许多公司，电子邮件是首选的沟通手段。"
+      }
+    ],
+    "collocations": [
+      "modernes Kommunikationsmittel",
+      "digitales Kommunikationsmittel",
+      "als Kommunikationsmittel dienen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Verständigungsmittel",
+      "Kommunikationsweg"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "kommunistisch",
+    "lemma": "kommunistisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "共产主义的",
+        "en": "communist"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er vertritt eine kommunistische Ideologie.",
+        "zh": "他信奉共产主义意识形态。"
+      },
+      {
+        "de": "Die kommunistische Partei hat in vielen Ländern eine wichtige Rolle gespielt.",
+        "zh": "共产党在许多国家发挥了重要作用。"
+      }
+    ],
+    "collocations": [
+      "kommunistische Partei",
+      "kommunistische Ideologie",
+      "kommunistisches System"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "政治",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "sozialistisch",
+      "marxistisch"
+    ],
+    "antonyms": [
+      "kapitalistisch",
+      "demokratisch"
+    ]
+  },
+  {
+    "word": "kommunizieren",
+    "lemma": "kommunizieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "交流，沟通",
+        "en": "to communicate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir müssen besser miteinander kommunizieren.",
+        "zh": "我们必须更好地相互沟通。"
+      },
+      {
+        "de": "Er kommuniziert seine Ideen klar und deutlich.",
+        "zh": "他清晰明确地表达自己的想法。"
+      }
+    ],
+    "collocations": [
+      "miteinander kommunizieren",
+      "effektiv kommunizieren",
+      "schriftlich kommunizieren"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "kommuniziert"
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "sich verständigen",
+      "sich austauschen",
+      "reden"
+    ],
+    "antonyms": [
+      "schweigen",
+      "ignorieren"
+    ]
+  },
+  {
+    "word": "Kompliment",
+    "lemma": "Kompliment",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Komplimente",
+    "meaning": [
+      {
+        "zh": "赞美，恭维",
+        "en": "compliment"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie machte ihm ein Kompliment über seine neue Frisur.",
+        "zh": "她称赞了他的新发型。"
+      },
+      {
+        "de": "Ein ehrliches Kompliment freut jeden.",
+        "zh": "真诚的赞美让每个人都高兴。"
+      }
+    ],
+    "collocations": [
+      "ein Kompliment machen",
+      "ein Kompliment bekommen",
+      "ein großes Kompliment"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "情感",
+      "A2"
+    ],
+    "synonyms": [
+      "Lob",
+      "Anerkennung"
+    ],
+    "antonyms": [
+      "Beleidigung",
+      "Kritik"
+    ]
+  },
+  {
+    "word": "Komponente",
+    "lemma": "Komponente",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Komponenten",
+    "meaning": [
+      {
+        "zh": "组件，部件，成分",
+        "en": "component"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Diese Komponente ist entscheidend für die Funktion des Geräts.",
+        "zh": "这个组件对设备的功能至关重要。"
+      },
+      {
+        "de": "Das System besteht aus mehreren elektronischen Komponenten.",
+        "zh": "该系统由多个电子部件组成。"
+      }
+    ],
+    "collocations": [
+      "wichtige Komponente",
+      "elektronische Komponente",
+      "einzelne Komponente"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "工程",
+      "B1"
+    ],
+    "synonyms": [
+      "Bestandteil",
+      "Element",
+      "Bauteil"
+    ],
+    "antonyms": [
+      "Ganzes",
+      "Gesamtheit"
+    ]
+  },
+  {
+    "word": "Kompromiss",
+    "lemma": "Kompromiss",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Kompromisse",
+    "meaning": [
+      {
+        "zh": "妥协，折中",
+        "en": "compromise"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Nach langen Verhandlungen fanden sie einen Kompromiss.",
+        "zh": "经过长时间谈判，他们找到了一个折中方案。"
+      },
+      {
+        "de": "Ohne Kompromisse ist eine Zusammenarbeit kaum möglich.",
+        "zh": "没有妥协，合作几乎是不可能的。"
+      }
+    ],
+    "collocations": [
+      "einen Kompromiss finden",
+      "einen Kompromiss eingehen",
+      "einen Kompromiss vorschlagen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "政治",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Übereinkunft",
+      "Ausgleich"
+    ],
+    "antonyms": [
+      "Konflikt",
+      "Streit",
+      "Unnachgiebigkeit"
+    ]
+  },
+  {
+    "word": "König",
+    "lemma": "König",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Könige",
+    "meaning": [
+      {
+        "zh": "国王",
+        "en": "king"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der König wurde von seinem Volk verehrt.",
+        "zh": "国王受到他的人民的尊敬。"
+      },
+      {
+        "de": "In der Geschichte gab es viele mächtige Könige.",
+        "zh": "历史上有很多强大的国王。"
+      }
+    ],
+    "collocations": [
+      "der König von ...",
+      "König und Königin",
+      "zum König gekrönt werden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "社会",
+      "历史",
+      "A2"
+    ],
+    "synonyms": [
+      "Monarch",
+      "Herrscher"
+    ],
+    "antonyms": [
+      "Untertan",
+      "Bürger"
+    ]
+  },
+  {
+    "word": "konkret",
+    "lemma": "konkret",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "具体的，明确的",
+        "en": "concrete, specific"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du ein konkretes Beispiel nennen?",
+        "zh": "你能举一个具体的例子吗？"
+      },
+      {
+        "de": "Wir brauchen konkrete Pläne für das Projekt.",
+        "zh": "我们需要这个项目的具体计划。"
+      }
+    ],
+    "collocations": [
+      "konkretes Beispiel",
+      "konkrete Frage",
+      "konkrete Maßnahmen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "工作",
+      "B1"
+    ],
+    "synonyms": [
+      "präzise",
+      "genau",
+      "deutlich"
+    ],
+    "antonyms": [
+      "abstrakt",
+      "vage",
+      "allgemein"
+    ]
+  },
+  {
+    "word": "Konkurrent",
+    "lemma": "Konkurrent",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Konkurrenten",
+    "meaning": [
+      {
+        "zh": "竞争者，对手",
+        "en": "competitor, rival"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Unser Unternehmen hat einen starken Konkurrenten auf dem Markt.",
+        "zh": "我们公司在市场上有一个强大的竞争对手。"
+      },
+      {
+        "de": "Die beiden Konkurrenten liefern sich einen harten Wettbewerb.",
+        "zh": "这两个竞争者之间展开了激烈的竞争。"
+      }
+    ],
+    "collocations": [
+      "stärkster Konkurrent",
+      "Konkurrenten im Wettbewerb",
+      "Konkurrenten überholen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "商业",
+      "B1"
+    ],
+    "synonyms": [
+      "Wettbewerber",
+      "Gegner",
+      "Rivale"
+    ],
+    "antonyms": [
+      "Partner",
+      "Verbündeter"
+    ]
+  },
+  {
+    "word": "Konsequenz",
+    "lemma": "Konsequenz",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Konsequenzen",
+    "meaning": [
+      {
+        "zh": "后果，结果；一致性",
+        "en": "consequence; consistency"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Konsequenzen seiner Entscheidung waren schwerwiegend.",
+        "zh": "他决定的后果是严重的。"
+      },
+      {
+        "de": "Er handelt mit großer Konsequenz.",
+        "zh": "他行事非常一致。"
+      }
+    ],
+    "collocations": [
+      "Konsequenzen tragen",
+      "negative Konsequenzen",
+      "Konsequenz zeigen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "抽象",
+      "逻辑",
+      "B1"
+    ],
+    "synonyms": [
+      "Folge",
+      "Auswirkung",
+      "Ergebnis"
+    ],
+    "antonyms": [
+      "Ursache",
+      "Inkonsequenz"
+    ]
+  },
+  {
+    "word": "Kontext",
+    "lemma": "Kontext",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Kontexte",
+    "meaning": [
+      {
+        "zh": "上下文，语境，背景",
+        "en": "context"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Bedeutung eines Wortes hängt vom Kontext ab.",
+        "zh": "一个词的意思取决于上下文。"
+      },
+      {
+        "de": "Im historischen Kontext ist diese Entscheidung verständlich.",
+        "zh": "在历史背景下，这个决定是可以理解的。"
+      }
+    ],
+    "collocations": [
+      "im Kontext von",
+      "Kontext beachten",
+      "sozialer Kontext"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语言",
+      "学术",
+      "B1"
+    ],
+    "synonyms": [
+      "Zusammenhang",
+      "Umgebung",
+      "Rahmen"
+    ],
+    "antonyms": [
+      "Isolation",
+      "Einzelfall"
+    ]
+  },
+  {
+    "word": "Kontrolle",
+    "lemma": "Kontrolle",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Kontrollen",
+    "meaning": [
+      {
+        "zh": "控制，检查，监督",
+        "en": "control, check, inspection"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kontrolle der Pässe dauerte lange.",
+        "zh": "护照检查花了很长时间。"
+      },
+      {
+        "de": "Er hat die Kontrolle über das Auto verloren.",
+        "zh": "他失去了对汽车的控制。"
+      }
+    ],
+    "collocations": [
+      "unter Kontrolle",
+      "Kontrolle ausüben",
+      "Qualitätskontrolle"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "管理",
+      "安全",
+      "B1"
+    ],
+    "synonyms": [
+      "Überwachung",
+      "Prüfung",
+      "Aufsicht"
+    ],
+    "antonyms": [
+      "Chaos",
+      "Freiheit"
+    ]
+  },
+  {
+    "word": "Kost",
+    "lemma": "Kost",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "食物，伙食；费用（古语）",
+        "en": "food, fare; cost (archaic)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kost im Hotel war ausgezeichnet.",
+        "zh": "酒店的食物非常好。"
+      },
+      {
+        "de": "Er lebt von einfacher Kost.",
+        "zh": "他靠简单的食物生活。"
+      }
+    ],
+    "collocations": [
+      "gesunde Kost",
+      "leichte Kost",
+      "Kost und Logis"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "饮食",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Nahrung",
+      "Essen",
+      "Verpflegung"
+    ],
+    "antonyms": [
+      "Fasten",
+      "Hunger"
+    ]
+  },
+  {
+    "word": "kostbar",
+    "lemma": "kostbar",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "珍贵的，昂贵的",
+        "en": "precious, valuable, costly"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist ein kostbarer Schatz.",
+        "zh": "这是一个珍贵的宝藏。"
+      },
+      {
+        "de": "Die Zeit ist kostbar.",
+        "zh": "时间是宝贵的。"
+      }
+    ],
+    "collocations": [
+      "kostbare Zeit",
+      "kostbares Gut",
+      "kostbare Erinnerung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "价值",
+      "B1"
+    ],
+    "synonyms": [
+      "wertvoll",
+      "teuer",
+      "edel"
+    ],
+    "antonyms": [
+      "billig",
+      "wertlos",
+      "unbedeutend"
+    ]
+  },
+  {
+    "word": "kostenpflichtig",
+    "lemma": "kostenpflichtig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "收费的，需付费的",
+        "en": "chargeable, subject to a fee"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Parkplatz ist kostenpflichtig.",
+        "zh": "这个停车场是收费的。"
+      },
+      {
+        "de": "Die Nutzung der App ist kostenpflichtig.",
+        "zh": "使用这个应用程序是收费的。"
+      }
+    ],
+    "collocations": [
+      "kostenpflichtige Dienstleistung",
+      "kostenpflichtig parken",
+      "kostenpflichtiger Service"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "服务",
+      "B1"
+    ],
+    "synonyms": [
+      "gebührenpflichtig",
+      "entgeltlich"
+    ],
+    "antonyms": [
+      "kostenlos",
+      "gratis",
+      "umsonst"
+    ]
+  },
+  {
+    "word": "Kostüm",
+    "lemma": "Kostüm",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Kostüme",
+    "meaning": [
+      {
+        "zh": "服装，戏服，女式套装",
+        "en": "costume, suit (women's)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie trug ein elegantes Kostüm zur Party.",
+        "zh": "她穿了一件优雅的套装去参加派对。"
+      },
+      {
+        "de": "Die Kinder verkleiden sich in bunten Kostümen.",
+        "zh": "孩子们穿着五颜六色的戏服打扮自己。"
+      }
+    ],
+    "collocations": [
+      "Kostüm tragen",
+      "Kostümfest",
+      "Kostümverleih"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "时尚",
+      "娱乐",
+      "B1"
+    ],
+    "synonyms": [
+      "Verkleidung",
+      "Anzug",
+      "Outfit"
+    ],
+    "antonyms": [
+      "Alltagskleidung",
+      "Uniform"
+    ]
+  },
+  {
+    "word": "Kraft",
+    "lemma": "Kraft",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Kräfte",
+    "meaning": [
+      {
+        "zh": "力量，力气",
+        "en": "strength, power"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat viel Kraft.",
+        "zh": "她很有力气。"
+      },
+      {
+        "de": "Die Maschine braucht viel Kraft.",
+        "zh": "这台机器需要很大的动力。"
+      }
+    ],
+    "collocations": [
+      "aus eigener Kraft",
+      "in Kraft treten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "物理",
+      "抽象概念",
+      "B1"
+    ],
+    "synonyms": [
+      "Stärke",
+      "Energie"
+    ],
+    "antonyms": [
+      "Schwäche"
+    ]
+  },
+  {
+    "word": "Kraftwerk",
+    "lemma": "Kraftwerk",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Kraftwerke",
+    "meaning": [
+      {
+        "zh": "发电厂",
+        "en": "power plant"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Kraftwerk produziert Strom.",
+        "zh": "这个发电厂生产电力。"
+      },
+      {
+        "de": "Ein neues Kraftwerk wird gebaut.",
+        "zh": "一座新的发电厂正在建设中。"
+      }
+    ],
+    "collocations": [
+      "Kernkraftwerk",
+      "Wasserkraftwerk"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "能源",
+      "B1"
+    ],
+    "synonyms": [
+      "Stromerzeugungsanlage"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Kragen",
+    "lemma": "Kragen",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Kragen",
+    "meaning": [
+      {
+        "zh": "衣领，领子",
+        "en": "collar"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er hat den Kragen seines Hemdes hochgeschlagen.",
+        "zh": "他把衬衫的领子翻了起来。"
+      },
+      {
+        "de": "Der Kragen ist zu eng.",
+        "zh": "这个领子太紧了。"
+      }
+    ],
+    "collocations": [
+      "Hemdkragen",
+      "Kragenknopf"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "服装",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "Kragenbund"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Kräutertee",
+    "lemma": "Kräutertee",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Kräutertees",
+    "meaning": [
+      {
+        "zh": "花草茶，药草茶",
+        "en": "herbal tea"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich trinke gerne Kräutertee am Abend.",
+        "zh": "晚上我喜欢喝花草茶。"
+      },
+      {
+        "de": "Kräutertee hilft bei Erkältungen.",
+        "zh": "花草茶对感冒有帮助。"
+      }
+    ],
+    "collocations": [
+      "eine Tasse Kräutertee",
+      "Kräutertee aufbrühen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "饮食",
+      "健康",
+      "A2"
+    ],
+    "synonyms": [
+      "Kräuteraufguss"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Krawatte",
+    "lemma": "Krawatte",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Krawatten",
+    "meaning": [
+      {
+        "zh": "领带",
+        "en": "tie"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er trägt heute eine blaue Krawatte.",
+        "zh": "他今天戴了一条蓝色领带。"
+      },
+      {
+        "de": "Die Krawatte passt gut zum Anzug.",
+        "zh": "这条领带和西装很配。"
+      }
+    ],
+    "collocations": [
+      "Krawatte binden",
+      "Krawattennadel"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "服装",
+      "日常",
+      "A2"
+    ],
+    "synonyms": [
+      "Schlips"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Kreativität",
+    "lemma": "Kreativität",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "创造力，创意",
+        "en": "creativity"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kreativität ist in vielen Berufen wichtig.",
+        "zh": "创造力在很多职业中都很重要。"
+      },
+      {
+        "de": "Sie hat viel Kreativität bei der Lösung des Problems gezeigt.",
+        "zh": "她在解决这个问题时展现了很多创造力。"
+      }
+    ],
+    "collocations": [
+      "kreatives Denken",
+      "Kreativität fördern"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "抽象概念",
+      "心理",
+      "B1"
+    ],
+    "synonyms": [
+      "Einfallsreichtum",
+      "Schöpferkraft"
+    ],
+    "antonyms": [
+      "Unkreativität"
+    ]
+  },
+  {
+    "word": "Kreis",
+    "lemma": "Kreis",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Kreise",
+    "meaning": [
+      {
+        "zh": "圆，圆圈；圈子",
+        "en": "circle"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kinder sitzen im Kreis.",
+        "zh": "孩子们坐成一个圆圈。"
+      },
+      {
+        "de": "Er bewegt sich in künstlerischen Kreisen.",
+        "zh": "他活跃在艺术圈子里。"
+      }
+    ],
+    "collocations": [
+      "im Kreis gehen",
+      "geschlossener Kreis"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "几何",
+      "社会",
+      "A2"
+    ],
+    "synonyms": [
+      "Ring",
+      "Runde"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Kreuz",
+    "lemma": "Kreuz",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Kreuze",
+    "meaning": [
+      {
+        "zh": "十字架；十字形；腰部",
+        "en": "cross; lower back"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er trägt ein Kreuz um den Hals.",
+        "zh": "他脖子上戴着一个十字架。"
+      },
+      {
+        "de": "Ich habe Schmerzen im Kreuz.",
+        "zh": "我腰部疼痛。"
+      }
+    ],
+    "collocations": [
+      "Rotes Kreuz",
+      "Kreuz und quer"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "宗教",
+      "身体",
+      "B1"
+    ],
+    "synonyms": [
+      "Kruzifix",
+      "Lendenbereich"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Krise",
+    "lemma": "Krise",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Krisen",
+    "meaning": [
+      {
+        "zh": "危机",
+        "en": "crisis"
+      },
+      {
+        "zh": "困境",
+        "en": "difficult situation"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Wirtschaft steckt in einer schweren Krise.",
+        "zh": "经济陷入严重危机。"
+      },
+      {
+        "de": "In einer Krise muss man ruhig bleiben.",
+        "zh": "在危机中必须保持冷静。"
+      },
+      {
+        "de": "Die politische Krise hat das Land gespalten.",
+        "zh": "政治危机分裂了这个国家。"
+      }
+    ],
+    "collocations": [
+      "in einer Krise stecken",
+      "die Krise bewältigen",
+      "eine Krise auslösen",
+      "die Finanzkrise"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "社会",
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "Notlage",
+      "Schwierigkeit",
+      "Talfahrt"
+    ],
+    "antonyms": [
+      "Stabilität",
+      "Aufschwung"
+    ]
+  },
+  {
+    "word": "kulturell",
+    "lemma": "kulturell",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "文化的",
+        "en": "cultural"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Stadt bietet ein reiches kulturelles Angebot.",
+        "zh": "这座城市提供丰富的文化项目。"
+      },
+      {
+        "de": "Kulturelle Unterschiede sollten respektiert werden.",
+        "zh": "文化差异应受到尊重。"
+      },
+      {
+        "de": "Er interessiert sich sehr für kulturelle Veranstaltungen.",
+        "zh": "他对文化活动非常感兴趣。"
+      }
+    ],
+    "collocations": [
+      "kulturelle Vielfalt",
+      "kulturelles Erbe",
+      "kulturelle Veranstaltung",
+      "kultureller Austausch"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "文化",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "zivilisatorisch",
+      "geistig"
+    ],
+    "antonyms": [
+      "unkulturell",
+      "barbarisch"
+    ]
+  },
+  {
+    "word": "künftig",
+    "lemma": "künftig",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "未来的",
+        "en": "future"
+      },
+      {
+        "zh": "今后",
+        "en": "in future"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Künftige Generationen werden davon profitieren.",
+        "zh": "未来几代人将从中受益。"
+      },
+      {
+        "de": "Künftig müssen wir sparsamer haushalten.",
+        "zh": "今后我们必须更节约地管理。"
+      },
+      {
+        "de": "Die künftige Entwicklung ist ungewiss.",
+        "zh": "未来的发展不确定。"
+      }
+    ],
+    "collocations": [
+      "künftige Generationen",
+      "künftige Entwicklung",
+      "künftig besser machen",
+      "künftige Pläne"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "时间",
+      "未来",
+      "B1"
+    ],
+    "synonyms": [
+      "zukünftig",
+      "kommend"
+    ],
+    "antonyms": [
+      "bisherig",
+      "vergangen"
+    ]
+  },
+  {
+    "word": "künstlerisch",
+    "lemma": "künstlerisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "艺术的",
+        "en": "artistic"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie hat ein großes künstlerisches Talent.",
+        "zh": "她有很大的艺术天赋。"
+      },
+      {
+        "de": "Das Museum zeigt künstlerische Werke aus aller Welt.",
+        "zh": "博物馆展出世界各地的艺术作品。"
+      },
+      {
+        "de": "Seine künstlerische Karriere begann früh.",
+        "zh": "他的艺术生涯很早就开始了。"
+      }
+    ],
+    "collocations": [
+      "künstlerische Freiheit",
+      "künstlerische Tätigkeit",
+      "künstlerischer Ausdruck",
+      "künstlerische Leitung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "艺术",
+      "文化",
+      "B1"
+    ],
+    "synonyms": [
+      "ästhetisch",
+      "schöpferisch"
+    ],
+    "antonyms": [
+      "unkünstlerisch",
+      "prosaisch"
+    ]
+  },
+  {
+    "word": "Kunststoff",
+    "lemma": "Kunststoff",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Kunststoffe",
+    "meaning": [
+      {
+        "zh": "塑料",
+        "en": "plastic"
+      },
+      {
+        "zh": "合成材料",
+        "en": "synthetic material"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Viele Verpackungen bestehen aus Kunststoff.",
+        "zh": "许多包装由塑料制成。"
+      },
+      {
+        "de": "Kunststoff ist leicht und langlebig.",
+        "zh": "塑料轻便且耐用。"
+      },
+      {
+        "de": "Die Industrie sucht nach Alternativen zu Kunststoff.",
+        "zh": "工业界正在寻找塑料的替代品。"
+      }
+    ],
+    "collocations": [
+      "aus Kunststoff bestehen",
+      "Kunststoff recyceln",
+      "Kunststoffproduktion",
+      "Kunststoffabfall"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "材料",
+      "环境",
+      "B1"
+    ],
+    "synonyms": [
+      "Plastik",
+      "Polymer"
+    ],
+    "antonyms": [
+      "Naturstoff",
+      "Holz"
+    ]
+  },
+  {
+    "word": "Kurfürst",
+    "lemma": "Kurfürst",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Kurfürsten",
+    "meaning": [
+      {
+        "zh": "选帝侯",
+        "en": "elector (historical German prince)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kurfürsten wählten den römisch-deutschen König.",
+        "zh": "选帝侯选举罗马-德意志国王。"
+      },
+      {
+        "de": "Im Heiligen Römischen Reich gab es sieben Kurfürsten.",
+        "zh": "神圣罗马帝国有七位选帝侯。"
+      },
+      {
+        "de": "Der Kurfürst von Brandenburg war sehr mächtig.",
+        "zh": "勃兰登堡选帝侯非常强大。"
+      }
+    ],
+    "collocations": [
+      "Kurfürst von ...",
+      "die Kurfürsten wählen",
+      "Kurfürstentum",
+      "Kurfürstenkollegium"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "C1",
+    "tags": [
+      "历史",
+      "政治",
+      "C1"
+    ],
+    "synonyms": [
+      "Wahlfürst"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Kurs",
+    "lemma": "Kurs",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Kurse",
+    "meaning": [
+      {
+        "zh": "课程",
+        "en": "course"
+      },
+      {
+        "zh": "路线",
+        "en": "course, route"
+      },
+      {
+        "zh": "汇率",
+        "en": "exchange rate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich besuche einen Deutschkurs.",
+        "zh": "我参加一个德语课程。"
+      },
+      {
+        "de": "Das Schiff hält Kurs auf Norden.",
+        "zh": "船保持向北的航线。"
+      },
+      {
+        "de": "Der Kurs des Euro ist gestiegen.",
+        "zh": "欧元汇率上升了。"
+      }
+    ],
+    "collocations": [
+      "einen Kurs belegen",
+      "Kurs halten",
+      "der politische Kurs",
+      "Wechselkurs"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "教育",
+      "经济",
+      "交通",
+      "A2"
+    ],
+    "synonyms": [
+      "Lehrgang",
+      "Route",
+      "Kursus"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "eeA",
+    "lemma": "eeA",
+    "pos": [],
+    "gender": null,
+    "plural": null,
+    "meaning": [],
+    "examples": [],
+    "collocations": [],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": null,
+    "tags": [],
+    "synonyms": [],
+    "antonyms": []
+  }
+]

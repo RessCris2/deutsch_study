@@ -1,0 +1,1047 @@
+[
+  {
+    "word": "zeigen",
+    "lemma": "zeigen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "展示，显示",
+        "en": "to show, to display"
+      },
+      {
+        "zh": "指向，指示",
+        "en": "to point, to indicate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du mir den Weg zum Bahnhof zeigen?",
+        "zh": "你能给我指一下去火车站的路吗？"
+      },
+      {
+        "de": "Die Studie zeigt, dass Rauchen gesundheitsschädlich ist.",
+        "zh": "这项研究表明吸烟有害健康。"
+      }
+    ],
+    "collocations": [
+      "jemandem etwas zeigen",
+      "sich zeigen (als)"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "gezeigt"
+    },
+    "level": "A2",
+    "tags": [
+      "日常交流",
+      "A2"
+    ],
+    "synonyms": [
+      "vorführen",
+      "demonstrieren"
+    ],
+    "antonyms": [
+      "verstecken",
+      "verbergen"
+    ]
+  },
+  {
+    "word": "Zeit",
+    "lemma": "Zeit",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Zeiten",
+    "meaning": [
+      {
+        "zh": "时间",
+        "en": "time"
+      },
+      {
+        "zh": "时期，时代",
+        "en": "period, era"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe keine Zeit für Hobbys.",
+        "zh": "我没有时间做爱好。"
+      },
+      {
+        "de": "In der heutigen Zeit ist das Internet unverzichtbar.",
+        "zh": "在当今时代，互联网是不可或缺的。"
+      }
+    ],
+    "collocations": [
+      "Zeit haben",
+      "zur Zeit"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "日常交流",
+      "A1"
+    ],
+    "synonyms": [
+      "Dauer",
+      "Ära"
+    ],
+    "antonyms": [
+      "Ewigkeit"
+    ]
+  },
+  {
+    "word": "Zeitung",
+    "lemma": "Zeitung",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Zeitungen",
+    "meaning": [
+      {
+        "zh": "报纸",
+        "en": "newspaper"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er liest jeden Morgen die Zeitung.",
+        "zh": "他每天早上读报纸。"
+      },
+      {
+        "de": "Die Zeitung berichtet über die neuesten Ereignisse.",
+        "zh": "报纸报道了最新事件。"
+      }
+    ],
+    "collocations": [
+      "die Zeitung lesen",
+      "in der Zeitung stehen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "媒体",
+      "A2"
+    ],
+    "synonyms": [
+      "Blatt",
+      "Tageszeitung"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Zeitschriften",
+    "lemma": "Zeitschrift",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Zeitschriften",
+    "meaning": [
+      {
+        "zh": "杂志",
+        "en": "magazine, journal"
+      }
+    ],
+    "examples": [
+      {
+        "de": "In der Bibliothek gibt es viele wissenschaftliche Zeitschriften.",
+        "zh": "图书馆里有很多科学杂志。"
+      },
+      {
+        "de": "Sie abonniert eine Modezeitschrift.",
+        "zh": "她订阅了一本时尚杂志。"
+      }
+    ],
+    "collocations": [
+      "eine Zeitschrift abonnieren",
+      "in einer Zeitschrift veröffentlichen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "媒体",
+      "B1"
+    ],
+    "synonyms": [
+      "Magazin",
+      "Journal"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Zelt",
+    "lemma": "Zelt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Zelte",
+    "meaning": [
+      {
+        "zh": "帐篷",
+        "en": "tent"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir haben im Wald ein Zelt aufgebaut.",
+        "zh": "我们在森林里搭了一个帐篷。"
+      },
+      {
+        "de": "Das Zelt schützt vor Regen und Wind.",
+        "zh": "帐篷可以防雨防风。"
+      }
+    ],
+    "collocations": [
+      "ein Zelt aufbauen",
+      "im Zelt übernachten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "旅行",
+      "A2"
+    ],
+    "synonyms": [
+      "Campingzelt",
+      "Jurte"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Zentrum",
+    "lemma": "Zentrum",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Zentren",
+    "meaning": [
+      {
+        "zh": "中心，中央",
+        "en": "center, centre"
+      },
+      {
+        "zh": "市中心",
+        "en": "city center"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Einkaufszentrum liegt im Zentrum der Stadt.",
+        "zh": "购物中心位于市中心。"
+      },
+      {
+        "de": "Er arbeitet im Forschungszentrum.",
+        "zh": "他在研究中心工作。"
+      }
+    ],
+    "collocations": [
+      "im Zentrum liegen",
+      "das Zentrum der Stadt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "地理",
+      "A2"
+    ],
+    "synonyms": [
+      "Mitte",
+      "Kern"
+    ],
+    "antonyms": [
+      "Rand",
+      "Peripherie"
+    ]
+  },
+  {
+    "word": "ziemlich",
+    "lemma": "ziemlich",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "相当，颇",
+        "en": "quite, fairly"
+      },
+      {
+        "zh": "几乎，差不多",
+        "en": "almost, pretty much"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Essen war ziemlich gut.",
+        "zh": "食物相当不错。"
+      },
+      {
+        "de": "Er ist ziemlich müde nach der Arbeit.",
+        "zh": "他下班后相当累。"
+      }
+    ],
+    "collocations": [
+      "ziemlich gut",
+      "ziemlich viel"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "日常交流",
+      "A2"
+    ],
+    "synonyms": [
+      "recht",
+      "ganz"
+    ],
+    "antonyms": [
+      "kaum",
+      "wenig"
+    ]
+  },
+  {
+    "word": "Zimmer",
+    "lemma": "Zimmer",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Zimmer",
+    "meaning": [
+      {
+        "zh": "房间",
+        "en": "room"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Mein Zimmer ist sehr gemütlich.",
+        "zh": "我的房间很舒适。"
+      },
+      {
+        "de": "Wir haben ein Doppelzimmer im Hotel gebucht.",
+        "zh": "我们在酒店订了一个双人间。"
+      }
+    ],
+    "collocations": [
+      "ein Zimmer mieten",
+      "das Zimmer aufräumen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "日常交流",
+      "A1"
+    ],
+    "synonyms": [
+      "Raum",
+      "Kammer"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "die",
+    "lemma": "der",
+    "pos": [
+      "article"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "这，那（定冠词）",
+        "en": "the"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Frau geht nach Hause.",
+        "zh": "那个女人回家。"
+      },
+      {
+        "de": "Die Kinder spielen im Park.",
+        "zh": "孩子们在公园里玩。"
+      }
+    ],
+    "collocations": [
+      "die Frau",
+      "die Kinder"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语法",
+      "冠词"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "zuerst",
+    "lemma": "zuerst",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "首先，最初",
+        "en": "first, at first"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Zuerst müssen wir die Hausaufgaben machen.",
+        "zh": "首先我们必须做作业。"
+      },
+      {
+        "de": "Zuerst war ich nervös, aber dann wurde es besser.",
+        "zh": "起初我很紧张，但后来好多了。"
+      }
+    ],
+    "collocations": [
+      "zuerst einmal",
+      "zuerst und dann"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "时间",
+      "副词"
+    ],
+    "synonyms": [
+      "anfangs",
+      "erstens"
+    ],
+    "antonyms": [
+      "zuletzt",
+      "danach"
+    ]
+  },
+  {
+    "word": "zufrieden",
+    "lemma": "zufrieden",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "满意的，满足的",
+        "en": "satisfied, content"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich bin mit dem Ergebnis zufrieden.",
+        "zh": "我对结果很满意。"
+      },
+      {
+        "de": "Sie lächelt zufrieden.",
+        "zh": "她满意地笑了。"
+      }
+    ],
+    "collocations": [
+      "mit etwas zufrieden sein",
+      "zufrieden lächeln"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "形容词"
+    ],
+    "synonyms": [
+      "glücklich",
+      "erfüllt"
+    ],
+    "antonyms": [
+      "unzufrieden",
+      "enttäuscht"
+    ]
+  },
+  {
+    "word": "Zug",
+    "lemma": "Zug",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Züge",
+    "meaning": [
+      {
+        "zh": "火车；特征；一口（气）",
+        "en": "train; feature; draft"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Zug kommt um 10 Uhr an.",
+        "zh": "火车10点到。"
+      },
+      {
+        "de": "Er hat einen freundlichen Zug im Gesicht.",
+        "zh": "他脸上有一种友善的特征。"
+      }
+    ],
+    "collocations": [
+      "mit dem Zug fahren",
+      "einen Zug machen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "交通",
+      "名词"
+    ],
+    "synonyms": [
+      "Bahn",
+      "Eisenbahn"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "zumachen",
+    "lemma": "zumachen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "关上，关闭",
+        "en": "to close, to shut"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Kannst du das Fenster zumachen?",
+        "zh": "你能关上窗户吗？"
+      },
+      {
+        "de": "Der Laden macht um 20 Uhr zu.",
+        "zh": "商店晚上8点关门。"
+      }
+    ],
+    "collocations": [
+      "die Tür zumachen",
+      "das Fenster zumachen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "zugemacht"
+    },
+    "level": "A2",
+    "tags": [
+      "日常",
+      "动词"
+    ],
+    "synonyms": [
+      "schließen",
+      "verschließen"
+    ],
+    "antonyms": [
+      "aufmachen",
+      "öffnen"
+    ]
+  },
+  {
+    "word": "zusammen",
+    "lemma": "zusammen",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "一起，共同",
+        "en": "together"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Wir arbeiten zusammen an dem Projekt.",
+        "zh": "我们一起做这个项目。"
+      },
+      {
+        "de": "Sie wohnen zusammen in einer Wohnung.",
+        "zh": "他们一起住在一套公寓里。"
+      }
+    ],
+    "collocations": [
+      "zusammen arbeiten",
+      "zusammen wohnen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "关系",
+      "副词"
+    ],
+    "synonyms": [
+      "gemeinsam",
+      "miteinander"
+    ],
+    "antonyms": [
+      "allein",
+      "getrennt"
+    ]
+  },
+  {
+    "word": "zustimmen",
+    "lemma": "zustimmen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "同意，赞同",
+        "en": "to agree, to consent"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich stimme deinem Vorschlag zu.",
+        "zh": "我同意你的建议。"
+      },
+      {
+        "de": "Er stimmt der Entscheidung nicht zu.",
+        "zh": "他不同意这个决定。"
+      }
+    ],
+    "collocations": [
+      "einem Vorschlag zustimmen",
+      "einer Meinung zustimmen"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": true,
+      "auxiliary": "haben",
+      "partizip2": "zugestimmt"
+    },
+    "level": "B1",
+    "tags": [
+      "交流",
+      "动词"
+    ],
+    "synonyms": [
+      "einverstanden sein",
+      "akzeptieren"
+    ],
+    "antonyms": [
+      "ablehnen",
+      "widersprechen"
+    ]
+  },
+  {
+    "word": "zwar",
+    "lemma": "zwar",
+    "pos": [
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "虽然，固然（常与aber连用）",
+        "en": "indeed, although (often with aber)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er ist zwar krank, aber er arbeitet trotzdem.",
+        "zh": "他虽然生病了，但还是工作。"
+      },
+      {
+        "de": "Das ist zwar teuer, aber es lohnt sich.",
+        "zh": "这虽然贵，但值得。"
+      }
+    ],
+    "collocations": [
+      "zwar ... aber",
+      "und zwar"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "连接",
+      "副词"
+    ],
+    "synonyms": [
+      "allerdings",
+      "freilich"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "die",
+    "lemma": "der",
+    "pos": [
+      "article",
+      "pronoun"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "定冠词（阴性单数/复数）",
+        "en": "the (feminine singular/plural)"
+      },
+      {
+        "zh": "关系代词（复数）",
+        "en": "which/that (plural)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Frau liest ein Buch.",
+        "zh": "那位女士在读一本书。"
+      },
+      {
+        "de": "Die Kinder spielen im Garten.",
+        "zh": "孩子们在花园里玩耍。"
+      },
+      {
+        "de": "Das ist die Blume, die ich mag.",
+        "zh": "这是我喜欢的那个花。"
+      }
+    ],
+    "collocations": [
+      "die Frau",
+      "die Kinder",
+      "die Idee"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语法",
+      "冠词",
+      "代词",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "die",
+    "lemma": "die",
+    "pos": [
+      "article",
+      "pronoun"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "这，那（定冠词，阴性单数/复数）",
+        "en": "the (definite article, feminine singular/plural)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Frau liest ein Buch.",
+        "zh": "那个女人在读一本书。"
+      },
+      {
+        "de": "Die Kinder spielen im Park.",
+        "zh": "孩子们在公园里玩。"
+      }
+    ],
+    "collocations": [
+      "die Frau",
+      "die Kinder"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "语法",
+      "冠词",
+      "代词"
+    ],
+    "synonyms": [
+      "der",
+      "das"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "zwei",
+    "lemma": "zwei",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "二，两个",
+        "en": "two"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe zwei Brüder.",
+        "zh": "我有两个兄弟。"
+      },
+      {
+        "de": "Wir treffen uns um zwei Uhr.",
+        "zh": "我们两点见面。"
+      }
+    ],
+    "collocations": [
+      "zwei Mal",
+      "in zwei Tagen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "数词",
+      "时间",
+      "A1"
+    ],
+    "synonyms": [
+      "paar"
+    ],
+    "antonyms": [
+      "eins"
+    ]
+  },
+  {
+    "word": "Zwiebel",
+    "lemma": "Zwiebel",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Zwiebeln",
+    "meaning": [
+      {
+        "zh": "洋葱",
+        "en": "onion"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Schneide die Zwiebel in kleine Würfel.",
+        "zh": "把洋葱切成小丁。"
+      },
+      {
+        "de": "Die Zwiebel bringt mich zum Weinen.",
+        "zh": "洋葱让我流泪。"
+      }
+    ],
+    "collocations": [
+      "eine Zwiebel schälen",
+      "Zwiebel und Knoblauch"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "食物",
+      "厨房",
+      "A2"
+    ],
+    "synonyms": [
+      "Lauch"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "zwischen",
+    "lemma": "zwischen",
+    "pos": [
+      "preposition"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "在……之间",
+        "en": "between"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Supermarkt liegt zwischen der Schule und dem Park.",
+        "zh": "超市位于学校和公园之间。"
+      },
+      {
+        "de": "Zwischen uns gibt es kein Geheimnis.",
+        "zh": "我们之间没有秘密。"
+      }
+    ],
+    "collocations": [
+      "zwischen zwei Stühlen sitzen",
+      "zwischen den Zeilen lesen"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "介词",
+      "空间",
+      "A2"
+    ],
+    "synonyms": [
+      "mitten unter"
+    ],
+    "antonyms": [
+      "außerhalb"
+    ]
+  },
+  {
+    "word": "Klick",
+    "lemma": "Klick",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Klicks",
+    "meaning": [
+      {
+        "zh": "点击（鼠标）",
+        "en": "click"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ein Klick auf den Link öffnet die Seite.",
+        "zh": "点击链接打开页面。"
+      },
+      {
+        "de": "Die Website hat viele Klicks bekommen.",
+        "zh": "这个网站获得了许多点击。"
+      }
+    ],
+    "collocations": [
+      "mit einem Klick",
+      "Klick für Klick"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "科技",
+      "互联网",
+      "B1"
+    ],
+    "synonyms": [
+      "Mausklick"
+    ],
+    "antonyms": []
+  }
+]

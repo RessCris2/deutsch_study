@@ -1,0 +1,1644 @@
+[
+  {
+    "word": "relativ",
+    "lemma": "relativ",
+    "pos": [
+      "adverb",
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "相对地",
+        "en": "relatively"
+      },
+      {
+        "zh": "相对的",
+        "en": "relative"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das ist relativ einfach zu verstehen.",
+        "zh": "这相对容易理解。"
+      },
+      {
+        "de": "Die Kosten sind relativ gering.",
+        "zh": "成本相对较低。"
+      }
+    ],
+    "collocations": [
+      "relativ einfach",
+      "relativ gering"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "语言",
+      "比较",
+      "B1"
+    ],
+    "synonyms": [
+      "verhältnismäßig",
+      "ziemlich"
+    ],
+    "antonyms": [
+      "absolut"
+    ]
+  },
+  {
+    "word": "Reporter",
+    "lemma": "Reporter",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Reporter",
+    "meaning": [
+      {
+        "zh": "记者",
+        "en": "reporter"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Reporter interviewt den Bürgermeister.",
+        "zh": "记者采访了市长。"
+      },
+      {
+        "de": "Ein Reporter berichtet live vom Unfallort.",
+        "zh": "一名记者从事故现场进行直播报道。"
+      }
+    ],
+    "collocations": [
+      "Reporter fragen",
+      "Reporter berichten"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "媒体",
+      "职业",
+      "B1"
+    ],
+    "synonyms": [
+      "Journalist",
+      "Berichterstatter"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "repräsentativ",
+    "lemma": "repräsentativ",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "代表性的",
+        "en": "representative"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Umfrage ist repräsentativ für die Bevölkerung.",
+        "zh": "这项调查对人口具有代表性。"
+      },
+      {
+        "de": "Er wurde als repräsentativer Vertreter gewählt.",
+        "zh": "他被选为代表。"
+      }
+    ],
+    "collocations": [
+      "repräsentative Umfrage",
+      "repräsentative Auswahl"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "统计",
+      "社会",
+      "B2"
+    ],
+    "synonyms": [
+      "typisch",
+      "charakteristisch"
+    ],
+    "antonyms": [
+      "untypisch",
+      "nicht repräsentativ"
+    ]
+  },
+  {
+    "word": "reservieren",
+    "lemma": "reservieren",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "预订",
+        "en": "reserve"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich möchte einen Tisch für zwei Personen reservieren.",
+        "zh": "我想预订一张两人桌。"
+      },
+      {
+        "de": "Hast du schon ein Hotelzimmer reserviert?",
+        "zh": "你已经预订了酒店房间吗？"
+      }
+    ],
+    "collocations": [
+      "einen Tisch reservieren",
+      "ein Zimmer reservieren"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "reserviert"
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "旅行",
+      "B1"
+    ],
+    "synonyms": [
+      "buchen",
+      "vorbestellen"
+    ],
+    "antonyms": [
+      "stornieren",
+      "kündigen"
+    ]
+  },
+  {
+    "word": "Respekt",
+    "lemma": "Respekt",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "尊重",
+        "en": "respect"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Man sollte Respekt vor älteren Menschen haben.",
+        "zh": "人们应该尊重老年人。"
+      },
+      {
+        "de": "Er hat großen Respekt vor seiner Lehrerin.",
+        "zh": "他非常尊重他的女老师。"
+      }
+    ],
+    "collocations": [
+      "Respekt haben",
+      "Respekt zeigen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "Achtung",
+      "Ehrfurcht"
+    ],
+    "antonyms": [
+      "Missachtung",
+      "Geringschätzung"
+    ]
+  },
+  {
+    "word": "Restmüll",
+    "lemma": "Restmüll",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "残余垃圾",
+        "en": "residual waste"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Restmüll wird jede Woche abgeholt.",
+        "zh": "残余垃圾每周被收走。"
+      },
+      {
+        "de": "Bitte werfen Sie den Restmüll in die graue Tonne.",
+        "zh": "请将残余垃圾扔进灰色垃圾桶。"
+      }
+    ],
+    "collocations": [
+      "Restmüll entsorgen",
+      "Restmülltonne"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "环境",
+      "生活",
+      "B1"
+    ],
+    "synonyms": [
+      "Abfall",
+      "Müll"
+    ],
+    "antonyms": [
+      "Recyclingmüll",
+      "Biomüll"
+    ]
+  },
+  {
+    "word": "Rock",
+    "lemma": "Rock",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Röcke",
+    "meaning": [
+      {
+        "zh": "裙子",
+        "en": "skirt"
+      },
+      {
+        "zh": "摇滚乐",
+        "en": "rock music"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie trägt einen langen Rock.",
+        "zh": "她穿着一条长裙。"
+      },
+      {
+        "de": "Rock ist eine beliebte Musikrichtung.",
+        "zh": "摇滚乐是一种流行的音乐类型。"
+      }
+    ],
+    "collocations": [
+      "einen Rock tragen",
+      "Rockmusik hören"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "服装",
+      "音乐",
+      "A2"
+    ],
+    "synonyms": [
+      "Kleid (für Kleidung)",
+      "Rockmusik (für Musik)"
+    ],
+    "antonyms": [
+      "Hose (für Kleidung)",
+      "Klassik (für Musik)"
+    ]
+  },
+  {
+    "word": "röhrenförmig",
+    "lemma": "röhrenförmig",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "管状的",
+        "en": "tubular"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Gerät hat eine röhrenförmige Struktur.",
+        "zh": "这个设备有一个管状结构。"
+      },
+      {
+        "de": "Die Pflanze hat röhrenförmige Blüten.",
+        "zh": "这种植物有管状花。"
+      }
+    ],
+    "collocations": [
+      "röhrenförmige Struktur",
+      "röhrenförmige Blüte"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "科技",
+      "描述",
+      "B2"
+    ],
+    "synonyms": [
+      "zylindrisch",
+      "tubulär"
+    ],
+    "antonyms": [
+      "flach",
+      "kugelförmig"
+    ]
+  },
+  {
+    "word": "Rohstoff",
+    "lemma": "Rohstoff",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Rohstoffe",
+    "meaning": [
+      {
+        "zh": "原材料",
+        "en": "raw material"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Industrie benötigt viele Rohstoffe für die Produktion.",
+        "zh": "工业需要大量原材料进行生产。"
+      },
+      {
+        "de": "Erdöl ist ein wichtiger Rohstoff.",
+        "zh": "石油是一种重要的原材料。"
+      }
+    ],
+    "collocations": [
+      "natürliche Rohstoffe",
+      "Rohstoffe abbauen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "经济",
+      "工业",
+      "B1"
+    ],
+    "synonyms": [
+      "Grundstoff"
+    ],
+    "antonyms": [
+      "Fertigprodukt"
+    ]
+  },
+  {
+    "word": "romantisch",
+    "lemma": "romantisch",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "浪漫的",
+        "en": "romantic"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie machte einen romantischen Spaziergang im Park.",
+        "zh": "她在公园里进行了一次浪漫的散步。"
+      },
+      {
+        "de": "Der Film war sehr romantisch.",
+        "zh": "这部电影非常浪漫。"
+      }
+    ],
+    "collocations": [
+      "romantische Musik",
+      "romantische Stimmung"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "gefühlsbetont"
+    ],
+    "antonyms": [
+      "nüchtern"
+    ]
+  },
+  {
+    "word": "Ruder",
+    "lemma": "Ruder",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Ruder",
+    "meaning": [
+      {
+        "zh": "舵；桨",
+        "en": "rudder; oar"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Kapitän stand am Ruder.",
+        "zh": "船长站在舵旁。"
+      },
+      {
+        "de": "Er nahm das Ruder in die Hand.",
+        "zh": "他握住了桨。"
+      }
+    ],
+    "collocations": [
+      "am Ruder sein",
+      "das Ruder übernehmen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "交通",
+      "航海",
+      "B1"
+    ],
+    "synonyms": [
+      "Steuer"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "rund",
+    "lemma": "rund",
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "圆的；大约",
+        "en": "round; approximately"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Tisch ist rund.",
+        "zh": "这张桌子是圆的。"
+      },
+      {
+        "de": "Es waren rund 100 Gäste da.",
+        "zh": "大约有100位客人到场。"
+      }
+    ],
+    "collocations": [
+      "rund um die Uhr",
+      "rund laufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "形状",
+      "数量",
+      "A2"
+    ],
+    "synonyms": [
+      "kreisförmig",
+      "etwa"
+    ],
+    "antonyms": [
+      "eckig"
+    ]
+  },
+  {
+    "word": "Sack",
+    "lemma": "Sack",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Säcke",
+    "meaning": [
+      {
+        "zh": "袋子；麻袋",
+        "en": "sack; bag"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er trug einen schweren Sack Kartoffeln.",
+        "zh": "他扛着一袋沉重的土豆。"
+      },
+      {
+        "de": "Der Sack ist gerissen.",
+        "zh": "袋子破了。"
+      }
+    ],
+    "collocations": [
+      "einen Sack tragen",
+      "Sack voll Geld"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "物品",
+      "B1"
+    ],
+    "synonyms": [
+      "Beutel"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "derdas",
+    "lemma": "derdas",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "derdasse",
+    "meaning": [
+      {
+        "zh": "（虚构词，无实际意义）",
+        "en": "(fictional word, no real meaning)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Wort 'derdas' ist nicht gebräuchlich.",
+        "zh": "单词'derdas'并不常用。"
+      },
+      {
+        "de": "In der deutschen Sprache gibt es kein 'derdas'.",
+        "zh": "在德语中没有'derdas'这个词。"
+      }
+    ],
+    "collocations": [],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "虚构",
+      "A1"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "Salz",
+    "lemma": "Salz",
+    "pos": [
+      "noun"
+    ],
+    "gender": "das",
+    "plural": "Salze",
+    "meaning": [
+      {
+        "zh": "盐",
+        "en": "salt"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Bitte gib mir das Salz.",
+        "zh": "请把盐递给我。"
+      },
+      {
+        "de": "Das Essen ist zu salzig, es wurde zu viel Salz verwendet.",
+        "zh": "食物太咸了，用了太多盐。"
+      }
+    ],
+    "collocations": [
+      "Salz und Pfeffer",
+      "eine Prise Salz"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A1",
+    "tags": [
+      "食物",
+      "生活",
+      "A1"
+    ],
+    "synonyms": [
+      "Kochsalz"
+    ],
+    "antonyms": [
+      "Zucker"
+    ]
+  },
+  {
+    "word": "Sandburg",
+    "lemma": "Sandburg",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Sandburgen",
+    "meaning": [
+      {
+        "zh": "沙堡",
+        "en": "sandcastle"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Kinder bauten eine große Sandburg am Strand.",
+        "zh": "孩子们在海滩上建了一座大沙堡。"
+      },
+      {
+        "de": "Die Sandburg wurde von der Flut weggespült.",
+        "zh": "沙堡被潮水冲走了。"
+      }
+    ],
+    "collocations": [
+      "eine Sandburg bauen",
+      "Sandburg am Strand"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "娱乐",
+      "自然",
+      "A2"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "word": "satt",
+    "lemma": "satt",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "饱的",
+        "en": "full, satiated"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Nach dem Essen bin ich satt.",
+        "zh": "吃完饭后我饱了。"
+      },
+      {
+        "de": "Ich habe mich satt gegessen.",
+        "zh": "我吃饱了。"
+      }
+    ],
+    "collocations": [
+      "satt sein",
+      "sich satt essen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "情感",
+      "生活",
+      "A2"
+    ],
+    "synonyms": [
+      "gesättigt",
+      "voll"
+    ],
+    "antonyms": [
+      "hungrig"
+    ]
+  },
+  {
+    "word": "Säugling",
+    "lemma": "Säugling",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Säuglinge",
+    "meaning": [
+      {
+        "zh": "婴儿",
+        "en": "infant, baby"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Säugling schläft friedlich.",
+        "zh": "婴儿安静地睡着。"
+      },
+      {
+        "de": "Sie kümmert sich um den Säugling.",
+        "zh": "她照顾婴儿。"
+      }
+    ],
+    "collocations": [
+      "einen Säugling füttern",
+      "Säuglingspflege"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "医疗",
+      "B1"
+    ],
+    "synonyms": [
+      "Baby",
+      "Neugeborenes"
+    ],
+    "antonyms": [
+      "Erwachsener"
+    ]
+  },
+  {
+    "word": "Saum",
+    "lemma": "Saum",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Säume",
+    "meaning": [
+      {
+        "zh": "边缘；缝边",
+        "en": "hem, edge, border"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Saum des Kleides ist eingerissen.",
+        "zh": "裙子的缝边撕裂了。"
+      },
+      {
+        "de": "Sie näht den Saum der Hose.",
+        "zh": "她缝裤子的边。"
+      }
+    ],
+    "collocations": [
+      "den Saum nähen",
+      "am Saum des Waldes"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "生活",
+      "手工",
+      "B2"
+    ],
+    "synonyms": [
+      "Rand",
+      "Kante"
+    ],
+    "antonyms": [
+      "Mitte"
+    ]
+  },
+  {
+    "word": "Schal",
+    "lemma": "Schal",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Schals",
+    "meaning": [
+      {
+        "zh": "围巾",
+        "en": "scarf"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Winter trägt sie einen warmen Schal.",
+        "zh": "冬天她戴一条温暖的围巾。"
+      },
+      {
+        "de": "Er hat seinen Schal im Bus vergessen.",
+        "zh": "他把围巾忘在公交车上了。"
+      }
+    ],
+    "collocations": [
+      "einen Schal tragen",
+      "den Schal umbinden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "衣物",
+      "A2"
+    ],
+    "synonyms": [
+      "Halstuch"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "schätzen",
+    "lemma": "schätzen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "估计；珍惜",
+        "en": "to estimate, to appreciate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich schätze die Entfernung auf etwa fünf Kilometer.",
+        "zh": "我估计距离大约五公里。"
+      },
+      {
+        "de": "Sie schätzt seine Hilfe sehr.",
+        "zh": "她非常珍惜他的帮助。"
+      }
+    ],
+    "collocations": [
+      "etwas auf ... schätzen",
+      "jemanden schätzen"
+    ],
+    "grammar": {
+      "case": "Akkusativ",
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geschätzt"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "einschätzen",
+      "wertschätzen"
+    ],
+    "antonyms": [
+      "unterschätzen",
+      "verachten"
+    ]
+  },
+  {
+    "word": "Schauspielerin",
+    "lemma": "Schauspielerin",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Schauspielerinnen",
+    "meaning": [
+      {
+        "zh": "女演员",
+        "en": "actress"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Schauspielerin gewann einen Preis.",
+        "zh": "这位女演员赢得了一个奖项。"
+      },
+      {
+        "de": "Sie ist eine bekannte Schauspielerin.",
+        "zh": "她是一位知名的女演员。"
+      }
+    ],
+    "collocations": [
+      "als Schauspielerin arbeiten",
+      "eine berühmte Schauspielerin"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "社会",
+      "文化",
+      "A2"
+    ],
+    "synonyms": [
+      "Darstellerin",
+      "Mimin"
+    ],
+    "antonyms": [
+      "Schauspieler"
+    ]
+  },
+  {
+    "word": "Schein",
+    "lemma": "Schein",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Scheine",
+    "meaning": [
+      {
+        "zh": "钞票；光芒；假象",
+        "en": "banknote, light, appearance"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er bezahlte mit einem 20-Euro-Schein.",
+        "zh": "他用一张20欧元钞票付款。"
+      },
+      {
+        "de": "Der Schein der Sonne blendet mich.",
+        "zh": "太阳的光芒让我眼花。"
+      }
+    ],
+    "collocations": [
+      "einen Schein wechseln",
+      "der Schein trügt"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "生活",
+      "经济",
+      "B1"
+    ],
+    "synonyms": [
+      "Geldschein",
+      "Lichtschein"
+    ],
+    "antonyms": [
+      "Münze",
+      "Dunkelheit"
+    ]
+  },
+  {
+    "word": "scheitern",
+    "lemma": "scheitern",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "失败",
+        "en": "to fail"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Das Projekt ist an der Finanzierung gescheitert.",
+        "zh": "这个项目因资金问题失败了。"
+      },
+      {
+        "de": "Er scheiterte bei der Prüfung.",
+        "zh": "他考试失败了。"
+      }
+    ],
+    "collocations": [
+      "an etwas scheitern",
+      "scheitern mit etwas"
+    ],
+    "grammar": {
+      "case": "Dativ",
+      "separable": false,
+      "auxiliary": "sein",
+      "partizip2": "gescheitert"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "社会",
+      "B1"
+    ],
+    "synonyms": [
+      "misslingen",
+      "fehlschlagen"
+    ],
+    "antonyms": [
+      "gelingen",
+      "erfolgreich sein"
+    ]
+  },
+  {
+    "word": "schimpfen",
+    "lemma": "schimpfen",
+    "pos": [
+      "verb"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "责骂，骂人",
+        "en": "to scold, to curse"
+      },
+      {
+        "zh": "抱怨",
+        "en": "to complain"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Mutter schimpft mit ihrem Sohn wegen der schlechten Note.",
+        "zh": "母亲因为成绩不好责骂她的儿子。"
+      },
+      {
+        "de": "Er schimpft über das schlechte Wetter.",
+        "zh": "他抱怨糟糕的天气。"
+      }
+    ],
+    "collocations": [
+      "mit jemandem schimpfen",
+      "über etwas schimpfen",
+      "laut schimpfen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": false,
+      "auxiliary": "haben",
+      "partizip2": "geschimpft"
+    },
+    "level": "B1",
+    "tags": [
+      "情感",
+      "日常交流",
+      "B1"
+    ],
+    "synonyms": [
+      "fluchen",
+      "meckern",
+      "nörgeln"
+    ],
+    "antonyms": [
+      "loben",
+      "schweigen"
+    ]
+  },
+  {
+    "word": "Schlag",
+    "lemma": "Schlag",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Schläge",
+    "meaning": [
+      {
+        "zh": "击打，打击",
+        "en": "blow, hit"
+      },
+      {
+        "zh": "中风",
+        "en": "stroke"
+      },
+      {
+        "zh": "（音乐）节拍",
+        "en": "beat"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Er bekam einen heftigen Schlag auf den Kopf.",
+        "zh": "他的头部受到了重重一击。"
+      },
+      {
+        "de": "Der Schlaganfall hat ihn schwer getroffen.",
+        "zh": "中风严重地打击了他。"
+      }
+    ],
+    "collocations": [
+      "ein Schlag ins Gesicht",
+      "Schlag auf Schlag",
+      "einen Schlag erleiden"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "身体",
+      "医学",
+      "日常",
+      "B1"
+    ],
+    "synonyms": [
+      "Hieb",
+      "Stoß",
+      "Treffer"
+    ],
+    "antonyms": [
+      "Streicheln",
+      "Berührung"
+    ]
+  },
+  {
+    "word": "schlicht",
+    "lemma": "schlicht",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "简单的，朴素的",
+        "en": "simple, plain"
+      },
+      {
+        "zh": "单纯的，纯粹的",
+        "en": "sheer, mere"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie trug ein schlichtes Kleid.",
+        "zh": "她穿了一件朴素的连衣裙。"
+      },
+      {
+        "de": "Das ist schlicht unmöglich.",
+        "zh": "这纯粹是不可能的。"
+      }
+    ],
+    "collocations": [
+      "schlicht und einfach",
+      "schlichte Eleganz",
+      "schlichte Wahrheit"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "描述",
+      "风格",
+      "B2"
+    ],
+    "synonyms": [
+      "einfach",
+      "bescheiden",
+      "pur"
+    ],
+    "antonyms": [
+      "aufwendig",
+      "kompliziert",
+      "prunkvoll"
+    ]
+  },
+  {
+    "word": "Schlittschuh",
+    "lemma": "Schlittschuh",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Schlittschuhe",
+    "meaning": [
+      {
+        "zh": "溜冰鞋",
+        "en": "ice skate"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Im Winter fahren viele Kinder Schlittschuh auf dem zugefrorenen See.",
+        "zh": "冬天很多孩子在结冰的湖上溜冰。"
+      },
+      {
+        "de": "Sie hat sich neue Schlittschuhe gekauft.",
+        "zh": "她买了新的溜冰鞋。"
+      }
+    ],
+    "collocations": [
+      "Schlittschuh laufen",
+      "Schlittschuhe anziehen",
+      "Schlittschuh fahren"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "运动",
+      "冬季",
+      "A2"
+    ],
+    "synonyms": [
+      "Eislaufschuh"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "Schlitz",
+    "lemma": "Schlitz",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Schlitze",
+    "meaning": [
+      {
+        "zh": "狭缝，开口",
+        "en": "slot, slit"
+      },
+      {
+        "zh": "（衣服的）开衩",
+        "en": "slit (in clothing)"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Briefkasten hat einen schmalen Schlitz für die Post.",
+        "zh": "信箱有一个窄缝用来投信。"
+      },
+      {
+        "de": "Der Rock hat einen seitlichen Schlitz.",
+        "zh": "这条裙子侧面有一个开衩。"
+      }
+    ],
+    "collocations": [
+      "einen Schlitz machen",
+      "durch den Schlitz sehen",
+      "Schlitz im Rock"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B1",
+    "tags": [
+      "日常",
+      "物品",
+      "B1"
+    ],
+    "synonyms": [
+      "Spalt",
+      "Öffnung",
+      "Ritze"
+    ],
+    "antonyms": [
+      "Verschluss",
+      "Abdichtung"
+    ]
+  },
+  {
+    "word": "Schlüsselfaktor",
+    "lemma": "Schlüsselfaktor",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": "Schlüsselfaktoren",
+    "meaning": [
+      {
+        "zh": "关键因素",
+        "en": "key factor"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Der Preis ist ein Schlüsselfaktor für den Erfolg des Produkts.",
+        "zh": "价格是产品成功的关键因素。"
+      },
+      {
+        "de": "Die Teamarbeit gilt als Schlüsselfaktor in diesem Projekt.",
+        "zh": "团队合作被视为这个项目中的关键因素。"
+      }
+    ],
+    "collocations": [
+      "ein Schlüsselfaktor sein",
+      "Schlüsselfaktor für etwas",
+      "entscheidender Schlüsselfaktor"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "B2",
+    "tags": [
+      "商业",
+      "分析",
+      "B2"
+    ],
+    "synonyms": [
+      "Hauptfaktor",
+      "entscheidender Faktor",
+      "Kernelement"
+    ],
+    "antonyms": [
+      "Nebenfaktor",
+      "unwichtiger Faktor"
+    ]
+  },
+  {
+    "word": "schmal",
+    "lemma": "schmal",
+    "pos": [
+      "adjective"
+    ],
+    "gender": null,
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "狭窄的",
+        "en": "narrow"
+      },
+      {
+        "zh": "瘦削的",
+        "en": "slim, slender"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Die Gasse ist sehr schmal.",
+        "zh": "这条小巷非常狭窄。"
+      },
+      {
+        "de": "Sie hat ein schmales Gesicht.",
+        "zh": "她有一张瘦削的脸。"
+      }
+    ],
+    "collocations": [
+      "schmaler Weg",
+      "schmale Schultern",
+      "schmaler Grat"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "描述",
+      "空间",
+      "A2"
+    ],
+    "synonyms": [
+      "eng",
+      "dünn",
+      "schlank"
+    ],
+    "antonyms": [
+      "breit",
+      "weit",
+      "dick"
+    ]
+  },
+  {
+    "word": "Schmuck",
+    "lemma": "Schmuck",
+    "pos": [
+      "noun"
+    ],
+    "gender": "der",
+    "plural": null,
+    "meaning": [
+      {
+        "zh": "首饰，珠宝",
+        "en": "jewelry"
+      },
+      {
+        "zh": "装饰",
+        "en": "decoration"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Sie trägt teuren Schmuck.",
+        "zh": "她戴着昂贵的首饰。"
+      },
+      {
+        "de": "Der Weihnachtsbaum ist mit buntem Schmuck behangen.",
+        "zh": "圣诞树上挂满了彩色的装饰。"
+      }
+    ],
+    "collocations": [
+      "Schmuck tragen",
+      "goldener Schmuck",
+      "Schmuck kaufen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "时尚",
+      "物品",
+      "A2"
+    ],
+    "synonyms": [
+      "Juwelen",
+      "Ornamente",
+      "Zierde"
+    ],
+    "antonyms": [
+      "Schlichtheit",
+      "Einfachheit"
+    ]
+  },
+  {
+    "word": "Schublade",
+    "lemma": "Schublade",
+    "pos": [
+      "noun"
+    ],
+    "gender": "die",
+    "plural": "Schubladen",
+    "meaning": [
+      {
+        "zh": "抽屉",
+        "en": "drawer"
+      }
+    ],
+    "examples": [
+      {
+        "de": "Ich habe die Schlüssel in die oberste Schublade gelegt.",
+        "zh": "我把钥匙放在最上面的抽屉里了。"
+      },
+      {
+        "de": "In der Schublade findest du Briefe und Stifte.",
+        "zh": "在抽屉里你能找到信和笔。"
+      }
+    ],
+    "collocations": [
+      "eine Schublade aufziehen",
+      "in der Schublade liegen"
+    ],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": "A2",
+    "tags": [
+      "生活",
+      "家具",
+      "A2"
+    ],
+    "synonyms": [
+      "Lade"
+    ],
+    "antonyms": []
+  },
+  {
+    "word": "AAAT",
+    "lemma": "AAAT",
+    "pos": [],
+    "gender": null,
+    "plural": null,
+    "meaning": [],
+    "examples": [],
+    "collocations": [],
+    "grammar": {
+      "case": null,
+      "separable": null,
+      "auxiliary": null,
+      "partizip2": null
+    },
+    "level": null,
+    "tags": [],
+    "synonyms": [],
+    "antonyms": []
+  }
+]
