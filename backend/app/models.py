@@ -58,6 +58,26 @@ class VocabularyEntry(Base):
         cascade="all, delete-orphan",
         order_by="EntryImage.created_at.desc()",
     )
+    mastery: Mapped["WordMastery | None"] = relationship(
+        back_populates="entry",
+        cascade="all, delete-orphan",
+        uselist=False,
+    )
+    mastery_events: Mapped[list["WordMasteryEvent"]] = relationship(
+        back_populates="entry",
+        cascade="all, delete-orphan",
+        order_by="WordMasteryEvent.created_at.desc()",
+    )
+    gender_quiz_stats: Mapped["NounGenderStat | None"] = relationship(
+        back_populates="entry",
+        cascade="all, delete-orphan",
+        uselist=False,
+    )
+    gender_quiz_events: Mapped[list["NounGenderEvent"]] = relationship(
+        back_populates="entry",
+        cascade="all, delete-orphan",
+        order_by="NounGenderEvent.created_at.desc()",
+    )
 
 
 class Meaning(Base):
@@ -167,6 +187,122 @@ class WordFrequency(Base):
     updated_at: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
 
     entry: Mapped["VocabularyEntry"] = relationship()
+
+
+class WordMasteryEvent(Base):
+    __tablename__ = "word_mastery_events"
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True)
+    word_id: Mapped[int] = mapped_column(ForeignKey("vocabulary_entries.id", ondelete="CASCADE"), index=True)
+    rating: Mapped[str] = mapped_column(String(32), index=True)
+    score_delta: Mapped[int] = mapped_column(Integer)
+    source: Mapped[str] = mapped_column(String(64), default="detail_self_review", index=True)
+    created_at: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow, index=True)
+
+    entry: Mapped["VocabularyEntry"] = relationship(back_populates="mastery_events")
+
+
+class WordMastery(Base):
+    __tablename__ = "word_mastery"
+
+    word_id: Mapped[int] = mapped_column(ForeignKey("vocabulary_entries.id", ondelete="CASCADE"), primary_key=True)
+    current_score: Mapped[int] = mapped_column(Integer, default=0)
+    current_level: Mapped[str] = mapped_column(String(32), default="new / weak", index=True)
+    last_rating: Mapped[str | None] = mapped_column(String(32), nullable=True)
+    last_reviewed_at: Mapped[datetime | None] = mapped_column(DateTime, nullable=True, index=True)
+    review_count: Mapped[int] = mapped_column(Integer, default=0)
+    updated_at: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
+
+    entry: Mapped["VocabularyEntry"] = relationship(back_populates="mastery")
+
+
+class NounGenderStat(Base):
+    __tablename__ = "noun_gender_stats"
+
+    entry_id: Mapped[int] = mapped_column(ForeignKey("vocabulary_entries.id", ondelete="CASCADE"), primary_key=True)
+    seen_count: Mapped[int] = mapped_column(Integer, default=0)
+    correct_count: Mapped[int] = mapped_column(Integer, default=0)
+    wrong_count: Mapped[int] = mapped_column(Integer, default=0)
+    current_streak: Mapped[int] = mapped_column(Integer, default=0)
+    wrong_streak: Mapped[int] = mapped_column(Integer, default=0)
+    last_answered_at: Mapped[datetime | None] = mapped_column(DateTime, nullable=True, index=True)
+    last_wrong_at: Mapped[datetime | None] = mapped_column(DateTime, nullable=True, index=True)
+    next_due_at: Mapped[datetime | None] = mapped_column(DateTime, nullable=True, index=True)
+    updated_at: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
+
+    entry: Mapped["VocabularyEntry"] = relationship(back_populates="gender_quiz_stats")
+
+
+class NounGenderEvent(Base):
+    __tablename__ = "noun_gender_events"
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True)
+    entry_id: Mapped[int] = mapped_column(ForeignKey("vocabulary_entries.id", ondelete="CASCADE"), index=True)
+    prompt_article: Mapped[str | None] = mapped_column(String(32), nullable=True)
+    chosen_article: Mapped[str] = mapped_column(String(32), index=True)
+    correct_article: Mapped[str] = mapped_column(String(32), index=True)
+    is_correct: Mapped[int] = mapped_column(Integer, default=0, index=True)
+    response_ms: Mapped[int | None] = mapped_column(Integer, nullable=True)
+    source: Mapped[str] = mapped_column(String(64), default="gender_quiz", index=True)
+    created_at: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow, index=True)
+
+    entry: Mapped["VocabularyEntry"] = relationship(back_populates="gender_quiz_events")
+
+
+class ReadingBook(Base):
+    __tablename__ = "reading_books"
+    __table_args__ = (UniqueConstraint("file_path", name="uq_reading_book_file_path"),)
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True)
+    title: Mapped[str] = mapped_column(String(255), index=True)
+    file_path: Mapped[str] = mapped_column(String(1024))
+    page_count: Mapped[int] = mapped_column(Integer, default=0)
+    status: Mapped[str] = mapped_column(String(32), default="ready", index=True)
+    created_at: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow)
+    updated_at: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
+
+    pages: Mapped[list["ReadingPage"]] = relationship(
+        back_populates="book",
+        cascade="all, delete-orphan",
+        order_by="ReadingPage.page_number",
+    )
+
+
+class ReadingPage(Base):
+    __tablename__ = "reading_pages"
+    __table_args__ = (UniqueConstraint("book_id", "page_number", name="uq_reading_page_book_number"),)
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True)
+    book_id: Mapped[int] = mapped_column(ForeignKey("reading_books.id", ondelete="CASCADE"), index=True)
+    page_number: Mapped[int] = mapped_column(Integer, index=True)
+    image_path: Mapped[str | None] = mapped_column(String(512), nullable=True)
+    ocr_text: Mapped[str | None] = mapped_column(Text, nullable=True)
+    translation_zh: Mapped[str | None] = mapped_column(Text, nullable=True)
+    keywords: Mapped[list] = mapped_column(JSON, default=list)
+    grammar_notes: Mapped[str | None] = mapped_column(Text, nullable=True)
+    notes: Mapped[str | None] = mapped_column(Text, nullable=True)
+    status: Mapped[str] = mapped_column(String(32), default="new", index=True)
+    created_at: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow)
+    updated_at: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
+
+    book: Mapped["ReadingBook"] = relationship(back_populates="pages")
+    messages: Mapped[list["ReadingPageMessage"]] = relationship(
+        back_populates="page",
+        cascade="all, delete-orphan",
+        order_by="ReadingPageMessage.created_at",
+    )
+
+
+class ReadingPageMessage(Base):
+    __tablename__ = "reading_page_messages"
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True)
+    page_id: Mapped[int] = mapped_column(ForeignKey("reading_pages.id", ondelete="CASCADE"), index=True)
+    role: Mapped[str] = mapped_column(String(32))
+    content: Mapped[str] = mapped_column(Text)
+    created_at: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow)
+
+    page: Mapped["ReadingPage"] = relationship(back_populates="messages")
 
 
 class IrregularVerb(Base):

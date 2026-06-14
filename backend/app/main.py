@@ -6,11 +6,13 @@ import json
 import os
 import re
 import shutil
+import subprocess
 import time
 import urllib.error
 import urllib.parse
 import urllib.request
 import random
+from datetime import datetime
 from difflib import SequenceMatcher
 from pathlib import Path
 from threading import Lock, Thread
@@ -25,21 +27,37 @@ from sqlalchemy.orm import Session, selectinload
 from pydantic import ValidationError
 
 from .db import Base, SessionLocal, engine, get_session
-from .models import Collocation, EntryForm, EntryImage, EntrySimilarity, EntryTag, ExampleSentence, IrregularVerb, Meaning, VocabularyEntry, WordFrequency
+from .models import Collocation, EntryForm, EntryImage, EntrySimilarity, EntryTag, ExampleSentence, IrregularVerb, Meaning, ReadingBook, ReadingPage, ReadingPageMessage, VocabularyEntry, WordFrequency, WordMastery, WordMasteryEvent
+from .routers.noun_gender import router as noun_gender_router
+from .serializers import entry_image_url, entry_query, serialize_entry, serialize_frequency, serialize_mastery, serialize_mastery_event
 
 from .schemas import (
     EntryCreate,
     EntryDraftRequest,
+    FormPayload,
+    TagPayload,
     EntryImageCandidate,
     EntryImageSelectRequest,
     EntryListResponse,
+    EntryNotesUpdate,
+    EntryResolveRequest,
+    EntryResolveResponse,
     EntryResponse,
     EntryUpdate,
     ImportResult,
     IrregularVerbListResponse,
     IrregularVerbQuizItem,
     IrregularVerbResponse,
+    ReadingBookResponse,
+    ReadingMessageResponse,
+    ReadingPageAskRequest,
+    ReadingPageAskResponse,
+    ReadingPageNotesUpdate,
+    ReadingPageTextUpdate,
+    ReadingPageResponse,
     SimilarEntryResponse,
+    WordMasteryReviewRequest,
+    WordMasteryReviewResponse,
     WordFrequencyResponse,
 )
 
@@ -49,7 +67,18 @@ FRONTEND_DIR = BASE_DIR / "frontend"
 FRONTEND_DIST_DIR = FRONTEND_DIR / "dist"
 MEDIA_DIR = BASE_DIR / "public" / "media"
 ENTRY_IMAGE_DIR = MEDIA_DIR / "entry-images"
+BOOKS_DIR = BASE_DIR / "data" / "books"
+READING_PAGE_IMAGE_DIR = MEDIA_DIR / "reading-pages"
 ENTRY_IMAGE_DIR.mkdir(parents=True, exist_ok=True)
+READING_PAGE_IMAGE_DIR.mkdir(parents=True, exist_ok=True)
+
+
+MASTERY_RATING_DELTAS = {
+    "again": -2,
+    "hard": 1,
+    "easy": 3,
+    "simple": 5,
+}
 
 
 def load_env_file(path: Path) -> None:
@@ -79,6 +108,7 @@ app.add_middleware(
 if (FRONTEND_DIST_DIR / "assets").exists():
     app.mount("/assets", StaticFiles(directory=FRONTEND_DIST_DIR / "assets"), name="assets")
 app.mount("/media", StaticFiles(directory=MEDIA_DIR), name="media")
+app.include_router(noun_gender_router)
 
 
 TOKEN_RE = re.compile(r"[\w\u4e00-\u9fff]+", re.UNICODE)
@@ -146,10 +176,145 @@ FREQUENCY_IMPORTANCE_DIMENSIONS = [
     {"name": "重要性：低", "value": "2", "scores": [2]},
     {"name": "重要性：很低", "value": "very_low", "scores": [0, 1]},
 ]
-
-
 def normalize_lemma(value: str) -> str:
     return " ".join(value.strip().lower().split())
+
+
+def clean_surface_form(value: str) -> str:
+    cleaned = re.sub(r"^[\"'„“”‚‘’()\[\]{}<>«»]+|[\"'„“”‚‘’()\[\]{}<>«»,.;:!?]+$", "", value.strip())
+    cleaned = re.sub(r"\s+", " ", cleaned)
+    return cleaned
+
+
+def unique_values(values: Iterable[str]) -> list[str]:
+    seen = set()
+    result = []
+    for value in values:
+        cleaned = normalize_lemma(clean_surface_form(value))
+        if cleaned and cleaned not in seen:
+            seen.add(cleaned)
+            result.append(cleaned)
+    return result
+
+
+def german_surface_candidates(value: str) -> list[str]:
+    base = normalize_lemma(clean_surface_form(value))
+    if not base:
+        return []
+    candidates = [base]
+    if " " in base:
+        candidates.append(re.sub(r"^(der|die|das|den|dem|des|ein|eine|einen|einem|eines)\s+", "", base))
+
+    simple = candidates[-1]
+    suffix_replacements = [
+        ("test", "ten"),
+        ("tet", "ten"),
+        ("ten", "en"),
+        ("te", "en"),
+        ("est", "en"),
+        ("st", "en"),
+        ("et", "en"),
+        ("t", "en"),
+        ("ern", "er"),
+        ("en", ""),
+        ("ern", ""),
+        ("er", ""),
+        ("es", ""),
+        ("em", ""),
+        ("e", ""),
+        ("n", ""),
+        ("s", ""),
+    ]
+    for suffix, replacement in suffix_replacements:
+        if simple.endswith(suffix) and len(simple) > len(suffix) + 2:
+            stem = simple[: -len(suffix)]
+            candidates.append(stem + replacement)
+            if replacement == "":
+                candidates.append(stem + "en")
+    if simple.startswith("ge") and len(simple) > 5:
+        inner = simple[2:]
+        if inner.endswith("t") and len(inner) > 3:
+            candidates.append(inner[:-1] + "en")
+        if inner.endswith("en") and len(inner) > 4:
+            candidates.append(inner)
+
+    expanded = []
+    for candidate in candidates:
+        expanded.append(candidate)
+        expanded.append(fold_german_umlauts(candidate))
+        if "ä" in candidate:
+            expanded.append(candidate.replace("ä", "a"))
+        if "ö" in candidate:
+            expanded.append(candidate.replace("ö", "o"))
+        if "ü" in candidate:
+            expanded.append(candidate.replace("ü", "u"))
+    return unique_values(expanded)
+
+
+def find_entry_by_normalized_candidates(session: Session, candidates: list[str]) -> VocabularyEntry | None:
+    candidates = unique_values(candidates)
+    if not candidates:
+        return None
+    rows = session.scalars(entry_query().where(VocabularyEntry.normalized_lemma.in_(candidates))).unique().all()
+    by_normalized = {entry.normalized_lemma: entry for entry in rows}
+    for candidate in candidates:
+        if candidate in by_normalized:
+            return by_normalized[candidate]
+
+    folded_candidates = {fold_german_umlauts(candidate) for candidate in candidates}
+    if folded_candidates:
+        id_rows = session.execute(select(VocabularyEntry.id, VocabularyEntry.normalized_lemma)).all()
+        for entry_id, normalized in id_rows:
+            if fold_german_umlauts(normalized) in folded_candidates:
+                return session.scalars(entry_query().where(VocabularyEntry.id == entry_id)).first()
+    return None
+
+
+def resolve_existing_entry_from_surface(
+    session: Session,
+    value: str,
+) -> tuple[VocabularyEntry | None, str | None, str | None]:
+    surface = normalize_lemma(clean_surface_form(value))
+    if not surface:
+        return None, None, None
+
+    entry = find_entry_by_normalized_candidates(session, [surface])
+    if entry:
+        return entry, entry.lemma, "exact"
+
+    form_rows = session.execute(
+        select(EntryForm.entry_id, EntryForm.label)
+        .where(func.lower(EntryForm.value) == surface)
+        .limit(5)
+    ).all()
+    if form_rows:
+        entry = session.scalars(entry_query().where(VocabularyEntry.id == form_rows[0][0])).first()
+        if entry:
+            return entry, entry.lemma, f"form:{form_rows[0][1]}"
+
+    irregular = session.scalars(
+        select(IrregularVerb).where(
+            or_(
+                func.lower(IrregularVerb.infinitive) == surface,
+                func.lower(IrregularVerb.present) == surface,
+                func.lower(IrregularVerb.preterite) == surface,
+                func.lower(IrregularVerb.participle_ii) == surface,
+                func.lower(IrregularVerb.imperative) == surface,
+                func.lower(IrregularVerb.subjunctive_ii) == surface,
+            )
+        )
+    ).first()
+    if irregular:
+        entry = find_entry_by_normalized_candidates(session, [irregular.infinitive])
+        if entry:
+            return entry, irregular.infinitive, "irregular_verb"
+        return None, irregular.infinitive, "irregular_verb"
+
+    candidates = german_surface_candidates(surface)
+    entry = find_entry_by_normalized_candidates(session, candidates)
+    if entry:
+        return entry, entry.lemma, "suffix_guess"
+    return None, candidates[0] if candidates else surface, None
 
 
 def parse_frequency_importance_values(values: list[str]) -> list[int]:
@@ -202,23 +367,250 @@ def strip_markup(value: str | None) -> str | None:
     return text_value or None
 
 
-def entry_image_url(local_path: str) -> str:
-    if local_path.startswith("http://") or local_path.startswith("https://"):
-        return local_path
-    return f"/media/{local_path.lstrip('/')}"
+def mastery_level_for_score(score: int) -> str:
+    if score <= 0:
+        return "new / weak"
+    if score <= 5:
+        return "difficult"
+    if score <= 15:
+        return "familiar"
+    if score <= 30:
+        return "known"
+    return "stable"
 
 
-def serialize_frequency(freq: WordFrequency) -> dict:
-    return {
-        "q": freq.q,
-        "lemma": freq.lemma,
-        "frequency": freq.frequency,
-        "hits": freq.hits,
-        "total": freq.total,
-        "status": freq.status,
-        "attempt_count": freq.attempt_count,
-        "last_error": freq.last_error,
-    }
+def safe_reading_slug(value: str) -> str:
+    slug = re.sub(r"[^\w.-]+", "-", value, flags=re.UNICODE).strip("-")
+    return slug or "book"
+
+
+def pdf_page_count(path: Path) -> int:
+    try:
+        result = subprocess.run(
+            ["pdfinfo", str(path)],
+            check=True,
+            capture_output=True,
+            text=True,
+            timeout=20,
+        )
+    except Exception:
+        return 0
+    match = re.search(r"^Pages:\s+(\d+)", result.stdout, flags=re.MULTILINE)
+    return int(match.group(1)) if match else 0
+
+
+def ensure_reading_books(session: Session) -> None:
+    BOOKS_DIR.mkdir(parents=True, exist_ok=True)
+    for pdf_path in sorted(BOOKS_DIR.glob("*.pdf")):
+        relative_path = str(pdf_path.relative_to(BASE_DIR))
+        book = session.scalar(select(ReadingBook).where(ReadingBook.file_path == relative_path))
+        page_count = pdf_page_count(pdf_path)
+        if not book:
+            book = ReadingBook(
+                title=pdf_path.stem,
+                file_path=relative_path,
+                page_count=page_count,
+                status="ready" if page_count else "needs_check",
+            )
+            session.add(book)
+            session.flush()
+        else:
+            book.title = book.title or pdf_path.stem
+            book.page_count = page_count or book.page_count
+            book.status = "ready" if book.page_count else "needs_check"
+        existing_pages = {
+            row[0]
+            for row in session.execute(select(ReadingPage.page_number).where(ReadingPage.book_id == book.id)).all()
+        }
+        for page_number in range(1, (book.page_count or 0) + 1):
+            if page_number not in existing_pages:
+                session.add(ReadingPage(book_id=book.id, page_number=page_number, status="new"))
+    session.commit()
+
+
+def reading_book_path(book: ReadingBook) -> Path:
+    path = (BASE_DIR / book.file_path).resolve()
+    if not path.is_file() or BOOKS_DIR.resolve() not in path.parents:
+        raise HTTPException(status_code=404, detail="书籍文件不存在")
+    return path
+
+
+def reading_page_image_url(image_path: str | None) -> str | None:
+    if not image_path:
+        return None
+    return f"/media/{image_path.lstrip('/')}"
+
+
+def serialize_reading_message(message: ReadingPageMessage) -> ReadingMessageResponse:
+    return ReadingMessageResponse(
+        id=message.id,
+        page_id=message.page_id,
+        role=message.role,
+        content=message.content,
+        created_at=message.created_at.isoformat(),
+    )
+
+
+def serialize_reading_book(book: ReadingBook) -> ReadingBookResponse:
+    return ReadingBookResponse(
+        id=book.id,
+        title=book.title,
+        file_path=book.file_path,
+        page_count=book.page_count,
+        status=book.status,
+        created_at=book.created_at.isoformat() if book.created_at else None,
+        updated_at=book.updated_at.isoformat() if book.updated_at else None,
+    )
+
+
+def serialize_reading_page(page: ReadingPage) -> ReadingPageResponse:
+    return ReadingPageResponse(
+        id=page.id,
+        book_id=page.book_id,
+        page_number=page.page_number,
+        image_url=reading_page_image_url(page.image_path),
+        ocr_text=page.ocr_text,
+        translation_zh=page.translation_zh,
+        keywords=page.keywords or [],
+        grammar_notes=page.grammar_notes,
+        notes=page.notes,
+        status=page.status,
+        messages=[serialize_reading_message(message) for message in page.messages],
+    )
+
+
+def render_reading_page_image(book: ReadingBook, page: ReadingPage) -> str:
+    if page.image_path and (MEDIA_DIR / page.image_path).exists():
+        return page.image_path
+    pdf_path = reading_book_path(book)
+    book_dir = READING_PAGE_IMAGE_DIR / f"{book.id}-{safe_reading_slug(book.title)}"
+    book_dir.mkdir(parents=True, exist_ok=True)
+    output_prefix = book_dir / f"page-{page.page_number:03d}"
+    subprocess.run(
+        [
+            "pdftoppm",
+            "-f",
+            str(page.page_number),
+            "-l",
+            str(page.page_number),
+            "-singlefile",
+            "-r",
+            "220",
+            "-png",
+            str(pdf_path),
+            str(output_prefix),
+        ],
+        check=True,
+        capture_output=True,
+        text=True,
+        timeout=90,
+    )
+    image_file = output_prefix.with_suffix(".png")
+    relative_path = str(image_file.relative_to(MEDIA_DIR))
+    page.image_path = relative_path
+    return relative_path
+
+
+def extract_reading_page_text(book: ReadingBook, page: ReadingPage) -> str:
+    pdf_path = reading_book_path(book)
+    temp_text = Path("/private/tmp") / f"reading-page-{book.id}-{page.page_number}.txt"
+    try:
+        subprocess.run(
+            [
+                "pdftotext",
+                "-f",
+                str(page.page_number),
+                "-l",
+                str(page.page_number),
+                "-layout",
+                str(pdf_path),
+                str(temp_text),
+            ],
+            check=True,
+            capture_output=True,
+            text=True,
+            timeout=30,
+        )
+        text_value = temp_text.read_text(encoding="utf-8", errors="ignore").strip()
+        text_value = re.sub(r"\n{3,}", "\n\n", text_value)
+        if len(text_value) >= 80:
+            return text_value
+    except Exception:
+        pass
+
+    image_path = render_reading_page_image(book, page)
+    image_file = MEDIA_DIR / image_path
+    ocr_prefix = Path("/private/tmp") / f"reading-page-ocr-{book.id}-{page.page_number}"
+    subprocess.run(
+        ["tesseract", str(image_file), str(ocr_prefix), "-l", "deu+eng", "--psm", "6"],
+        check=True,
+        capture_output=True,
+        text=True,
+        timeout=120,
+    )
+    text_value = ocr_prefix.with_suffix(".txt").read_text(encoding="utf-8", errors="ignore").strip()
+    return re.sub(r"\n{3,}", "\n\n", text_value)
+
+
+def prepare_reading_page(session: Session, page: ReadingPage) -> ReadingPage:
+    book = session.get(ReadingBook, page.book_id)
+    if not book:
+        raise HTTPException(status_code=404, detail="书籍不存在")
+    render_reading_page_image(book, page)
+    if not page.ocr_text:
+        page.ocr_text = extract_reading_page_text(book, page)
+    page.status = "ocr_ready" if page.ocr_text else "image_ready"
+    session.add(page)
+    session.commit()
+    session.refresh(page)
+    return page
+
+
+def generate_reading_page_deepseek(page: ReadingPage) -> ReadingPage:
+    if not page.ocr_text:
+        raise HTTPException(status_code=400, detail="请先 OCR 当前页")
+    system_prompt = (
+        "你是严谨的德语精读老师。只返回 JSON，不要 Markdown。"
+        "字段必须是 translation_zh, keywords, grammar_notes。"
+        "translation_zh 必须是中德对照文本，不是纯中文整段翻译。"
+        "keywords 是数组，每项包含 term, meaning_zh, note。"
+    )
+    user_prompt = f"""
+请处理下面这一页德语阅读材料：
+
+页码: {page.page_number}
+
+德语原文/OCR:
+{page.ocr_text}
+
+要求：
+1. translation_zh 生成“中德对照”格式：保留德语标题/条目/句子，再紧跟对应中文译文。
+   - 如果是目录页，尽量按条目输出：德语条目 + 中文译文 + 页码。
+   - 短条目可放在同一行，例如：Vorwort  前言    5
+   - 长条目可分两行：先德语原文，下一行中文译文，再保留页码。
+   - 保留章节编号、页码、重要符号；不要把全页先德语后中文分成两大块。
+   - OCR 明显错误可轻微修正，但不要臆造原文没有的信息。
+2. keywords 选 8-18 个关键词/短语，解释中文含义和在本页中的用法。
+3. grammar_notes 用中文解释本页重要语法、句式、从句、时态或固定搭配。
+"""
+    try:
+        data = call_deepseek_json(system_prompt, user_prompt, max_tokens=3600, timeout=120)
+    except RuntimeError as exc:
+        raise HTTPException(status_code=503, detail=str(exc)) from exc
+    page.translation_zh = optional_text(data.get("translation_zh"))
+    keywords = data.get("keywords") if isinstance(data.get("keywords"), list) else []
+    page.keywords = [
+        {
+            "term": str(item.get("term", "")).strip(),
+            "meaning_zh": str(item.get("meaning_zh", "")).strip(),
+            "note": str(item.get("note", "")).strip(),
+        }
+        for item in keywords
+        if isinstance(item, dict) and str(item.get("term", "")).strip()
+    ]
+    page.grammar_notes = optional_text(data.get("grammar_notes"))
+    page.status = "deepseek_ready"
+    return page
 
 
 def clean_image_query(entry: VocabularyEntry) -> str:
@@ -434,6 +826,130 @@ def clean_tags(items) -> list[dict]:
     return cleaned
 
 
+def normalize_form_label(value: str | None) -> str:
+    return normalize_lemma(value or "").replace("-", "_").replace(" ", "_")
+
+
+def first_form_value(forms: list[FormPayload], labels: set[str]) -> str | None:
+    for item in forms:
+        if normalize_form_label(item.label) in labels and item.value.strip():
+            return item.value.strip()
+    return None
+
+
+def add_form_if_missing(forms: list[FormPayload], label: str, value: str | None, note: str | None = None) -> None:
+    value = optional_text(value)
+    if not value:
+        return
+    normalized_label = normalize_form_label(label)
+    for item in forms:
+        if normalize_form_label(item.label) == normalized_label:
+            if not item.value.strip():
+                item.value = value
+            return
+    forms.append(FormPayload(label=label, value=value, note=note))
+
+
+def add_tag_if_missing(tags: list[TagPayload], name: str, tag_type: str | None = None) -> None:
+    normalized_name = normalize_lemma(name)
+    if any(normalize_lemma(tag.name) == normalized_name for tag in tags):
+        return
+    tags.append(TagPayload(name=name, tag_type=tag_type))
+
+
+def present_3sg_from_irregular(value: str | None) -> str | None:
+    value = optional_text(value)
+    if not value:
+        return None
+    parts = [part.strip() for part in re.split(r"[,;/]", value) if part.strip()]
+    return parts[-1] if parts else value
+
+
+def perfect_3sg(auxiliary: str | None, participle: str | None) -> str | None:
+    participle = optional_text(participle)
+    if not participle:
+        return None
+    auxiliary = optional_text(auxiliary)
+    if not auxiliary:
+        return None
+    auxiliaries = [item.strip() for item in re.split(r"[/,;]", auxiliary) if item.strip()]
+    if not auxiliaries:
+        return None
+    finite_auxiliaries = []
+    for item in auxiliaries:
+        lower = item.lower()
+        if lower == "sein":
+            finite_auxiliaries.append("ist")
+        elif lower == "haben":
+            finite_auxiliaries.append("hat")
+        elif lower in {"ist", "hat"}:
+            finite_auxiliaries.append(lower)
+    if not finite_auxiliaries:
+        return None
+    return " / ".join(f"er/sie/es {aux} {participle}" for aux in finite_auxiliaries)
+
+
+def append_verb_conjugation_note(payload: EntryCreate) -> None:
+    present = first_form_value(
+        payload.forms,
+        {"present_3sg", "praesens_3sg", "präsens_3sg", "现在三单", "praesens", "präsens"},
+    )
+    preterite = first_form_value(
+        payload.forms,
+        {"preterite_3sg", "praeteritum_3sg", "präteritum_3sg", "past_3sg", "过去三单", "preterite", "past"},
+    )
+    perfect = first_form_value(payload.forms, {"perfect_3sg", "perfekt_3sg", "完成时三单", "perfect", "perfekt"})
+    if not any([present, preterite, perfect]):
+        return
+    conjugation_note = "动词变位："
+    parts = []
+    if present:
+        parts.append(f"现在三单 {present}")
+    if preterite:
+        parts.append(f"过去三单 {preterite}")
+    if perfect:
+        parts.append(f"完成时三单 {perfect}")
+    conjugation_note += "；".join(parts)
+    existing_lines = [
+        line
+        for line in (payload.notes or "").splitlines()
+        if not line.strip().startswith("动词变位：")
+    ]
+    existing_lines.append(conjugation_note)
+    payload.notes = "\n".join(line for line in existing_lines if line.strip())
+
+
+def enrich_verb_forms(payload: EntryCreate, session: Session) -> EntryCreate:
+    lemma = re.sub(r"^sich\s+", "", payload.lemma.strip(), flags=re.IGNORECASE)
+    irregular = session.scalar(select(IrregularVerb).where(func.lower(IrregularVerb.infinitive) == lemma.lower()))
+    is_verb = normalize_lemma(payload.part_of_speech or "") == "verb" or any(
+        normalize_lemma(tag.name) == "动词" for tag in payload.tags
+    )
+    if not is_verb and not irregular:
+        return payload
+
+    if irregular:
+        payload.part_of_speech = payload.part_of_speech or "verb"
+        add_tag_if_missing(payload.tags, "动词", "词性")
+        add_tag_if_missing(payload.tags, "不规则动词", "语法")
+        present = present_3sg_from_irregular(irregular.present)
+        preterite = irregular.preterite
+        participle = irregular.participle_ii
+        auxiliary = irregular.auxiliary
+        add_form_if_missing(payload.forms, "present_3sg", present, "现在三单")
+        add_form_if_missing(payload.forms, "preterite_3sg", preterite, "过去三单")
+        add_form_if_missing(payload.forms, "participle_ii", participle, "第二分词")
+        add_form_if_missing(payload.forms, "auxiliary", auxiliary, "完成时助动词")
+        add_form_if_missing(payload.forms, "perfect_3sg", perfect_3sg(auxiliary, participle), "完成时三单")
+    else:
+        participle = first_form_value(payload.forms, {"participle_ii", "partizip_ii", "partizip_2", "第二分词"})
+        auxiliary = first_form_value(payload.forms, {"auxiliary", "hilfsverb", "助动词"})
+        add_form_if_missing(payload.forms, "perfect_3sg", perfect_3sg(auxiliary, participle), "完成时三单")
+
+    append_verb_conjugation_note(payload)
+    return payload
+
+
 def normalize_deepseek_payload(lemma: str, data: dict) -> EntryCreate:
     forms = clean_forms(data.get("forms"))
     plural_form = data.get("plural_form")
@@ -498,12 +1014,22 @@ The JSON must match this shape:
   "tags": [{"name": "short-tag", "tag_type": null}]
 }
 Prefer common, learner-useful meanings. Include 2-4 meanings, 2-4 collocations, and 2 examples when possible.
+If the user input is an inflected form, plural, participle, tense form, declined adjective, or case form,
+normalize it first and put the dictionary lemma in "lemma".
+Examples: "ging" -> "gehen", "gegangen" -> "gehen", "Häusern" -> "Haus", "besseren" -> "besser".
+For verbs, always include these forms when known:
+- present_3sg: er/sie/es Präsens form
+- preterite_3sg: er/sie/es Präteritum form
+- participle_ii: Partizip II
+- auxiliary: haben or sein
+- perfect_3sg: er/sie/es hat/ist + Partizip II
+Also include a concise Chinese "动词变位：" line in notes for verbs.
 """
     body = {
         "model": DEEPSEEK_MODEL,
         "messages": [
             {"role": "system", "content": system_prompt},
-            {"role": "user", "content": f"为这个德语词条生成学习卡片草稿：{lemma}"},
+            {"role": "user", "content": f"为这个德语词条生成学习卡片草稿。输入可能是变形形式，请先还原为词典形：{lemma}"},
         ],
         "stream": False,
         "temperature": 0.2,
@@ -831,6 +1357,66 @@ def cjk_bigram_set(value: str | None) -> set[str]:
     return {"".join(chars[index : index + 2]) for index in range(len(chars) - 1)}
 
 
+def split_meaning_parts(value: str | None) -> list[str]:
+    if not value:
+        return []
+    parts = re.split(r"[/|;；,，、.。()（）\[\]【】]+", value)
+    return [normalize_similarity_text(part) for part in parts if normalize_similarity_text(part)]
+
+
+def zh_meaning_parts(entry: VocabularyEntry) -> list[str]:
+    parts = []
+    seen = set()
+    for meaning in entry.meanings:
+        if meaning.language != "zh":
+            continue
+        for part in split_meaning_parts(meaning.gloss):
+            cjk_len = len(cjk_char_set(part))
+            if cjk_len < 2 or part in seen:
+                continue
+            seen.add(part)
+            parts.append(part)
+    return parts
+
+
+def expanded_zh_meaning_parts(entry: VocabularyEntry) -> list[str]:
+    parts = []
+    seen = set()
+    for part in zh_meaning_parts(entry):
+        for term in expand_common_chinese_query_terms(part):
+            if len(cjk_char_set(term)) >= 2 and term not in seen:
+                seen.add(term)
+                parts.append(term)
+    return parts
+
+
+def chinese_phrase_similarity(left: str, right: str) -> float:
+    if not left or not right:
+        return 0.0
+    if left == right:
+        return 1.0
+    left_len = len(cjk_char_set(left))
+    right_len = len(cjk_char_set(right))
+    if min(left_len, right_len) >= 2 and (left in right or right in left):
+        return 0.92
+    bigram_score = jaccard(cjk_bigram_set(left), cjk_bigram_set(right))
+    char_score = jaccard(cjk_char_set(left), cjk_char_set(right))
+    ratio_score = SequenceMatcher(None, left, right).ratio()
+    return max(bigram_score, char_score * 0.62, ratio_score * 0.48)
+
+
+def zh_meaning_similarity_score(source: VocabularyEntry, target: VocabularyEntry) -> float:
+    source_parts = expanded_zh_meaning_parts(source)
+    target_parts = expanded_zh_meaning_parts(target)
+    if not source_parts or not target_parts:
+        return 0.0
+    return max(
+        chinese_phrase_similarity(source_part, target_part)
+        for source_part in source_parts
+        for target_part in target_parts
+    )
+
+
 def compact_query_terms(values: Iterable[str], limit: int = 12) -> list[str]:
     terms = []
     seen = set()
@@ -936,17 +1522,19 @@ def similarity_score(source: VocabularyEntry, target: VocabularyEntry) -> tuple[
     metadata_score = metadata_matches / 3
 
     text_score = jaccard(token_set(entry_similarity_text(source)), token_set(entry_similarity_text(target)))
+    zh_meaning_score = zh_meaning_similarity_score(source, target)
     collocation_score = jaccard(
         token_set(" ".join(item.phrase for item in source.collocations)),
         token_set(" ".join(item.phrase for item in target.collocations)),
     )
     score = (
-        0.25 * lemma_ratio
-        + 0.20 * prefix_score
-        + 0.15 * tag_score
-        + 0.10 * metadata_score
-        + 0.20 * text_score
-        + 0.10 * collocation_score
+        0.20 * lemma_ratio
+        + 0.15 * prefix_score
+        + 0.12 * tag_score
+        + 0.08 * metadata_score
+        + 0.12 * text_score
+        + 0.28 * zh_meaning_score
+        + 0.05 * collocation_score
     )
 
     reasons = []
@@ -958,7 +1546,9 @@ def similarity_score(source: VocabularyEntry, target: VocabularyEntry) -> tuple[
         reasons.append(f"同词性: {source.part_of_speech}")
     if source.cefr_level and source.cefr_level == target.cefr_level:
         reasons.append(f"同级别: {source.cefr_level}")
-    if text_score >= 0.12:
+    if zh_meaning_score >= 0.68:
+        reasons.append("中文释义相近")
+    elif text_score >= 0.12:
         reasons.append("释义或例句文本相近")
     if collocation_score >= 0.15:
         reasons.append("搭配相近")
@@ -993,6 +1583,10 @@ def search_result_score(query: str, entry: VocabularyEntry) -> float:
     token_overlap = jaccard(query_tokens, entry_tokens)
     lemma_ratio = SequenceMatcher(None, normalized_query, lemma).ratio()
     return max(token_overlap, lemma_ratio * 0.55)
+
+
+def best_search_result_score(queries: Iterable[str], entry: VocabularyEntry) -> float:
+    return max((search_result_score(query, entry) for query in queries if query), default=0.0)
 
 
 def chinese_meaning_text(entry: VocabularyEntry) -> str:
@@ -1175,6 +1769,8 @@ def replace_children(entry: VocabularyEntry, payload: EntryCreate, session: Sess
 
 
 def apply_payload(entry: VocabularyEntry, payload: EntryCreate, session: Session | None = None) -> VocabularyEntry:
+    if session is not None:
+        payload = enrich_verb_forms(payload, session)
     entry.lemma = payload.lemma.strip()
     entry.normalized_lemma = normalize_lemma(payload.lemma)
     entry.language = payload.language
@@ -1193,74 +1789,6 @@ def apply_payload(entry: VocabularyEntry, payload: EntryCreate, session: Session
     entry.searchable_text = build_searchable_text(payload)
     replace_children(entry, payload, session=session)
     return entry
-
-
-def entry_query() -> Select[tuple[VocabularyEntry]]:
-    return (
-        select(VocabularyEntry)
-        .options(
-            selectinload(VocabularyEntry.meanings),
-            selectinload(VocabularyEntry.forms),
-            selectinload(VocabularyEntry.collocations),
-            selectinload(VocabularyEntry.examples),
-            selectinload(VocabularyEntry.tags),
-            selectinload(VocabularyEntry.images),
-        )
-        .order_by(VocabularyEntry.updated_at.desc())
-    )
-
-
-def serialize_entry(entry: VocabularyEntry, session: Session | None = None) -> EntryResponse:
-    frequency_data = None
-    if session is not None:
-        freq = session.scalar(
-            select(WordFrequency).where(WordFrequency.entry_id == entry.id)
-        )
-        if freq:
-            frequency_data = serialize_frequency(freq)
-    return EntryResponse(
-        id=entry.id,
-        lemma=entry.lemma,
-        language=entry.language,
-        part_of_speech=entry.part_of_speech,
-        word_category=entry.word_category,
-        gender=entry.gender,
-        article=entry.article,
-        plural_form=entry.plural_form,
-        cefr_level=entry.cefr_level,
-        pronunciation=entry.pronunciation,
-        source_type=entry.source_type,
-        source_ref=entry.source_ref,
-        notes=entry.notes,
-        extra_data=entry.extra_data or {},
-        raw_payload=entry.raw_payload or {},
-        meanings=[{"language": item.language, "gloss": item.gloss, "detail": item.detail} for item in entry.meanings],
-        forms=[{"label": item.label, "value": item.value, "note": item.note} for item in entry.forms],
-        collocations=[
-            {"phrase": item.phrase, "kind": item.kind, "meaning": item.meaning}
-            for item in entry.collocations
-        ],
-        examples=[
-            {"german_text": item.german_text, "chinese_text": item.chinese_text, "note": item.note}
-            for item in entry.examples
-        ],
-        tags=[{"name": item.name, "tag_type": item.tag_type} for item in entry.tags],
-        images=[
-            {
-                "id": image.id,
-                "url": entry_image_url(image.local_path),
-                "source_url": image.source_url,
-                "page_url": image.page_url,
-                "title": image.title,
-                "license": image.license,
-                "attribution": image.attribution,
-                "provider": image.provider,
-            }
-            for image in entry.images
-        ],
-        frequency=frequency_data,
-    )
-
 
 
 def serialize_irregular_verb(verb: IrregularVerb) -> IrregularVerbResponse:
@@ -1298,9 +1826,42 @@ def html_escape(value: str) -> str:
     )
 
 
-def irregular_verb_anki_back(verb: IrregularVerb) -> str:
+def unique_join(values: Iterable[str]) -> str:
+    seen = set()
+    result = []
+    for value in values:
+        cleaned = value.strip()
+        if cleaned and cleaned not in seen:
+            seen.add(cleaned)
+            result.append(cleaned)
+    return " / ".join(result)
+
+
+def vocabulary_meanings_by_infinitive(session: Session, verbs: list[IrregularVerb]) -> dict[str, str]:
+    normalized_values = sorted({normalize_lemma(verb.infinitive) for verb in verbs})
+    if not normalized_values:
+        return {}
+
+    rows = session.execute(
+        select(VocabularyEntry.normalized_lemma, Meaning.gloss)
+        .join(Meaning, Meaning.entry_id == VocabularyEntry.id)
+        .where(
+            VocabularyEntry.normalized_lemma.in_(normalized_values),
+            VocabularyEntry.part_of_speech == "verb",
+            Meaning.language == "zh",
+        )
+        .order_by(VocabularyEntry.id, Meaning.sort_order)
+    ).all()
+
+    meanings: dict[str, list[str]] = {}
+    for normalized, gloss in rows:
+        meanings.setdefault(normalized, []).append(gloss)
+    return {normalized: unique_join(items) for normalized, items in meanings.items()}
+
+
+def irregular_verb_anki_back(verb: IrregularVerb, meaning: str | None = None) -> str:
     rows = [
-        ("中文", verb.meaning_zh),
+        ("中文", meaning or verb.meaning_zh),
         ("现在时", verb.present),
         ("过去式", verb.preterite),
         ("第二分词", verb.participle_ii),
@@ -1323,7 +1884,11 @@ def irregular_verb_anki_back(verb: IrregularVerb) -> str:
     )
 
 
-def build_irregular_verbs_anki_tsv(verbs: list[IrregularVerb]) -> str:
+def build_irregular_verbs_anki_tsv(
+    verbs: list[IrregularVerb],
+    vocabulary_meanings: dict[str, str] | None = None,
+) -> str:
+    vocabulary_meanings = vocabulary_meanings or {}
     lines = [
         "#separator:tab",
         "#html:true",
@@ -1336,7 +1901,7 @@ def build_irregular_verbs_anki_tsv(verbs: list[IrregularVerb]) -> str:
             "\t".join(
                 [
                     clean_anki_field(verb.infinitive),
-                    irregular_verb_anki_back(verb),
+                    irregular_verb_anki_back(verb, vocabulary_meanings.get(normalize_lemma(verb.infinitive))),
                     "不规则动词 irregular_verbs Deutsch",
                 ]
             )
@@ -1512,12 +2077,24 @@ def ensure_word_frequency_columns() -> None:
         )
 
 
+def ensure_reading_page_columns() -> None:
+    with engine.begin() as connection:
+        columns = {
+            row[1]
+            for row in connection.exec_driver_sql("PRAGMA table_info(reading_pages)").all()
+        }
+        if "notes" not in columns:
+            connection.exec_driver_sql("ALTER TABLE reading_pages ADD COLUMN notes TEXT")
+
+
 @app.on_event("startup")
 def on_startup() -> None:
     Base.metadata.create_all(bind=engine)
     ensure_word_frequency_columns()
+    ensure_reading_page_columns()
     create_search_index()
     with SessionLocal() as session:
+        ensure_reading_books(session)
         if search_index_needs_rebuild(session):
             rebuild_search_index(session)
 
@@ -1556,6 +2133,150 @@ def stats(session: Session = Depends(get_session)):
             for level, count in levels
         ],
     }
+
+
+@app.get("/api/reading/books", response_model=list[ReadingBookResponse])
+def list_reading_books(session: Session = Depends(get_session)):
+    ensure_reading_books(session)
+    books = session.scalars(select(ReadingBook).order_by(ReadingBook.updated_at.desc(), ReadingBook.title)).all()
+    return [serialize_reading_book(book) for book in books]
+
+
+@app.get("/api/reading/books/{book_id}", response_model=ReadingBookResponse)
+def get_reading_book(book_id: int, session: Session = Depends(get_session)):
+    book = session.get(ReadingBook, book_id)
+    if not book:
+        raise HTTPException(status_code=404, detail="书籍不存在")
+    return serialize_reading_book(book)
+
+
+def reading_page_query() -> Select[tuple[ReadingPage]]:
+    return select(ReadingPage).options(selectinload(ReadingPage.messages))
+
+
+@app.get("/api/reading/books/{book_id}/pages/{page_number}", response_model=ReadingPageResponse)
+def get_reading_page(book_id: int, page_number: int, session: Session = Depends(get_session)):
+    page = session.scalars(
+        reading_page_query().where(
+            ReadingPage.book_id == book_id,
+            ReadingPage.page_number == page_number,
+        )
+    ).first()
+    if not page:
+        raise HTTPException(status_code=404, detail="页面不存在")
+    return serialize_reading_page(page)
+
+
+@app.post("/api/reading/pages/{page_id}/prepare", response_model=ReadingPageResponse)
+def prepare_reading_page_api(page_id: int, session: Session = Depends(get_session)):
+    page = session.scalars(reading_page_query().where(ReadingPage.id == page_id)).first()
+    if not page:
+        raise HTTPException(status_code=404, detail="页面不存在")
+    page = prepare_reading_page(session, page)
+    page = session.scalars(reading_page_query().where(ReadingPage.id == page.id)).first()
+    return serialize_reading_page(page)
+
+
+@app.post("/api/reading/pages/{page_id}/deepseek", response_model=ReadingPageResponse)
+def generate_reading_page_analysis(page_id: int, session: Session = Depends(get_session)):
+    page = session.scalars(reading_page_query().where(ReadingPage.id == page_id)).first()
+    if not page:
+        raise HTTPException(status_code=404, detail="页面不存在")
+    if not page.ocr_text or not page.image_path:
+        page = prepare_reading_page(session, page)
+    page = generate_reading_page_deepseek(page)
+    session.add(page)
+    session.commit()
+    page = session.scalars(reading_page_query().where(ReadingPage.id == page.id)).first()
+    return serialize_reading_page(page)
+
+
+@app.patch("/api/reading/pages/{page_id}/notes", response_model=ReadingPageResponse)
+def update_reading_page_notes(page_id: int, payload: ReadingPageNotesUpdate, session: Session = Depends(get_session)):
+    page = session.scalars(reading_page_query().where(ReadingPage.id == page_id)).first()
+    if not page:
+        raise HTTPException(status_code=404, detail="页面不存在")
+    page.notes = payload.notes.strip() if payload.notes and payload.notes.strip() else None
+    session.add(page)
+    session.commit()
+    page = session.scalars(reading_page_query().where(ReadingPage.id == page.id)).first()
+    return serialize_reading_page(page)
+
+
+@app.patch("/api/reading/pages/{page_id}/text", response_model=ReadingPageResponse)
+def update_reading_page_text(page_id: int, payload: ReadingPageTextUpdate, session: Session = Depends(get_session)):
+    page = session.scalars(reading_page_query().where(ReadingPage.id == page_id)).first()
+    if not page:
+        raise HTTPException(status_code=404, detail="页面不存在")
+    if payload.ocr_text is not None:
+        page.ocr_text = payload.ocr_text.strip() or None
+    if payload.translation_zh is not None:
+        page.translation_zh = payload.translation_zh.strip() or None
+    if page.translation_zh or page.grammar_notes or (page.keywords or []):
+        page.status = "deepseek_ready"
+    elif page.ocr_text:
+        page.status = "ocr_ready"
+    elif page.image_path:
+        page.status = "image_ready"
+    else:
+        page.status = "new"
+    session.add(page)
+    session.commit()
+    page = session.scalars(reading_page_query().where(ReadingPage.id == page.id)).first()
+    return serialize_reading_page(page)
+
+
+@app.post("/api/reading/pages/{page_id}/ask", response_model=ReadingPageAskResponse)
+def ask_reading_page(page_id: int, payload: ReadingPageAskRequest, session: Session = Depends(get_session)):
+    question = payload.question.strip()
+    if not question:
+        raise HTTPException(status_code=400, detail="问题不能为空")
+    page = session.scalars(reading_page_query().where(ReadingPage.id == page_id)).first()
+    if not page:
+        raise HTTPException(status_code=404, detail="页面不存在")
+    if not page.ocr_text:
+        page = prepare_reading_page(session, page)
+
+    user_message = ReadingPageMessage(page_id=page.id, role="user", content=question)
+    session.add(user_message)
+    session.commit()
+
+    keywords_text = "\n".join(
+        f"- {item.get('term')}: {item.get('meaning_zh')} ({item.get('note')})"
+        for item in (page.keywords or [])
+        if isinstance(item, dict)
+    )
+    system_prompt = "你是德语精读问答助手。只根据当前页内容回答。返回 JSON：{\"answer\":\"...\"}。"
+    user_prompt = f"""
+当前页页码: {page.page_number}
+
+德语原文/OCR:
+{page.ocr_text or ""}
+
+中文翻译:
+{page.translation_zh or ""}
+
+关键词:
+{keywords_text}
+
+语法讲解:
+{page.grammar_notes or ""}
+
+用户问题:
+{question}
+
+请用中文回答，必要时引用德语原文中的词或短语。
+"""
+    try:
+        data = call_deepseek_json(system_prompt, user_prompt, max_tokens=1600, timeout=90)
+    except RuntimeError as exc:
+        raise HTTPException(status_code=503, detail=str(exc)) from exc
+    answer = optional_text(data.get("answer")) or "这页内容里暂时找不到足够依据回答。"
+    assistant_message = ReadingPageMessage(page_id=page.id, role="assistant", content=answer)
+    session.add(assistant_message)
+    session.commit()
+    session.refresh(assistant_message)
+    return ReadingPageAskResponse(message=serialize_reading_message(assistant_message))
 
 
 @app.get("/api/tags")
@@ -1927,10 +2648,15 @@ def list_entries(
                 offset=offset,
             )
 
+        query_candidates = unique_values([cleaned_query, *german_surface_candidates(cleaned_query)])
         folded_query = fold_german_umlauts(cleaned_query)
-        fts_query = escape_fts_query(cleaned_query)
-        if folded_query and folded_query != normalize_similarity_text(cleaned_query):
-            fts_query = f"{fts_query} OR {escape_fts_query(folded_query)}"
+        fts_terms = unique_values(
+            [
+                *query_candidates,
+                *(fold_german_umlauts(candidate) for candidate in query_candidates),
+            ]
+        )
+        fts_query = " OR ".join(escape_fts_query(term) for term in fts_terms if term)
         params: dict[str, object] = {"query": fts_query}
         filters = []
         if part_of_speech:
@@ -2014,7 +2740,7 @@ def list_entries(
             filtered_ids = [
                 entry_id
                 for entry_id in ids
-                if entry_id in by_id and search_result_score(cleaned_query, by_id[entry_id]) >= 0.18
+                if entry_id in by_id and best_search_result_score(query_candidates, by_id[entry_id]) >= 0.18
             ]
             if sort == "frequency_desc":
                 frequency_rows = session.execute(
@@ -2042,12 +2768,18 @@ def list_entries(
                 offset=offset,
             )
 
-
-        pattern = f"%{cleaned_query}%"
+        fallback_patterns = [f"%{candidate}%" for candidate in query_candidates]
+        pattern = fallback_patterns[0]
         stmt = entry_query().where(
             or_(
-                VocabularyEntry.lemma.ilike(pattern),
-                VocabularyEntry.searchable_text.ilike(pattern),
+                *[
+                    condition
+                    for candidate_pattern in fallback_patterns
+                    for condition in (
+                        VocabularyEntry.lemma.ilike(candidate_pattern),
+                        VocabularyEntry.searchable_text.ilike(candidate_pattern),
+                    )
+                ]
             )
         )
     else:
@@ -2079,8 +2811,14 @@ def list_entries(
     if q:
         count_stmt = count_stmt.where(
             or_(
-                VocabularyEntry.lemma.ilike(pattern),
-                VocabularyEntry.searchable_text.ilike(pattern),
+                *[
+                    condition
+                    for candidate_pattern in fallback_patterns
+                    for condition in (
+                        VocabularyEntry.lemma.ilike(candidate_pattern),
+                        VocabularyEntry.searchable_text.ilike(candidate_pattern),
+                    )
+                ]
             )
         )
     if part_of_speech:
@@ -2097,6 +2835,74 @@ def list_entries(
     total = session.scalar(count_stmt) or 0
     stmt = stmt.offset(offset).limit(limit)
     entries = session.scalars(stmt).unique().all()
+    return EntryListResponse(
+        items=[serialize_entry(entry, session=session) for entry in entries],
+        total=total,
+        limit=limit,
+        offset=offset,
+    )
+
+
+@app.get("/api/entries/browse", response_model=EntryListResponse)
+def browse_entries(
+    part_of_speech: str = Query(default="noun"),
+    noun_gender: str = Query(default="all", pattern="^(all|masculine|feminine|neuter)$"),
+    sort: str = Query(default="alphabet_asc", pattern="^(alphabet_asc|alphabet_desc|frequency_desc|frequency_asc)$"),
+    limit: int = Query(default=100, ge=1, le=300),
+    offset: int = Query(default=0, ge=0),
+    session: Session = Depends(get_session),
+):
+    stmt = entry_query()
+    count_stmt = select(func.count(func.distinct(VocabularyEntry.id))).select_from(VocabularyEntry)
+
+    if part_of_speech and part_of_speech != "all":
+        if part_of_speech == "noun":
+            pos_filter = or_(
+                VocabularyEntry.part_of_speech == "noun",
+                VocabularyEntry.article.in_(["der", "die", "das"]),
+                VocabularyEntry.gender.in_(["masculine", "feminine", "neuter", "der", "die", "das"]),
+            )
+        else:
+            pos_filter = VocabularyEntry.part_of_speech == part_of_speech
+        stmt = stmt.where(pos_filter)
+        count_stmt = count_stmt.where(pos_filter)
+
+    if noun_gender != "all":
+        article_by_gender = {
+            "masculine": "der",
+            "feminine": "die",
+            "neuter": "das",
+        }
+        gender_filter = or_(
+            VocabularyEntry.gender == noun_gender,
+            VocabularyEntry.gender == article_by_gender[noun_gender],
+            VocabularyEntry.article == article_by_gender[noun_gender],
+        )
+        stmt = stmt.where(gender_filter)
+        count_stmt = count_stmt.where(gender_filter)
+
+    if sort.startswith("frequency"):
+        stmt = stmt.order_by(None).outerjoin(WordFrequency, WordFrequency.entry_id == VocabularyEntry.id)
+        if sort == "frequency_desc":
+            stmt = stmt.order_by(
+                WordFrequency.hits.is_(None),
+                WordFrequency.hits.desc(),
+                WordFrequency.frequency.desc(),
+                func.lower(VocabularyEntry.lemma),
+            )
+        else:
+            stmt = stmt.order_by(
+                WordFrequency.hits.is_(None),
+                WordFrequency.hits.asc(),
+                WordFrequency.frequency.asc(),
+                func.lower(VocabularyEntry.lemma),
+            )
+    else:
+        lemma_order = func.lower(VocabularyEntry.lemma).desc() if sort == "alphabet_desc" else func.lower(VocabularyEntry.lemma).asc()
+        stmt = stmt.order_by(None).order_by(lemma_order, VocabularyEntry.updated_at.desc())
+
+    total = session.scalar(count_stmt) or 0
+    entries = session.scalars(stmt.offset(offset).limit(limit)).unique().all()
     return EntryListResponse(
         items=[serialize_entry(entry, session=session) for entry in entries],
         total=total,
@@ -2648,7 +3454,7 @@ def list_irregular_verbs(
 @app.get("/api/export/anki/irregular-verbs")
 def export_irregular_verbs_anki(session: Session = Depends(get_session)):
     verbs = session.scalars(select(IrregularVerb).order_by(IrregularVerb.infinitive)).all()
-    content = build_irregular_verbs_anki_tsv(verbs)
+    content = build_irregular_verbs_anki_tsv(verbs, vocabulary_meanings_by_infinitive(session, verbs))
     return Response(
         content=content,
         media_type="text/tab-separated-values; charset=utf-8",
@@ -2726,31 +3532,7 @@ def get_similar_entries(
     entry = session.get(VocabularyEntry, entry_id)
     if not entry:
         raise HTTPException(status_code=404, detail="Entry not found")
-    rows = session.scalars(
-        select(EntrySimilarity)
-        .where(EntrySimilarity.source_entry_id == entry_id)
-        .order_by(EntrySimilarity.score.desc())
-        .limit(limit)
-    ).all()
-    if not rows:
-        return calculate_similar_entries(session, entry_id, limit)
-    target_ids = [row.target_entry_id for row in rows]
-    if not target_ids:
-        return []
-    entries = session.scalars(entry_query().where(VocabularyEntry.id.in_(target_ids))).unique().all()
-    by_id = {item.id: item for item in entries}
-    results = []
-    for row in rows:
-        target = by_id.get(row.target_entry_id)
-        if target:
-            results.append(
-                SimilarEntryResponse(
-                    entry=serialize_entry(target),
-                    score=row.score / 1000,
-                    reasons=(row.reasons or {}).get("items", []),
-                )
-            )
-    return results
+    return calculate_similar_entries(session, entry_id, limit)
 
 
 @app.get("/api/entries/{entry_id}/images/candidates", response_model=list[EntryImageCandidate])
@@ -2872,10 +3654,25 @@ def create_deepseek_entry_draft(payload: EntryDraftRequest, session: Session = D
     lemma = payload.lemma.strip()
     if not lemma:
         raise HTTPException(status_code=400, detail="lemma 不能为空")
-    existing = session.scalars(entry_query().where(VocabularyEntry.normalized_lemma == normalize_lemma(lemma))).first()
+    existing, resolved_lemma, _reason = resolve_existing_entry_from_surface(session, lemma)
     if existing:
         return serialize_entry(existing)
-    return generate_entry_draft_with_deepseek(lemma)
+    draft = generate_entry_draft_with_deepseek(resolved_lemma or lemma)
+    return enrich_verb_forms(draft, session)
+
+
+@app.post("/api/entries/resolve", response_model=EntryResolveResponse)
+def resolve_entry_surface(payload: EntryResolveRequest, session: Session = Depends(get_session)):
+    lemma = payload.lemma.strip()
+    if not lemma:
+        raise HTTPException(status_code=400, detail="lemma 不能为空")
+    entry, resolved_lemma, reason = resolve_existing_entry_from_surface(session, lemma)
+    return EntryResolveResponse(
+        lemma=lemma,
+        resolved_lemma=resolved_lemma,
+        reason=reason,
+        entry=serialize_entry(entry, session) if entry else None,
+    )
 
 
 @app.post("/api/entries", response_model=EntryResponse)
@@ -2904,6 +3701,68 @@ def update_entry(entry_id: int, payload: EntryUpdate, session: Session = Depends
         session.commit()
     entry = session.scalars(entry_query().where(VocabularyEntry.id == entry.id)).first()
     return serialize_entry(entry)
+
+
+@app.patch("/api/entries/{entry_id}/notes", response_model=EntryResponse)
+def update_entry_notes(entry_id: int, payload: EntryNotesUpdate, session: Session = Depends(get_session)):
+    with WRITE_LOCK:
+        entry = session.get(VocabularyEntry, entry_id)
+        if not entry:
+            raise HTTPException(status_code=404, detail="Entry not found")
+        entry.notes = payload.notes.strip() if payload.notes and payload.notes.strip() else None
+        session.add(entry)
+        session.flush()
+        sync_entry_search(session, entry)
+        session.commit()
+    entry = session.scalars(entry_query().where(VocabularyEntry.id == entry.id)).first()
+    return serialize_entry(entry)
+
+
+@app.post("/api/entries/{entry_id}/mastery/review", response_model=WordMasteryReviewResponse)
+def review_entry_mastery(
+    entry_id: int,
+    payload: WordMasteryReviewRequest,
+    session: Session = Depends(get_session),
+):
+    rating = payload.rating.strip()
+    if rating not in MASTERY_RATING_DELTAS:
+        raise HTTPException(status_code=422, detail="rating 必须是 again / hard / easy / simple")
+    score_delta = MASTERY_RATING_DELTAS[rating]
+    source = payload.source.strip() or "detail_self_review"
+    now = datetime.utcnow()
+
+    with WRITE_LOCK:
+        entry = session.get(VocabularyEntry, entry_id)
+        if not entry:
+            raise HTTPException(status_code=404, detail="Entry not found")
+        event = WordMasteryEvent(
+            word_id=entry_id,
+            rating=rating,
+            score_delta=score_delta,
+            source=source,
+            created_at=now,
+        )
+        session.add(event)
+
+        mastery = session.get(WordMastery, entry_id)
+        if not mastery:
+            mastery = WordMastery(word_id=entry_id, current_score=0, current_level="new / weak")
+            session.add(mastery)
+        mastery.current_score = (mastery.current_score or 0) + score_delta
+        mastery.current_level = mastery_level_for_score(mastery.current_score)
+        mastery.last_rating = rating
+        mastery.last_reviewed_at = now
+        mastery.review_count = (mastery.review_count or 0) + 1
+        mastery.updated_at = now
+        session.flush()
+        session.refresh(event)
+        session.refresh(mastery)
+        session.commit()
+
+    return WordMasteryReviewResponse(
+        event=serialize_mastery_event(event),
+        mastery=serialize_mastery(mastery),
+    )
 
 
 @app.delete("/api/entries/{entry_id}")

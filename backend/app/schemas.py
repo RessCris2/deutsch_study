@@ -89,6 +89,139 @@ class EntryUpdate(EntryBase):
     pass
 
 
+class EntryNotesUpdate(BaseModel):
+    notes: str | None = None
+
+
+class WordMasteryResponse(BaseModel):
+    word_id: int
+    current_score: int = 0
+    current_level: str = "new / weak"
+    last_rating: str | None = None
+    last_reviewed_at: str | None = None
+    review_count: int = 0
+
+
+class WordMasteryEventResponse(BaseModel):
+    id: int
+    word_id: int
+    rating: str
+    score_delta: int
+    source: str
+    created_at: str
+
+
+class WordMasteryReviewRequest(BaseModel):
+    rating: str
+    source: str = "detail_self_review"
+
+
+class WordMasteryReviewResponse(BaseModel):
+    event: WordMasteryEventResponse
+    mastery: WordMasteryResponse
+
+
+class NounGenderStatResponse(BaseModel):
+    entry_id: int
+    seen_count: int = 0
+    correct_count: int = 0
+    wrong_count: int = 0
+    current_streak: int = 0
+    wrong_streak: int = 0
+    error_rate: float = 0.0
+    last_answered_at: str | None = None
+    last_wrong_at: str | None = None
+    next_due_at: str | None = None
+
+
+class NounGenderQuizItemResponse(BaseModel):
+    entry: "EntryResponse"
+    correct_article: str
+    choices: list[str] = Field(default_factory=lambda: ["der", "die", "das"])
+    zh_meaning: str | None = None
+    en_meaning: str | None = None
+    plural_form: str | None = None
+    frequency_hits: int | None = None
+    frequency_level: int | None = None
+    stat: NounGenderStatResponse | None = None
+    reason: str | None = None
+
+
+class NounGenderQuizAnswerRequest(BaseModel):
+    entry_id: int
+    chosen_article: str
+    response_ms: int | None = None
+
+
+class NounGenderQuizAnswerResponse(BaseModel):
+    entry: "EntryResponse"
+    chosen_article: str
+    correct_article: str
+    is_correct: bool
+    stat: NounGenderStatResponse
+    next_item: NounGenderQuizItemResponse | None = None
+
+
+class NounGenderQuizSummaryResponse(BaseModel):
+    total_nouns: int
+    practiced_count: int
+    unpracticed_count: int
+    total_answers: int
+    correct_answers: int
+    wrong_answers: int
+    accuracy: float
+    due_count: int
+
+
+class ReadingBookResponse(BaseModel):
+    id: int
+    title: str
+    file_path: str
+    page_count: int
+    status: str
+    created_at: str | None = None
+    updated_at: str | None = None
+
+
+class ReadingMessageResponse(BaseModel):
+    id: int
+    page_id: int
+    role: str
+    content: str
+    created_at: str
+
+
+class ReadingPageResponse(BaseModel):
+    id: int
+    book_id: int
+    page_number: int
+    image_url: str | None = None
+    ocr_text: str | None = None
+    translation_zh: str | None = None
+    keywords: list[dict[str, Any]] = Field(default_factory=list)
+    grammar_notes: str | None = None
+    notes: str | None = None
+    status: str
+    messages: list[ReadingMessageResponse] = Field(default_factory=list)
+
+
+class ReadingPageNotesUpdate(BaseModel):
+    notes: str | None = None
+
+
+class ReadingPageTextUpdate(BaseModel):
+    ocr_text: str | None = None
+    translation_zh: str | None = None
+
+
+class ReadingPageAskRequest(BaseModel):
+    question: str
+
+
+class ReadingPageAskResponse(BaseModel):
+    message: ReadingMessageResponse
+
+
 class WordFrequencyResponse(BaseModel):
     q: str
     lemma: str
@@ -104,6 +237,7 @@ class EntryResponse(EntryBase):
     id: int
     images: list[EntryImageResponse] = Field(default_factory=list)
     frequency: WordFrequencyResponse | None = None
+    mastery: WordMasteryResponse | None = None
 
     class Config:
         from_attributes = True
@@ -125,6 +259,17 @@ class SimilarEntryResponse(BaseModel):
 
 class EntryDraftRequest(BaseModel):
     lemma: str
+
+
+class EntryResolveRequest(BaseModel):
+    lemma: str
+
+
+class EntryResolveResponse(BaseModel):
+    lemma: str
+    resolved_lemma: str | None = None
+    reason: str | None = None
+    entry: EntryResponse | None = None
 
 
 class ImportResult(BaseModel):

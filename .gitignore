@@ -17,3 +17,6 @@ data/pics/
 data/ocr_output/
 public/media/
 deutsche_study.egg-info/
+
+data/anki/
+data/exports/
